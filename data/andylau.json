@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "name": "刘德华（公开信息）"
+ },
+ "people": [
+  {
+   "id": "andylau",
+   "name": "刘德华",
+   "alias": [
+    "Andy Lau",
+    "刘福荣",
+    "Lau Fook-wing",
+    "华仔"
+   ],
+   "note": "香港演员、歌手，1961年9月27日生于香港大埔"
+  },
+  {
+   "id": "liuli",
+   "name": "刘礼",
+   "alias": [
+    "Lau Lai"
+   ],
+   "note": "刘德华之父，曾任消防员（1934—2023）"
+  },
+  {
+   "id": "liudecheng",
+   "name": "刘德成",
+   "alias": [
+    "Lau Tak-sing"
+   ],
+   "note": "刘德华之弟"
+  },
+  {
+   "id": "carolchu",
+   "name": "朱丽倩",
+   "alias": [
+    "朱丽蒨",
+    "Carol Chu"
+   ],
+   "note": "刘德华之妻，生于马来西亚槟城"
+  },
+  {
+   "id": "hanna",
+   "name": "刘向蕙",
+   "alias": [
+    "Hanna Lau"
+   ],
+   "note": "刘德华与朱丽倩之女（未成年人，仅收录姓名与关系）"
+  },
+  {
+   "id": "yukexin",
+   "name": "喻可欣",
+   "alias": [
+    "Yu Ke-Hsin",
+    "Eugenia Yu",
+    "于可馨"
+   ],
+   "note": "曾与刘德华交往，著有回忆录《情海星空—我与刘德华》"
+  },
+  {
+   "id": "teddy",
+   "name": "泰迪罗宾",
+   "alias": [
+    "Teddy Robin"
+   ],
+   "note": "香港艺人，给予刘德华首个电影角色"
+  },
+  {
+   "id": "tonyleung",
+   "name": "梁朝伟",
+   "alias": [
+    "Tony Leung"
+   ],
+   "note": "香港演员，与刘德华合演《无间道》系列"
+  }
+ ],
+ "relations": [
+  {
+   "a": "liuli",
+   "b": "andylau",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "维基百科：Andy Lau",
+     "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+    },
+    {
+     "title": "星岛：刘德华父亲离世",
+     "url": "https://www.stheadline.com/zh-hans/realtime-entertainment/3293725/刘德华父亲离世丨刘父与妻育有六子女曾任消防员开士多养家-20年前罹癌手术后康复"
+    }
+   ],
+   "events": [
+    {
+     "label": "刘礼去世",
+     "date": "2023-11",
+     "note": "据报道于当月20日在家人陪伴下离世",
+     "src": {
+      "title": "星岛：刘德华父亲离世",
+      "url": "https://www.stheadline.com/zh-hans/realtime-entertainment/3293725/刘德华父亲离世丨刘父与妻育有六子女曾任消防员开士多养家-20年前罹癌手术后康复"
+     }
+    }
+   ]
+  },
+  {
+   "a": "andylau",
+   "b": "liudecheng",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "弟弟",
+   "src": {
+    "title": "维基百科：Andy Lau",
+    "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+   }
+  },
+  {
+   "a": "liuli",
+   "b": "liudecheng",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": {
+    "title": "维基百科：Andy Lau",
+    "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+   }
+  },
+  {
+   "a": "andylau",
+   "b": "carolchu",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "events": [
+    {
+     "label": "结婚（在拉斯维加斯秘密登记）",
+     "date": "2008-06",
+     "place": "美国拉斯维加斯",
+     "note": "当时未公开，具体日期来源未载",
+     "src": [
+      {
+       "title": "维基百科：Carol Chu",
+       "url": "https://en.wikipedia.org/wiki/Carol_Chu"
+      },
+      {
+       "title": "维基百科：Andy Lau",
+       "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+      }
+     ]
+    },
+    {
+     "label": "公开承认婚姻",
+     "date": "2009",
+     "src": {
+      "title": "维基百科：Andy Lau",
+      "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+     }
+    }
+   ]
+  },
+  {
+   "a": "andylau",
+   "b": "hanna",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "维基百科：Andy Lau",
+     "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+    },
+    {
+     "title": "星岛：刘德华与女儿刘向蕙同行报道",
+     "url": "https://www.stheadline.com/zh-hans/realtime-entertainment/3376368/刘德华被爆与12岁女儿刘向蕙温馨互动-现身茶餐厅守厕所-一句证是廿四孝老窦"
+    }
+   ]
+  },
+  {
+   "a": "carolchu",
+   "b": "hanna",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": {
+    "title": "维基百科：Carol Chu",
+    "url": "https://en.wikipedia.org/wiki/Carol_Chu"
+   }
+  },
+  {
+   "a": "andylau",
+   "b": "yukexin",
+   "type": "love",
+   "status": "past",
+   "aIs": "前男友",
+   "bIs": "前女友",
+   "events": [
+    {
+     "label": "相识",
+     "date": "1983",
+     "note": "据维基百科：当年秋天，刘德华赴台湾拍摄 Shanghai 13 期间",
+     "src": {
+      "title": "维基百科：Andy Lau",
+      "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+     }
+    },
+    {
+     "label": "签署\"结婚证书\"（婚书）",
+     "date": "1985",
+     "note": "据喻可欣母亲说法为1985年除夕前后；该文书没有法律效力",
+     "src": [
+      {
+       "title": "Taipei Times 报道（2009年9月）",
+       "url": "https://www.taipeitimes.com/News/feat/archives/2009/09/04/2003452772"
+      },
+      {
+       "title": "中新网：刘德华认与喻可欣婚书（2009-09-02，转述《联合报》）",
+       "url": "https://www.chinanews.com.cn/yl/news/2009/09-02/1846033.shtml"
+      }
+     ]
+    },
+    {
+     "label": "喻可欣出版回忆录《情海星空—我与刘德华》",
+     "date": "2005",
+     "src": [
+      {
+       "title": "维基百科：Andy Lau",
+       "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+      },
+      {
+       "title": "中新网：刘德华认与喻可欣婚书（2009-09-02，转述《联合报》）",
+       "url": "https://www.chinanews.com.cn/yl/news/2009/09-02/1846033.shtml"
+      }
+     ]
+    },
+    {
+     "label": "刘德华承认曾签婚书",
+     "date": "2009-09",
+     "note": "据《联合报》转述，报道未引述刘德华原话。喻可欣通过母亲表示\"没有意见，不想回应\"，母亲称不会要求赡养费、也不会提告重婚",
+     "src": {
+      "title": "中新网：刘德华认与喻可欣婚书（2009-09-02，转述《联合报》）",
+      "url": "https://www.chinanews.com.cn/yl/news/2009/09-02/1846033.shtml"
+     }
+    }
+   ]
+  },
+  {
+   "a": "teddy",
+   "b": "andylau",
+   "type": "other",
+   "aIs": "提携者",
+   "bIs": "后辈",
+   "events": [
+    {
+     "label": "发现刘德华，并给予其首个电影角色（Once Upon a Rainbow）",
+     "src": {
+      "title": "维基百科：Andy Lau",
+      "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+     }
+    }
+   ]
+  },
+  {
+   "a": "tonyleung",
+   "b": "andylau",
+   "type": "other",
+   "aIs": "合作演员",
+   "bIs": "合作演员",
+   "events": [
+    {
+     "label": "合演《无间道》系列",
+     "src": {
+      "title": "维基百科：Andy Lau",
+      "url": "https://en.wikipedia.org/wiki/Andy_Lau"
+     }
+    }
+   ]
+  }
+ ]
+}
