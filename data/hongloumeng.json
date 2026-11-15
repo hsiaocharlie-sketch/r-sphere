@@ -1,0 +1,1422 @@
+{
+ "meta": {
+  "name": "红楼梦（虚构人物）及作者",
+  "src": {
+   "title": "《红楼梦》原著"
+  }
+ },
+ "people": [
+  {
+   "id": "jiamu",
+   "name": "贾母",
+   "alias": [
+    "史太君",
+    "老祖宗",
+    "贾太君"
+   ],
+   "note": "荣国府老太君，贾代善之妻，贾府最高长辈",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiadaishan",
+   "name": "贾代善",
+   "note": "荣国公贾源之孙，贾母之夫（早已去世）",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiashe",
+   "name": "贾赦",
+   "note": "贾母长子，袭一等将军，居荣国府东院",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xingfuren",
+   "name": "邢夫人",
+   "note": "贾赦继室",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jialian",
+   "name": "贾琏",
+   "alias": [
+    "琏二爷"
+   ],
+   "note": "贾赦之子，王熙凤之夫",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "fengjie",
+   "name": "王熙凤",
+   "alias": [
+    "凤姐",
+    "琏二奶奶",
+    "凤辣子"
+   ],
+   "note": "贾琏之妻，王夫人内侄女，荣国府实际管家",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "qiaojie",
+   "name": "巧姐",
+   "note": "贾琏与王熙凤之女",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "pinger",
+   "name": "平儿",
+   "note": "王熙凤陪嫁丫鬟，后为贾琏之妾",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "yingchun",
+   "name": "贾迎春",
+   "alias": [
+    "二姐姐",
+    "二木头"
+   ],
+   "note": "贾赦之女，嫁孙绍祖",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiazheng",
+   "name": "贾政",
+   "alias": [
+    "政老爷"
+   ],
+   "note": "贾母次子，工部员外郎",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "wangfuren",
+   "name": "王夫人",
+   "note": "贾政正妻，宝玉之母",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "zhaoyiniang",
+   "name": "赵姨娘",
+   "note": "贾政之妾，探春、贾环之母",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiazhu",
+   "name": "贾珠",
+   "note": "贾政长子，早逝",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "liwan",
+   "name": "李纨",
+   "alias": [
+    "稻香老农",
+    "大奶奶"
+   ],
+   "note": "贾珠之妻，贾兰之母，青年守寡",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jialan",
+   "name": "贾兰",
+   "note": "贾珠与李纨之子",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "yuanchun",
+   "name": "贾元春",
+   "alias": [
+    "贤德妃"
+   ],
+   "note": "贾政之女，入宫封贤德妃",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "tanchun",
+   "name": "贾探春",
+   "alias": [
+    "三姑娘",
+    "蕉下客"
+   ],
+   "note": "贾政与赵姨娘之女",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiahuan",
+   "name": "贾环",
+   "alias": [
+    "环三爷"
+   ],
+   "note": "贾政与赵姨娘之子",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "baoyu",
+   "name": "贾宝玉",
+   "alias": [
+    "宝二爷",
+    "怡红公子",
+    "绛洞花王"
+   ],
+   "note": "贾政与王夫人之子，衔玉而生，全书主角",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "baochai",
+   "name": "薛宝钗",
+   "alias": [
+    "宝姐姐",
+    "蘅芜君"
+   ],
+   "note": "薛姨妈之女，金陵十二钗之一，后嫁宝玉",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiamin",
+   "name": "贾敏",
+   "note": "贾母之女，林如海之妻，早逝",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "linruhai",
+   "name": "林如海",
+   "note": "黛玉之父，巡盐御史",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "daiyu",
+   "name": "林黛玉",
+   "alias": [
+    "潇湘妃子",
+    "颦儿",
+    "林妹妹"
+   ],
+   "note": "林如海与贾敏之女，寄居荣国府",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xueyima",
+   "name": "薛姨妈",
+   "note": "王夫人之妹，薛蟠、宝钗之母",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xuepan",
+   "name": "薛蟠",
+   "alias": [
+    "呆霸王"
+   ],
+   "note": "薛姨妈之子，宝钗之兄",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xiangling",
+   "name": "香菱",
+   "alias": [
+    "甄英莲"
+   ],
+   "note": "原名甄英莲，幼年被拐，后为薛蟠之妾",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xiayinjin",
+   "name": "夏金桂",
+   "note": "薛蟠之妻",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "wangziteng",
+   "name": "王子腾",
+   "note": "王夫人之兄，官至九省统制",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xiangyun",
+   "name": "史湘云",
+   "alias": [
+    "云妹妹",
+    "枕霞旧友"
+   ],
+   "note": "贾母内侄孙女，史侯家之后",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiazhen",
+   "name": "贾珍",
+   "note": "宁国府族长，贾敬之子",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "youshi",
+   "name": "尤氏",
+   "note": "贾珍继室",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiarong",
+   "name": "贾蓉",
+   "note": "贾珍之子，秦可卿之夫",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "keqing",
+   "name": "秦可卿",
+   "alias": [
+    "秦氏",
+    "可儿"
+   ],
+   "note": "贾蓉之妻，营缮郎秦业养女",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xichun",
+   "name": "贾惜春",
+   "alias": [
+    "四姑娘"
+   ],
+   "note": "贾敬之女，贾珍之妹",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "jiajing",
+   "name": "贾敬",
+   "note": "宁国府前任族长，一心修道",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "youer",
+   "name": "尤二姐",
+   "note": "尤氏之妹，后为贾琏二房",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "yousan",
+   "name": "尤三姐",
+   "note": "尤二姐之妹，性烈",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "xiren",
+   "name": "袭人",
+   "alias": [
+    "花袭人",
+    "珍珠"
+   ],
+   "note": "宝玉大丫鬟，原名珍珠",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "qingwen",
+   "name": "晴雯",
+   "note": "宝玉房中丫鬟，心高气傲",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "zijuan",
+   "name": "紫鹃",
+   "note": "黛玉贴身丫鬟，原为贾母之婢",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "yuanyang",
+   "name": "鸳鸯",
+   "note": "贾母贴身大丫鬟",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "miaoyu",
+   "name": "妙玉",
+   "note": "栊翠庵带发修行的尼姑",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "liulaolao",
+   "name": "刘姥姥",
+   "note": "乡下老妇，三进荣国府",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "qinzhong",
+   "name": "秦钟",
+   "alias": [
+    "秦鲸卿"
+   ],
+   "note": "秦可卿之弟，宝玉同窗",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "yucun",
+   "name": "贾雨村",
+   "alias": [
+    "贾化"
+   ],
+   "note": "黛玉塾师，后为官，攀附贾府",
+   "fictional": true,
+   "work": "《红楼梦》",
+   "author": "caoxueqin"
+  },
+  {
+   "id": "caoxueqin",
+   "name": "曹雪芹",
+   "alias": [
+    "曹霑",
+    "梦阮",
+    "Cao Xueqin",
+    "Cao Zhan"
+   ],
+   "note": "清代小说家，《红楼梦》作者。生年约在1715—1724年间，卒于1763或1764年（说法不一）"
+  },
+  {
+   "id": "gaoe",
+   "name": "高鹗",
+   "alias": [
+    "Gao E"
+   ],
+   "note": "清代文人，约1738—约1815；1791年与程伟元整理刊印一百二十回本《红楼梦》"
+  },
+  {
+   "id": "caoyin",
+   "name": "曹寅",
+   "alias": [
+    "Cao Yin"
+   ],
+   "note": "曹雪芹之祖父，江宁织造，康熙帝的儿时伴读，奉旨编《全唐诗》"
+  }
+ ],
+ "relations": [
+  {
+   "a": "jiadaishan",
+   "b": "jiamu",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "jiadaishan",
+   "b": "jiashe",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiadaishan",
+   "b": "jiazheng",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiadaishan",
+   "b": "jiamin",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "jiamu",
+   "b": "jiashe",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiamu",
+   "b": "jiazheng",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiamu",
+   "b": "jiamin",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": "《红楼梦》第二回"
+  },
+  {
+   "a": "jiamu",
+   "b": "baoyu",
+   "type": "kin",
+   "aIs": "祖母",
+   "bIs": "孙子"
+  },
+  {
+   "a": "jiamu",
+   "b": "yuanchun",
+   "type": "kin",
+   "aIs": "祖母",
+   "bIs": "孙女"
+  },
+  {
+   "a": "jiamu",
+   "b": "tanchun",
+   "type": "kin",
+   "aIs": "祖母",
+   "bIs": "孙女"
+  },
+  {
+   "a": "jiamu",
+   "b": "yingchun",
+   "type": "kin",
+   "aIs": "祖母",
+   "bIs": "孙女"
+  },
+  {
+   "a": "jiamu",
+   "b": "daiyu",
+   "type": "kin",
+   "aIs": "外祖母",
+   "bIs": "外孙女",
+   "events": [
+    {
+     "label": "黛玉入荣国府，由外祖母接养",
+     "place": "荣国府",
+     "src": {
+      "title": "《红楼梦》第三回"
+     }
+    }
+   ]
+  },
+  {
+   "a": "jiamu",
+   "b": "xiangyun",
+   "type": "kin",
+   "aIs": "姑祖母",
+   "bIs": "侄孙女"
+  },
+  {
+   "a": "jiamu",
+   "b": "yuanyang",
+   "type": "servant",
+   "aIs": "主人",
+   "bIs": "贴身丫鬟"
+  },
+  {
+   "a": "jiamu",
+   "b": "liulaolao",
+   "type": "other",
+   "aIs": "主人",
+   "bIs": "客人"
+  },
+  {
+   "a": "jiamu",
+   "b": "linruhai",
+   "type": "inlaw",
+   "aIs": "岳母",
+   "bIs": "女婿"
+  },
+  {
+   "a": "jiamu",
+   "b": "fengjie",
+   "type": "inlaw",
+   "aIs": "祖婆婆",
+   "bIs": "孙媳"
+  },
+  {
+   "a": "jiashe",
+   "b": "xingfuren",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "jiashe",
+   "b": "jialian",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiashe",
+   "b": "yingchun",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "jiashe",
+   "b": "fengjie",
+   "type": "inlaw",
+   "aIs": "公公",
+   "bIs": "儿媳"
+  },
+  {
+   "a": "xingfuren",
+   "b": "fengjie",
+   "type": "inlaw",
+   "aIs": "婆婆",
+   "bIs": "儿媳"
+  },
+  {
+   "a": "jialian",
+   "b": "fengjie",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "jialian",
+   "b": "pinger",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妾"
+  },
+  {
+   "a": "jialian",
+   "b": "youer",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "二房",
+   "events": [
+    {
+     "label": "私下娶为二房",
+     "place": "花枝巷",
+     "src": {
+      "title": "《红楼梦》第六十五回"
+     }
+    }
+   ]
+  },
+  {
+   "a": "jialian",
+   "b": "qiaojie",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "fengjie",
+   "b": "qiaojie",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "fengjie",
+   "b": "pinger",
+   "type": "servant",
+   "aIs": "主人",
+   "bIs": "陪嫁丫鬟"
+  },
+  {
+   "a": "fengjie",
+   "b": "wangfuren",
+   "type": "kin",
+   "aIs": "侄女",
+   "bIs": "姑母"
+  },
+  {
+   "a": "fengjie",
+   "b": "wangziteng",
+   "type": "kin",
+   "aIs": "侄女",
+   "bIs": "叔父"
+  },
+  {
+   "a": "jiazheng",
+   "b": "wangfuren",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "jiazheng",
+   "b": "zhaoyiniang",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妾"
+  },
+  {
+   "a": "jiazheng",
+   "b": "jiazhu",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiazheng",
+   "b": "yuanchun",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "jiazheng",
+   "b": "tanchun",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "jiazheng",
+   "b": "jiahuan",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiazheng",
+   "b": "baoyu",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiazheng",
+   "b": "liwan",
+   "type": "inlaw",
+   "aIs": "公公",
+   "bIs": "儿媳"
+  },
+  {
+   "a": "yucun",
+   "b": "jiazheng",
+   "type": "other",
+   "aIs": "受荐人",
+   "bIs": "荐举人"
+  },
+  {
+   "a": "wangfuren",
+   "b": "jiazhu",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "wangfuren",
+   "b": "yuanchun",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "wangfuren",
+   "b": "baoyu",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "wangfuren",
+   "b": "liwan",
+   "type": "inlaw",
+   "aIs": "婆婆",
+   "bIs": "儿媳"
+  },
+  {
+   "a": "wangfuren",
+   "b": "xueyima",
+   "type": "kin",
+   "aIs": "姐姐",
+   "bIs": "妹妹"
+  },
+  {
+   "a": "wangfuren",
+   "b": "wangziteng",
+   "type": "kin",
+   "aIs": "妹妹",
+   "bIs": "哥哥"
+  },
+  {
+   "a": "wangfuren",
+   "b": "baochai",
+   "type": "kin",
+   "aIs": "姨母",
+   "bIs": "外甥女"
+  },
+  {
+   "a": "zhaoyiniang",
+   "b": "tanchun",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "zhaoyiniang",
+   "b": "jiahuan",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiazhu",
+   "b": "liwan",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "jiazhu",
+   "b": "jialan",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "liwan",
+   "b": "jialan",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "baoyu",
+   "b": "baochai",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "events": [
+    {
+     "label": "成婚",
+     "place": "荣国府",
+     "note": "婚礼当日黛玉病逝；该情节出自后四十回，其作者归属有争议（见高鹗）",
+     "src": [
+      {
+       "title": "《红楼梦》第九十七回"
+      },
+      {
+       "title": "维基百科：Dream of the Red Chamber",
+       "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "a": "baoyu",
+   "b": "daiyu",
+   "type": "kin",
+   "aIs": "表哥",
+   "bIs": "表妹"
+  },
+  {
+   "a": "baoyu",
+   "b": "xiangyun",
+   "type": "kin",
+   "aIs": "表哥",
+   "bIs": "表妹"
+  },
+  {
+   "a": "baoyu",
+   "b": "yuanchun",
+   "type": "kin",
+   "aIs": "弟弟",
+   "bIs": "姐姐"
+  },
+  {
+   "a": "baoyu",
+   "b": "tanchun",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "妹妹"
+  },
+  {
+   "a": "baoyu",
+   "b": "jiahuan",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "弟弟"
+  },
+  {
+   "a": "baoyu",
+   "b": "xiren",
+   "type": "servant",
+   "aIs": "主人",
+   "bIs": "大丫鬟"
+  },
+  {
+   "a": "baoyu",
+   "b": "qingwen",
+   "type": "servant",
+   "aIs": "主人",
+   "bIs": "丫鬟"
+  },
+  {
+   "a": "baoyu",
+   "b": "qinzhong",
+   "type": "other",
+   "aIs": "同窗",
+   "bIs": "同窗"
+  },
+  {
+   "a": "baoyu",
+   "b": "miaoyu",
+   "type": "other",
+   "aIs": "友人",
+   "bIs": "友人"
+  },
+  {
+   "a": "xueyima",
+   "b": "baochai",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "xueyima",
+   "b": "xuepan",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "xuepan",
+   "b": "baochai",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "妹妹"
+  },
+  {
+   "a": "xuepan",
+   "b": "xiangling",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妾"
+  },
+  {
+   "a": "xuepan",
+   "b": "xiayinjin",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "jiamin",
+   "b": "linruhai",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫"
+  },
+  {
+   "a": "jiamin",
+   "b": "daiyu",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "linruhai",
+   "b": "daiyu",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "daiyu",
+   "b": "zijuan",
+   "type": "servant",
+   "aIs": "主人",
+   "bIs": "贴身丫鬟"
+  },
+  {
+   "a": "yucun",
+   "b": "daiyu",
+   "type": "other",
+   "aIs": "塾师",
+   "bIs": "学生"
+  },
+  {
+   "a": "jiajing",
+   "b": "jiazhen",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiajing",
+   "b": "xichun",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿"
+  },
+  {
+   "a": "jiazhen",
+   "b": "xichun",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "妹妹"
+  },
+  {
+   "a": "jiazhen",
+   "b": "youshi",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "jiazhen",
+   "b": "jiarong",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子"
+  },
+  {
+   "a": "jiazhen",
+   "b": "keqing",
+   "type": "inlaw",
+   "aIs": "公公",
+   "bIs": "儿媳"
+  },
+  {
+   "a": "youshi",
+   "b": "jiarong",
+   "type": "kin",
+   "aIs": "继母",
+   "bIs": "继子"
+  },
+  {
+   "a": "youshi",
+   "b": "keqing",
+   "type": "inlaw",
+   "aIs": "婆婆",
+   "bIs": "儿媳"
+  },
+  {
+   "a": "youshi",
+   "b": "youer",
+   "type": "kin",
+   "aIs": "姐姐",
+   "bIs": "妹妹"
+  },
+  {
+   "a": "youshi",
+   "b": "yousan",
+   "type": "kin",
+   "aIs": "姐姐",
+   "bIs": "妹妹"
+  },
+  {
+   "a": "youer",
+   "b": "yousan",
+   "type": "kin",
+   "aIs": "姐姐",
+   "bIs": "妹妹"
+  },
+  {
+   "a": "jiarong",
+   "b": "keqing",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子"
+  },
+  {
+   "a": "keqing",
+   "b": "qinzhong",
+   "type": "kin",
+   "aIs": "姐姐",
+   "bIs": "弟弟"
+  },
+  {
+   "a": "liulaolao",
+   "b": "qiaojie",
+   "type": "other",
+   "aIs": "救助者",
+   "bIs": "受救助者"
+  },
+  {
+   "a": "caoxueqin",
+   "b": "daiyu",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "baochai",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "yuanchun",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "tanchun",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "xiangyun",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "miaoyu",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "yingchun",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "xichun",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "fengjie",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "qiaojie",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "liwan",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "keqing",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "baoyu",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "jiamu",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "jiazheng",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "wangfuren",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "jialian",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "xuepan",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "xiren",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "qingwen",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "pinger",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "zijuan",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "yuanyang",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "liulaolao",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "xiangling",
+   "type": "work",
+   "aIs": "作者",
+   "bIs": "笔下人物",
+   "src": {
+    "title": "维基百科：Dream of the Red Chamber",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+   }
+  },
+  {
+   "a": "caoxueqin",
+   "b": "gaoe",
+   "type": "work",
+   "aIs": "原作者",
+   "bIs": "整理续补者",
+   "events": [
+    {
+     "label": "程伟元、高鹗刊印一百二十回本（程甲本）",
+     "date": "1791",
+     "note": "程伟元称后四十回由作者遗稿整理而成。后四十回是否出自曹雪芹、是否为高鹗所作，学界有争议",
+     "src": [
+      {
+       "title": "维基百科：Dream of the Red Chamber",
+       "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+      },
+      {
+       "title": "维基百科：Gao E",
+       "url": "https://en.wikipedia.org/wiki/Gao_E"
+      }
+     ]
+    },
+    {
+     "label": "刊印第二版，订正初版的编校错误",
+     "date": "1792",
+     "src": {
+      "title": "维基百科：Dream of the Red Chamber",
+      "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+     }
+    }
+   ]
+  },
+  {
+   "a": "caoyin",
+   "b": "caoxueqin",
+   "type": "kin",
+   "aIs": "祖父",
+   "bIs": "孙子",
+   "src": {
+    "title": "维基百科：Cao Xueqin",
+    "url": "https://en.wikipedia.org/wiki/Cao_Xueqin"
+   }
+  }
+ ]
+}
