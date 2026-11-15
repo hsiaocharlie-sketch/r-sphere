@@ -41,6 +41,23 @@ button,input{font:inherit;color:inherit}
 .card .ct{font-size:12px;color:var(--dim);margin-top:5px;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center}
 .card .ct b{font-weight:500}
 .mini{margin-left:auto;font-size:11px;padding:3px 9px;border-radius:999px;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.05);color:var(--dim)}
+.pop{position:fixed;left:0;right:0;bottom:0;z-index:7;pointer-events:none}
+.pop[hidden]{display:none}
+.pop .box{pointer-events:auto;max-height:44vh;overflow:auto;background:rgba(14,20,40,.98);border-top:1px solid rgba(255,255,255,.16);border-radius:18px 18px 0 0;padding:14px 16px calc(env(safe-area-inset-bottom) + 14px);box-shadow:0 -8px 30px rgba(0,0,0,.4)}
+.pop .hd{display:flex;align-items:center;gap:8px}
+.pop .ttl{font-size:17px;font-weight:600;flex:1}
+.pop .x{background:rgba(255,255,255,.1);border:0;border-radius:50%;width:28px;height:28px;font-size:16px;line-height:1}
+.pop .tag{font-size:11px;padding:2px 8px;border-radius:999px;border:1px solid currentColor}
+.pop .ln{font-size:14px;color:#cfd5e6;margin-top:6px;line-height:1.5}
+.pop .ln b{color:#fff;font-weight:500}
+.pop .sec{margin-top:12px;font-size:12px;color:var(--dim)}
+.pop .ev{margin-top:6px;padding:9px 11px;background:rgba(255,255,255,.05);border-radius:10px}
+.pop .ev .l{font-size:15px;font-weight:600}
+.pop .ev .m{font-size:13px;color:#cfd5e6;margin-top:2px}
+.pop .src{font-size:12px;color:var(--dim);margin-top:5px;line-height:1.5}
+.pop .src a{color:#8ec5ff}
+.pop .src.warn{color:#e0a458}
+.pop .empty{margin-top:12px;font-size:13px;color:var(--dim);line-height:1.5}
 </style>
 </head>
 <body>
@@ -57,12 +74,17 @@ button,input{font:inherit;color:inherit}
   <div class="row chips" id="chips"></div>
 </div>
 <div class="card" id="card"></div>
+<div class="pop" id="pop" hidden></div>
 
 <!--
   数据格式（以后把这段换成 fetch('data/xxx.json') 即可）
   people:    id(唯一) / name / alias[](可选) / note(可选) / wikidata(可选，预留)
   relations: a, b 两人 / type 关系类型 / aIs = a 是 b 的什么人 / bIs = b 是 a 的什么人
-             可选：src 出处，from、to 起止年份（预留）
+             可选：from、to 关系起止，如 "2005-06-18" 或 "2005"（to 留空表示至今）
+             可选：events 事件列表，每项 {label, date, place, note, src}
+                   例：{"label":"结婚","date":"2005-06-18","place":"北京","src":{"title":"某某报道","url":"https://example.com"}}
+             可选：src 关系来源，可写字符串、{title,url}，或它们的数组
+             点击关系线或关系文字会弹出详情；没写来源的信息会标"来源：未注明"
   type 取值：kin 亲属 | spouse 夫妻 | inlaw 姻亲 | servant 主仆 | other 师友
   一对人目前只存一条关系。
 -->
@@ -128,7 +150,7 @@ button,input{font:inherit;color:inherit}
 {"a":"jiamu","b":"yuanchun","type":"kin","aIs":"祖母","bIs":"孙女"},
 {"a":"jiamu","b":"tanchun","type":"kin","aIs":"祖母","bIs":"孙女"},
 {"a":"jiamu","b":"yingchun","type":"kin","aIs":"祖母","bIs":"孙女"},
-{"a":"jiamu","b":"daiyu","type":"kin","aIs":"外祖母","bIs":"外孙女","src":"《红楼梦》第三回"},
+{"a":"jiamu","b":"daiyu","type":"kin","aIs":"外祖母","bIs":"外孙女","events":[{"label":"黛玉入荣国府，由外祖母接养","place":"荣国府","src":{"title":"《红楼梦》第三回"}}]},
 {"a":"jiamu","b":"xiangyun","type":"kin","aIs":"姑祖母","bIs":"侄孙女"},
 {"a":"jiamu","b":"yuanyang","type":"servant","aIs":"主人","bIs":"贴身丫鬟"},
 {"a":"jiamu","b":"liulaolao","type":"other","aIs":"主人","bIs":"客人"},
@@ -141,7 +163,7 @@ button,input{font:inherit;color:inherit}
 {"a":"xingfuren","b":"fengjie","type":"inlaw","aIs":"婆婆","bIs":"儿媳"},
 {"a":"jialian","b":"fengjie","type":"spouse","aIs":"丈夫","bIs":"妻子"},
 {"a":"jialian","b":"pinger","type":"spouse","aIs":"丈夫","bIs":"妾"},
-{"a":"jialian","b":"youer","type":"spouse","aIs":"丈夫","bIs":"二房"},
+{"a":"jialian","b":"youer","type":"spouse","aIs":"丈夫","bIs":"二房","events":[{"label":"私下娶为二房","place":"花枝巷","src":{"title":"《红楼梦》第六十五回"}}]},
 {"a":"jialian","b":"qiaojie","type":"kin","aIs":"父亲","bIs":"女儿"},
 {"a":"fengjie","b":"qiaojie","type":"kin","aIs":"母亲","bIs":"女儿"},
 {"a":"fengjie","b":"pinger","type":"servant","aIs":"主人","bIs":"陪嫁丫鬟"},
@@ -168,7 +190,7 @@ button,input{font:inherit;color:inherit}
 {"a":"jiazhu","b":"liwan","type":"spouse","aIs":"丈夫","bIs":"妻子"},
 {"a":"jiazhu","b":"jialan","type":"kin","aIs":"父亲","bIs":"儿子"},
 {"a":"liwan","b":"jialan","type":"kin","aIs":"母亲","bIs":"儿子"},
-{"a":"baoyu","b":"baochai","type":"spouse","aIs":"丈夫","bIs":"妻子","src":"《红楼梦》第九十七回"},
+{"a":"baoyu","b":"baochai","type":"spouse","aIs":"丈夫","bIs":"妻子","events":[{"label":"成婚","place":"荣国府","note":"婚礼当日黛玉病逝","src":{"title":"《红楼梦》第九十七回"}}]},
 {"a":"baoyu","b":"daiyu","type":"kin","aIs":"表哥","bIs":"表妹"},
 {"a":"baoyu","b":"xiangyun","type":"kin","aIs":"表哥","bIs":"表妹"},
 {"a":"baoyu","b":"yuanchun","type":"kin","aIs":"弟弟","bIs":"姐姐"},
@@ -299,21 +321,19 @@ function mulberry32(a) {
 
 /* ───────── 布局：以主角为中心，亲友随机均匀撒在球面 ───────── */
 function layout(centerId, ids) {
+  // 每人约占 0.2 球面度：人少时只用正面的球冠，人多了球冠逐渐扩大，直到铺满整球
   const M = ids.length + 1;
   const rnd = mulberry32(hash(centerId));
   const GA = Math.PI * (3 - Math.sqrt(5));
-  const pts = [];
-  for (let k = 0; k < M; k++) {
-    const y = 1 - 2*(k+0.5)/M, r = Math.sqrt(Math.max(0, 1-y*y)), th = k*GA;
-    pts.push([Math.cos(th)*r, y, Math.sin(th)*r]);
-  }
-  const Rt = qmul(qaxis([0,0,1], rnd()*Math.PI*2), qfromTo(pts[0], [0,0,1]));
-  const spacing = Math.sqrt(4*Math.PI/M), j = spacing*0.16;
+  const cosCap = Math.max(-1, 1 - M*0.2/(2*Math.PI));
+  const span = 1 - cosCap;
+  const roll = rnd()*Math.PI*2;
+  const j = Math.sqrt(span*2*Math.PI/M)*0.16;
   const out = new Map([[centerId, [0,0,1]]]);
   const order = ids.slice().sort((a,b) => hash(centerId+'|'+a) - hash(centerId+'|'+b));
   order.forEach((pid, i) => {
-    const p = qrot(Rt, pts[i+1]);
-    out.set(pid, norm([p[0]+(rnd()-.5)*2*j, p[1]+(rnd()-.5)*2*j, p[2]+(rnd()-.5)*2*j]));
+    const k = i + 1, z = 1 - span*(k+0.5)/M, r = Math.sqrt(Math.max(0, 1-z*z)), th = k*GA + roll;
+    out.set(pid, norm([r*Math.cos(th)+(rnd()-.5)*2*j, r*Math.sin(th)+(rnd()-.5)*2*j, z+(rnd()-.5)*2*j]));
   });
   return out;
 }
@@ -331,15 +351,21 @@ const nodes=new Map();   // id -> {id,pos,from,to,alpha,aFrom,aTo,type,role}
 let edges=[];            // {a,b,type,role,grow,alpha,gFrom,gTo,aFrom,aTo}
 let rot=null, trans=null, inertia=null;
 let hoverId=null, needsDraw=true, lastInfo=[];
+let lastLabels=[], lastArcs=[], cyT=0, baseRT=150;
 
-function resize() {
+function resize(immediate) {
   dpr = Math.min(2, window.devicePixelRatio || 1);
   W = window.innerWidth; H = window.innerHeight;
-  canvas.width = Math.round(W*dpr); canvas.height = Math.round(H*dpr);
-  canvas.style.width = W+'px'; canvas.style.height = H+'px';
-  const topH = elTop.offsetHeight, botH = elCard.offsetHeight;
-  cx = W/2; cy = topH + (H - topH - botH)/2;
-  baseR = Math.max(70, Math.min(W*0.46, (H - topH - botH)/2*0.93));
+  if (canvas.width !== Math.round(W*dpr) || canvas.height !== Math.round(H*dpr)) {
+    canvas.width = Math.round(W*dpr); canvas.height = Math.round(H*dpr);
+    canvas.style.width = W+'px'; canvas.style.height = H+'px';
+  }
+  const topH = elTop.offsetHeight;
+  const popH = (!elPop.hidden && elPop.firstChild) ? elPop.firstChild.offsetHeight : 0;
+  const botH = Math.max(elCard.offsetHeight, popH);
+  cx = W/2; cyT = topH + (H - topH - botH)/2;
+  baseRT = Math.max(70, Math.min(W*0.46, (H - topH - botH)/2*0.93));
+  if (immediate || !cy) { cy = cyT; baseR = baseRT; }
   needsDraw = true;
 }
 
@@ -347,6 +373,7 @@ function resize() {
 function bakeView() { for (const n of nodes.values()) n.pos = qrot(Q, n.pos); Q = [1,0,0,0]; }
 
 function relayout(id) {
+  closePop();
   bakeView();
   centerId = id;
   const list = neighborsOf(id);
@@ -370,7 +397,7 @@ function relayout(id) {
     const k = pk(id, x.id); let e = om.get(k);
     if (e) { om.delete(k); e.a = id; e.b = x.id; e.gTo = 1; e.aTo = 1; }
     else e = {a:id, b:x.id, grow:0, alpha:0, gFrom:0, gTo:1, aFrom:0, aTo:1};
-    e.type = x.type; e.role = x.role; edges.push(e);
+    e.type = x.type; e.role = x.role; e.rel = x.rel; edges.push(e);
   }
   for (const e of om.values()) edges.push(e);   // 旧的线：淡出
   trans = {t0: performance.now(), dur: 950};
@@ -479,11 +506,17 @@ function draw() {
     if (!na || !nb || e.alpha < 0.01 || e.grow < 0.01) continue;
     arcs.push({e, vs: arcPoints(na.pos, nb.pos, e.grow).map(w => qrot(Q, w))});
   }
+  lastArcs = arcs.map(a => ({e: a.e, P: a.vs.map(proj), F: a.vs.map(v => v[2] > thr)}));
   function strokeArcs(front) {
     for (const a of arcs) {
       ctx.beginPath(); curvePath(a.vs, front);
       ctx.strokeStyle = 'rgba(' + TYPES[a.e.type].rgb + ',' + ((front ? 0.8 : 0.42) * a.e.alpha) + ')';
       ctx.lineWidth = front ? 1.5 : 1; ctx.stroke();
+      if (front && a.e === selEdge) {
+        ctx.beginPath(); curvePath(a.vs, true);
+        ctx.strokeStyle = 'rgba(255,255,255,0.9)'; ctx.lineWidth = 4; ctx.stroke();
+        ctx.strokeStyle = 'rgb(' + TYPES[a.e.type].rgb + ')'; ctx.lineWidth = 2; ctx.stroke();
+      }
     }
   }
   function dot_(it, alphaMul, small) {
@@ -560,19 +593,22 @@ function draw() {
     const v = qrot(Q, vslerp(na.pos, nb.pos, 0.5));
     if (v[2] > thr + 0.04) lab.push({e, v});
   }
-  lab.sort((a,b) => b.v[2]-a.v[2]);
-  let shown = 0;
+  lab.sort((a,b) => (b.e === selEdge) - (a.e === selEdge) || b.v[2]-a.v[2]);
+  let shown = 0; const placedLabels = [];
   for (const L of lab) {
     if (shown > 70) break;
     const p = proj(L.v), font = '11px ' + FONT, w = tw(L.e.role, font);
-    if (!tryRect([p[0]-w/2-4, p[1]-8, p[0]+w/2+4, p[1]+8])) continue;
+    const box = [p[0]-w/2-4, p[1]-8, p[0]+w/2+4, p[1]+8], isSel = L.e === selEdge;
+    if (isSel) rects.push(box); else if (!tryRect(box)) continue;
     ctx.fillStyle = 'rgba(11,16,32,' + (0.78*L.e.alpha) + ')';
     ctx.beginPath();
-    if (ctx.roundRect) ctx.roundRect(p[0]-w/2-4, p[1]-8, w+8, 16, 8); else ctx.rect(p[0]-w/2-4, p[1]-8, w+8, 16);
+    if (ctx.roundRect) ctx.roundRect(box[0], box[1], w+8, 16, 8); else ctx.rect(box[0], box[1], w+8, 16);
     ctx.fill();
+    if (isSel) { ctx.lineWidth = 1.4; ctx.strokeStyle = '#fff'; ctx.stroke(); }
     drawText(L.e.role, p[0]-w/2, p[1]+0.5, font, TYPES[L.e.type].rgb, L.e.alpha, false);
-    shown++;
+    placedLabels.push({e: L.e, b: box}); shown++;
   }
+  lastLabels = placedLabels;
   lastInfo = info;
 }
 
@@ -586,9 +622,9 @@ function updateCard() {
   elCard.innerHTML = '<div class="nm">' + esc(p.name) + '</div><div class="nt">' + esc(p.note) + '</div>' +
     '<div class="ct"><span>共 ' + list.length + ' 位亲友</span>' + parts.join('') +
     '<button class="mini" id="stress">' + (stressIds.length ? '清除测试' : '＋80人压力测试') + '</button></div>' +
-    '<div class="ct">拖动旋转 · 点人物切换主角 · 双指缩放</div>';
+    '<div class="ct">拖动旋转 · 点人物切换主角 · 点关系线或文字看详情 · 双指缩放</div>';
   document.getElementById('stress').onclick = () => stressIds.length ? clearStress() : addStress(80);
-  requestAnimationFrame(resize);
+  requestAnimationFrame(() => resize(false));
 }
 function addStress(n) {
   const sn = '张王李赵周吴郑孙钱冯陈褚卫蒋沈韩杨朱秦许何吕施孔曹严华金魏陶姜', gn = '明华建国秀英玉兰志强伟芳敏静丽军洋勇艳杰娟涛超霞平刚桂';
@@ -651,6 +687,93 @@ qEl.addEventListener('input', showResults);
 qEl.addEventListener('keydown', e => { if (e.key === 'Enter') { const b = resEl.querySelector('button'); if (b) b.click(); } });
 document.addEventListener('pointerdown', e => { if (!e.target.closest('.srow')) resEl.hidden = true; });
 
+/* ───────── 关系详情弹窗 ───────── */
+const elPop = document.getElementById('pop');
+let selEdge = null;
+const h = (tag, cls, text) => { const x = document.createElement(tag); if (cls) x.className = cls; if (text != null) x.textContent = text; return x; };
+function fmtDate(s) {
+  if (!s) return '';
+  const m = /^(\d{4})(?:-(\d{1,2}))?(?:-(\d{1,2}))?$/.exec(String(s).trim());
+  if (!m) return String(s);
+  return m[1] + '年' + (m[2] ? (+m[2]) + '月' : '') + (m[3] ? (+m[3]) + '日' : '');
+}
+function normSrc(s) {
+  if (!s) return [];
+  return (Array.isArray(s) ? s : [s]).map(x => typeof x === 'string' ? {title: x} : x).filter(x => x && (x.title || x.url));
+}
+function srcLine(list) {
+  const d = h('div', 'src' + (list.length ? '' : ' warn'));
+  if (!list.length) { d.textContent = '来源：未注明'; return d; }
+  d.appendChild(document.createTextNode('来源：'));
+  list.forEach((s, i) => {
+    if (i) d.appendChild(document.createTextNode('；'));
+    const title = s.title || s.url;
+    if (s.url && /^https?:\/\//i.test(s.url)) {
+      const a = h('a', '', title); a.href = s.url; a.target = '_blank'; a.rel = 'noopener noreferrer'; d.appendChild(a);
+    } else d.appendChild(document.createTextNode(title));
+  });
+  return d;
+}
+function openPop(e) {
+  const rel = e.rel || {}, A = people.get(e.a), B = people.get(e.b);
+  if (!A || !B) return;
+  selEdge = e; elPop.innerHTML = '';
+  const box = h('div', 'box'), hd = h('div', 'hd');
+  hd.appendChild(h('div', 'ttl', A.name + ' ⇄ ' + B.name));
+  const tag = h('span', 'tag', TYPES[e.type].name); tag.style.color = hex(e.type); hd.appendChild(tag);
+  const x = h('button', 'x', '×'); x.onclick = closePop; hd.appendChild(x);
+  box.appendChild(hd);
+  const aRole = rel.a ? (rel.a === e.a ? rel.aIs : rel.bIs) : '';
+  const line = (p, q, role) => { const d = h('div', 'ln', p.name + ' 是 ' + q.name + ' 的 '); d.appendChild(h('b', '', role || '—')); return d; };
+  box.appendChild(line(A, B, aRole));
+  box.appendChild(line(B, A, e.role));
+  if (rel.from || rel.to) {
+    const t = rel.from && rel.to ? fmtDate(rel.from) + ' — ' + fmtDate(rel.to) : rel.from ? '自 ' + fmtDate(rel.from) : '至 ' + fmtDate(rel.to);
+    box.appendChild(h('div', 'ln', '关系时间：' + t));
+  }
+  const evs = Array.isArray(rel.events) ? rel.events : [];
+  if (evs.length) {
+    box.appendChild(h('div', 'sec', '相关事件'));
+    evs.forEach(ev => {
+      const d = h('div', 'ev');
+      d.appendChild(h('div', 'l', ev.label || '事件'));
+      const m = [fmtDate(ev.date), ev.place].filter(Boolean).join(' · ');
+      if (m) d.appendChild(h('div', 'm', m));
+      if (ev.note) d.appendChild(h('div', 'm', ev.note));
+      d.appendChild(srcLine(normSrc(ev.src)));
+      box.appendChild(d);
+    });
+  }
+  const rs = normSrc(rel.src);
+  if (rs.length) box.appendChild(srcLine(rs));
+  if (!evs.length && !rs.length && !(rel.from || rel.to)) box.appendChild(h('div', 'empty', '暂无详细信息。结婚日期、地点等可补充在数据里，每条信息都要附上来源。'));
+  elPop.appendChild(box); elPop.hidden = false;
+  needsDraw = true; requestAnimationFrame(() => resize(false));
+}
+function closePop() {
+  if (elPop.hidden && !selEdge) return;
+  selEdge = null; elPop.hidden = true; elPop.innerHTML = '';
+  needsDraw = true; requestAnimationFrame(() => resize(false));
+}
+function segDist(px, py, a, b) {
+  const dx = b[0]-a[0], dy = b[1]-a[1], l2 = dx*dx + dy*dy;
+  const t = l2 ? clamp(((px-a[0])*dx + (py-a[1])*dy)/l2, 0, 1) : 0;
+  return Math.hypot(px-(a[0]+t*dx), py-(a[1]+t*dy));
+}
+function hitEdge(x, y) {
+  for (const L of lastLabels) { const b = L.b; if (x >= b[0]-5 && x <= b[2]+5 && y >= b[1]-5 && y <= b[3]+5) return L.e; }
+  let best = null, bd = 12;
+  for (const A of lastArcs) {
+    if (A.e.alpha < 0.5 || A.e.grow < 0.98) continue;
+    for (let i = 0; i < A.P.length-1; i++) {
+      if (!A.F[i] || !A.F[i+1]) continue;
+      const d = segDist(x, y, A.P[i], A.P[i+1]);
+      if (d < bd) { bd = d; best = A.e; }
+    }
+  }
+  return best;
+}
+
 /* ───────── 手势：拖动旋转 / 点击 / 双指缩放 ───────── */
 const ptrs = new Map();
 let drag = null, pinch = null;
@@ -708,6 +831,7 @@ function endPointer(e) {
     if (drag.moved < 8 && now - drag.t0 < 600) {
       const id = hit(e.clientX, e.clientY, false);
       if (id) { if (id === centerId) bringToFront(id); else goTo(id); }
+      else { const ed = hitEdge(e.clientX, e.clientY); if (ed) openPop(ed); else if (selEdge) closePop(); }
     } else if (now - drag.tl < 80 && Math.hypot(drag.vy, drag.vp) > 0.0004) inertia = {vy: drag.vy, vp: drag.vp};
   }
   if (ptrs.size < 2) pinch = null;
@@ -716,7 +840,7 @@ function endPointer(e) {
 canvas.addEventListener('pointerup', endPointer);
 canvas.addEventListener('pointercancel', endPointer);
 canvas.addEventListener('wheel', e => { e.preventDefault(); zoom = clamp(zoom*Math.exp(-e.deltaY*0.0012), 0.35, 3.2); needsDraw = true; }, {passive: false});
-window.addEventListener('resize', resize);
+window.addEventListener('resize', () => resize(true));
 
 /* ───────── 主循环 ───────── */
 let last = performance.now();
@@ -739,16 +863,19 @@ function frame(now) {
     if (Math.hypot(inertia.vy, inertia.vp) < 0.00004) inertia = null;
   }
   if (Math.abs(autoT - auto) > 0.002) { auto += (autoT - auto)*Math.min(1, dt/220); dirty = true; }
+  if (Math.abs(cyT - cy) > 0.4 || Math.abs(baseRT - baseR) > 0.4) { const k = Math.min(1, dt/160); cy += (cyT - cy)*k; baseR += (baseRT - baseR)*k; dirty = true; }
   if (dirty || needsDraw) { needsDraw = false; draw(); }
   requestAnimationFrame(frame);
 }
 
 /* ───────── 启动 ───────── */
 canvas.style.cursor = 'grab';
-resize();
+resize(true);
 relayout('baoyu');
 requestAnimationFrame(frame);
-window.relSphere = {goTo, relayout, addStress, clearStress, state: () => ({centerId, nodes: nodes.size, edges: edges.length, zoom})};
+window.relSphere = {goTo, relayout, addStress, clearStress, openPop, closePop, hitEdge, labels: () => lastLabels, edges: () => edges,
+  pos: () => [...nodes.values()].filter(n => n.aTo !== 0).map(n => [n.id, n.to]),
+  state: () => ({centerId, nodes: nodes.size, edges: edges.length, zoom})};
 })();
 </script>
 </body>
