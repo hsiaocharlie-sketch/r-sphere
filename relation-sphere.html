@@ -97,29 +97,46 @@ const FONT = '-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",s
 
 const people = new Map();
 const adj = new Map();
-// 合并多个数据文件：同 id 的人合并（别名取并集）；同一对人、同类型的关系合并事件
+// 合并多个数据文件：
+//  · 同 id、或同 wikidata 编号的人合并成一个（别名取并集，先出现的简介优先）
+//  · 同一对人、同类型的关系合并事件和来源
+const wdIndex = new Map();
 function ingest(docs) {
   const pk = (a, b, t) => (a < b ? a + '|' + b : b + '|' + a) + '|' + t;
-  for (const doc of docs) for (const p of (doc.people || [])) {
-    const old = people.get(p.id);
-    if (!old) { people.set(p.id, Object.assign({}, p)); adj.set(p.id, []); continue; }
-    old.alias = [...new Set([...(old.alias || []), ...(p.alias || [])])];
-    for (const k of ['note', 'fictional', 'work', 'author']) if (old[k] == null && p[k] != null) old[k] = p[k];
-  }
-  const seen = new Map(), rels = [];
-  for (const doc of docs) for (const r of (doc.relations || [])) {
-    if (!people.has(r.a) || !people.has(r.b) || !TYPES[r.type] || r.a === r.b) { console.warn('数据有误，已跳过', r); continue; }
-    const k = pk(r.a, r.b, r.type), ex = seen.get(k);
-    if (ex) {
-      const evs = ex.events || [];
-      for (const ev of (r.events || [])) if (!evs.some(x => x.label === ev.label && x.date === ev.date)) evs.push(ev);
-      if (evs.length) ex.events = evs;
-      if (!ex.src && r.src) ex.src = r.src;
-      continue;
+  const remaps = docs.map(() => new Map());
+  docs.forEach((doc, di) => {
+    for (const p of (doc.people || [])) {
+      let id = p.id;
+      if (p.wikidata) { if (wdIndex.has(p.wikidata)) id = wdIndex.get(p.wikidata); else wdIndex.set(p.wikidata, p.id); }
+      if (id !== p.id) remaps[di].set(p.id, id);
+      const old = people.get(id);
+      if (!old) { people.set(id, Object.assign({}, p, {id})); adj.set(id, []); continue; }
+      const al = new Set([...(old.alias || []), ...(p.alias || [])]);
+      if (p.name && p.name !== old.name) al.add(p.name);
+      old.alias = [...al];
+      for (const k of ['note', 'fictional', 'work', 'author', 'wikidata']) if (old[k] == null && p[k] != null) old[k] = p[k];
     }
-    const c = Object.assign({}, r); if (!c.src && doc.meta && doc.meta.src) c.src = doc.meta.src;   // 文件级默认来源
-    seen.set(k, c); rels.push(c);
-  }
+  });
+  const seen = new Map(), rels = [];
+  docs.forEach((doc, di) => {
+    const R = id => remaps[di].get(id) || id;
+    for (const r0 of (doc.relations || [])) {
+      const r = Object.assign({}, r0, {a: R(r0.a), b: R(r0.b)});
+      if (!people.has(r.a) || !people.has(r.b) || !TYPES[r.type] || r.a === r.b) { console.warn('数据有误，已跳过', r0); continue; }
+      const k = pk(r.a, r.b, r.type), ex = seen.get(k);
+      if (ex) {
+        const evs = ex.events || [];
+        for (const ev of (r.events || [])) if (!evs.some(x => x.label === ev.label && x.date === ev.date)) evs.push(ev);
+        if (evs.length) ex.events = evs;
+        const ss = (v) => v == null ? [] : (Array.isArray(v) ? v : [v]);
+        const have = ss(ex.src), add = ss(r0.src).filter(s => !have.some(t => (t.url || t.title || t) === (s.url || s.title || s)));
+        if (add.length) ex.src = have.concat(add);
+        continue;
+      }
+      if (!r.src && doc.meta && doc.meta.src) r.src = doc.meta.src;   // 文件级默认来源
+      seen.set(k, r); rels.push(r);
+    }
+  });
   for (const r of rels) {
     adj.get(r.a).push({id: r.b, type: r.type, role: r.bIs, rel: r});
     adj.get(r.b).push({id: r.a, type: r.type, role: r.aIs, rel: r});
@@ -742,7 +759,11 @@ async function loadJSON(name) {
 async function loadAll() {
   if (window.__RELATION_DATA__) return window.__RELATION_DATA__;   // 仅供"预览版"使用
   const index = await loadJSON('index.json');
-  return {index, docs: await Promise.all(index.files.map(loadJSON))};
+  const got = await Promise.allSettled(index.files.map(loadJSON));
+  const docs = got.filter(g => g.status === 'fulfilled').map(g => g.value);
+  got.filter(g => g.status === 'rejected').forEach(g => console.warn('数据文件读取失败：', g.reason && g.reason.message));
+  if (!docs.length) throw got[0].reason;
+  return {index, docs};
 }
 function pickStart(index) {
   let hs = ''; try { hs = decodeURIComponent(location.hash.slice(1)); } catch (_) {}
