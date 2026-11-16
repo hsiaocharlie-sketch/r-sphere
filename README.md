@@ -1,4 +1,3 @@
-# r-sphere
 # 数据格式
 
 页面（`relation-sphere.html`）启动时读取 `data/index.json`，再按里面的 `files` 列表依次读取各数据文件并合并。
@@ -28,7 +27,7 @@
 | `alias` | 可选，别名、字号、外文名，用于搜索 |
 | `note` | 可选，一句话简介 |
 | `fictional` / `work` / `author` | 虚构人物用：`fictional:true`、出自作品、作者的人物 id（卡片上可点击跳到作者） |
-| `wikidata` | 可选，预留 |
+| `wikidata` | 可选，Wikidata 的 Q 号。不同文件里 Q 号相同的人会自动合并成一个人（即使 id 不同） |
 
 ### relations（关系）
 | 字段 | 说明 |
@@ -55,3 +54,7 @@
 - 每条关系和事件都要有出处；没有可靠来源的内容不收。
 - 传闻要标 `rumor` 或 `denied`，不要写成事实。
 - 未成年人只收姓名和关系。
+
+## 机器生成的文件
+`wikidata.json` 由 `scripts/collect_wikidata.py` 自动生成（见 `collect/README.md`），每次整份覆盖，请勿手工修改。
+手写数据文件应排在 `index.json` 的 `files` 里 `wikidata.json` 之前，这样人物简介以手写为准。
