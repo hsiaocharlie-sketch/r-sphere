@@ -6,7 +6,9 @@
    "Q16766",
    "Q9701",
    "Q180852",
-   "Q19216"
+   "Q19216",
+   "Q464650",
+   "Q708621"
   ],
   "depth": 2,
   "src": {
@@ -106,6 +108,16 @@
    "note": "中华民国第12、13任总统"
   },
   {
+   "id": "Q64814",
+   "name": "窦唯",
+   "wikidata": "Q64814",
+   "alias": [
+    "Dou Wei",
+    "竇唯"
+   ],
+   "note": "中国歌手"
+  },
+  {
    "id": "Q180852",
    "name": "章子怡",
    "wikidata": "Q180852",
@@ -115,6 +127,34 @@
     "Zhang Zi Yi"
    ],
    "note": "中国电影女演员"
+  },
+  {
+   "id": "Q380579",
+   "name": "谢霆锋",
+   "wikidata": "Q380579",
+   "alias": [
+    "謝霆鋒",
+    "Nicholas Tse",
+    "Tse Ting-fung",
+    "Nicholas Tse Ting-fung"
+   ],
+   "note": "香港歌手及演员"
+  },
+  {
+   "id": "Q464650",
+   "name": "王菲",
+   "wikidata": "Q464650",
+   "alias": [
+    "Faye Wong",
+    "王靖雯",
+    "夏琳",
+    "夏林",
+    "Faye Wong Fei",
+    "Wong Jing-Wen",
+    "Wong Jing-Man",
+    "Shirley"
+   ],
+   "note": "中国女歌手"
   },
   {
    "id": "Q699639",
@@ -159,6 +199,20 @@
    "note": "唐太宗之子"
   },
   {
+   "id": "Q708621",
+   "name": "费玉清",
+   "wikidata": "Q708621",
+   "alias": [
+    "費玉清",
+    "Fei Yu-ching",
+    "費玉青",
+    "張彥亭",
+    "张彦亭",
+    "小哥"
+   ],
+   "note": "台湾歌手"
+  },
+  {
    "id": "Q711427",
    "name": "平阳昭公主",
    "wikidata": "Q711427",
@@ -186,6 +240,16 @@
    "note": "唐朝太子"
   },
   {
+   "id": "Q717397",
+   "name": "李亚鹏",
+   "wikidata": "Q717397",
+   "alias": [
+    "李亞鵬",
+    "Li Yapeng"
+   ],
+   "note": "中国演员"
+  },
+  {
    "id": "Q855999",
    "name": "徐惠",
    "wikidata": "Q855999",
@@ -198,40 +262,6 @@
     "Chui Wai"
    ],
    "note": "徐惠(627-650)﹐女﹐又名徐贤妃﹐长城人(今浙江长兴)。历朝名媛诗词，古今女史﹐兰闺宝录﹐名媛汇诗﹐名媛诗归有著录。"
-  },
-  {
-   "id": "Q986651",
-   "name": "杨暕",
-   "wikidata": "Q986651",
-   "alias": [
-    "楊暕",
-    "Yang Jian"
-   ],
-   "note": "Sui Dynasty prince, son of Emperor Yang"
-  },
-  {
-   "id": "Q987344",
-   "name": "杨杲",
-   "wikidata": "Q987344",
-   "alias": [
-    "楊杲",
-    "Yang Gao"
-   ],
-   "note": "Chinese prince (607-618)"
-  },
-  {
-   "id": "Q1062868",
-   "name": "杨昭",
-   "wikidata": "Q1062868",
-   "alias": [
-    "楊昭",
-    "Yang Zhao",
-    "世宗",
-    "隋孝成帝",
-    "孝成皇帝",
-    "隋世宗"
-   ],
-   "note": "Sui Dynasty imperial prince"
   },
   {
    "id": "Q1152149",
@@ -263,14 +293,6 @@
     "Changsun Wuji"
    ],
    "note": "中国唐朝政治人物"
-  },
-  {
-   "id": "Q4022409",
-   "name": "阴世师",
-   "wikidata": "Q4022409",
-   "alias": [
-    "陰世師"
-   ]
   },
   {
    "id": "Q4121049",
@@ -709,6 +731,21 @@
    "note": "Sui dynasty person CBDB = 31065"
   },
   {
+   "id": "Q5071615",
+   "name": "张菲",
+   "wikidata": "Q5071615",
+   "alias": [
+    "Chang Fei",
+    "BCHAN",
+    "張菲",
+    "張彥明",
+    "张彦明",
+    "菲哥",
+    "B C"
+   ],
+   "note": "台湾电视主持人"
+  },
+  {
    "id": "Q7967432",
    "name": "汪峰",
    "wikidata": "Q7967432",
@@ -846,6 +883,22 @@
    "note": "唐太宗的妃嫔"
   },
   {
+   "id": "Q9044385",
+   "name": "释恒述",
+   "wikidata": "Q9044385",
+   "alias": [
+    "釋恆述",
+    "Jenny Fei",
+    "恒述法师",
+    "张彦琼",
+    "费贞绫",
+    "張彥瓊",
+    "費貞綾",
+    "恆述法師"
+   ],
+   "note": "台湾艺人、比丘尼"
+  },
+  {
    "id": "Q9194014",
    "name": "朱丽倩",
    "wikidata": "Q9194014",
@@ -908,15 +961,6 @@
     "Nán​chāng gōng​zhǔ"
    ],
    "note": "daughter of emperor Gaozu"
-  },
-  {
-   "id": "Q10909275",
-   "name": "南陽公主",
-   "wikidata": "Q10909275",
-   "alias": [
-    "Princess Nanyang"
-   ],
-   "note": "隋朝之公主"
   },
   {
    "id": "Q10917554",
@@ -1105,15 +1149,6 @@
    "note": "son of emperor Gaozu"
   },
   {
-   "id": "Q11095612",
-   "name": "李千里",
-   "wikidata": "Q11095612",
-   "alias": [
-    "Li Qianli"
-   ],
-   "note": "person, CBDB = 166728"
-  },
-  {
    "id": "Q11096905",
    "name": "李智雲",
    "wikidata": "Q11096905",
@@ -1153,25 +1188,6 @@
     "李澄 (隋朝)"
    ],
    "note": "older brother of Emperor Gaozu of Tang"
-  },
-  {
-   "id": "Q11097430",
-   "name": "李玮",
-   "wikidata": "Q11097430",
-   "alias": [
-    "Li Wei",
-    "李瑋"
-   ],
-   "note": "Tang dynasty person CBDB = 188551"
-  },
-  {
-   "id": "Q11098022",
-   "name": "李象",
-   "wikidata": "Q11098022",
-   "alias": [
-    "Li Xiang"
-   ],
-   "note": "Tang dynasty person CBDB = 32127"
   },
   {
    "id": "Q11098320",
@@ -1269,11 +1285,6 @@
     "Ma Yinan"
    ],
    "note": "馬英九的大姐"
-  },
-  {
-   "id": "Q15921481",
-   "name": "陰弘智",
-   "wikidata": "Q15921481"
   },
   {
    "id": "Q15951700",
@@ -1425,6 +1436,16 @@
    "note": "concubine of emperor Gaozu"
   },
   {
+   "id": "Q22101203",
+   "name": "窦靖童",
+   "wikidata": "Q22101203",
+   "alias": [
+    "Leah Dou",
+    "Dou Jingtong"
+   ],
+   "note": "中国歌手"
+  },
+  {
    "id": "Q24839066",
    "name": "杨玄奖",
    "wikidata": "Q24839066",
@@ -1454,17 +1475,6 @@
     "Yu Xuancheng"
    ],
    "note": "Tang dynasty person CBDB = 162410"
-  },
-  {
-   "id": "Q45417800",
-   "name": "徐孝德",
-   "wikidata": "Q45417800",
-   "alias": [
-    "Xu Xiaode",
-    "順孫",
-    "Shunsun"
-   ],
-   "note": "Tang dynasty person CBDB = 30394"
   },
   {
    "id": "Q45420311",
@@ -1504,25 +1514,6 @@
     "燕寶壽"
    ],
    "note": "person, CBDB = 151345"
-  },
-  {
-   "id": "Q45508125",
-   "name": "李厥卿",
-   "wikidata": "Q45508125",
-   "alias": [
-    "Li Jueqing"
-   ],
-   "note": "Tang dynasty person CBDB = 188543"
-  },
-  {
-   "id": "Q45508249",
-   "name": "李医",
-   "wikidata": "Q45508249",
-   "alias": [
-    "Li Yi",
-    "李醫"
-   ],
-   "note": "Tang dynasty person CBDB = 188545"
   },
   {
    "id": "Q45530647",
@@ -1590,6 +1581,42 @@
    "alias": [
     "Lady Gao"
    ]
+  },
+  {
+   "id": "Q78502330",
+   "name": "李嫣",
+   "wikidata": "Q78502330",
+   "alias": [
+    "Li Yan"
+   ],
+   "note": "Faye Wong's daughter"
+  },
+  {
+   "id": "Q124655546",
+   "name": "王佑林",
+   "wikidata": "Q124655546",
+   "alias": [
+    "Wang Youlin"
+   ],
+   "note": "王菲的父親"
+  },
+  {
+   "id": "Q124655718",
+   "name": "夏桂影",
+   "wikidata": "Q124655718",
+   "alias": [
+    "Xia Guiying"
+   ],
+   "note": "王菲的母親"
+  },
+  {
+   "id": "Q124664732",
+   "name": "王戈",
+   "wikidata": "Q124664732",
+   "alias": [
+    "Wang Ge"
+   ],
+   "note": "王菲的哥哥"
   },
   {
    "id": "Q134079944",
@@ -2294,19 +2321,6 @@
    ]
   },
   {
-   "a": "Q1062868",
-   "b": "Q8251464",
-   "type": "kin",
-   "aIs": "兄弟",
-   "bIs": "姐妹",
-   "src": [
-    {
-     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
-     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
-    }
-   ]
-  },
-  {
    "a": "Q10877398",
    "b": "Q10878912",
    "type": "kin",
@@ -4853,19 +4867,6 @@
     {
      "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
-    }
-   ]
-  },
-  {
-   "a": "Q10909275",
-   "b": "Q8251464",
-   "type": "kin",
-   "aIs": "姐妹",
-   "bIs": "姐妹",
-   "src": [
-    {
-     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
-     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
     }
    ]
   },
@@ -14750,6 +14751,108 @@
    ]
   },
   {
+   "a": "Q124655546",
+   "b": "Q124655718",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：王佑林 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q124655546#P26"
+    },
+    {
+     "title": "Wikidata：夏桂影 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q124655718#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q124655546",
+   "b": "Q124664732",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：王佑林 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q124655546#P40"
+    },
+    {
+     "title": "Wikidata：王戈 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q124664732#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q124655546",
+   "b": "Q464650",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：王佑林 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q124655546#P40"
+    },
+    {
+     "title": "Wikidata：王菲 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q124655718",
+   "b": "Q124664732",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：夏桂影 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q124655718#P40"
+    },
+    {
+     "title": "Wikidata：王戈 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q124664732#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q124655718",
+   "b": "Q464650",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：夏桂影 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q124655718#P40"
+    },
+    {
+     "title": "Wikidata：王菲 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q124664732",
+   "b": "Q464650",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：王戈 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q124664732#P3373"
+    },
+    {
+     "title": "Wikidata：王菲 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q134079944",
    "b": "Q8251489",
    "type": "kin",
@@ -14879,19 +14982,6 @@
     {
      "title": "Wikidata：马英九 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q19216#P3373"
-    }
-   ]
-  },
-  {
-   "a": "Q15921481",
-   "b": "Q8251514",
-   "type": "kin",
-   "aIs": "兄弟",
-   "bIs": "姐妹",
-   "src": [
-    {
-     "title": "Wikidata：阴妃 · 兄弟姐妹（P3373）",
-     "url": "https://www.wikidata.org/wiki/Q8251514#P3373"
     }
    ]
   },
@@ -16226,6 +16316,23 @@
    ]
   },
   {
+   "a": "Q22101203",
+   "b": "Q78502330",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：窦靖童 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q22101203#P3373"
+    },
+    {
+     "title": "Wikidata：李嫣 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q78502330#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q24839066",
    "b": "Q8262893",
    "type": "kin",
@@ -16265,15 +16372,29 @@
    ]
   },
   {
-   "a": "Q4022409",
-   "b": "Q8251514",
-   "type": "kin",
-   "aIs": "父亲",
-   "bIs": "女儿",
+   "a": "Q380579",
+   "b": "Q464650",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
    "src": [
     {
-     "title": "Wikidata：阴妃 · 父亲（P22）",
-     "url": "https://www.wikidata.org/wiki/Q8251514#P22"
+     "title": "Wikidata：谢霆锋 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q380579#P451"
+    },
+    {
+     "title": "Wikidata：王菲 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "2014",
+     "src": {
+      "title": "Wikidata：王菲 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q464650#P451"
+     }
     }
    ]
   },
@@ -26662,19 +26783,6 @@
    ]
   },
   {
-   "a": "Q45417800",
-   "b": "Q855999",
-   "type": "kin",
-   "aIs": "父亲",
-   "bIs": "女儿",
-   "src": [
-    {
-     "title": "Wikidata：徐惠 · 父亲（P22）",
-     "url": "https://www.wikidata.org/wiki/Q855999#P22"
-    }
-   ]
-  },
-  {
    "a": "Q45420311",
    "b": "Q4308218",
    "type": "kin",
@@ -26697,6 +26805,165 @@
     {
      "title": "Wikidata：燕德妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8251489#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q464650",
+   "b": "Q22101203",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：窦靖童 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q22101203#P25"
+    },
+    {
+     "title": "Wikidata：王菲 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q464650",
+   "b": "Q64814",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：王菲 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P26"
+    },
+    {
+     "title": "Wikidata：窦唯 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q64814#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1996",
+     "src": {
+      "title": "Wikidata：王菲 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q464650#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1999",
+     "src": {
+      "title": "Wikidata：王菲 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q464650#P26"
+     }
+    }
+   ],
+   "to": "1999",
+   "status": "past"
+  },
+  {
+   "a": "Q464650",
+   "b": "Q717397",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：王菲 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P26"
+    },
+    {
+     "title": "Wikidata：李亚鹏 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q717397#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2005",
+     "src": {
+      "title": "Wikidata：王菲 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q464650#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2013",
+     "src": {
+      "title": "Wikidata：王菲 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q464650#P26"
+     }
+    }
+   ],
+   "to": "2013",
+   "status": "past"
+  },
+  {
+   "a": "Q464650",
+   "b": "Q78502330",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：王菲 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q464650#P40"
+    },
+    {
+     "title": "Wikidata：李嫣 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q78502330#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q5071615",
+   "b": "Q708621",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：张菲 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5071615#P3373"
+    },
+    {
+     "title": "Wikidata：费玉清 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q708621#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5071615",
+   "b": "Q9044385",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：张菲 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5071615#P3373"
+    },
+    {
+     "title": "Wikidata：释恒述 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9044385#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q64814",
+   "b": "Q22101203",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：窦靖童 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q22101203#P22"
+    },
+    {
+     "title": "Wikidata：窦唯 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q64814#P40"
     }
    ]
   },
@@ -26783,45 +27050,6 @@
   },
   {
    "a": "Q699664",
-   "b": "Q11098022",
-   "type": "kin",
-   "aIs": "父亲",
-   "bIs": "儿子",
-   "src": [
-    {
-     "title": "Wikidata：李承乾 · 子女（P40）",
-     "url": "https://www.wikidata.org/wiki/Q699664#P40"
-    }
-   ]
-  },
-  {
-   "a": "Q699664",
-   "b": "Q45508125",
-   "type": "kin",
-   "aIs": "父亲",
-   "bIs": "儿子",
-   "src": [
-    {
-     "title": "Wikidata：李承乾 · 子女（P40）",
-     "url": "https://www.wikidata.org/wiki/Q699664#P40"
-    }
-   ]
-  },
-  {
-   "a": "Q699664",
-   "b": "Q45508249",
-   "type": "kin",
-   "aIs": "父亲",
-   "bIs": "儿子",
-   "src": [
-    {
-     "title": "Wikidata：李承乾 · 子女（P40）",
-     "url": "https://www.wikidata.org/wiki/Q699664#P40"
-    }
-   ]
-  },
-  {
-   "a": "Q699664",
    "b": "Q701556",
    "type": "kin",
    "aIs": "兄弟",
@@ -26868,32 +27096,6 @@
     {
      "title": "Wikidata：唐高宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9703#P3373"
-    }
-   ]
-  },
-  {
-   "a": "Q701556",
-   "b": "Q11095612",
-   "type": "kin",
-   "aIs": "父亲",
-   "bIs": "儿子",
-   "src": [
-    {
-     "title": "Wikidata：李恪 · 子女（P40）",
-     "url": "https://www.wikidata.org/wiki/Q701556#P40"
-    }
-   ]
-  },
-  {
-   "a": "Q701556",
-   "b": "Q11097430",
-   "type": "kin",
-   "aIs": "父亲",
-   "bIs": "儿子",
-   "src": [
-    {
-     "title": "Wikidata：李恪 · 子女（P40）",
-     "url": "https://www.wikidata.org/wiki/Q701556#P40"
     }
    ]
   },
@@ -26949,6 +27151,23 @@
    ]
   },
   {
+   "a": "Q708621",
+   "b": "Q9044385",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：费玉清 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q708621#P3373"
+    },
+    {
+     "title": "Wikidata：释恒述 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9044385#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q711427",
    "b": "Q711674",
    "type": "kin",
@@ -26996,6 +27215,23 @@
     {
      "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q717397",
+   "b": "Q78502330",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李亚鹏 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q717397#P40"
+    },
+    {
+     "title": "Wikidata：李嫣 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q78502330#P22"
     }
    ]
   },
@@ -27205,32 +27441,6 @@
     {
      "title": "Wikidata：唐太宗 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q9701#P26"
-    }
-   ]
-  },
-  {
-   "a": "Q8251464",
-   "b": "Q986651",
-   "type": "kin",
-   "aIs": "姐妹",
-   "bIs": "兄弟",
-   "src": [
-    {
-     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
-     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
-    }
-   ]
-  },
-  {
-   "a": "Q8251464",
-   "b": "Q987344",
-   "type": "kin",
-   "aIs": "姐妹",
-   "bIs": "兄弟",
-   "src": [
-    {
-     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
-     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
     }
    ]
   },
