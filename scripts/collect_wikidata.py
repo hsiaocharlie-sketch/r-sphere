@@ -409,7 +409,7 @@ def main():
                 od = description(rents[o])
                 lines.append("  - 其他同名候选：%s（%s）%s" % (label(rents[o]), o, "：" + od if od else ""))
         lines.append("- 确认无误后，把 `collect/seeds.json` 里对应的写法改成 `{ \"qid\": \"Q号\" }` 固定下来；匹配错了就写上 `hint` 或直接写 Q 号。")
-        lines.append("- 含有按名字匹配的人物时，即使打开了 auto_merge 也不会自动合并。")
+        lines.append("- 若已打开 auto_merge，本次会自动合并；匹配错了请在 `collect/seeds.json` 里改成带 `hint` 或 Q 号的写法后重新采集，并修正 `data/wikidata.json`。")
     if dups:
         lines += ["", "### 可能与手写数据重复的人物", "名字相同但 id 不同，页面上会显示成两个人。若确认是同一人，请在对应手写数据里补上 `wikidata` 字段，页面会自动合并："]
         for p, f, h in dups:
