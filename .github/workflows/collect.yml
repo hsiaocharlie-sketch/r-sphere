@@ -5,6 +5,9 @@ on:
   push:
     branches: [main]
     paths: ['collect/seeds.json']   # 修改种子人物后自动运行
+  # 想让它定期自动刷新数据，去掉下面两行的 # 号（每周一 11:00 北京时间运行）：
+  # schedule:
+  #   - cron: '0 3 * * 1'
 
 permissions:
   contents: write
@@ -39,4 +42,8 @@ jobs:
           git push origin "$BR"
           gh pr create --base "$BASE" --head "$BR" \
             --title "自动采集：Wikidata 人物关系" --body-file collect_report.md
-
+          # collect/seeds.json 里写 "auto_merge": true 时，自动合并，不再等你审核
+          AUTO=$(python3 -c "import json;print(str(json.load(open('collect/seeds.json',encoding='utf-8')).get('auto_merge',False)).lower())")
+          if [ "$AUTO" = "true" ]; then
+            gh pr merge "$BR" --squash --delete-branch
+          fi
