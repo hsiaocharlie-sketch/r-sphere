@@ -12,6 +12,11 @@
    - `.github/workflows/collect.yml`
    - `collect/seeds.json`
 
+## 最省事的用法：直接填人名
+1. 仓库的 **Actions** 页面，左侧选"从 Wikidata 采集人物关系"，点右边的 **Run workflow**。
+2. 在 **要新增的人名** 框里填人名（可填多个，用逗号分隔，如 `李世民,杨贵妃`），点绿色的 Run workflow。
+3. 程序会把名字追加进 `collect/seeds.json`，再去抓数据，并开一个 Pull Request。到 **Pull requests** 页面核对报告里"按名字匹配"的人物对不对，没问题就 Merge。
+
 ## 使用
 1. 编辑 `collect/seeds.json`，在 `seeds` 里加人物，有三种写法：
    ```json
