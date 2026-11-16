@@ -10,7 +10,8 @@
    "Q464650",
    "Q708621",
    "Q313596",
-   "Q8573"
+   "Q8573",
+   "Q270681"
   ],
   "depth": 2,
   "src": {
@@ -489,6 +490,18 @@
     "Empress Wang"
    ],
    "note": "Tang Dynasty empress"
+  },
+  {
+   "id": "Q713937",
+   "name": "陈晓东",
+   "wikidata": "Q713937",
+   "alias": [
+    "陳曉東",
+    "Daniel Chan",
+    "Daniel Chan Hiu-tung",
+    "Daniel Hiu Tung Chan"
+   ],
+   "note": "香港歌手及演員"
   },
   {
    "id": "Q716051",
@@ -20372,6 +20385,10 @@
    "bIs": "丈夫",
    "src": [
     {
+     "title": "Wikidata：张柏芝 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q270681#P26"
+    },
+    {
      "title": "Wikidata：谢霆锋 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q380579#P26"
     }
@@ -20381,21 +20398,38 @@
      "label": "结婚",
      "date": "2006",
      "src": {
-      "title": "Wikidata：谢霆锋 · 配偶（P26）",
-      "url": "https://www.wikidata.org/wiki/Q380579#P26"
+      "title": "Wikidata：张柏芝 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q270681#P26"
      }
     },
     {
      "label": "关系结束",
      "date": "2011",
      "src": {
-      "title": "Wikidata：谢霆锋 · 配偶（P26）",
-      "url": "https://www.wikidata.org/wiki/Q380579#P26"
+      "title": "Wikidata：张柏芝 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q270681#P26"
      }
     }
    ],
    "to": "2011",
    "status": "past"
+  },
+  {
+   "a": "Q270681",
+   "b": "Q713937",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：张柏芝 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q270681#P451"
+    },
+    {
+     "title": "Wikidata：陈晓东 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q713937#P451"
+    }
+   ]
   },
   {
    "a": "Q27673396",
