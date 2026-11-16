@@ -321,9 +321,35 @@ def find_duplicates(people, data_dir, index):
     return dups
 
 
+def apply_names(cfg, text):
+    """把 Actions 页面里填的人名（逗号、顿号、换行分隔）追加进种子列表；已有的不重复添加。返回新增的名字。"""
+    import re
+    names = [n.strip() for n in re.split(r"[,，、;；\n]+", text or "") if n.strip()]
+    have = set()
+    for s in cfg.get("seeds", []):
+        if isinstance(s, str):
+            have.add(s.lower())
+        else:
+            have.update(str(s.get(k, "")).lower() for k in ("name", "qid"))
+    added = []
+    for n in names:
+        if n.lower() not in have:
+            cfg.setdefault("seeds", []).append(n)
+            have.add(n.lower())
+            added.append(n)
+    return added
+
+
 def main():
     root = os.environ.get("ROOT", ".")
-    cfg = json.load(open(os.path.join(root, "collect", "seeds.json"), encoding="utf-8"))
+    seeds_path = os.path.join(root, "collect", "seeds.json")
+    cfg = json.load(open(seeds_path, encoding="utf-8"))
+    added = apply_names(cfg, os.environ.get("NAMES", ""))
+    if added:      # 写回 seeds.json，这样新加的人会随这次提交保存下来
+        with open(seeds_path, "w", encoding="utf-8") as f:
+            json.dump(cfg, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+        print("本次新增种子：" + "、".join(added))
     depth = int(cfg.get("depth", 1))
     max_people = int(cfg.get("max_people", 150))
     seeds, expects, matched = [], {}, []
