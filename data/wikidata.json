@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "name": "Wikidata 自动采集（机器生成，请勿手工修改）",
+  "generated_by": "scripts/collect_wikidata.py",
+  "seeds": [
+   "Q16766"
+  ],
+  "depth": 1,
+  "src": {
+   "title": "Wikidata",
+   "url": "https://www.wikidata.org"
+  }
+ },
+ "people": [
+  {
+   "id": "Q16766",
+   "name": "刘德华",
+   "wikidata": "Q16766",
+   "alias": [
+    "Andy Lau",
+    "劉德華",
+    "华仔",
+    "華仔",
+    "Lau Tak Wah",
+    "Andy Lau Tak-wah"
+   ],
+   "note": "香港演员及歌手"
+  },
+  {
+   "id": "Q9194014",
+   "name": "朱丽倩",
+   "wikidata": "Q9194014",
+   "alias": [
+    "朱麗倩",
+    "Carol Chu",
+    "Carol",
+    "Zhu Liqian",
+    "Carol Chu Lai-chien"
+   ],
+   "note": "中國演員劉德華之妻"
+  }
+ ],
+ "relations": [
+  {
+   "a": "Q16766",
+   "b": "Q9194014",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：刘德华 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16766#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2008",
+     "src": {
+      "title": "Wikidata：刘德华 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16766#P26"
+     }
+    }
+   ]
+  }
+ ]
+}
