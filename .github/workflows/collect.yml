@@ -2,6 +2,12 @@ name: 从 Wikidata 采集人物关系
 
 on:
   workflow_dispatch:            # 在 Actions 页面手动点 Run workflow
+    inputs:
+      names:
+        description: '要新增的人名（可留空；多个用逗号分隔，如：李世民,杨贵妃）'
+        required: false
+        default: ''
+        type: string
   push:
     branches: [main]
     paths: ['collect/seeds.json']   # 修改种子人物后自动运行
@@ -22,6 +28,7 @@ jobs:
       - name: 采集
         env:
           REPORT: collect_report.md
+          NAMES: ${{ github.event.inputs.names }}
         run: python3 scripts/collect_wikidata.py
 
       - name: 有变化时开一个 Pull Request（由你审核后再合并）
@@ -29,7 +36,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           BASE: ${{ github.event.repository.default_branch }}
         run: |
-          if [ -z "$(git status --porcelain data)" ]; then
+          if [ -z "$(git status --porcelain data collect)" ]; then
             echo "数据没有变化，不需要提交。"
             exit 0
           fi
@@ -37,7 +44,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BR"
-          git add data
+          git add data collect/seeds.json
           git commit -m "自动采集：Wikidata 人物关系"
           git push origin "$BR"
           gh pr create --base "$BASE" --head "$BR" \
