@@ -1,0 +1,2127 @@
+{
+ "meta": {
+  "name": "Wikidata 自动采集（机器生成，请勿手工修改）",
+  "generated_by": "scripts/collect_wikidata.py",
+  "seeds": [
+   "Q16766",
+   "Q9701"
+  ],
+  "depth": 1,
+  "src": {
+   "title": "Wikidata",
+   "url": "https://www.wikidata.org"
+  }
+ },
+ "people": [
+  {
+   "id": "Q9700",
+   "name": "李渊",
+   "wikidata": "Q9700",
+   "alias": [
+    "Emperor Gaozu of Tang",
+    "李淵",
+    "唐高祖",
+    "唐国公",
+    "怡妍",
+    "Shude",
+    "Lǐ Yuān",
+    "Taiwu"
+   ],
+   "note": "唐朝开国皇帝"
+  },
+  {
+   "id": "Q9701",
+   "name": "唐太宗",
+   "wikidata": "Q9701",
+   "alias": [
+    "Emperor Taizong of Tang",
+    "李世民",
+    "唐文帝",
+    "唐大宗",
+    "太宗",
+    "文武大聖大廣孝皇帝",
+    "李皇帝",
+    "文"
+   ],
+   "note": "唐代皇帝"
+  },
+  {
+   "id": "Q9703",
+   "name": "唐高宗",
+   "wikidata": "Q9703",
+   "alias": [
+    "Emperor Gaozong of Tang",
+    "李治",
+    "為善",
+    "天皇大帝",
+    "高宗",
+    "天皇大聖大弘孝皇帝",
+    "Tianhuang dasheng dahong xiao huangdi",
+    "Li Zhi"
+   ],
+   "note": "唐代皇帝"
+  },
+  {
+   "id": "Q16766",
+   "name": "刘德华",
+   "wikidata": "Q16766",
+   "alias": [
+    "Andy Lau",
+    "劉德華",
+    "华仔",
+    "華仔",
+    "Lau Tak Wah",
+    "Andy Lau Tak-wah"
+   ],
+   "note": "香港演员及歌手"
+  },
+  {
+   "id": "Q699639",
+   "name": "李元吉",
+   "wikidata": "Q699639",
+   "alias": [
+    "Li Yuanji",
+    "巢剌王"
+   ],
+   "note": "唐高祖李渊第四子"
+  },
+  {
+   "id": "Q699664",
+   "name": "李承乾",
+   "wikidata": "Q699664",
+   "alias": [
+    "Li Chengqian",
+    "承乾"
+   ],
+   "note": "唐太宗李世民长子"
+  },
+  {
+   "id": "Q701556",
+   "name": "李恪",
+   "wikidata": "Q701556",
+   "alias": [
+    "Li Ke"
+   ],
+   "note": "Chinese imperial prince"
+  },
+  {
+   "id": "Q703328",
+   "name": "李泰",
+   "wikidata": "Q703328",
+   "alias": [
+    "Li Tai",
+    "惠襃",
+    "恭",
+    "Huipou",
+    "Gong"
+   ],
+   "note": "唐太宗之子"
+  },
+  {
+   "id": "Q711427",
+   "name": "平阳昭公主",
+   "wikidata": "Q711427",
+   "alias": [
+    "平陽昭公主",
+    "Princess Pingyang",
+    "平陽公主",
+    "李秀寧",
+    "李氏(李淵女)",
+    "Princess Zhao of Pingyang",
+    "Li Shi (daughter of Li Yuan)"
+   ],
+   "note": "唐朝公主、唐高祖李渊三女"
+  },
+  {
+   "id": "Q711674",
+   "name": "李建成",
+   "wikidata": "Q711674",
+   "alias": [
+    "Li Jiancheng",
+    "隐太子",
+    "Crown Prince Yin",
+    "Pishamen"
+   ],
+   "note": "唐朝太子"
+  },
+  {
+   "id": "Q855999",
+   "name": "徐惠",
+   "wikidata": "Q855999",
+   "alias": [
+    "Xu Hui",
+    "徐贤妃",
+    "徐賢妃",
+    "Tsui Wai",
+    "Xuxianfei",
+    "Chui Wai"
+   ],
+   "note": "徐惠(627-650)﹐女﹐又名徐贤妃﹐长城人(今浙江长兴)。历朝名媛诗词，古今女史﹐兰闺宝录﹐名媛汇诗﹐名媛诗归有著录。"
+  },
+  {
+   "id": "Q1152149",
+   "name": "长孙皇后",
+   "wikidata": "Q1152149",
+   "alias": [
+    "長孫皇后",
+    "Empress Zhangsun",
+    "长孙无垢",
+    "长孙氏（李世民妻）",
+    "文德",
+    "长孙后(太宗后)",
+    "Wende",
+    "Zhangsun Shi"
+   ],
+   "note": "唐太宗李世民的皇后"
+  },
+  {
+   "id": "Q4307810",
+   "name": "李贞",
+   "wikidata": "Q4307810",
+   "alias": [
+    "Li Zhen",
+    "李貞",
+    "敬王",
+    "貞",
+    "Prince Jing of Yue",
+    "Jingwang",
+    "Zhen"
+   ],
+   "note": "son of Emperor Taizong of Tang"
+  },
+  {
+   "id": "Q4308218",
+   "name": "窦氏",
+   "wikidata": "Q4308218",
+   "alias": [
+    "太穆皇后",
+    "Dou",
+    "太穆顺圣皇后",
+    "窦后(高祖后)",
+    "太穆順聖皇后",
+    "竇后(高祖后)",
+    "竇氏",
+    "Tàimù huánghòu"
+   ],
+   "note": "唐初追尊皇后"
+  },
+  {
+   "id": "Q4308304",
+   "name": "李玄霸",
+   "wikidata": "Q4308304",
+   "alias": [
+    "Li Xuanba",
+    "Lǐ Xuánbà"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q4308808",
+   "name": "李宽",
+   "wikidata": "Q4308808",
+   "alias": [
+    "李寬",
+    "Li Kuan"
+   ],
+   "note": "Tang Dynasty prince"
+  },
+  {
+   "id": "Q4308867",
+   "name": "李祐",
+   "wikidata": "Q4308867",
+   "alias": [
+    "Li You"
+   ],
+   "note": "唐太宗李世民第五子，先后封为宜阳郡王、楚王、燕王、齐王"
+  },
+  {
+   "id": "Q4308980",
+   "name": "李愔",
+   "wikidata": "Q4308980",
+   "alias": [
+    "Li Yin"
+   ],
+   "note": "Tang Dynasty prince"
+  },
+  {
+   "id": "Q4309009",
+   "name": "李恽",
+   "wikidata": "Q4309009",
+   "alias": [
+    "李惲",
+    "Li Yun",
+    "蒋王",
+    "蔣王",
+    "Prince of Xiang",
+    "Li Yun(3)"
+   ],
+   "note": "唐太宗之子"
+  },
+  {
+   "id": "Q4309050",
+   "name": "李慎",
+   "wikidata": "Q4309050",
+   "alias": [
+    "Li Shen"
+   ],
+   "note": "Tang dynasty person CBDB = 188262"
+  },
+  {
+   "id": "Q4309077",
+   "name": "李囂",
+   "wikidata": "Q4309077",
+   "alias": [
+    "Li Xiao"
+   ]
+  },
+  {
+   "id": "Q4309087",
+   "name": "李簡",
+   "wikidata": "Q4309087",
+   "alias": [
+    "Li Jian"
+   ],
+   "note": "son of Emperor Taizong of Tang"
+  },
+  {
+   "id": "Q4309099",
+   "name": "李福",
+   "wikidata": "Q4309099",
+   "alias": [
+    "Li Fu",
+    "Prince of Zhao"
+   ],
+   "note": "son of Emperor Taizong of Tang and Consort Yang"
+  },
+  {
+   "id": "Q4309120",
+   "name": "李明",
+   "wikidata": "Q4309120",
+   "alias": [
+    "Li Ming"
+   ],
+   "note": "Tang dynasty person CBDB = 13882"
+  },
+  {
+   "id": "Q4309207",
+   "name": "襄城公主",
+   "wikidata": "Q4309207",
+   "alias": [
+    "Princess Xiangcheng"
+   ],
+   "note": "princess of the Tang dynasty (died 651)"
+  },
+  {
+   "id": "Q4309884",
+   "name": "汝南公主",
+   "wikidata": "Q4309884",
+   "alias": [
+    "Princess Runan",
+    "李氏(李皇帝女)",
+    "Li Shi(Daughter of Li Huang Di)"
+   ],
+   "note": "tang dynasty princess (died 636)"
+  },
+  {
+   "id": "Q4309898",
+   "name": "南平公主",
+   "wikidata": "Q4309898",
+   "alias": [
+    "Princess Nanping"
+   ]
+  },
+  {
+   "id": "Q4309903",
+   "name": "遂安公主",
+   "wikidata": "Q4309903",
+   "alias": [
+    "Princess Sui'an"
+   ]
+  },
+  {
+   "id": "Q4309910",
+   "name": "李丽质",
+   "wikidata": "Q4309910",
+   "alias": [
+    "李麗質",
+    "Li Lize",
+    "長樂公主",
+    "Li Lizhi",
+    "Changlegongzhu"
+   ],
+   "note": "Princess Changle"
+  },
+  {
+   "id": "Q4309916",
+   "name": "豫章公主",
+   "wikidata": "Q4309916",
+   "alias": [
+    "Princess Yuzhang"
+   ]
+  },
+  {
+   "id": "Q4309922",
+   "name": "巴陵公主",
+   "wikidata": "Q4309922",
+   "alias": [
+    "Princess Baling"
+   ]
+  },
+  {
+   "id": "Q4309933",
+   "name": "普安公主",
+   "wikidata": "Q4309933",
+   "alias": [
+    "Princess Pu'an"
+   ],
+   "note": "历史人物"
+  },
+  {
+   "id": "Q4309944",
+   "name": "東陽公主",
+   "wikidata": "Q4309944",
+   "alias": [
+    "Princess Dongyang"
+   ]
+  },
+  {
+   "id": "Q4309963",
+   "name": "李孟姜",
+   "wikidata": "Q4309963",
+   "alias": [
+    "Li Mengjiang",
+    "臨川公主",
+    "孟姜",
+    "李氏(李世民女)",
+    "李氏",
+    "太臨川長公主",
+    "Princess Linchuan",
+    "Mengjiang"
+   ],
+   "note": "Tang dynasty person CBDB = 139803"
+  },
+  {
+   "id": "Q4309969",
+   "name": "李敬",
+   "wikidata": "Q4309969",
+   "alias": [
+    "Li Jing",
+    "清河公主",
+    "Princess Qinghe"
+   ],
+   "note": "Princess Qinghe"
+  },
+  {
+   "id": "Q4309987",
+   "name": "李淑",
+   "wikidata": "Q4309987",
+   "alias": [
+    "Li Shu",
+    "蘭陵公主",
+    "Princess Lanling"
+   ],
+   "note": "Princess Lanling"
+  },
+  {
+   "id": "Q4310027",
+   "name": "晉安公主",
+   "wikidata": "Q4310027",
+   "alias": [
+    "Princess Jin'an"
+   ]
+  },
+  {
+   "id": "Q4310040",
+   "name": "安康公主",
+   "wikidata": "Q4310040",
+   "alias": [
+    "Princess Ankang"
+   ],
+   "note": "A Chinese princess"
+  },
+  {
+   "id": "Q4310055",
+   "name": "新興公主",
+   "wikidata": "Q4310055",
+   "alias": [
+    "Princess Xinxing"
+   ]
+  },
+  {
+   "id": "Q4310073",
+   "name": "城阳公主",
+   "wikidata": "Q4310073",
+   "alias": [
+    "城陽公主",
+    "Princess Chengyang"
+   ],
+   "note": "A Chinese princese"
+  },
+  {
+   "id": "Q4310081",
+   "name": "高陽公主",
+   "wikidata": "Q4310081",
+   "alias": [
+    "Princess Gaoyang"
+   ],
+   "note": "Tang dynasty princess"
+  },
+  {
+   "id": "Q4310088",
+   "name": "金山公主",
+   "wikidata": "Q4310088",
+   "alias": [
+    "Princess Jinshan"
+   ],
+   "note": "唐太宗之女"
+  },
+  {
+   "id": "Q4310095",
+   "name": "李明達",
+   "wikidata": "Q4310095",
+   "alias": [
+    "Li Mingda",
+    "晋陽公主",
+    "Princess Jinyang"
+   ],
+   "note": "Princess Jinyang"
+  },
+  {
+   "id": "Q4310103",
+   "name": "常山公主",
+   "wikidata": "Q4310103",
+   "alias": [
+    "Princess Changshan"
+   ],
+   "note": "daughter of Emperor Taizong of Tang"
+  },
+  {
+   "id": "Q4310113",
+   "name": "新城公主",
+   "wikidata": "Q4310113",
+   "alias": [
+    "Princess Xincheng",
+    "Princess Hengshan"
+   ],
+   "note": "princess of tang dynasty, born 634"
+  },
+  {
+   "id": "Q8251352",
+   "name": "韦珪",
+   "wikidata": "Q8251352",
+   "alias": [
+    "韋珪",
+    "Wei Guifei",
+    "聿珪",
+    "韋貴妃",
+    "澤",
+    "Yu Gui",
+    "Ze"
+   ],
+   "note": "Tang dynasty person CBDB = 149099"
+  },
+  {
+   "id": "Q8251372",
+   "name": "王氏",
+   "wikidata": "Q8251372",
+   "alias": [
+    "Lady Wang"
+   ]
+  },
+  {
+   "id": "Q8251456",
+   "name": "巢王妃杨氏",
+   "wikidata": "Q8251456",
+   "alias": [
+    "Nest King, Yang"
+   ]
+  },
+  {
+   "id": "Q8251464",
+   "name": "杨妃",
+   "wikidata": "Q8251464",
+   "alias": [
+    "Consort Yang",
+    "唐太宗杨妃",
+    "月容公主",
+    "若惜公主",
+    "如意公主",
+    "Consort Yang of Emperor Taizong",
+    "Princess Yuerong",
+    "Princess Ruoxi"
+   ],
+   "note": "daughter of Emperor Yang of Sui and concubine of Emperor Taizong of Tang"
+  },
+  {
+   "id": "Q8251489",
+   "name": "燕德妃",
+   "wikidata": "Q8251489",
+   "alias": [
+    "Yan Defei"
+   ]
+  },
+  {
+   "id": "Q8251514",
+   "name": "阴妃",
+   "wikidata": "Q8251514",
+   "alias": [
+    "Yin Fei"
+   ]
+  },
+  {
+   "id": "Q8262893",
+   "name": "杨贵妃",
+   "wikidata": "Q8262893",
+   "alias": [
+    "楊貴妃",
+    "Consort Yang",
+    "Yang Guifei",
+    "Consort Yang of Emperor Taizong",
+    "Yang Guifei of Emperor Taizong"
+   ],
+   "note": "唐太宗的妃嫔"
+  },
+  {
+   "id": "Q9194014",
+   "name": "朱丽倩",
+   "wikidata": "Q9194014",
+   "alias": [
+    "朱麗倩",
+    "Carol Chu",
+    "Carol",
+    "Zhu Liqian",
+    "Carol Chu Lai-chien"
+   ],
+   "note": "中國演員劉德華之妻"
+  },
+  {
+   "id": "Q10332683",
+   "name": "李元懿",
+   "wikidata": "Q10332683",
+   "alias": [
+    "Li Yuanyi",
+    "Lǐ Yuányì"
+   ],
+   "note": "son of Gaozu emperor"
+  },
+  {
+   "id": "Q10877398",
+   "name": "丹陽公主",
+   "wikidata": "Q10877398",
+   "alias": [
+    "Danyang",
+    "Dān​yáng gōng​zhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q10878912",
+   "name": "九江公主",
+   "wikidata": "Q10878912",
+   "alias": [
+    "Jiujiang",
+    "Jiǔjiāng gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q10905008",
+   "name": "千金公主 (唐高祖)",
+   "wikidata": "Q10905008",
+   "alias": [
+    "Qianjin",
+    "千金公主 (李渊)",
+    "Qiānjīn gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q10908057",
+   "name": "南昌公主",
+   "wikidata": "Q10908057",
+   "alias": [
+    "Nanchang",
+    "Nán​chāng gōng​zhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q10946662",
+   "name": "安平公主 (唐高祖)",
+   "wikidata": "Q10946662",
+   "alias": [
+    "Anping",
+    "Ān​píng gōng​zhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q10975505",
+   "name": "李元婴",
+   "wikidata": "Q10975505",
+   "alias": [
+    "Li Yuanying",
+    "李元嬰",
+    "Lǐ Yuányīng"
+   ],
+   "note": "唐高祖李渊第二十二子"
+  },
+  {
+   "id": "Q11060429",
+   "name": "常樂公主",
+   "wikidata": "Q11060429",
+   "alias": [
+    "Changle",
+    "Chánglè gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q11064905",
+   "name": "廬陵公主 (唐高祖)",
+   "wikidata": "Q11064905",
+   "alias": [
+    "Luling",
+    "廬陵公主 (唐)",
+    "Lúlíng gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q11095406",
+   "name": "李元亨",
+   "wikidata": "Q11095406",
+   "alias": [
+    "Li Yuanheng",
+    "Lǐ Yuánhēng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095408",
+   "name": "李元则",
+   "wikidata": "Q11095408",
+   "alias": [
+    "李元則",
+    "Li Yuanze",
+    "Lǐ Yuánzé"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095409",
+   "name": "李元名",
+   "wikidata": "Q11095409",
+   "alias": [
+    "Li Yuanming",
+    "Lǐ Yuánmíng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095411",
+   "name": "李元嘉",
+   "wikidata": "Q11095411",
+   "alias": [
+    "Li Yuanjia",
+    "Lǐ Yuánjiā"
+   ],
+   "note": "son of emperor Gaozu (619-688)"
+  },
+  {
+   "id": "Q11095417",
+   "name": "李元庆",
+   "wikidata": "Q11095417",
+   "alias": [
+    "李元慶",
+    "Li Yuanqing",
+    "Lǐ Yuánqìng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095420",
+   "name": "李元方",
+   "wikidata": "Q11095420",
+   "alias": [
+    "Li Yuanfang",
+    "Lǐ Yuánfāng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095421",
+   "name": "李元昌",
+   "wikidata": "Q11095421",
+   "alias": [
+    "Li Yuanchang",
+    "Lǐ Yuánchāng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095423",
+   "name": "李元景",
+   "wikidata": "Q11095423",
+   "alias": [
+    "Li Yuanjing",
+    "Lǐ Yuánjǐng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095425",
+   "name": "李元晓",
+   "wikidata": "Q11095425",
+   "alias": [
+    "李元曉",
+    "Li Yuanxiao",
+    "Lǐ Yuánxiǎo"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095431",
+   "name": "李元祥",
+   "wikidata": "Q11095431",
+   "alias": [
+    "Li Yuanxiang",
+    "Lǐ Yuánxiáng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095432",
+   "name": "李元礼",
+   "wikidata": "Q11095432",
+   "alias": [
+    "李元禮",
+    "Li Yuanli",
+    "Lǐ Yuánlǐ"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095437",
+   "name": "李元裕",
+   "wikidata": "Q11095437",
+   "alias": [
+    "Li Yuanyu",
+    "Lǐ Yuányù"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11095439",
+   "name": "李元轨",
+   "wikidata": "Q11095439",
+   "alias": [
+    "李元軌",
+    "Li Yuangui",
+    "Lǐ Yuánguǐ"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11096905",
+   "name": "李智雲",
+   "wikidata": "Q11096905",
+   "alias": [
+    "Li Zhiyun",
+    "Lǐ Zhìyún"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11098320",
+   "name": "李灵夔",
+   "wikidata": "Q11098320",
+   "alias": [
+    "李靈夔",
+    "Li Lingkui",
+    "Lǐ Língkuí"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11098362",
+   "name": "李凤",
+   "wikidata": "Q11098362",
+   "alias": [
+    "李鳳",
+    "Li Feng",
+    "李元鳳",
+    "李鳳 (唐)",
+    "季成",
+    "孺慕",
+    "莊王",
+    "Lǐ Fèng"
+   ],
+   "note": "son of emperor Gaozu"
+  },
+  {
+   "id": "Q11111831",
+   "name": "桂阳公主",
+   "wikidata": "Q11111831",
+   "alias": [
+    "桂陽公主",
+    "Guiyang",
+    "長慶公主",
+    "長廣公主 (唐)",
+    "李公主",
+    "Guìyáng gōngzhǔ",
+    "Li Gongzhu"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q11152626",
+   "name": "淮南公主 (唐高祖)",
+   "wikidata": "Q11152626",
+   "alias": [
+    "Li Chengxia",
+    "李澄霞",
+    "淮南公主 (唐)",
+    "Lǐ Chéngxiá"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q11496708",
+   "name": "房陵公主",
+   "wikidata": "Q11496708",
+   "alias": [
+    "Fangling",
+    "Fánglíng gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q11669188",
+   "name": "高密公主",
+   "wikidata": "Q11669188",
+   "alias": [
+    "Gaomi",
+    "李氏(大長公主)",
+    "Gāo​mì gōng​zhǔ",
+    "Li Shi(Dazhanggongzhu)"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q15951700",
+   "name": "萬春公主 (唐高祖)",
+   "wikidata": "Q15951700",
+   "alias": [
+    "Wanchun",
+    "Wànchūn gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q15955551",
+   "name": "衡陽公主",
+   "wikidata": "Q15955551",
+   "alias": [
+    "Hengyang",
+    "Héng​yáng gōng​zhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q16603543",
+   "name": "真定公主",
+   "wikidata": "Q16603543",
+   "alias": [
+    "Zhending",
+    "Zhēndìng gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q16603582",
+   "name": "臨海公主",
+   "wikidata": "Q16603582",
+   "alias": [
+    "Linhai",
+    "Lín​hǎi gōng​zhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q16603624",
+   "name": "襄陽公主",
+   "wikidata": "Q16603624",
+   "alias": [
+    "Xiangyang",
+    "Xiāngyáng gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q16603689",
+   "name": "长沙公主",
+   "wikidata": "Q16603689",
+   "alias": [
+    "長沙公主",
+    "Changsha",
+    "Chángshā gōngzhǔ",
+    "Chang Shagongzhu"
+   ],
+   "note": "eldest daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q16603735",
+   "name": "館陶公主",
+   "wikidata": "Q16603735",
+   "alias": [
+    "Guantao",
+    "Guǎntáo gōngzhǔ"
+   ],
+   "note": "daughter of emperor Gaozu"
+  }
+ ],
+ "relations": [
+  {
+   "a": "Q10332683",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10877398",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10878912",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10905008",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10908057",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10946662",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11060429",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11064905",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095406",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095408",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095409",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095411",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095420",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095421",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095423",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095425",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095432",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095437",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095439",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11096905",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11098320",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11111831",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11152626",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11496708",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q1152149",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q11669188",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q15951700",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q15955551",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16603543",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16603582",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16603624",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16603689",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16603735",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16766",
+   "b": "Q9194014",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：刘德华 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16766#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2008",
+     "src": {
+      "title": "Wikidata：刘德华 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16766#P26"
+     }
+    }
+   ]
+  },
+  {
+   "a": "Q4308218",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q4308304",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q699639",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q711427",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q711674",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q8251352",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8251372",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8251456",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8251464",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8251489",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8251514",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8262893",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q855999",
+   "b": "Q9701",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q9700",
+   "b": "Q9701",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4307810",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4308808",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4308867",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4308980",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309009",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309050",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309077",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309087",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309099",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309120",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309207",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309884",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309898",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309903",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309910",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309916",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309922",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309933",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309944",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309963",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309969",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4309987",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310027",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310040",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310055",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310073",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310081",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310088",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310095",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310103",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q4310113",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q699664",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q701556",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q703328",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9701",
+   "b": "Q9703",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐太宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9701#P40"
+    }
+   ]
+  }
+ ]
+}
