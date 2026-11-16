@@ -2,6 +2,7 @@
  "start": "baoyu",
  "files": [
   "hongloumeng.json",
-  "andylau.json"
+  "andylau.json",
+  "wikidata.json"
  ]
 }
