@@ -1,0 +1,255 @@
+{
+ "meta": {
+  "name": "章子怡（公开信息）"
+ },
+ "people": [
+  {
+   "id": "zhangziyi",
+   "name": "章子怡",
+   "alias": [
+    "Zhang Ziyi"
+   ],
+   "wikidata": "Q180852",
+   "note": "中国演员"
+  },
+  {
+   "id": "wangfeng",
+   "name": "汪峰",
+   "alias": [
+    "Wang Feng"
+   ],
+   "wikidata": "Q7967432",
+   "note": "中国摇滚歌手"
+  },
+  {
+   "id": "xingxing",
+   "name": "醒醒",
+   "alias": [
+    "Wang Xingxing"
+   ],
+   "note": "章子怡与汪峰之女（未成年人，仅收录姓名与关系）"
+  },
+  {
+   "id": "vivinevo",
+   "name": "Vivi Nevo",
+   "alias": [
+    "Aviv Nevo",
+    "ViVi Nevo"
+   ],
+   "note": "以色列创业投资人（据维基百科）"
+  },
+  {
+   "id": "sabeining",
+   "name": "撒贝宁",
+   "alias": [
+    "Sa Beining"
+   ],
+   "note": "中央电视台主持人（据维基百科）"
+  },
+  {
+   "id": "zhangzinan",
+   "name": "章子男",
+   "alias": [
+    "Zhang Zinan"
+   ],
+   "note": "章子怡之兄"
+  },
+  {
+   "id": "zhangyuanxiao",
+   "name": "Zhang Yuanxiao",
+   "note": "章子怡之父，会计师、后为经济师（据维基百科，中文写法待补）"
+  },
+  {
+   "id": "lizhousheng",
+   "name": "Li Zhousheng",
+   "note": "章子怡之母，幼儿园教师（据维基百科，中文写法待补）"
+  }
+ ],
+ "relations": [
+  {
+   "a": "wangfeng",
+   "b": "zhangziyi",
+   "type": "spouse",
+   "aIs": "前夫",
+   "bIs": "前妻",
+   "status": "past",
+   "from": "2015",
+   "to": "2023-10",
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2015",
+     "note": "各来源的具体日期不一致：维基百科记为2015年3月，界面新闻记为2015年5月10日（并称2月8日有娱乐报道其以钻戒求婚）",
+     "src": [
+      {
+       "title": "维基百科：Zhang Ziyi",
+       "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+      },
+      {
+       "title": "界面新闻：李冰冰不屑范冰冰，想和章子怡比…（约2016年）",
+       "url": "https://m.jiemian.com/article/831393.html"
+      }
+     ]
+    },
+    {
+     "label": "宣布离婚",
+     "date": "2023-10-23",
+     "note": "声明称\"经历了八年婚姻的我们经过慎重考量与商议，决定解除婚姻关系\"，并表示不再就此回应；报道未写明具体的离婚登记日期。外界另有传言，两家媒体均称未获证实",
+     "src": [
+      {
+       "title": "美丽佳人（台湾）：章子怡汪峰离婚（2023-10-23）",
+       "url": "https://www.marieclaire.com.tw/entertainment/news/75616/zhang-ziyi-divorced"
+      },
+      {
+       "title": "Taiwan News 中文版：章子怡、汪峰8年婚断（2023-10-23）",
+       "url": "https://www.taiwannews.com.tw/zh/news/5025753"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "a": "xingxing",
+   "b": "zhangziyi",
+   "type": "kin",
+   "aIs": "女儿",
+   "bIs": "母亲",
+   "src": [
+    {
+     "title": "维基百科：Zhang Ziyi",
+     "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+    },
+    {
+     "title": "界面新闻：李冰冰不屑范冰冰，想和章子怡比…（约2016年）",
+     "url": "https://m.jiemian.com/article/831393.html"
+    }
+   ]
+  },
+  {
+   "a": "xingxing",
+   "b": "wangfeng",
+   "type": "kin",
+   "aIs": "女儿",
+   "bIs": "父亲",
+   "src": [
+    {
+     "title": "维基百科：Zhang Ziyi",
+     "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+    },
+    {
+     "title": "界面新闻：李冰冰不屑范冰冰，想和章子怡比…（约2016年）",
+     "url": "https://m.jiemian.com/article/831393.html"
+    }
+   ]
+  },
+  {
+   "a": "zhangziyi",
+   "b": "vivinevo",
+   "type": "love",
+   "status": "past",
+   "aIs": "前未婚妻",
+   "bIs": "前未婚夫",
+   "from": "2008",
+   "to": "2010",
+   "events": [
+    {
+     "label": "订婚",
+     "date": "2008",
+     "note": "据中新网转述，2008年宣布订婚",
+     "src": [
+      {
+       "title": "维基百科：Zhang Ziyi",
+       "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+      },
+      {
+       "title": "中新网转载华西都市报（2009-08-07）",
+       "url": "https://www.chinanews.com/yl/yl-yrfc/news/2009/08-07/1807962.shtml"
+      }
+     ]
+    },
+    {
+     "label": "婚期推迟",
+     "date": "2009-07",
+     "note": "章子怡发表声明，称推迟婚期是因为\"两人近来事务繁忙\"",
+     "src": {
+      "title": "中新网转载华西都市报（2009-08-07）",
+      "url": "https://www.chinanews.com/yl/yl-yrfc/news/2009/08-07/1807962.shtml"
+     }
+    },
+    {
+     "label": "分手",
+     "date": "2010",
+     "note": "维基百科记为2010年分手，并引述章子怡的话：曾努力维系但没有成功，没有遗憾",
+     "src": {
+      "title": "维基百科：Zhang Ziyi",
+      "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+     }
+    }
+   ]
+  },
+  {
+   "a": "zhangziyi",
+   "b": "sabeining",
+   "type": "love",
+   "status": "rumor",
+   "aIs": "绯闻女友",
+   "bIs": "绯闻男友",
+   "events": [
+    {
+     "label": "媒体报道两人交往",
+     "date": "2011",
+     "note": "维基百科记为2011年起交往、后来分手；但据2012年9月报道，双方均未明确承认或否认：撒贝宁被问到时笑而不答，章子怡称\"心里有数就是\"",
+     "src": [
+      {
+       "title": "维基百科：Zhang Ziyi",
+       "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+      },
+      {
+       "title": "新浪新闻转载东方今报（2012-09-21）",
+       "url": "https://news.sina.com.cn/o/2012-09-21/150925225286.shtml"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "a": "zhangyuanxiao",
+   "b": "zhangziyi",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": {
+    "title": "维基百科：Zhang Ziyi",
+    "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+   }
+  },
+  {
+   "a": "lizhousheng",
+   "b": "zhangziyi",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": {
+    "title": "维基百科：Zhang Ziyi",
+    "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+   }
+  },
+  {
+   "a": "zhangzinan",
+   "b": "zhangziyi",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "妹妹",
+   "src": [
+    {
+     "title": "维基百科：Zhang Ziyi",
+     "url": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
+    },
+    {
+     "title": "中新网转载华西都市报（2009-08-07）",
+     "url": "https://www.chinanews.com/yl/yl-yrfc/news/2009/08-07/1807962.shtml"
+    }
+   ]
+  }
+ ]
+}
