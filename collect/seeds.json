@@ -1,1 +1,8 @@
-test
+{
+  "depth": 1,
+  "max_people": 150,
+  "seeds": [
+    { "qid": "Q16766", "expect": "Andy Lau", "note": "刘德华（note 只给人看，程序不读）" }
+  ]
+}
+
