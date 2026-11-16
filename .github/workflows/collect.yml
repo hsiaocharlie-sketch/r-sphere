@@ -44,6 +44,6 @@ jobs:
             --title "自动采集：Wikidata 人物关系" --body-file collect_report.md
           # collect/seeds.json 里写 "auto_merge": true 时，自动合并，不再等你审核
           AUTO=$(python3 -c "import json;print(str(json.load(open('collect/seeds.json',encoding='utf-8')).get('auto_merge',False)).lower())")
-          if [ "$AUTO" = "true" ]; then
+          if [ "$AUTO" = "true" ] && [ ! -f collect_review.flag ]; then
             gh pr merge "$BR" --squash --delete-branch
           fi
