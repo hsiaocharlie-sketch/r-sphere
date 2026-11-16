@@ -82,6 +82,54 @@
    "note": "唐代皇帝"
   },
   {
+   "id": "Q9717",
+   "name": "唐中宗",
+   "wikidata": "Q9717",
+   "alias": [
+    "Emperor Zhongzong of Tang",
+    "李显",
+    "李哲",
+    "李顯",
+    "大和大聖大昭孝皇帝",
+    "中宗",
+    "孝和皇帝",
+    "李皇上"
+   ],
+   "note": "唐朝皇帝"
+  },
+  {
+   "id": "Q9722",
+   "name": "唐睿宗",
+   "wikidata": "Q9722",
+   "alias": [
+    "Emperor Ruizong of Tang",
+    "李旦",
+    "相王李旦",
+    "Li Si",
+    "Li Xulun",
+    "Wu Lun",
+    "Li Dan",
+    "Lǐ Dàn"
+   ],
+   "note": "唐朝皇帝"
+  },
+  {
+   "id": "Q9738",
+   "name": "武则天",
+   "wikidata": "Q9738",
+   "alias": [
+    "Wu Zetian",
+    "武則天",
+    "武媚娘",
+    "則天武后",
+    "天后",
+    "武曌",
+    "武瞾",
+    "武昭仪"
+   ],
+   "note": "武周皇帝，中國史上唯一的女皇"
+  },
+  {
    "id": "Q16766",
    "name": "刘德华",
    "wikidata": "Q16766",
@@ -129,6 +177,22 @@
    "note": "中国电影女演员"
   },
   {
+   "id": "Q270681",
+   "name": "张柏芝",
+   "wikidata": "Q270681",
+   "alias": [
+    "張栢芝",
+    "Cecilia Cheung",
+    "張柏芝",
+    "张栢芝",
+    "柏芝張",
+    "柏芝",
+    "栢芝",
+    "栢芝張"
+   ],
+   "note": "香港女演员"
+  },
+  {
    "id": "Q380579",
    "name": "谢霆锋",
    "wikidata": "Q380579",
@@ -167,6 +231,16 @@
    "note": "唐高祖李渊第四子"
   },
   {
+   "id": "Q699657",
+   "name": "李素节",
+   "wikidata": "Q699657",
+   "alias": [
+    "李素節",
+    "Li Sujie"
+   ],
+   "note": "Chinese prince"
+  },
+  {
    "id": "Q699664",
    "name": "李承乾",
    "wikidata": "Q699664",
@@ -197,6 +271,40 @@
     "Gong"
    ],
    "note": "唐太宗之子"
+  },
+  {
+   "id": "Q706438",
+   "name": "太平公主",
+   "wikidata": "Q706438",
+   "alias": [
+    "Princess Taiping",
+    "李令月"
+   ],
+   "note": "武则天之女，唐代女政治家"
+  },
+  {
+   "id": "Q708310",
+   "name": "李忠",
+   "wikidata": "Q708310",
+   "alias": [
+    "Li Zhong"
+   ],
+   "note": "crown prince of the Tang Dynasty (643-665)"
+  },
+  {
+   "id": "Q708365",
+   "name": "李弘",
+   "wikidata": "Q708365",
+   "alias": [
+    "Li Hong",
+    "唐義宗",
+    "义宗",
+    "孝敬皇帝",
+    "李宏",
+    "Lǐ Hóng",
+    "Tang Yizong"
+   ],
+   "note": "Tang Dynasty crown prince"
   },
   {
    "id": "Q708621",
@@ -240,6 +348,31 @@
    "note": "唐朝太子"
   },
   {
+   "id": "Q712916",
+   "name": "李贤",
+   "wikidata": "Q712916",
+   "alias": [
+    "李賢",
+    "Li Xian",
+    "章懷太子",
+    "章怀太子",
+    "李德",
+    "悼",
+    "仁",
+    "明允"
+   ],
+   "note": "唐高宗和武则天之子"
+  },
+  {
+   "id": "Q713112",
+   "name": "王皇后",
+   "wikidata": "Q713112",
+   "alias": [
+    "Empress Wang"
+   ],
+   "note": "Tang Dynasty empress"
+  },
+  {
    "id": "Q717397",
    "name": "李亚鹏",
    "wikidata": "Q717397",
@@ -262,6 +395,40 @@
     "Chui Wai"
    ],
    "note": "徐惠(627-650)﹐女﹐又名徐贤妃﹐长城人(今浙江长兴)。历朝名媛诗词，古今女史﹐兰闺宝录﹐名媛汇诗﹐名媛诗归有著录。"
+  },
+  {
+   "id": "Q986651",
+   "name": "杨暕",
+   "wikidata": "Q986651",
+   "alias": [
+    "楊暕",
+    "Yang Jian"
+   ],
+   "note": "Sui Dynasty prince, son of Emperor Yang"
+  },
+  {
+   "id": "Q987344",
+   "name": "杨杲",
+   "wikidata": "Q987344",
+   "alias": [
+    "楊杲",
+    "Yang Gao"
+   ],
+   "note": "Chinese prince (607-618)"
+  },
+  {
+   "id": "Q1062868",
+   "name": "杨昭",
+   "wikidata": "Q1062868",
+   "alias": [
+    "楊昭",
+    "Yang Zhao",
+    "世宗",
+    "隋孝成帝",
+    "孝成皇帝",
+    "隋世宗"
+   ],
+   "note": "Sui Dynasty imperial prince"
   },
   {
    "id": "Q1152149",
@@ -293,6 +460,65 @@
     "Changsun Wuji"
    ],
    "note": "中国唐朝政治人物"
+  },
+  {
+   "id": "Q1564628",
+   "name": "杨师道",
+   "wikidata": "Q1564628",
+   "alias": [
+    "楊師道",
+    "Yang Shidao",
+    "景猷",
+    "懿",
+    "Yi",
+    "Jingyou"
+   ],
+   "note": "Sui Dynasty Chancellor"
+  },
+  {
+   "id": "Q2146157",
+   "name": "谢贤",
+   "wikidata": "Q2146157",
+   "alias": [
+    "Patrick Tse",
+    "謝賢",
+    "谢家钰",
+    "Xie Xian",
+    "Tse Ka-yuk",
+    "Patrick Tse Yin",
+    "Tse Yin"
+   ],
+   "note": "香港男演员（1936-2026）"
+  },
+  {
+   "id": "Q3307106",
+   "name": "谢婷婷",
+   "wikidata": "Q3307106",
+   "alias": [
+    "謝婷婷",
+    "Jennifer Tse",
+    "Xie Tingting",
+    "Jennifer Tse Ting-ting"
+   ],
+   "note": "香港女演員、模特兒"
+  },
+  {
+   "id": "Q3382199",
+   "name": "萧淑妃",
+   "wikidata": "Q3382199",
+   "alias": [
+    "蕭淑妃",
+    "Consort Xiao"
+   ],
+   "note": "Tang Dynasty imperial consort"
+  },
+  {
+   "id": "Q4022409",
+   "name": "阴世师",
+   "wikidata": "Q4022409",
+   "alias": [
+    "陰世師"
+   ]
   },
   {
    "id": "Q4121049",
@@ -341,6 +567,16 @@
     "Zhōu Měiqīng"
    ],
    "note": "中华民国第一夫人"
+  },
+  {
+   "id": "Q4255471",
+   "name": "王焘",
+   "wikidata": "Q4255471",
+   "alias": [
+    "王燾",
+    "Wang Tao",
+    "王涛"
+   ]
   },
   {
    "id": "Q4307810",
@@ -731,6 +967,63 @@
    "note": "Sui dynasty person CBDB = 31065"
   },
   {
+   "id": "Q4313077",
+   "name": "李孝",
+   "wikidata": "Q4313077",
+   "alias": [
+    "Li Xiao"
+   ],
+   "note": "son of Emperor Gaozong of Tang"
+  },
+  {
+   "id": "Q4313099",
+   "name": "李上金",
+   "wikidata": "Q4313099",
+   "alias": [
+    "Li Shangjin"
+   ],
+   "note": "Chinese prince"
+  },
+  {
+   "id": "Q4313215",
+   "name": "李下玉",
+   "wikidata": "Q4313215",
+   "alias": [
+    "Li Xiayu",
+    "義陽公主",
+    "Grand Princess Jincheng"
+   ],
+   "note": "Princess Yiyang"
+  },
+  {
+   "id": "Q4313238",
+   "name": "高安公主",
+   "wikidata": "Q4313238",
+   "alias": [
+    "Princess Gao'an"
+   ],
+   "note": "princess of the Tang dynasty (649–714)"
+  },
+  {
+   "id": "Q4313257",
+   "name": "安定思公主",
+   "wikidata": "Q4313257",
+   "alias": [
+    "Princess Si of Anding"
+   ],
+   "note": "daughter of Wu Zetian"
+  },
+  {
+   "id": "Q5067754",
+   "name": "柴绍",
+   "wikidata": "Q5067754",
+   "alias": [
+    "Chai Shao",
+    "柴紹"
+   ],
+   "note": "military leader"
+  },
+  {
    "id": "Q5071615",
    "name": "张菲",
    "wikidata": "Q5071615",
@@ -746,6 +1039,28 @@
    "note": "台湾电视主持人"
   },
   {
+   "id": "Q6538693",
+   "name": "李冲",
+   "wikidata": "Q6538693",
+   "alias": [
+    "Li Chong"
+   ],
+   "note": "唐朝"
+  },
+  {
+   "id": "Q7220251",
+   "name": "狄波拉",
+   "wikidata": "Q7220251",
+   "alias": [
+    "Deborah Lee",
+    "李敏儀",
+    "李嬙",
+    "拉姑",
+    "Di Bola"
+   ],
+   "note": "香港女演员及节目主持人"
+  },
+  {
    "id": "Q7967432",
    "name": "汪峰",
    "wikidata": "Q7967432",
@@ -753,6 +1068,15 @@
     "Wang Feng"
    ],
    "note": "中国歌手"
+  },
+  {
+   "id": "Q8249771",
+   "name": "劉宮人 (唐高宗)",
+   "wikidata": "Q8249771",
+   "alias": [
+    "Consort Liu (Gaozong)"
+   ],
+   "note": "consort of emperor gaozong of tang"
   },
   {
    "id": "Q8251352",
@@ -860,6 +1184,15 @@
    "note": "concubine of emperor Gaozu"
   },
   {
+   "id": "Q8255026",
+   "name": "和思皇后",
+   "wikidata": "Q8255026",
+   "alias": [
+    "Princess Zhao"
+   ],
+   "note": "唐中宗第一任妻子"
+  },
+  {
    "id": "Q8262885",
    "name": "尹德妃",
    "wikidata": "Q8262885",
@@ -881,6 +1214,18 @@
     "Yang Guifei of Emperor Taizong"
    ],
    "note": "唐太宗的妃嫔"
+  },
+  {
+   "id": "Q8930368",
+   "name": "蔡沛然",
+   "wikidata": "Q8930368",
+   "alias": [
+    "Allen Pei-Jan Tsai",
+    "Cai Peiran",
+    "Allen Tsai",
+    "Tsai Pei-jan"
+   ],
+   "note": "马唯中之夫"
   },
   {
    "id": "Q9044385",
@@ -912,6 +1257,25 @@
    "note": "中國演員劉德華之妻"
   },
   {
+   "id": "Q9450939",
+   "name": "刘玄意",
+   "wikidata": "Q9450939",
+   "alias": [
+    "Liu Xuanyi",
+    "劉玄意"
+   ],
+   "note": "Tang dynasty person CBDB = 20213"
+  },
+  {
+   "id": "Q9591598",
+   "name": "史仁表",
+   "wikidata": "Q9591598",
+   "alias": [
+    "Shi Renbiao"
+   ],
+   "note": "7th-century Tang army general"
+  },
+  {
    "id": "Q10332683",
    "name": "李元懿",
    "wikidata": "Q10332683",
@@ -920,6 +1284,90 @@
     "Lǐ Yuányì"
    ],
    "note": "son of Gaozu emperor"
+  },
+  {
+   "id": "Q10338468",
+   "name": "李蔼 (唐朝宗室)",
+   "wikidata": "Q10338468",
+   "alias": [
+    "Li Ai",
+    "李藹"
+   ],
+   "note": "Tang dynasty person CBDB = 188065"
+  },
+  {
+   "id": "Q10340792",
+   "name": "杜荷",
+   "wikidata": "Q10340792",
+   "alias": [
+    "Du He"
+   ],
+   "note": "Tang dynasty person CBDB = 173235"
+  },
+  {
+   "id": "Q10350884",
+   "name": "柴哲威",
+   "wikidata": "Q10350884",
+   "alias": [
+    "Chai Zhewei"
+   ]
+  },
+  {
+   "id": "Q10410419",
+   "name": "獨孤諶",
+   "wikidata": "Q10410419"
+  },
+  {
+   "id": "Q10414698",
+   "name": "王敬直",
+   "wikidata": "Q10414698",
+   "alias": [
+    "Wang Jingzhi"
+   ],
+   "note": "Tang dynasty person CBDB = 33015"
+  },
+  {
+   "id": "Q10451826",
+   "name": "程怀亮",
+   "wikidata": "Q10451826",
+   "alias": [
+    "Cheng Huailiang"
+   ]
+  },
+  {
+   "id": "Q10513986",
+   "name": "薛瓘",
+   "wikidata": "Q10513986",
+   "alias": [
+    "Xue Guan"
+   ],
+   "note": "Tang dynasty politician"
+  },
+  {
+   "id": "Q10513994",
+   "name": "薛顗",
+   "wikidata": "Q10513994"
+  },
+  {
+   "id": "Q10564930",
+   "name": "阿史那社尔",
+   "wikidata": "Q10564930",
+   "alias": [
+    "Ashina She'er",
+    "阿史那社爾",
+    "Ashina Sheer"
+   ],
+   "note": "Tang dynasty general"
+  },
+  {
+   "id": "Q10566744",
+   "name": "高履行",
+   "wikidata": "Q10566744",
+   "alias": [
+    "Gao Wenmin",
+    "高文敏"
+   ],
+   "note": "Tang dynasty person CBDB = 172877"
   },
   {
    "id": "Q10877398",
@@ -961,6 +1409,15 @@
     "Nán​chāng gōng​zhǔ"
    ],
    "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q10909275",
+   "name": "南陽公主",
+   "wikidata": "Q10909275",
+   "alias": [
+    "Princess Nanyang"
+   ],
+   "note": "隋朝之公主"
   },
   {
    "id": "Q10917554",
@@ -1012,6 +1469,26 @@
     "Lúlíng gōngzhǔ"
    ],
    "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q11068317",
+   "name": "张少怀",
+   "wikidata": "Q11068317",
+   "alias": [
+    "張少懷",
+    "Chang Shao-Huai"
+   ],
+   "note": "台湾演员"
+  },
+  {
+   "id": "Q11075508",
+   "name": "房遗爱",
+   "wikidata": "Q11075508",
+   "alias": [
+    "Fang Yiai",
+    "房遺愛"
+   ],
+   "note": "Tang dynasty politician"
   },
   {
    "id": "Q11095406",
@@ -1149,6 +1626,27 @@
    "note": "son of emperor Gaozu"
   },
   {
+   "id": "Q11095612",
+   "name": "李千里",
+   "wikidata": "Q11095612",
+   "alias": [
+    "Li Qianli"
+   ],
+   "note": "person, CBDB = 166728"
+  },
+  {
+   "id": "Q11095932",
+   "name": "李婉顺",
+   "wikidata": "Q11095932",
+   "alias": [
+    "Li Wanshun",
+    "李婉順",
+    "尫娘",
+    "Wangniang"
+   ],
+   "note": "Tang dynasty person CBDB = 142513"
+  },
+  {
    "id": "Q11096905",
    "name": "李智雲",
    "wikidata": "Q11096905",
@@ -1190,6 +1688,34 @@
    "note": "older brother of Emperor Gaozu of Tang"
   },
   {
+   "id": "Q11097430",
+   "name": "李玮",
+   "wikidata": "Q11097430",
+   "alias": [
+    "Li Wei",
+    "李瑋"
+   ],
+   "note": "Tang dynasty person CBDB = 188551"
+  },
+  {
+   "id": "Q11097450",
+   "name": "李琨",
+   "wikidata": "Q11097450",
+   "alias": [
+    "Li Kun"
+   ],
+   "note": "Tang dynasty person CBDB = 13062"
+  },
+  {
+   "id": "Q11098022",
+   "name": "李象",
+   "wikidata": "Q11098022",
+   "alias": [
+    "Li Xiang"
+   ],
+   "note": "Tang dynasty person CBDB = 32127"
+  },
+  {
    "id": "Q11098320",
    "name": "李灵夔",
    "wikidata": "Q11098320",
@@ -1217,6 +1743,14 @@
    "note": "son of emperor Gaozu"
   },
   {
+   "id": "Q11110091",
+   "name": "柴令武",
+   "wikidata": "Q11110091",
+   "alias": [
+    "Chai Lingwu"
+   ]
+  },
+  {
    "id": "Q11111831",
    "name": "桂阳公主",
    "wikidata": "Q11111831",
@@ -1230,6 +1764,16 @@
     "Li Gongzhu"
    ],
    "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q11125555",
+   "name": "段纶",
+   "wikidata": "Q11125555",
+   "alias": [
+    "段綸",
+    "Duan Lun"
+   ],
+   "note": "Tang dynasty person CBDB = 162035"
   },
   {
    "id": "Q11152626",
@@ -1266,6 +1810,15 @@
    "note": "daughter of emperor Gaozu"
   },
   {
+   "id": "Q13677904",
+   "name": "秦灿石",
+   "wikidata": "Q13677904",
+   "alias": [
+    "Qin Canshi"
+   ],
+   "note": "中国农学家"
+  },
+  {
    "id": "Q15903178",
    "name": "杨氏",
    "wikidata": "Q15903178",
@@ -1285,6 +1838,43 @@
     "Ma Yinan"
    ],
    "note": "馬英九的大姐"
+  },
+  {
+   "id": "Q15921481",
+   "name": "陰弘智",
+   "wikidata": "Q15921481"
+  },
+  {
+   "id": "Q15927705",
+   "name": "阎婉",
+   "wikidata": "Q15927705",
+   "alias": [
+    "閻婉",
+    "Yan Wan",
+    "婉",
+    "Wan"
+   ],
+   "note": "Tang dynasty person CBDB = 142893"
+  },
+  {
+   "id": "Q15940958",
+   "name": "李琮",
+   "wikidata": "Q15940958",
+   "alias": [
+    "Li Cong"
+   ],
+   "note": "Tang dynasty person CBDB = 188285"
+  },
+  {
+   "id": "Q15949680",
+   "name": "李欣",
+   "wikidata": "Q15949680",
+   "alias": [
+    "Li Xin",
+    "閻欣",
+    "Yan Xin"
+   ],
+   "note": "Tang dynasty person CBDB = 188576"
   },
   {
    "id": "Q15951700",
@@ -1307,6 +1897,22 @@
    "note": "daughter of emperor Gaozu"
   },
   {
+   "id": "Q16075506",
+   "name": "李承宗",
+   "wikidata": "Q16075506",
+   "alias": [
+    "Li Chengzong"
+   ]
+  },
+  {
+   "id": "Q16075508",
+   "name": "李承道",
+   "wikidata": "Q16075508",
+   "alias": [
+    "Li Chengdao"
+   ]
+  },
+  {
    "id": "Q16076737",
    "name": "莫丽芳",
    "wikidata": "Q16076737",
@@ -1317,6 +1923,15 @@
    "note": "concubine of emperor Gaozu"
   },
   {
+   "id": "Q16076771",
+   "name": "李璄",
+   "wikidata": "Q16076771",
+   "alias": [
+    "Li Jing"
+   ],
+   "note": "Tang dynasty person CBDB = 188573"
+  },
+  {
    "id": "Q16259845",
    "name": "长孙安业",
    "wikidata": "Q16259845",
@@ -1325,6 +1940,63 @@
     "長孫安業"
    ],
    "note": "Tang dynasty person CBDB = 134622"
+  },
+  {
+   "id": "Q16259966",
+   "name": "长孙冲",
+   "wikidata": "Q16259966",
+   "alias": [
+    "Changsun Chong",
+    "長孫沖"
+   ],
+   "note": "Tang dynasty person CBDB = 173176"
+  },
+  {
+   "id": "Q16260285",
+   "name": "赵节",
+   "wikidata": "Q16260285",
+   "alias": [
+    "Zhao Jie",
+    "趙節"
+   ],
+   "note": "Tang dynasty person CBDB = 31174"
+  },
+  {
+   "id": "Q16260451",
+   "name": "李譔",
+   "wikidata": "Q16260451",
+   "alias": [
+    "Li Zhuan"
+   ],
+   "note": "Tang dynasty person CBDB = 31304"
+  },
+  {
+   "id": "Q16260598",
+   "name": "長孫詮",
+   "wikidata": "Q16260598",
+   "alias": [
+    "Zhangsun Quan"
+   ]
+  },
+  {
+   "id": "Q16260613",
+   "name": "萧锐",
+   "wikidata": "Q16260613",
+   "alias": [
+    "Xiao Rui",
+    "蕭銳"
+   ],
+   "note": "Tang dynasty person CBDB = 33097"
+  },
+  {
+   "id": "Q16260770",
+   "name": "薛绍",
+   "wikidata": "Q16260770",
+   "alias": [
+    "薛紹",
+    "Xue Shao"
+   ],
+   "note": "Tang dynasty politician"
   },
   {
    "id": "Q16603543",
@@ -1426,6 +2098,25 @@
    "note": "馬英九的姐姐"
   },
   {
+   "id": "Q17030493",
+   "name": "秦承志",
+   "wikidata": "Q17030493",
+   "alias": [
+    "Qin Chengzhi"
+   ],
+   "note": "中华民国军官"
+  },
+  {
+   "id": "Q17184155",
+   "name": "余靖",
+   "wikidata": "Q17184155",
+   "alias": [
+    "Gene Yu",
+    "余靖 (美國)"
+   ],
+   "note": "American writer"
+  },
+  {
    "id": "Q18118144",
    "name": "薛婕妤",
    "wikidata": "Q18118144",
@@ -1446,6 +2137,73 @@
    "note": "中国歌手"
   },
   {
+   "id": "Q22813465",
+   "name": "李杰",
+   "wikidata": "Q22813465",
+   "alias": [
+    "李傑",
+    "Li Jie"
+   ],
+   "note": "person, CBDB = 153790"
+  },
+  {
+   "id": "Q22813470",
+   "name": "李宏",
+   "wikidata": "Q22813470",
+   "alias": [
+    "Li Hong"
+   ],
+   "note": "person, CBDB = 166400"
+  },
+  {
+   "id": "Q22813479",
+   "name": "李煌",
+   "wikidata": "Q22813479",
+   "alias": [
+    "Li Huang"
+   ]
+  },
+  {
+   "id": "Q22813496",
+   "name": "李璥",
+   "wikidata": "Q22813496",
+   "alias": [
+    "Li Jing"
+   ],
+   "note": "Tang dynasty person CBDB = 32654"
+  },
+  {
+   "id": "Q22813910",
+   "name": "豆卢贞松",
+   "wikidata": "Q22813910",
+   "alias": [
+    "Doulu Zhensong",
+    "豆盧貞松"
+   ],
+   "note": "person, CBDB = 153457"
+  },
+  {
+   "id": "Q24836638",
+   "name": "段俨",
+   "wikidata": "Q24836638",
+   "alias": [
+    "Duan Yan",
+    "段儼"
+   ],
+   "note": "person, CBDB = 146789"
+  },
+  {
+   "id": "Q24836697",
+   "name": "段蕑璧",
+   "wikidata": "Q24836697",
+   "alias": [
+    "Duan Jianbi",
+    "曇娘",
+    "Tanniang"
+   ],
+   "note": "Tang dynasty person CBDB = 142413"
+  },
+  {
    "id": "Q24839066",
    "name": "杨玄奖",
    "wikidata": "Q24839066",
@@ -1454,6 +2212,75 @@
     "楊玄獎"
    ],
    "note": "son of Yang Su"
+  },
+  {
+   "id": "Q25916974",
+   "name": "宇文修多羅",
+   "wikidata": "Q25916974",
+   "alias": [
+    "Yuwen Xiuduoluo",
+    "Princess consort Yuwen",
+    "Consort Yuwen",
+    "Princess of Zhao",
+    "Princess consort of Zhao"
+   ],
+   "note": "daughter of Yuwen Shiji and wife of Li Fu, prince of Zhao"
+  },
+  {
+   "id": "Q25922880",
+   "name": "李胤",
+   "wikidata": "Q25922880",
+   "alias": [
+    "Li Yin",
+    "建平王",
+    "Prince of Jianping"
+   ],
+   "note": "son of Li Fu and Yuwen Xiuduoluo"
+  },
+  {
+   "id": "Q25923061",
+   "name": "李穆",
+   "wikidata": "Q25923061",
+   "alias": [
+    "Li Mu",
+    "赵王",
+    "Prince of Zhao"
+   ],
+   "note": "son of Li Fu and Yuwen Xiuduoluo"
+  },
+  {
+   "id": "Q25923078",
+   "name": "李泽",
+   "wikidata": "Q25923078",
+   "alias": [
+    "Li Ze",
+    "信都郡公",
+    "李澤",
+    "Duke of Xindou Commandery"
+   ],
+   "note": "son of Li Fu and Yuwen Xiuduoluo"
+  },
+  {
+   "id": "Q25923088",
+   "name": "李恭",
+   "wikidata": "Q25923088",
+   "alias": [
+    "Li Gong",
+    "邯郸公",
+    "Duke of Handan"
+   ],
+   "note": "son of Li Fu and Yuwen Xiuduoluo"
+  },
+  {
+   "id": "Q25925998",
+   "name": "李休道",
+   "wikidata": "Q25925998",
+   "alias": [
+    "Li Xiudao",
+    "建寧公",
+    "Duke of Jianning"
+   ],
+   "note": "son of Li Yun"
   },
   {
    "id": "Q26198084",
@@ -1477,6 +2304,67 @@
    "note": "Tang dynasty person CBDB = 162410"
   },
   {
+   "id": "Q30919632",
+   "name": "Phi tần của Đường Thái Tông",
+   "wikidata": "Q30919632"
+  },
+  {
+   "id": "Q30924023",
+   "name": "李茂",
+   "wikidata": "Q30924023",
+   "alias": [
+    "Li Mao"
+   ],
+   "note": "Tang dynasty person CBDB = 187930"
+  },
+  {
+   "id": "Q38976840",
+   "name": "餘姚縣主",
+   "wikidata": "Q38976840"
+  },
+  {
+   "id": "Q38976923",
+   "name": "李续",
+   "wikidata": "Q38976923",
+   "alias": [
+    "Li Xu",
+    "李續"
+   ],
+   "note": "Tang dynasty person CBDB = 188263"
+  },
+  {
+   "id": "Q45378845",
+   "name": "李嗣",
+   "wikidata": "Q45378845",
+   "alias": [
+    "Li Si"
+   ],
+   "note": "Tang dynasty person CBDB = 13883"
+  },
+  {
+   "id": "Q45417800",
+   "name": "徐孝德",
+   "wikidata": "Q45417800",
+   "alias": [
+    "Xu Xiaode",
+    "順孫",
+    "Shunsun"
+   ],
+   "note": "Tang dynasty person CBDB = 30394"
+  },
+  {
+   "id": "Q45419224",
+   "name": "赵慈景",
+   "wikidata": "Q45419224",
+   "alias": [
+    "Zhao Cijing",
+    "趙慈景",
+    "忠",
+    "Zhong"
+   ],
+   "note": "Tang dynasty person CBDB = 31173"
+  },
+  {
    "id": "Q45420311",
    "name": "窦毅",
    "wikidata": "Q45420311",
@@ -1485,6 +2373,45 @@
     "竇毅"
    ],
    "note": "Northern Zhou person CBDB = 31777"
+  },
+  {
+   "id": "Q45421261",
+   "name": "崔恭礼",
+   "wikidata": "Q45421261",
+   "alias": [
+    "Cui Gongli",
+    "崔恭禮"
+   ],
+   "note": "Tang dynasty person CBDB = 32289"
+  },
+  {
+   "id": "Q45424433",
+   "name": "李琳",
+   "wikidata": "Q45424433",
+   "alias": [
+    "Li Lin"
+   ],
+   "note": "Tang dynasty person CBDB = 33482"
+  },
+  {
+   "id": "Q45438460",
+   "name": "周道务",
+   "wikidata": "Q45438460",
+   "alias": [
+    "Zhou Daowu",
+    "周道務"
+   ],
+   "note": "Tang dynasty person CBDB = 182074"
+  },
+  {
+   "id": "Q45447569",
+   "name": "长孙冲",
+   "wikidata": "Q45447569",
+   "alias": [
+    "Zhangsun Chong",
+    "長孫沖"
+   ],
+   "note": "Tang dynasty person CBDB = 134685"
   },
   {
    "id": "Q45470905",
@@ -1506,6 +2433,507 @@
    "note": "Tang dynasty person CBDB = 187928"
   },
   {
+   "id": "Q45471353",
+   "name": "李蕃",
+   "wikidata": "Q45471353",
+   "alias": [
+    "Li Fan"
+   ],
+   "note": "Tang dynasty person CBDB = 187934"
+  },
+  {
+   "id": "Q45471418",
+   "name": "李蓁",
+   "wikidata": "Q45471418",
+   "alias": [
+    "Li Zhen"
+   ],
+   "note": "Tang dynasty person CBDB=187935"
+  },
+  {
+   "id": "Q45471482",
+   "name": "李训",
+   "wikidata": "Q45471482",
+   "alias": [
+    "Li Xun",
+    "李訓"
+   ],
+   "note": "Tang dynasty person CBDB = 187937"
+  },
+  {
+   "id": "Q45471539",
+   "name": "李谊",
+   "wikidata": "Q45471539",
+   "alias": [
+    "Li Yi",
+    "李誼"
+   ],
+   "note": "Tang dynasty person CBDB = 187938"
+  },
+  {
+   "id": "Q45471666",
+   "name": "李谌",
+   "wikidata": "Q45471666",
+   "alias": [
+    "Li Chen",
+    "李諶"
+   ],
+   "note": "Tang dynasty person CBDB = 187941"
+  },
+  {
+   "id": "Q45471917",
+   "name": "李绚",
+   "wikidata": "Q45471917",
+   "alias": [
+    "Li Xun",
+    "李絢"
+   ],
+   "note": "Tang dynasty person CBDB = 187946"
+  },
+  {
+   "id": "Q45473385",
+   "name": "李某",
+   "wikidata": "Q45473385",
+   "alias": [
+    "Li Mou"
+   ],
+   "note": "Tang dynasty person CBDB = 187976"
+  },
+  {
+   "id": "Q45473510",
+   "name": "李珪",
+   "wikidata": "Q45473510",
+   "alias": [
+    "Li Gui"
+   ],
+   "note": "Tang dynasty person CBDB = 187978"
+  },
+  {
+   "id": "Q45473557",
+   "name": "李琰",
+   "wikidata": "Q45473557",
+   "alias": [
+    "Li Yan"
+   ],
+   "note": "Tang dynasty person CBDB = 187979"
+  },
+  {
+   "id": "Q45473619",
+   "name": "李球",
+   "wikidata": "Q45473619",
+   "alias": [
+    "Li Qiu"
+   ],
+   "note": "Tang dynasty person CBDB = 187980"
+  },
+  {
+   "id": "Q45473684",
+   "name": "李璇",
+   "wikidata": "Q45473684",
+   "alias": [
+    "Li Xuan",
+    "李璿"
+   ],
+   "note": "Tang dynasty person CBDB = 187981"
+  },
+  {
+   "id": "Q45473999",
+   "name": "李遂",
+   "wikidata": "Q45473999",
+   "alias": [
+    "Li Sui"
+   ],
+   "note": "Tang dynasty person CBDB = 187988"
+  },
+  {
+   "id": "Q45474061",
+   "name": "李珩",
+   "wikidata": "Q45474061",
+   "alias": [
+    "Li Heng"
+   ],
+   "note": "Tang dynasty person CBDB = 187989"
+  },
+  {
+   "id": "Q45474239",
+   "name": "李绪",
+   "wikidata": "Q45474239",
+   "alias": [
+    "Li Xu",
+    "李緒"
+   ],
+   "note": "Tang dynasty person CBDB = 187992"
+  },
+  {
+   "id": "Q45474485",
+   "name": "李纯",
+   "wikidata": "Q45474485",
+   "alias": [
+    "Li Chun",
+    "李純"
+   ],
+   "note": "Tang dynasty person CBDB = 187996"
+  },
+  {
+   "id": "Q45474610",
+   "name": "李绰",
+   "wikidata": "Q45474610",
+   "alias": [
+    "Li Chao",
+    "李綽"
+   ],
+   "note": "Tang dynasty person CBDB = 187998"
+  },
+  {
+   "id": "Q45474739",
+   "name": "李纲",
+   "wikidata": "Q45474739",
+   "alias": [
+    "Li Gang",
+    "李綱"
+   ],
+   "note": "Tang dynasty person CBDB = 188000"
+  },
+  {
+   "id": "Q45474864",
+   "name": "李绚",
+   "wikidata": "Q45474864",
+   "alias": [
+    "Li Xun",
+    "李絢",
+    "李绚 (南昌郡公)"
+   ],
+   "note": "南昌郡公"
+  },
+  {
+   "id": "Q45474929",
+   "name": "李绎",
+   "wikidata": "Q45474929",
+   "alias": [
+    "Li Yi",
+    "李繹"
+   ],
+   "note": "Tang dynasty person CBDB = 188003"
+  },
+  {
+   "id": "Q45475056",
+   "name": "李颙",
+   "wikidata": "Q45475056",
+   "alias": [
+    "Li Yu",
+    "李顒"
+   ],
+   "note": "Tang dynasty person CBDB = 188007"
+  },
+  {
+   "id": "Q45475502",
+   "name": "李茂融",
+   "wikidata": "Q45475502",
+   "alias": [
+    "Li Maorong"
+   ],
+   "note": "Tang dynasty person CBDB = 188017"
+  },
+  {
+   "id": "Q45475565",
+   "name": "李尧臣",
+   "wikidata": "Q45475565",
+   "alias": [
+    "Li Yaochen",
+    "李堯臣"
+   ],
+   "note": "Tang dynasty person CBDB = 188019"
+  },
+  {
+   "id": "Q45475819",
+   "name": "李舜臣",
+   "wikidata": "Q45475819",
+   "alias": [
+    "Li Shunchen"
+   ],
+   "note": "Tang dynasty person CBDB = 188023"
+  },
+  {
+   "id": "Q45475945",
+   "name": "李诱",
+   "wikidata": "Q45475945",
+   "alias": [
+    "Li You",
+    "李誘"
+   ],
+   "note": "Tang dynasty person CBDB = 188025"
+  },
+  {
+   "id": "Q45476009",
+   "name": "李询",
+   "wikidata": "Q45476009",
+   "alias": [
+    "Li Xun",
+    "李詢"
+   ],
+   "note": "Tang dynasty person CBDB=188026"
+  },
+  {
+   "id": "Q45476198",
+   "name": "李谅",
+   "wikidata": "Q45476198",
+   "alias": [
+    "Li Liang",
+    "李諒"
+   ],
+   "note": "Tang dynasty person CBDB = 188029"
+  },
+  {
+   "id": "Q45476325",
+   "name": "李诩",
+   "wikidata": "Q45476325",
+   "alias": [
+    "Li Xu",
+    "李詡"
+   ],
+   "note": "Tang dynasty person CBDB = 188031"
+  },
+  {
+   "id": "Q45476390",
+   "name": "李谧",
+   "wikidata": "Q45476390",
+   "alias": [
+    "Li Mi",
+    "李謐"
+   ],
+   "note": "Tang dynasty person CBDB = 188032"
+  },
+  {
+   "id": "Q45476454",
+   "name": "李𬤇",
+   "wikidata": "Q45476454",
+   "alias": [
+    "Li Yin",
+    "李諲"
+   ],
+   "note": "Tang dynasty person CBDB = 188033"
+  },
+  {
+   "id": "Q45476709",
+   "name": "李𧫚",
+   "wikidata": "Q45476709",
+   "alias": [
+    "Li ??"
+   ],
+   "note": "Tang dynasty person CBDB = 188038"
+  },
+  {
+   "id": "Q45477793",
+   "name": "李炅",
+   "wikidata": "Q45477793",
+   "alias": [
+    "Li Gui"
+   ],
+   "note": "Tang dynasty person CBDB = 188056"
+  },
+  {
+   "id": "Q45477921",
+   "name": "李亶",
+   "wikidata": "Q45477921",
+   "alias": [
+    "Li Dan"
+   ],
+   "note": "Tang dynasty person CBDB = 188058"
+  },
+  {
+   "id": "Q45478206",
+   "name": "李昭",
+   "wikidata": "Q45478206",
+   "alias": [
+    "Li Zhao"
+   ],
+   "note": "Tang dynasty person CBDB = 188062"
+  },
+  {
+   "id": "Q45478337",
+   "name": "李诜",
+   "wikidata": "Q45478337",
+   "alias": [
+    "Li Shen",
+    "李詵"
+   ],
+   "note": "Tang dynasty person CBDB = 188064"
+  },
+  {
+   "id": "Q45478855",
+   "name": "李晫",
+   "wikidata": "Q45478855",
+   "alias": [
+    "Li Zhuo"
+   ],
+   "note": "Tang dynasty person CBDB = 188072"
+  },
+  {
+   "id": "Q45478920",
+   "name": "李晈",
+   "wikidata": "Q45478920",
+   "alias": [
+    "Li Jiao"
+   ],
+   "note": "Tang dynasty person CBDB = 188073"
+  },
+  {
+   "id": "Q45479542",
+   "name": "李诞",
+   "wikidata": "Q45479542",
+   "alias": [
+    "Li Dan",
+    "李誕",
+    "大方",
+    "Dafang"
+   ],
+   "note": "Tang dynasty person CBDB = 140475"
+  },
+  {
+   "id": "Q45479691",
+   "name": "窦奉节",
+   "wikidata": "Q45479691",
+   "alias": [
+    "Dou Fengjie",
+    "竇奉節"
+   ],
+   "note": "Tang dynasty person CBDB = 172210"
+  },
+  {
+   "id": "Q45480438",
+   "name": "长孙冲",
+   "wikidata": "Q45480438",
+   "alias": [
+    "Zhangsun Chong",
+    "長孫沖"
+   ],
+   "note": "person, CBDB = 161943"
+  },
+  {
+   "id": "Q45488113",
+   "name": "李昕",
+   "wikidata": "Q45488113",
+   "alias": [
+    "Li Xin"
+   ],
+   "note": "Tang dynasty person CBDB = 188217"
+  },
+  {
+   "id": "Q45488177",
+   "name": "李晧",
+   "wikidata": "Q45488177",
+   "alias": [
+    "Li Hao"
+   ],
+   "note": "Tang dynasty person CBDB = 188218"
+  },
+  {
+   "id": "Q45488240",
+   "name": "李炅",
+   "wikidata": "Q45488240",
+   "alias": [
+    "Li Gui"
+   ],
+   "note": "Tang dynasty person CBDB = 188219"
+  },
+  {
+   "id": "Q45488620",
+   "name": "李晃",
+   "wikidata": "Q45488620",
+   "alias": [
+    "Li Huang"
+   ],
+   "note": "Tang dynasty person CBDB = 188225"
+  },
+  {
+   "id": "Q45488748",
+   "name": "李暹",
+   "wikidata": "Q45488748",
+   "alias": [
+    "Li Xian"
+   ],
+   "note": "Tang dynasty person CBDB = 188227"
+  },
+  {
+   "id": "Q45488811",
+   "name": "李颖",
+   "wikidata": "Q45488811",
+   "alias": [
+    "Li Ying",
+    "李穎"
+   ],
+   "note": "Tang dynasty person CBDB = 188229"
+  },
+  {
+   "id": "Q45488938",
+   "name": "李亮",
+   "wikidata": "Q45488938",
+   "alias": [
+    "Li Liang"
+   ],
+   "note": "Tang dynasty person CBDB = 188231"
+  },
+  {
+   "id": "Q45489082",
+   "name": "李冲",
+   "wikidata": "Q45489082",
+   "alias": [
+    "Li Chong",
+    "李沖"
+   ],
+   "note": "Tang dynasty person CBDB = 151339"
+  },
+  {
+   "id": "Q45489131",
+   "name": "李修琦",
+   "wikidata": "Q45489131",
+   "alias": [
+    "Li Youqi",
+    "李脩琦"
+   ],
+   "note": "Tang dynasty person CBDB = 188234"
+  },
+  {
+   "id": "Q45489195",
+   "name": "李修珌",
+   "wikidata": "Q45489195",
+   "alias": [
+    "Li Youbi",
+    "李脩珌"
+   ],
+   "note": "Tang dynasty person CBDB = 188235"
+  },
+  {
+   "id": "Q45489257",
+   "name": "李修瑀",
+   "wikidata": "Q45489257",
+   "alias": [
+    "Li Youyu",
+    "李脩瑀"
+   ],
+   "note": "Tang dynasty person CBDB = 188236"
+  },
+  {
+   "id": "Q45489322",
+   "name": "李修瑶",
+   "wikidata": "Q45489322",
+   "alias": [
+    "Li Youyao",
+    "李脩瑤"
+   ],
+   "note": "Tang dynasty person CBDB = 188237"
+  },
+  {
+   "id": "Q45489388",
+   "name": "李修璩",
+   "wikidata": "Q45489388",
+   "alias": [
+    "Li Youqu",
+    "李脩璩"
+   ],
+   "note": "Tang dynasty person CBDB = 188238"
+  },
+  {
    "id": "Q45489405",
    "name": "燕宝寿",
    "wikidata": "Q45489405",
@@ -1514,6 +2942,397 @@
     "燕寶壽"
    ],
    "note": "person, CBDB = 151345"
+  },
+  {
+   "id": "Q45489578",
+   "name": "李修珍",
+   "wikidata": "Q45489578",
+   "alias": [
+    "Li Youzhen",
+    "李脩珍"
+   ],
+   "note": "Tang dynasty person CBDB = 188241"
+  },
+  {
+   "id": "Q45489642",
+   "name": "李修琬",
+   "wikidata": "Q45489642",
+   "alias": [
+    "Li Youwan",
+    "李脩琬"
+   ],
+   "note": "Tang dynasty person CBDB = 188242"
+  },
+  {
+   "id": "Q45489705",
+   "name": "李修顼",
+   "wikidata": "Q45489705",
+   "alias": [
+    "Li Youxu",
+    "李脩頊"
+   ],
+   "note": "Tang dynasty person CBDB = 188243"
+  },
+  {
+   "id": "Q45489772",
+   "name": "李修玘",
+   "wikidata": "Q45489772",
+   "alias": [
+    "Li Youqi",
+    "李脩玘"
+   ],
+   "note": "Tang dynasty person CBDB = 188244"
+  },
+  {
+   "id": "Q45489835",
+   "name": "李修琨",
+   "wikidata": "Q45489835",
+   "alias": [
+    "Li Youkun",
+    "李脩琨"
+   ],
+   "note": "Tang dynasty person CBDB = 188245"
+  },
+  {
+   "id": "Q45489901",
+   "name": "李修珽",
+   "wikidata": "Q45489901",
+   "alias": [
+    "Li Youting",
+    "李脩珽"
+   ],
+   "note": "Tang dynasty person CBDB = 188246"
+  },
+  {
+   "id": "Q45489963",
+   "name": "李修瑑",
+   "wikidata": "Q45489963",
+   "alias": [
+    "Li Youzhuan",
+    "李脩瑑"
+   ],
+   "note": "Tang dynasty person CBDB = 188247"
+  },
+  {
+   "id": "Q45490026",
+   "name": "李修琮",
+   "wikidata": "Q45490026",
+   "alias": [
+    "Li Youcong",
+    "李脩琮"
+   ],
+   "note": "Tang dynasty person CBDB = 188248"
+  },
+  {
+   "id": "Q45490092",
+   "name": "李修珵",
+   "wikidata": "Q45490092",
+   "alias": [
+    "Li Youting",
+    "李脩珵"
+   ],
+   "note": "Tang dynasty person CBDB = 188250"
+  },
+  {
+   "id": "Q45490153",
+   "name": "李修琈",
+   "wikidata": "Q45490153",
+   "alias": [
+    "Li Youfu",
+    "李脩琈"
+   ],
+   "note": "Tang dynasty person CBDB=188251"
+  },
+  {
+   "id": "Q45490218",
+   "name": "李修琚",
+   "wikidata": "Q45490218",
+   "alias": [
+    "Li Youju",
+    "李脩琚"
+   ],
+   "note": "Tang dynasty person CBDB = 188252"
+  },
+  {
+   "id": "Q45494176",
+   "name": "李𢙏",
+   "wikidata": "Q45494176",
+   "alias": [
+    "Li Xun",
+    "李愻"
+   ],
+   "note": "Tang dynasty person CBDB = 188318"
+  },
+  {
+   "id": "Q45494238",
+   "name": "李庄",
+   "wikidata": "Q45494238",
+   "alias": [
+    "Li Zhuang",
+    "李莊"
+   ],
+   "note": "Tang dynasty person CBDB = 188319"
+  },
+  {
+   "id": "Q45497842",
+   "name": "李友叡",
+   "wikidata": "Q45497842",
+   "alias": [
+    "Li Yourui"
+   ],
+   "note": "Tang dynasty person CBDB = 188376"
+  },
+  {
+   "id": "Q45497907",
+   "name": "李秀",
+   "wikidata": "Q45497907",
+   "alias": [
+    "Li Xiu"
+   ],
+   "note": "Tang dynasty person CBDB = 188377"
+  },
+  {
+   "id": "Q45497971",
+   "name": "李友献",
+   "wikidata": "Q45497971",
+   "alias": [
+    "Li Youxian",
+    "李友獻"
+   ],
+   "note": "Tang dynasty person CBDB = 188378"
+  },
+  {
+   "id": "Q45498036",
+   "name": "李钦",
+   "wikidata": "Q45498036",
+   "alias": [
+    "Li Qin",
+    "李欽"
+   ],
+   "note": "Tang dynasty person CBDB = 188379"
+  },
+  {
+   "id": "Q45498100",
+   "name": "李旷",
+   "wikidata": "Q45498100",
+   "alias": [
+    "Li Kuang",
+    "李曠"
+   ],
+   "note": "Tang dynasty person CBDB = 188380"
+  },
+  {
+   "id": "Q45500360",
+   "name": "李澄",
+   "wikidata": "Q45500360",
+   "alias": [
+    "Li Cheng"
+   ],
+   "note": "Tang dynasty person CBDB = 188415"
+  },
+  {
+   "id": "Q45501439",
+   "name": "李俊",
+   "wikidata": "Q45501439",
+   "alias": [
+    "Li Jun"
+   ],
+   "note": "Tang dynasty person CBDB = 188434"
+  },
+  {
+   "id": "Q45501822",
+   "name": "李价",
+   "wikidata": "Q45501822",
+   "alias": [
+    "Li Jia"
+   ],
+   "note": "Tang dynasty person CBDB = 188441"
+  },
+  {
+   "id": "Q45501951",
+   "name": "李备",
+   "wikidata": "Q45501951",
+   "alias": [
+    "Li Bei",
+    "李備"
+   ],
+   "note": "Tang dynasty person CBDB = 188443"
+  },
+  {
+   "id": "Q45502014",
+   "name": "李偲",
+   "wikidata": "Q45502014",
+   "alias": [
+    "Li Si"
+   ],
+   "note": "Tang dynasty person CBDB = 188444"
+  },
+  {
+   "id": "Q45508125",
+   "name": "李厥卿",
+   "wikidata": "Q45508125",
+   "alias": [
+    "Li Jueqing"
+   ],
+   "note": "Tang dynasty person CBDB = 188543"
+  },
+  {
+   "id": "Q45508249",
+   "name": "李医",
+   "wikidata": "Q45508249",
+   "alias": [
+    "Li Yi",
+    "李醫"
+   ],
+   "note": "Tang dynasty person CBDB = 188545"
+  },
+  {
+   "id": "Q45509606",
+   "name": "李翼",
+   "wikidata": "Q45509606",
+   "alias": [
+    "Li Yi"
+   ],
+   "note": "Tang dynasty person CBDB = 162588"
+  },
+  {
+   "id": "Q45511133",
+   "name": "李焯",
+   "wikidata": "Q45511133",
+   "alias": [
+    "Li Chao"
+   ],
+   "note": "Tang dynasty person CBDB = 188602"
+  },
+  {
+   "id": "Q45511198",
+   "name": "李炜",
+   "wikidata": "Q45511198",
+   "alias": [
+    "Li Wei",
+    "李煒"
+   ],
+   "note": "Tang dynasty person CBDB = 188603"
+  },
+  {
+   "id": "Q45512023",
+   "name": "李煜",
+   "wikidata": "Q45512023",
+   "alias": [
+    "Li Yu"
+   ],
+   "note": "Tang dynasty person CBDB = 188616"
+  },
+  {
+   "id": "Q45513937",
+   "name": "李烱",
+   "wikidata": "Q45513937",
+   "alias": [
+    "Li Jiong"
+   ],
+   "note": "Tang dynasty person CBDB = 188647"
+  },
+  {
+   "id": "Q45514000",
+   "name": "李逖",
+   "wikidata": "Q45514000",
+   "alias": [
+    "Li Ti"
+   ],
+   "note": "Tang dynasty person CBDB = 188648"
+  },
+  {
+   "id": "Q45514063",
+   "name": "李珙",
+   "wikidata": "Q45514063",
+   "alias": [
+    "Li Gong"
+   ],
+   "note": "Tang dynasty person CBDB = 188649"
+  },
+  {
+   "id": "Q45514574",
+   "name": "李焕",
+   "wikidata": "Q45514574",
+   "alias": [
+    "Li Huan",
+    "李煥"
+   ],
+   "note": "Tang dynasty person CBDB = 188657"
+  },
+  {
+   "id": "Q45515457",
+   "name": "李发",
+   "wikidata": "Q45515457",
+   "alias": [
+    "Li Fa",
+    "李發"
+   ],
+   "note": "Tang dynasty person CBDB = 188671"
+  },
+  {
+   "id": "Q45515521",
+   "name": "李爽",
+   "wikidata": "Q45515521",
+   "alias": [
+    "Li Shuang"
+   ],
+   "note": "Tang dynasty person CBDB = 188672"
+  },
+  {
+   "id": "Q45521586",
+   "name": "李封",
+   "wikidata": "Q45521586",
+   "alias": [
+    "Li Feng"
+   ],
+   "note": "Tang dynasty person CBDB = 188770"
+  },
+  {
+   "id": "Q45523299",
+   "name": "李珪",
+   "wikidata": "Q45523299",
+   "alias": [
+    "Li Gui"
+   ],
+   "note": "Tang dynasty person CBDB = 188797"
+  },
+  {
+   "id": "Q45523360",
+   "name": "李璋",
+   "wikidata": "Q45523360",
+   "alias": [
+    "Li Zhang"
+   ],
+   "note": "Tang dynasty person CBDB = 188798"
+  },
+  {
+   "id": "Q45523423",
+   "name": "李詧",
+   "wikidata": "Q45523423",
+   "alias": [
+    "Li Qie"
+   ],
+   "note": "Tang dynasty person CBDB = 188799"
+  },
+  {
+   "id": "Q45523483",
+   "name": "李游素",
+   "wikidata": "Q45523483",
+   "alias": [
+    "Li Yousu"
+   ],
+   "note": "Tang dynasty person CBDB=188800"
+  },
+  {
+   "id": "Q45523546",
+   "name": "李游艺",
+   "wikidata": "Q45523546",
+   "alias": [
+    "Li Youyi",
+    "李游藝"
+   ],
+   "note": "Tang dynasty person CBDB = 188801"
   },
   {
    "id": "Q45530647",
@@ -1556,6 +3375,36 @@
    "note": "Tang dynasty person CBDB = 173173"
   },
   {
+   "id": "Q45531094",
+   "name": "长孙延",
+   "wikidata": "Q45531094",
+   "alias": [
+    "Changsun Yan",
+    "長孫延"
+   ],
+   "note": "Tang dynasty person CBDB = 173177"
+  },
+  {
+   "id": "Q45532361",
+   "name": "长孙绚",
+   "wikidata": "Q45532361",
+   "alias": [
+    "Changsun Xun",
+    "長孫絢"
+   ],
+   "note": "Tang dynasty person CBDB = 173197"
+  },
+  {
+   "id": "Q45532424",
+   "name": "长孙顼",
+   "wikidata": "Q45532424",
+   "alias": [
+    "Changsun Xu",
+    "長孫頊"
+   ],
+   "note": "Tang dynasty person CBDB = 173198"
+  },
+  {
    "id": "Q45534434",
    "name": "李某",
    "wikidata": "Q45534434",
@@ -1573,6 +3422,107 @@
     "長孫无逸"
    ],
    "note": "Tang dynasty person CBDB = 173230"
+  },
+  {
+   "id": "Q45588133",
+   "name": "李徽",
+   "wikidata": "Q45588133",
+   "alias": [
+    "Li Hui",
+    "玄祺",
+    "Xuanqi"
+   ],
+   "note": "Tang dynasty person CBDB = 142702"
+  },
+  {
+   "id": "Q45599462",
+   "name": "李讷",
+   "wikidata": "Q45599462",
+   "alias": [
+    "Li Ne",
+    "李訥",
+    "□□"
+   ],
+   "note": "Tang dynasty person CBDB=142921"
+  },
+  {
+   "id": "Q45633006",
+   "name": "李莹",
+   "wikidata": "Q45633006",
+   "alias": [
+    "Li Ying",
+    "李瑩"
+   ],
+   "note": "Tang dynasty person CBDB = 191036"
+  },
+  {
+   "id": "Q45635174",
+   "name": "李季童",
+   "wikidata": "Q45635174",
+   "alias": [
+    "Li Jitong"
+   ],
+   "note": "person, CBDB = 149100"
+  },
+  {
+   "id": "Q48890506",
+   "name": "賀蘭僧伽",
+   "wikidata": "Q48890506"
+  },
+  {
+   "id": "Q65061035",
+   "name": "王兆民",
+   "wikidata": "Q65061035",
+   "alias": [
+    "Wang Chao-Min",
+    "王翰章",
+    "王墨林",
+    "翰章",
+    "墨林",
+    "Wang Chao Min",
+    "Wang Zhaomin",
+    "Wang Mo-Lin"
+   ],
+   "note": "中華民國第一屆立法院立法委員"
+  },
+  {
+   "id": "Q65802743",
+   "name": "李氏",
+   "wikidata": "Q65802743",
+   "alias": [
+    "Li Shi"
+   ],
+   "note": "李元吉女"
+  },
+  {
+   "id": "Q65802878",
+   "name": "李氏",
+   "wikidata": "Q65802878",
+   "alias": [
+    "Li Shi",
+    "彌勒",
+    "Mile"
+   ],
+   "note": "李元嘉女"
+  },
+  {
+   "id": "Q65803435",
+   "name": "刘氏",
+   "wikidata": "Q65803435",
+   "alias": [
+    "劉氏",
+    "Liu Shi"
+   ],
+   "note": "劉德威女"
+  },
+  {
+   "id": "Q65808097",
+   "name": "李氏",
+   "wikidata": "Q65808097",
+   "alias": [
+    "Li Shi"
+   ],
+   "note": "東光縣主"
   },
   {
    "id": "Q67444172",
@@ -1617,6 +3567,26 @@
     "Wang Ge"
    ],
    "note": "王菲的哥哥"
+  },
+  {
+   "id": "Q124669355",
+   "name": "王玉相",
+   "wikidata": "Q124669355",
+   "alias": [
+    "Wang Yu-Hsiang",
+    "Wang Yuxiang"
+   ],
+   "note": "王菲祖母"
+  },
+  {
+   "id": "Q133447392",
+   "name": "李氏",
+   "wikidata": "Q133447392"
+  },
+  {
+   "id": "Q133447479",
+   "name": "周氏",
+   "wikidata": "Q133447479"
   },
   {
    "id": "Q134079944",
@@ -2237,6 +4207,19 @@
   },
   {
    "a": "Q10332683",
+   "b": "Q22813496",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
    "b": "Q4308304",
    "type": "kin",
    "aIs": "兄弟",
@@ -2249,6 +4232,110 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45424433",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45473385",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45473510",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45473557",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45473619",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45473684",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45473999",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10332683",
+   "b": "Q45474061",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元懿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10332683#P40"
     }
    ]
   },
@@ -2317,6 +4404,110 @@
     {
      "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10340792",
+   "b": "Q4310073",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：城阳公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4310073#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q10410419",
+   "b": "Q4310040",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：安康公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4310040#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q10414698",
+   "b": "Q4309898",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：南平公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309898#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q10451826",
+   "b": "Q4309969",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：李敬 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309969#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q10513986",
+   "b": "Q4310073",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：城阳公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4310073#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q10564930",
+   "b": "Q15955551",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：衡陽公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q15955551#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q10566744",
+   "b": "Q4309944",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：東陽公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309944#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q1062868",
+   "b": "Q8251464",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
     }
    ]
   },
@@ -4867,6 +7058,19 @@
     {
      "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q10909275",
+   "b": "Q8251464",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
     }
    ]
   },
@@ -5990,6 +8194,214 @@
   },
   {
    "a": "Q10975505",
+   "b": "Q45489131",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489195",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489257",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489322",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489388",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489578",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489642",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489705",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489772",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489835",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489901",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45489963",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45490026",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45490092",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45490153",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
+   "b": "Q45490218",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元婴 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q10975505#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q10975505",
    "b": "Q699639",
    "type": "kin",
    "aIs": "兄弟",
@@ -6602,6 +9014,19 @@
   },
   {
    "a": "Q11060429",
+   "b": "Q8255026",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：常樂公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11060429#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11060429",
    "b": "Q9701",
    "type": "kin",
    "aIs": "姐妹",
@@ -7162,6 +9587,19 @@
    ]
   },
   {
+   "a": "Q11075508",
+   "b": "Q4310081",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：高陽公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4310081#P26"
+    }
+   ]
+  },
+  {
    "a": "Q11095406",
    "b": "Q11095408",
    "type": "kin",
@@ -8132,6 +10570,19 @@
   },
   {
    "a": "Q11095408",
+   "b": "Q45471917",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元则 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095408#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095408",
    "b": "Q699639",
    "type": "kin",
    "aIs": "兄弟",
@@ -8489,6 +10940,19 @@
   },
   {
    "a": "Q11095409",
+   "b": "Q133447392",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李元名 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095409#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095409",
    "b": "Q15951700",
    "type": "kin",
    "aIs": "兄弟",
@@ -8620,6 +11084,32 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095409",
+   "b": "Q45477921",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元名 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095409#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095409",
+   "b": "Q45478206",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元名 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095409#P40"
     }
    ]
   },
@@ -8999,6 +11489,19 @@
   },
   {
    "a": "Q11095411",
+   "b": "Q16260451",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元嘉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095411",
    "b": "Q16603543",
    "type": "kin",
    "aIs": "兄弟",
@@ -9096,6 +11599,71 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095411",
+   "b": "Q45471482",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元嘉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095411",
+   "b": "Q45471539",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元嘉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095411",
+   "b": "Q45471666",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元嘉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095411",
+   "b": "Q45599462",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元嘉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095411",
+   "b": "Q65802878",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李元嘉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095411#P40"
     }
    ]
   },
@@ -9560,6 +12128,110 @@
   },
   {
    "a": "Q11095417",
+   "b": "Q45475945",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q45476009",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q45476198",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q45476325",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q45476390",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q45476454",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q45476709",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
+   "b": "Q45479542",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元庆 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095417#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095417",
    "b": "Q699639",
    "type": "kin",
    "aIs": "兄弟",
@@ -11226,6 +13898,32 @@
   },
   {
    "a": "Q11095425",
+   "b": "Q45488811",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元晓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095425#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095425",
+   "b": "Q45488938",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元晓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095425#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095425",
    "b": "Q699639",
    "type": "kin",
    "aIs": "兄弟",
@@ -11600,6 +14298,97 @@
   },
   {
    "a": "Q11095431",
+   "b": "Q45478855",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元祥 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095431#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
+   "b": "Q45478920",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元祥 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095431#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
+   "b": "Q45488113",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元祥 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095431#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
+   "b": "Q45488177",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元祥 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095431#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
+   "b": "Q45488240",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元祥 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095431#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
+   "b": "Q45488620",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元祥 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095431#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
+   "b": "Q45488748",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元祥 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095431#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095431",
    "b": "Q699639",
    "type": "kin",
    "aIs": "兄弟",
@@ -11940,6 +14729,19 @@
   },
   {
    "a": "Q11095432",
+   "b": "Q30924023",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元礼 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095432#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095432",
    "b": "Q4308304",
    "type": "kin",
    "aIs": "兄弟",
@@ -11952,6 +14754,45 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095432",
+   "b": "Q45471353",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元礼 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095432#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095432",
+   "b": "Q45471418",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元礼 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095432#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095432",
+   "b": "Q45633006",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元礼 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095432#P40"
     }
    ]
   },
@@ -12297,6 +15138,19 @@
   },
   {
    "a": "Q11095437",
+   "b": "Q45477793",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元裕 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095437#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095437",
    "b": "Q699639",
    "type": "kin",
    "aIs": "兄弟",
@@ -12615,6 +15469,84 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11095439",
+   "b": "Q45474239",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元轨 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095439#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095439",
+   "b": "Q45474485",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元轨 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095439#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095439",
+   "b": "Q45474610",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元轨 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095439#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095439",
+   "b": "Q45474739",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元轨 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095439#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095439",
+   "b": "Q45474864",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元轨 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095439#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11095439",
+   "b": "Q45474929",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李元轨 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11095439#P40"
     }
    ]
   },
@@ -13033,6 +15965,19 @@
   },
   {
    "a": "Q11098320",
+   "b": "Q10338468",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李灵夔 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098320#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098320",
    "b": "Q11098362",
    "type": "kin",
    "aIs": "兄弟",
@@ -13254,6 +16199,19 @@
   },
   {
    "a": "Q11098320",
+   "b": "Q45478337",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李灵夔 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098320#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098320",
    "b": "Q699639",
    "type": "kin",
    "aIs": "兄弟",
@@ -13509,6 +16467,19 @@
   },
   {
    "a": "Q11098362",
+   "b": "Q22813470",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李凤 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098362#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
    "b": "Q4308304",
    "type": "kin",
    "aIs": "兄弟",
@@ -13521,6 +16492,84 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
+   "b": "Q45475056",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李凤 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098362#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
+   "b": "Q45475502",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李凤 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098362#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
+   "b": "Q45475565",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李凤 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098362#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
+   "b": "Q45475819",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李凤 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098362#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
+   "b": "Q45509606",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李凤 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11098362#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11098362",
+   "b": "Q65803435",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：李凤 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q11098362#P26"
     }
    ]
   },
@@ -13645,6 +16694,19 @@
   },
   {
    "a": "Q11111831",
+   "b": "Q1564628",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：桂阳公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q11111831#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q11111831",
    "b": "Q15951700",
    "type": "kin",
    "aIs": "姐妹",
@@ -13674,6 +16736,19 @@
     {
      "title": "Wikidata：衡陽公主 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q15955551#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11111831",
+   "b": "Q16260285",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：桂阳公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11111831#P40"
     }
    ]
   },
@@ -13781,6 +16856,19 @@
   },
   {
    "a": "Q11111831",
+   "b": "Q45419224",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：桂阳公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q11111831#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q11111831",
    "b": "Q699639",
    "type": "kin",
    "aIs": "姐妹",
@@ -13844,6 +16932,19 @@
     {
      "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11125555",
+   "b": "Q11669188",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：高密公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q11669188#P26"
     }
    ]
   },
@@ -14235,6 +17336,32 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11496708",
+   "b": "Q45479691",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：房陵公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q11496708#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q11496708",
+   "b": "Q48890506",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：房陵公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q11496708#P26"
     }
    ]
   },
@@ -14667,6 +17794,32 @@
   },
   {
    "a": "Q11669188",
+   "b": "Q24836638",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：高密公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11669188#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11669188",
+   "b": "Q24836697",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：高密公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q11669188#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q11669188",
    "b": "Q4308304",
    "type": "kin",
    "aIs": "姐妹",
@@ -14853,6 +18006,19 @@
    ]
   },
   {
+   "a": "Q124669355",
+   "b": "Q124655546",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：王佑林 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q124655546#P25"
+    }
+   ]
+  },
+  {
    "a": "Q134079944",
    "b": "Q8251489",
    "type": "kin",
@@ -14862,6 +18028,19 @@
     {
      "title": "Wikidata：燕德妃 · 母亲（P25）",
      "url": "https://www.wikidata.org/wiki/Q8251489#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q13677904",
+   "b": "Q16743739",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：秦厚修 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q16743739#P3373"
     }
    ]
   },
@@ -14982,6 +18161,32 @@
     {
      "title": "Wikidata：马英九 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q19216#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q15921481",
+   "b": "Q8251514",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：阴妃 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8251514#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q15927705",
+   "b": "Q703328",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李泰 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q703328#P26"
     }
    ]
   },
@@ -15369,6 +18574,45 @@
    ]
   },
   {
+   "a": "Q16259966",
+   "b": "Q4309910",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：李丽质 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309910#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q16260598",
+   "b": "Q4310113",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：新城公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4310113#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q16260613",
+   "b": "Q4309207",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：襄城公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309207#P26"
+    }
+   ]
+  },
+  {
    "a": "Q16603543",
    "b": "Q16603582",
    "type": "kin",
@@ -15450,6 +18694,19 @@
     {
      "title": "Wikidata：李玄霸 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4308304#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16603543",
+   "b": "Q45421261",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：真定公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16603543#P26"
     }
    ]
   },
@@ -15790,6 +19047,19 @@
     {
      "title": "Wikidata：館陶公主 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q16603735#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q16603689",
+   "b": "Q22813910",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：长沙公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q16603689#P40"
     }
    ]
   },
@@ -16182,6 +19452,19 @@
   },
   {
    "a": "Q16926396",
+   "b": "Q17184155",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：马莉君 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q16926396#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q16926396",
    "b": "Q19216",
    "type": "kin",
    "aIs": "姐妹",
@@ -16211,6 +19494,19 @@
     {
      "title": "Wikidata：马英九 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q19216#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17030493",
+   "b": "Q16743739",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：秦厚修 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q16743739#P22"
     }
    ]
   },
@@ -16316,6 +19612,19 @@
    ]
   },
   {
+   "a": "Q2146157",
+   "b": "Q380579",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：谢霆锋 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q380579#P22"
+    }
+   ]
+  },
+  {
    "a": "Q22101203",
    "b": "Q78502330",
    "type": "kin",
@@ -16346,6 +19655,19 @@
    ]
   },
   {
+   "a": "Q25916974",
+   "b": "Q4309099",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李福 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309099#P26"
+    }
+   ]
+  },
+  {
    "a": "Q26198084",
    "b": "Q4308218",
    "type": "kin",
@@ -16368,6 +19690,78 @@
     {
      "title": "Wikidata：韦珪 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8251352#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q270681",
+   "b": "Q380579",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：谢霆锋 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q380579#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2006",
+     "src": {
+      "title": "Wikidata：谢霆锋 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q380579#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2011",
+     "src": {
+      "title": "Wikidata：谢霆锋 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q380579#P26"
+     }
+    }
+   ],
+   "to": "2011",
+   "status": "past"
+  },
+  {
+   "a": "Q30919632",
+   "b": "Q699639",
+   "type": "spouse",
+   "aIs": "配偶",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李元吉 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q699639#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q3307106",
+   "b": "Q380579",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：谢霆锋 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q380579#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q3382199",
+   "b": "Q9703",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P26"
     }
    ]
   },
@@ -16395,6 +19789,19 @@
       "title": "Wikidata：王菲 · 伴侣（P451）",
       "url": "https://www.wikidata.org/wiki/Q464650#P451"
      }
+    }
+   ]
+  },
+  {
+   "a": "Q4022409",
+   "b": "Q8251514",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：阴妃 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q8251514#P22"
     }
    ]
   },
@@ -16501,6 +19908,29 @@
    ]
   },
   {
+   "a": "Q4121050",
+   "b": "Q8930368",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：马唯中 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4121050#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2012",
+     "src": {
+      "title": "Wikidata：马唯中 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4121050#P26"
+     }
+    }
+   ]
+  },
+  {
    "a": "Q4121057",
    "b": "Q4121050",
    "type": "kin",
@@ -16531,6 +19961,19 @@
     {
      "title": "Wikidata：周美青 · 子女（P40）",
      "url": "https://www.wikidata.org/wiki/Q4121057#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4307810",
+   "b": "Q38976840",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李贞 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4307810#P40"
     }
    ]
   },
@@ -17041,6 +20484,32 @@
     {
      "title": "Wikidata：新城公主 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q4310113#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4307810",
+   "b": "Q45489082",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李贞 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4307810#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4307810",
+   "b": "Q6538693",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李贞 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4307810#P40"
     }
    ]
   },
@@ -18968,6 +22437,32 @@
   },
   {
    "a": "Q4309009",
+   "b": "Q22813479",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q25925998",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
    "b": "Q4309050",
    "type": "kin",
    "aIs": "兄弟",
@@ -19410,6 +22905,201 @@
   },
   {
    "a": "Q4309009",
+   "b": "Q45511133",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45511198",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45512023",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45513937",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45514000",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45514063",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45514574",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45515457",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45515521",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45521586",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45523299",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45523360",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45523423",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45523483",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
+   "b": "Q45523546",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恽 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309009#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309009",
    "b": "Q699664",
    "type": "kin",
    "aIs": "兄弟",
@@ -19473,6 +23163,32 @@
     {
      "title": "Wikidata：唐高宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9703#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q15940958",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q38976923",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
     }
    ]
   },
@@ -19903,6 +23619,123 @@
   },
   {
    "a": "Q4309050",
+   "b": "Q45494176",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q45494238",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q45497842",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q45497907",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q45497971",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q45498036",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q45498100",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q45500360",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
+   "b": "Q65808097",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309050#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309050",
    "b": "Q699664",
    "type": "kin",
    "aIs": "兄弟",
@@ -20906,6 +24739,58 @@
   },
   {
    "a": "Q4309099",
+   "b": "Q25922880",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李福 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309099#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309099",
+   "b": "Q25923061",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李福 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309099#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309099",
+   "b": "Q25923078",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李福 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309099#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309099",
+   "b": "Q25923088",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李福 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309099#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309099",
    "b": "Q4309120",
    "type": "kin",
    "aIs": "兄弟",
@@ -21348,6 +25233,19 @@
   },
   {
    "a": "Q4309120",
+   "b": "Q22813465",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李明 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309120#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309120",
    "b": "Q4309207",
    "type": "kin",
    "aIs": "兄弟",
@@ -21705,6 +25603,71 @@
   },
   {
    "a": "Q4309120",
+   "b": "Q45378845",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李明 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309120#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309120",
+   "b": "Q45501439",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李明 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309120#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309120",
+   "b": "Q45501822",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李明 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309120#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309120",
+   "b": "Q45501951",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李明 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309120#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309120",
+   "b": "Q45502014",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李明 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309120#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309120",
    "b": "Q699664",
    "type": "kin",
    "aIs": "兄弟",
@@ -22572,6 +26535,19 @@
   },
   {
    "a": "Q4309898",
+   "b": "Q4255471",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：南平公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309898#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309898",
    "b": "Q4309903",
    "type": "kin",
    "aIs": "姐妹",
@@ -22929,6 +26905,19 @@
   },
   {
    "a": "Q4309898",
+   "b": "Q9450939",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：南平公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309898#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q4309898",
    "b": "Q9703",
    "type": "kin",
    "aIs": "姐妹",
@@ -23575,6 +27564,71 @@
   },
   {
    "a": "Q4309910",
+   "b": "Q45447569",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李丽质 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309910#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q4309910",
+   "b": "Q45480438",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李丽质 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309910#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q4309910",
+   "b": "Q45531094",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李丽质 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309910#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309910",
+   "b": "Q45532361",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李丽质 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309910#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309910",
+   "b": "Q45532424",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李丽质 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309910#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309910",
    "b": "Q699664",
    "type": "kin",
    "aIs": "姐妹",
@@ -24544,6 +28598,19 @@
   },
   {
    "a": "Q4309933",
+   "b": "Q9591598",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：普安公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309933#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q4309933",
    "b": "Q9703",
    "type": "kin",
    "aIs": "姐妹",
@@ -24833,6 +28900,19 @@
   },
   {
    "a": "Q4309963",
+   "b": "Q133447479",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李孟姜 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309963#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309963",
    "b": "Q4309969",
    "type": "kin",
    "aIs": "姐妹",
@@ -25020,6 +29100,32 @@
   },
   {
    "a": "Q4309963",
+   "b": "Q45438460",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李孟姜 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4309963#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q4309963",
+   "b": "Q45635174",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李孟姜 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4309963#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4309963",
    "b": "Q699664",
    "type": "kin",
    "aIs": "姐妹",
@@ -26103,6 +30209,32 @@
     {
      "title": "Wikidata：唐高宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9703#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4310073",
+   "b": "Q10513994",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：城阳公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4310073#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4310073",
+   "b": "Q16260770",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：城阳公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4310073#P40"
     }
    ]
   },
@@ -26783,6 +30915,19 @@
    ]
   },
   {
+   "a": "Q45417800",
+   "b": "Q855999",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：徐惠 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q855999#P22"
+    }
+   ]
+  },
+  {
    "a": "Q45420311",
    "b": "Q4308218",
    "type": "kin",
@@ -26917,6 +31062,32 @@
    ]
   },
   {
+   "a": "Q5067754",
+   "b": "Q711427",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：平阳昭公主 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q711427#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q5071615",
+   "b": "Q11068317",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：张菲 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5071615#P40"
+    }
+   ]
+  },
+  {
    "a": "Q5071615",
    "b": "Q708621",
    "type": "kin",
@@ -26968,6 +31139,19 @@
    ]
   },
   {
+   "a": "Q65061035",
+   "b": "Q124655546",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：王佑林 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q124655546#P22"
+    }
+   ]
+  },
+  {
    "a": "Q67444172",
    "b": "Q1152149",
    "type": "kin",
@@ -26977,6 +31161,19 @@
     {
      "title": "Wikidata：长孙皇后 · 母亲（P25）",
      "url": "https://www.wikidata.org/wiki/Q1152149#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q699639",
+   "b": "Q65802743",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李元吉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q699639#P40"
     }
    ]
   },
@@ -27050,6 +31247,45 @@
   },
   {
    "a": "Q699664",
+   "b": "Q11098022",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李承乾 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q699664#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q699664",
+   "b": "Q45508125",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李承乾 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q699664#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q699664",
+   "b": "Q45508249",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李承乾 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q699664#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q699664",
    "b": "Q701556",
    "type": "kin",
    "aIs": "兄弟",
@@ -27101,6 +31337,58 @@
   },
   {
    "a": "Q701556",
+   "b": "Q11095612",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701556#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701556",
+   "b": "Q11097430",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701556#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701556",
+   "b": "Q11097450",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701556#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701556",
+   "b": "Q16076771",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李恪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701556#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701556",
    "b": "Q703328",
    "type": "kin",
    "aIs": "兄弟",
@@ -27130,6 +31418,32 @@
     {
      "title": "Wikidata：唐高宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9703#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q703328",
+   "b": "Q15949680",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李泰 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q703328#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q703328",
+   "b": "Q45588133",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李泰 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q703328#P40"
     }
    ]
   },
@@ -27169,6 +31483,32 @@
   },
   {
    "a": "Q711427",
+   "b": "Q10350884",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：平阳昭公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q711427#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q711427",
+   "b": "Q11110091",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：平阳昭公主 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q711427#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q711427",
    "b": "Q711674",
    "type": "kin",
    "aIs": "姐妹",
@@ -27203,6 +31543,45 @@
   },
   {
    "a": "Q711674",
+   "b": "Q11095932",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李建成 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q711674#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q711674",
+   "b": "Q16075506",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李建成 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q711674#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q711674",
+   "b": "Q16075508",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李建成 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q711674#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q711674",
    "b": "Q9701",
    "type": "kin",
    "aIs": "兄弟",
@@ -27215,6 +31594,19 @@
     {
      "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q713112",
+   "b": "Q9703",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P26"
     }
    ]
   },
@@ -27236,6 +31628,19 @@
    ]
   },
   {
+   "a": "Q7220251",
+   "b": "Q380579",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：谢霆锋 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q380579#P25"
+    }
+   ]
+  },
+  {
    "a": "Q7419",
    "b": "Q8251464",
    "type": "kin",
@@ -27245,6 +31650,19 @@
     {
      "title": "Wikidata：杨妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8251464#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q8249771",
+   "b": "Q9703",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P26"
     }
    ]
   },
@@ -27441,6 +31859,32 @@
     {
      "title": "Wikidata：唐太宗 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8251464",
+   "b": "Q986651",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q8251464",
+   "b": "Q987344",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：杨妃 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8251464#P3373"
     }
    ]
   },
@@ -29012,6 +33456,175 @@
     {
      "title": "Wikidata：唐高宗 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q9703#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q4313077",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q4313099",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q4313215",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q4313238",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q4313257",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q699657",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q706438",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q708310",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q708365",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q712916",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q9717",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q9722",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9703",
+   "b": "Q9738",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：唐高宗 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9703#P26"
     }
    ]
   }
