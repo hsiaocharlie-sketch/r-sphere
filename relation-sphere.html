@@ -73,7 +73,7 @@ button,input{font:inherit;color:inherit}
     <div class="row">
       <button class="btn" id="back" disabled>‹ 返回</button>
       <input id="q" type="search" placeholder="搜索人物（姓名或别名）" autocomplete="off" enterkeyhint="search">
-      <button class="btn" id="recenter" title="把主角转回正中">⌖ 回正</button>
+      <button class="btn" id="recenter" title="把主角转回右上的原位">⌖ 回正</button>
       <button class="btn" id="fbtn" title="只显示某些关系人">筛选</button>
     </div>
     <div class="res" id="res" hidden></div>
@@ -221,20 +221,35 @@ function mulberry32(a) {
 }
 
 /* ───────── 布局：以主角为中心，亲友随机均匀撒在球面 ───────── */
+// 主角不在球的正中，而放在偏向右上的位置（HOME），这样连向亲友的线是沿球面弯的弧线
+const HOME_ANG = 40*Math.PI/180, HOME_AZ = Math.PI/4;
+const HOME = [Math.sin(HOME_ANG)*Math.cos(HOME_AZ), Math.sin(HOME_ANG)*Math.sin(HOME_AZ), Math.cos(HOME_ANG)];
 function layout(centerId, ids) {
-  // 每人约占 0.2 球面度：人少时只用正面的球冠，人多了球冠逐渐扩大，直到铺满整球
+  // 每人约占 0.2 球面度：人少时只用一块球冠，人多了球冠逐渐扩大直到铺满整球。
+  // 球冠的中心尽量靠近 HOME，但会向屏幕正面收一收，保证人少时全部落在可视的半球内。
   const M = ids.length + 1;
   const rnd = mulberry32(hash(centerId));
   const GA = Math.PI * (3 - Math.sqrt(5));
   const cosCap = Math.max(-1, 1 - M*0.2/(2*Math.PI));
-  const span = 1 - cosCap;
+  const rho = Math.acos(cosCap), span = 1 - cosCap;
+  const ac = Math.max(0, Math.min(HOME_ANG, 1.25 - rho));
+  const C = [Math.sin(ac)*Math.cos(HOME_AZ), Math.sin(ac)*Math.sin(HOME_AZ), Math.cos(ac)];
+  const Rc = qfromTo([0,0,1], C);
   const roll = rnd()*Math.PI*2;
   const j = Math.sqrt(span*2*Math.PI/M)*0.16;
-  const out = new Map([[centerId, [0,0,1]]]);
+  const slots = [];
+  for (let k = 0; k < M; k++) {
+    const z = 1 - span*(k+0.5)/M, r = Math.sqrt(Math.max(0, 1-z*z)), th = k*GA + roll;
+    slots.push(qrot(Rc, [r*Math.cos(th), r*Math.sin(th), z]));
+  }
+  let bi = 0, bd = -2;                       // 离 HOME 最近的一格留给主角，其余分给亲友
+  slots.forEach((s, i) => { const d = dot(s, HOME); if (d > bd) { bd = d; bi = i; } });
+  const rest = slots.filter((_, i) => i !== bi);
+  const out = new Map([[centerId, HOME.slice()]]);
   const order = ids.slice().sort((a,b) => hash(centerId+'|'+a) - hash(centerId+'|'+b));
   order.forEach((pid, i) => {
-    const k = i + 1, z = 1 - span*(k+0.5)/M, r = Math.sqrt(Math.max(0, 1-z*z)), th = k*GA + roll;
-    out.set(pid, norm([r*Math.cos(th)+(rnd()-.5)*2*j, r*Math.sin(th)+(rnd()-.5)*2*j, z+(rnd()-.5)*2*j]));
+    const q = rest[i];
+    out.set(pid, norm([q[0]+(rnd()-.5)*2*j, q[1]+(rnd()-.5)*2*j, q[2]+(rnd()-.5)*2*j]));
   });
   return out;
 }
@@ -331,8 +346,8 @@ function finishAnims() { finishRot(); if (trans) { applyTrans(1); endTrans(); } 
 
 function bringToFront(id, cb) {
   const n = nodes.get(id); if (!n) { cb && cb(); return; }
-  const v = qrot(Q, n.pos), R = qfromTo(norm(v), [0,0,1]);
-  const ang = Math.acos(clamp(v[2], -1, 1));
+  const v = qrot(Q, n.pos), R = qfromTo(norm(v), HOME);
+  const ang = Math.acos(clamp(dot(norm(v), HOME), -1, 1));
   rot = {t0: performance.now(), dur: clamp(ang*420 + 220, 220, 700), R, Q0: Q, G0: QG, cb};
   needsDraw = true;
 }
