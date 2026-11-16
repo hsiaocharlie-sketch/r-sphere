@@ -8,7 +8,8 @@
    "Q180852",
    "Q19216",
    "Q464650",
-   "Q708621"
+   "Q708621",
+   "Q313596"
   ],
   "depth": 2,
   "src": {
@@ -191,6 +192,22 @@
     "栢芝張"
    ],
    "note": "香港女演员"
+  },
+  {
+   "id": "Q313596",
+   "name": "张国荣",
+   "wikidata": "Q313596",
+   "alias": [
+    "張國榮",
+    "Leslie Cheung",
+    "張發宗",
+    "張萊斯利",
+    "Leslie Cheung Kwok-wing",
+    "Cheung Fat-chung",
+    "Cheung Kwok-wing",
+    "Zhang Guorong"
+   ],
+   "note": "香港创作歌手及演员 (1956-2003)"
   },
   {
    "id": "Q380579",
@@ -1014,6 +1031,16 @@
    "note": "daughter of Wu Zetian"
   },
   {
+   "id": "Q4674228",
+   "name": "亞巴斯",
+   "wikidata": "Q4674228",
+   "alias": [
+    "Ackbar Abbas",
+    "馬文彬"
+   ],
+   "note": "professor"
+  },
+  {
    "id": "Q5067754",
    "name": "柴绍",
    "wikidata": "Q5067754",
@@ -1059,6 +1086,39 @@
     "Di Bola"
    ],
    "note": "香港女演员及节目主持人"
+  },
+  {
+   "id": "Q7717438",
+   "name": "张活海",
+   "wikidata": "Q7717438",
+   "alias": [
+    "張活海",
+    "Cheung Wut Hoi"
+   ],
+   "note": "Hong Kong tailor (1910-1989)"
+  },
+  {
+   "id": "Q7717548",
+   "name": "张绿萍",
+   "wikidata": "Q7717548",
+   "alias": [
+    "張綠萍",
+    "Ophelia Cheung-Macpherson"
+   ],
+   "note": "Hong Kong civil servant (1940-2017)"
+  },
+  {
+   "id": "Q7717943",
+   "name": "刘麦嘉轩",
+   "wikidata": "Q7717943",
+   "alias": [
+    "劉麥嘉軒",
+    "Ayesha Macpherson Lau",
+    "麦嘉轩",
+    "麥嘉軒",
+    "Ayesha Macpherson"
+   ],
+   "note": "Hong Kong accountant"
   },
   {
    "id": "Q7967432",
@@ -3470,6 +3530,15 @@
    "wikidata": "Q48890506"
   },
   {
+   "id": "Q55003809",
+   "name": "麥法誠",
+   "wikidata": "Q55003809",
+   "alias": [
+    "Ian Francis Cluny Macpherson"
+   ],
+   "note": "香港前交通事务处处长"
+  },
+  {
    "id": "Q65061035",
    "name": "王兆民",
    "wikidata": "Q65061035",
@@ -3540,6 +3609,16 @@
     "Li Yan"
    ],
    "note": "Faye Wong's daughter"
+  },
+  {
+   "id": "Q97352352",
+   "name": "唐鶴德",
+   "wikidata": "Q97352352",
+   "alias": [
+    "Daffy Tong",
+    "Tong Hok Tak",
+    "Daffy Tong Hok Tak"
+   ]
   },
   {
    "id": "Q124655546",
@@ -19740,6 +19819,40 @@
    ]
   },
   {
+   "a": "Q313596",
+   "b": "Q7717548",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：张国荣 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q313596#P3373"
+    },
+    {
+     "title": "Wikidata：张绿萍 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7717548#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q313596",
+   "b": "Q97352352",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：张国荣 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q313596#P451"
+    },
+    {
+     "title": "Wikidata：唐鶴德 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q97352352#P451"
+    }
+   ]
+  },
+  {
    "a": "Q3307106",
    "b": "Q380579",
    "type": "kin",
@@ -31062,6 +31175,19 @@
    ]
   },
   {
+   "a": "Q4674228",
+   "b": "Q7717548",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：张绿萍 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q7717548#P26"
+    }
+   ]
+  },
+  {
    "a": "Q5067754",
    "b": "Q711427",
    "type": "spouse",
@@ -31118,6 +31244,19 @@
     {
      "title": "Wikidata：释恒述 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9044385#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q55003809",
+   "b": "Q7717548",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：张绿萍 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q7717548#P26"
     }
    ]
   },
@@ -31650,6 +31789,53 @@
     {
      "title": "Wikidata：杨妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8251464#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q7717438",
+   "b": "Q313596",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：张国荣 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q313596#P22"
+    },
+    {
+     "title": "Wikidata：张活海 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q7717438#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q7717438",
+   "b": "Q7717548",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：张活海 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q7717438#P40"
+    },
+    {
+     "title": "Wikidata：张绿萍 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q7717548#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q7717548",
+   "b": "Q7717943",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：张绿萍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q7717548#P40"
     }
    ]
   },
