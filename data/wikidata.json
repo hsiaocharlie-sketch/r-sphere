@@ -9,7 +9,8 @@
    "Q19216",
    "Q464650",
    "Q708621",
-   "Q313596"
+   "Q313596",
+   "Q8573"
   ],
   "depth": 2,
   "src": {
@@ -33,6 +34,22 @@
     "炀帝"
    ],
    "note": "大隋政权的第二位皇帝"
+  },
+  {
+   "id": "Q8573",
+   "name": "孙中山",
+   "wikidata": "Q8573",
+   "alias": [
+    "Sun Yat-sen",
+    "孫中山",
+    "中国民主革命的伟大先行者",
+    "孙逸仙",
+    "孙文",
+    "中国国父",
+    "国父孙中山",
+    "孙载之"
+   ],
+   "note": "近代中国政治人物、革命家，中国国民党总理，中华民国国父（1866—1925）"
   },
   {
    "id": "Q9700",
@@ -145,6 +162,37 @@
    "note": "香港演员及歌手"
   },
   {
+   "id": "Q17132",
+   "name": "宋庆龄",
+   "wikidata": "Q17132",
+   "alias": [
+    "Soong Ching-ling",
+    "宋慶齡",
+    "Madame Sun Yat-sen",
+    "Song Qingling",
+    "Song Ch'ing-ling",
+    "Rosamond Soong",
+    "Rosamond Soong Ch'ing-ling"
+   ],
+   "note": "孙中山夫人，中华人民共和国名誉主席 (1893–1981)"
+  },
+  {
+   "id": "Q17135",
+   "name": "宋美龄",
+   "wikidata": "Q17135",
+   "alias": [
+    "Soong May-ling",
+    "宋美齡",
+    "蒋宋美龄",
+    "蔣宋美齡",
+    "Soong Mei-ling",
+    "Song Meiling",
+    "Madame Chiang Kai-shek",
+    "Mayling Soong Chiang"
+   ],
+   "note": "蒋介石夫人，前中华民国第一夫人"
+  },
+  {
    "id": "Q19216",
    "name": "马英九",
    "wikidata": "Q19216",
@@ -176,6 +224,19 @@
     "Zhang Zi Yi"
    ],
    "note": "中国电影女演员"
+  },
+  {
+   "id": "Q256411",
+   "name": "宋霭龄",
+   "wikidata": "Q256411",
+   "alias": [
+    "宋靄齡",
+    "Soong Ai-ling",
+    "宋藹齡",
+    "宋蔼龄",
+    "Eling Soong"
+   ],
+   "note": "孔祥熙之妻 (1889-1973"
   },
   {
    "id": "Q270681",
@@ -277,6 +338,36 @@
    "note": "Chinese imperial prince"
   },
   {
+   "id": "Q701897",
+   "name": "孙科",
+   "wikidata": "Q701897",
+   "alias": [
+    "孫科",
+    "Sun Fo",
+    "孫哲生",
+    "孙哲生",
+    "Sun Ke",
+    "Sun K'o"
+   ],
+   "note": "孫中山之子、中華民國行政院前院長"
+  },
+  {
+   "id": "Q702111",
+   "name": "宋嘉澍",
+   "wikidata": "Q702111",
+   "alias": [
+    "Charlie Soong",
+    "宋查理",
+    "韓教準",
+    "宋嘉树",
+    "查理·宋",
+    "宋耀如",
+    "Soong Yao-ju",
+    "Charles Jones Soong"
+   ],
+   "note": "中国传教士 (1863-1918)"
+  },
+  {
    "id": "Q703328",
    "name": "李泰",
    "wikidata": "Q703328",
@@ -338,6 +429,16 @@
    "note": "台湾歌手"
   },
   {
+   "id": "Q708894",
+   "name": "卢慕贞",
+   "wikidata": "Q708894",
+   "alias": [
+    "盧慕貞",
+    "Lu Muzhen"
+   ],
+   "note": "孙中山的元配夫人"
+  },
+  {
    "id": "Q711427",
    "name": "平阳昭公主",
    "wikidata": "Q711427",
@@ -388,6 +489,20 @@
     "Empress Wang"
    ],
    "note": "Tang Dynasty empress"
+  },
+  {
+   "id": "Q716051",
+   "name": "宋子文",
+   "wikidata": "Q716051",
+   "alias": [
+    "T. V. Soong",
+    "Paul Soong",
+    "Soong Tse-ven",
+    "Soong Tzu-wen",
+    "Tse-ven Soong",
+    "Soong Tse-vung"
+   ],
+   "note": "中華民國政治人物"
   },
   {
    "id": "Q717397",
@@ -584,6 +699,86 @@
     "Zhōu Měiqīng"
    ],
    "note": "中华民国第一夫人"
+  },
+  {
+   "id": "Q4164245",
+   "name": "大月薰",
+   "wikidata": "Q4164245",
+   "alias": [
+    "Kaoru Otsuki"
+   ],
+   "note": "孙中山的日籍夫人"
+  },
+  {
+   "id": "Q4164300",
+   "name": "孙婉",
+   "wikidata": "Q4164300",
+   "alias": [
+    "孫婉",
+    "Sun Wan",
+    "孫金婉",
+    "Sun Jin-wan"
+   ],
+   "note": "孙中山之次女"
+  },
+  {
+   "id": "Q4164318",
+   "name": "宫川富美子",
+   "wikidata": "Q4164318",
+   "alias": [
+    "宮川富美子",
+    "Fumiko Miyagawa"
+   ],
+   "note": "孙中山与大月薰之女"
+  },
+  {
+   "id": "Q4164342",
+   "name": "孙眉",
+   "wikidata": "Q4164342",
+   "alias": [
+    "孫眉",
+    "Sun Mei",
+    "孙德彰",
+    "孫德彰",
+    "Sun Dezhang"
+   ],
+   "note": "孙中山之兄长"
+  },
+  {
+   "id": "Q4195655",
+   "name": "倪桂珍",
+   "wikidata": "Q4195655",
+   "alias": [
+    "Ni Kwei-tseng",
+    "Ní Guìzhēn",
+    "Mrs. Charles Jones Soong",
+    "Ni Kwei-Tseng",
+    "Ni Guizhen"
+   ],
+   "note": "宋嘉澍之妻"
+  },
+  {
+   "id": "Q4195778",
+   "name": "宋子良",
+   "wikidata": "Q4195778",
+   "alias": [
+    "T. L. Soong",
+    "Soong Tse‑liang"
+   ],
+   "note": "中国企业家，宋嘉澍之子"
+  },
+  {
+   "id": "Q4195955",
+   "name": "宋子安",
+   "wikidata": "Q4195955",
+   "alias": [
+    "Soong Tse-an",
+    "T.A. Soong",
+    "Song Zian",
+    "Tzu-an Song",
+    "Tzu-An Soong"
+   ],
+   "note": "中国企业家，宋嘉澍之子"
   },
   {
    "id": "Q4255471",
@@ -1066,6 +1261,26 @@
    "note": "台湾电视主持人"
   },
   {
+   "id": "Q5090737",
+   "name": "陈粹芬",
+   "wikidata": "Q5090737",
+   "alias": [
+    "Chen Cuifen",
+    "陳粹芬"
+   ],
+   "note": "孫中山侧室"
+  },
+  {
+   "id": "Q5675539",
+   "name": "浅田春",
+   "wikidata": "Q5675539",
+   "alias": [
+    "Haru Asada",
+    "淺田春"
+   ],
+   "note": "孙中山侧室"
+  },
+  {
    "id": "Q6538693",
    "name": "李冲",
    "wikidata": "Q6538693",
@@ -1073,6 +1288,18 @@
     "Li Chong"
    ],
    "note": "唐朝"
+  },
+  {
+   "id": "Q7050162",
+   "name": "孙穗芬",
+   "wikidata": "Q7050162",
+   "alias": [
+    "Nora Sun",
+    "孫穗芬",
+    "Sūn Suìfēn",
+    "Sun Suifen"
+   ],
+   "note": "美籍华人外交官"
   },
   {
    "id": "Q7220251",
@@ -1276,6 +1503,19 @@
    "note": "唐太宗的妃嫔"
   },
   {
+   "id": "Q8276415",
+   "name": "孙治平",
+   "wikidata": "Q8276415",
+   "alias": [
+    "孫治平",
+    "Sun Tse-ping",
+    "Sun Zhiping",
+    "Sun Chih Ping",
+    "Sun Chih-ping"
+   ],
+   "note": "孙科之子"
+  },
+  {
    "id": "Q8930368",
    "name": "蔡沛然",
    "wikidata": "Q8930368",
@@ -1286,6 +1526,43 @@
     "Tsai Pei-jan"
    ],
    "note": "马唯中之夫"
+  },
+  {
+   "id": "Q9039973",
+   "name": "孙穗芳",
+   "wikidata": "Q9039973",
+   "alias": [
+    "孫穗芳",
+    "Lily Sun",
+    "Sun Sui-fong",
+    "Sun Suifang"
+   ],
+   "note": "孙科之女"
+  },
+  {
+   "id": "Q9039991",
+   "name": "孙穗英",
+   "wikidata": "Q9039991",
+   "alias": [
+    "孫穗英",
+    "Sun Sui-ying",
+    "孫穗瑛",
+    "孙穗瑛",
+    "Sūn Suìyīng",
+    "Sun Suiying"
+   ],
+   "note": "孙科之女"
+  },
+  {
+   "id": "Q9040009",
+   "name": "孙穗华",
+   "wikidata": "Q9040009",
+   "alias": [
+    "孫穗華",
+    "Sun Sui-hwa",
+    "Sun Suihua"
+   ],
+   "note": "孙科之女"
   },
   {
    "id": "Q9044385",
@@ -1302,6 +1579,18 @@
     "恆述法師"
    ],
    "note": "台湾艺人、比丘尼"
+  },
+  {
+   "id": "Q9129322",
+   "name": "宫川东一",
+   "wikidata": "Q9129322",
+   "alias": [
+    "宮川東一",
+    "Tōichi Miyagawa",
+    "Toichi Miyagawa",
+    "Touichi Miyagawa"
+   ],
+   "note": "孙中山外孙"
   },
   {
    "id": "Q9194014",
@@ -1420,6 +1709,19 @@
    "note": "Tang dynasty general"
   },
   {
+   "id": "Q10565579",
+   "name": "陈淑英",
+   "wikidata": "Q10565579",
+   "alias": [
+    "陳淑英",
+    "Chen Suk-ying",
+    "Chen Shu-ying",
+    "Chén Shūyīng",
+    "Chen Shuying"
+   ],
+   "note": "孙科夫人"
+  },
+  {
    "id": "Q10566744",
    "name": "高履行",
    "wikidata": "Q10566744",
@@ -1489,6 +1791,17 @@
    "note": "full-sister of Emperor Gaozu of Tang"
   },
   {
+   "id": "Q10945586",
+   "name": "孙治强",
+   "wikidata": "Q10945586",
+   "alias": [
+    "孫治強",
+    "Sun Tse-kiong",
+    "Sun Zhiqiang"
+   ],
+   "note": "孙科之子"
+  },
+  {
    "id": "Q10946662",
    "name": "安平公主 (唐高祖)",
    "wikidata": "Q10946662",
@@ -1539,6 +1852,27 @@
     "Chang Shao-Huai"
    ],
    "note": "台湾演员"
+  },
+  {
+   "id": "Q11075299",
+   "name": "戴恩赛",
+   "wikidata": "Q11075299",
+   "alias": [
+    "戴恩賽",
+    "Tai En Sai",
+    "Dai Ensai"
+   ],
+   "note": "中国政治人物"
+  },
+  {
+   "id": "Q11075337",
+   "name": "戴永丰",
+   "wikidata": "Q11075337",
+   "alias": [
+    "戴永豐",
+    "Dai Yongfeng"
+   ],
+   "note": "孙中山外孙"
   },
   {
    "id": "Q11075508",
@@ -1905,6 +2239,15 @@
    "wikidata": "Q15921481"
   },
   {
+   "id": "Q15925845",
+   "name": "王伯秋",
+   "wikidata": "Q15925845",
+   "alias": [
+    "Wang Boqiu"
+   ],
+   "note": "中华民国政治人物"
+  },
+  {
    "id": "Q15927705",
    "name": "阎婉",
    "wikidata": "Q15927705",
@@ -2187,6 +2530,18 @@
    "note": "concubine of emperor Gaozu"
   },
   {
+   "id": "Q22100096",
+   "name": "孙娫",
+   "wikidata": "Q22100096",
+   "alias": [
+    "孫娫",
+    "Sun Yan",
+    "孫金媛",
+    "Sun Jinyuan"
+   ],
+   "note": "孙中山长女"
+  },
+  {
    "id": "Q22101203",
    "name": "窦靖童",
    "wikidata": "Q22101203",
@@ -2362,6 +2717,29 @@
     "Yu Xuancheng"
    ],
    "note": "Tang dynasty person CBDB = 162410"
+  },
+  {
+   "id": "Q27673396",
+   "name": "严蔼娟",
+   "wikidata": "Q27673396",
+   "alias": [
+    "嚴藹娟",
+    "Yan Aijuan"
+   ],
+   "note": "孙科情妇"
+  },
+  {
+   "id": "Q27673625",
+   "name": "蓝妮",
+   "wikidata": "Q27673625",
+   "alias": [
+    "Lan-Ni",
+    "藍妮",
+    "蓝业珍",
+    "Lan Ni",
+    "Lan Yezhen"
+   ],
+   "note": "中国名媛"
   },
   {
    "id": "Q30919632",
@@ -3539,6 +3917,18 @@
    "note": "香港前交通事务处处长"
   },
   {
+   "id": "Q65046325",
+   "name": "孙达成",
+   "wikidata": "Q65046325",
+   "alias": [
+    "Sun Dacheng",
+    "孫達成",
+    "Sun Tat-shing",
+    "Sun Tat-sing"
+   ],
+   "note": "孙中山之父"
+  },
+  {
    "id": "Q65061035",
    "name": "王兆民",
    "wikidata": "Q65061035",
@@ -3609,6 +3999,17 @@
     "Li Yan"
    ],
    "note": "Faye Wong's daughter"
+  },
+  {
+   "id": "Q95476008",
+   "name": "杨氏",
+   "wikidata": "Q95476008",
+   "alias": [
+    "Madame Yang",
+    "楊太君",
+    "Lady Yang"
+   ],
+   "note": "孙中山的母亲"
   },
   {
    "id": "Q97352352",
@@ -4563,6 +4964,39 @@
      "url": "https://www.wikidata.org/wiki/Q15955551#P26"
     }
    ]
+  },
+  {
+   "a": "Q10565579",
+   "b": "Q701897",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1912",
+     "src": {
+      "title": "Wikidata：孙科 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q701897#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1973-09-13",
+     "src": {
+      "title": "Wikidata：孙科 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q701897#P26"
+     }
+    }
+   ],
+   "to": "1973-09-13",
+   "status": "past"
   },
   {
    "a": "Q10566744",
@@ -9664,6 +10098,39 @@
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
     }
    ]
+  },
+  {
+   "a": "Q11075299",
+   "b": "Q4164300",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：孙婉 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4164300#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1921",
+     "src": {
+      "title": "Wikidata：孙婉 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4164300#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1955-01-16",
+     "src": {
+      "title": "Wikidata：孙婉 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4164300#P26"
+     }
+    }
+   ],
+   "to": "1955-01-16",
+   "status": "past"
   },
   {
    "a": "Q11075508",
@@ -18257,6 +18724,29 @@
    ]
   },
   {
+   "a": "Q15925845",
+   "b": "Q4164300",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：孙婉 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4164300#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1914",
+     "src": {
+      "title": "Wikidata：孙婉 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4164300#P26"
+     }
+    }
+   ]
+  },
+  {
    "a": "Q15927705",
    "b": "Q703328",
    "type": "spouse",
@@ -19590,6 +20080,108 @@
    ]
   },
   {
+   "a": "Q17132",
+   "b": "Q17135",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17132",
+   "b": "Q256411",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17132",
+   "b": "Q4195778",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17132",
+   "b": "Q4195955",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17132",
+   "b": "Q716051",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17132",
+   "b": "Q8573",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P26"
+    },
+    {
+     "title": "Wikidata：孙中山 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1915-10-25",
+     "src": {
+      "title": "Wikidata：宋庆龄 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q17132#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1925-03-12",
+     "src": {
+      "title": "Wikidata：宋庆龄 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q17132#P26"
+     }
+    }
+   ],
+   "to": "1925-03-12",
+   "status": "past"
+  },
+  {
    "a": "Q180852",
    "b": "Q7967432",
    "type": "spouse",
@@ -19803,6 +20395,72 @@
     }
    ],
    "to": "2011",
+   "status": "past"
+  },
+  {
+   "a": "Q27673396",
+   "b": "Q701897",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "1932",
+     "src": {
+      "title": "Wikidata：孙科 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q701897#P451"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1936",
+     "src": {
+      "title": "Wikidata：孙科 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q701897#P451"
+     }
+    }
+   ],
+   "to": "1936",
+   "status": "past"
+  },
+  {
+   "a": "Q27673625",
+   "b": "Q701897",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "1936",
+     "src": {
+      "title": "Wikidata：孙科 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q701897#P451"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1948",
+     "src": {
+      "title": "Wikidata：孙科 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q701897#P451"
+     }
+    }
+   ],
+   "to": "1948",
    "status": "past"
   },
   {
@@ -20074,6 +20732,175 @@
     {
      "title": "Wikidata：周美青 · 子女（P40）",
      "url": "https://www.wikidata.org/wiki/Q4121057#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4164245",
+   "b": "Q4164318",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：大月薰 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4164245#P40"
+    },
+    {
+     "title": "Wikidata：宫川富美子 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4164318#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q4164245",
+   "b": "Q8573",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：大月薰 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4164245#P26"
+    },
+    {
+     "title": "Wikidata：孙中山 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1903",
+     "src": {
+      "title": "Wikidata：大月薰 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4164245#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1906",
+     "src": {
+      "title": "Wikidata：大月薰 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4164245#P26"
+     }
+    },
+    {
+     "label": "结婚",
+     "date": "1905",
+     "src": {
+      "title": "Wikidata：孙中山 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q8573#P26"
+     }
+    }
+   ],
+   "to": "1906",
+   "status": "past"
+  },
+  {
+   "a": "Q4164300",
+   "b": "Q11075337",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙婉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4164300#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4164300",
+   "b": "Q4164318",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：孙婉 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4164300#P3373"
+    },
+    {
+     "title": "Wikidata：宫川富美子 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4164318#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4164300",
+   "b": "Q701897",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：孙婉 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4164300#P3373"
+    },
+    {
+     "title": "Wikidata：孙科 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4164318",
+   "b": "Q701897",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宫川富美子 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4164318#P3373"
+    },
+    {
+     "title": "Wikidata：孙科 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4164318",
+   "b": "Q9129322",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：宫川富美子 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4164318#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4164342",
+   "b": "Q8573",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：孙眉 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4164342#P3373"
+    },
+    {
+     "title": "Wikidata：孙中山 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q17132",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P25"
     }
    ]
   },
@@ -31248,6 +32075,43 @@
    ]
   },
   {
+   "a": "Q5090737",
+   "b": "Q8573",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：陈粹芬 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q5090737#P26"
+    },
+    {
+     "title": "Wikidata：孙中山 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1891",
+     "src": {
+      "title": "Wikidata：陈粹芬 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5090737#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1906",
+     "src": {
+      "title": "Wikidata：陈粹芬 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5090737#P26"
+     }
+    }
+   ],
+   "to": "1906",
+   "status": "past"
+  },
+  {
    "a": "Q55003809",
    "b": "Q7717548",
    "type": "spouse",
@@ -31259,6 +32123,43 @@
      "url": "https://www.wikidata.org/wiki/Q7717548#P26"
     }
    ]
+  },
+  {
+   "a": "Q5675539",
+   "b": "Q8573",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：浅田春 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q5675539#P26"
+    },
+    {
+     "title": "Wikidata：孙中山 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1897",
+     "src": {
+      "title": "Wikidata：浅田春 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5675539#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1902",
+     "src": {
+      "title": "Wikidata：浅田春 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5675539#P26"
+     }
+    }
+   ],
+   "to": "1902",
+   "status": "past"
   },
   {
    "a": "Q64814",
@@ -31276,6 +32177,77 @@
      "url": "https://www.wikidata.org/wiki/Q64814#P40"
     }
    ]
+  },
+  {
+   "a": "Q65046325",
+   "b": "Q4164342",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙眉 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4164342#P22"
+    },
+    {
+     "title": "Wikidata：孙达成 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q65046325#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q65046325",
+   "b": "Q8573",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙达成 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q65046325#P40"
+    },
+    {
+     "title": "Wikidata：孙中山 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q65046325",
+   "b": "Q95476008",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：孙达成 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q65046325#P26"
+    },
+    {
+     "title": "Wikidata：杨氏 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q95476008#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1846",
+     "src": {
+      "title": "Wikidata：孙达成 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q65046325#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1888-03-23",
+     "src": {
+      "title": "Wikidata：孙达成 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q65046325#P26"
+     }
+    }
+   ],
+   "to": "1888-03-23",
+   "status": "past"
   },
   {
    "a": "Q65061035",
@@ -31561,6 +32533,97 @@
    ]
   },
   {
+   "a": "Q701897",
+   "b": "Q10945586",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701897",
+   "b": "Q7050162",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701897",
+   "b": "Q8276415",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701897",
+   "b": "Q9039973",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701897",
+   "b": "Q9039991",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q701897",
+   "b": "Q9040009",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q702111",
+   "b": "Q17132",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋庆龄 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q17132#P22"
+    }
+   ]
+  },
+  {
    "a": "Q703328",
    "b": "Q15949680",
    "type": "kin",
@@ -31619,6 +32682,94 @@
      "url": "https://www.wikidata.org/wiki/Q9044385#P3373"
     }
    ]
+  },
+  {
+   "a": "Q708894",
+   "b": "Q22100096",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙娫 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q22100096#P25"
+    },
+    {
+     "title": "Wikidata：卢慕贞 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q708894#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q708894",
+   "b": "Q4164300",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙婉 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4164300#P25"
+    },
+    {
+     "title": "Wikidata：卢慕贞 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q708894#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q708894",
+   "b": "Q701897",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P25"
+    },
+    {
+     "title": "Wikidata：卢慕贞 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q708894#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q708894",
+   "b": "Q8573",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：卢慕贞 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q708894#P26"
+    },
+    {
+     "title": "Wikidata：孙中山 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1884-05-26",
+     "src": {
+      "title": "Wikidata：卢慕贞 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q708894#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1915",
+     "src": {
+      "title": "Wikidata：卢慕贞 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q708894#P26"
+     }
+    }
+   ],
+   "to": "1915",
+   "status": "past"
   },
   {
    "a": "Q711427",
@@ -32311,6 +33462,108 @@
     {
      "title": "Wikidata：唐太宗 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8573",
+   "b": "Q22100096",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙娫 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q22100096#P22"
+    },
+    {
+     "title": "Wikidata：孙中山 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q8573",
+   "b": "Q4164300",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：孙婉 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4164300#P22"
+    },
+    {
+     "title": "Wikidata：孙中山 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q8573",
+   "b": "Q4164318",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宫川富美子 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4164318#P22"
+    },
+    {
+     "title": "Wikidata：孙中山 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q8573",
+   "b": "Q701897",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙科 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q701897#P22"
+    },
+    {
+     "title": "Wikidata：孙中山 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q95476008",
+   "b": "Q4164342",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙眉 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4164342#P25"
+    },
+    {
+     "title": "Wikidata：杨氏 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q95476008#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q95476008",
+   "b": "Q8573",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：孙中山 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q8573#P25"
+    },
+    {
+     "title": "Wikidata：杨氏 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q95476008#P40"
     }
    ]
   },
