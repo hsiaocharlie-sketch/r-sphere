@@ -135,6 +135,48 @@ ROLE_SPOUSE = {"m": "丈夫", "f": "妻子", None: "配偶"}
 ROLE_SIB = {"m": "兄弟", "f": "姐妹", None: "兄弟姐妹"}
 
 
+# ───────── 按人名查找 Q 号 ─────────
+SEARCH_LANGS = ["zh", "zh-hans", "zh-hant", "zh-cn", "zh-hk", "zh-tw", "en"]
+
+
+def search_name(name):
+    seen, out = set(), []
+    for lg in SEARCH_LANGS:
+        try:
+            data = http_get({"action": "wbsearchentities", "search": name, "language": lg, "uselang": lg,
+                             "type": "item", "limit": 10, "format": "json"})
+        except Exception:
+            continue
+        for r in data.get("search", []):
+            if r.get("id") and r["id"] not in seen:
+                seen.add(r["id"])
+                out.append(r["id"])
+    return out
+
+
+def entity_text(e):
+    parts = [v.get("value", "") for v in (e.get("labels") or {}).values()]
+    parts += [v.get("value", "") for v in (e.get("descriptions") or {}).values()]
+    for lst in (e.get("aliases") or {}).values():
+        parts += [a.get("value", "") for a in lst]
+    return " ".join(parts).lower()
+
+
+def resolve_name(name, hint=None):
+    """按名字找人物。返回 (候选人物 Q 号列表（最像的在前）, 实体字典)。hint 用来区分同名（如 "Tang"、"唐"）。"""
+    ids = search_name(name)
+    if not ids:
+        raise SystemExit("在 Wikidata 找不到名为「%s」的条目，请换个写法，或直接写 Q 号" % name)
+    ents = get_entities(ids[:30])
+    humans = [q for q in ids if q in ents and is_human(ents[q])]
+    if not humans:
+        raise SystemExit("「%s」搜到的条目里没有人物，请换个写法，或直接写 Q 号" % name)
+    if hint:
+        pref = [q for q in humans if hint.lower() in entity_text(ents[q])]
+        humans = pref + [q for q in humans if q not in pref]
+    return humans, ents
+
+
 # ───────── 采集 ─────────
 def collect(seeds, depth, max_people):
     """返回 (entities, included, expanded)。
@@ -284,17 +326,25 @@ def main():
     cfg = json.load(open(os.path.join(root, "collect", "seeds.json"), encoding="utf-8"))
     depth = int(cfg.get("depth", 1))
     max_people = int(cfg.get("max_people", 150))
-    seeds = []
+    seeds, expects, matched = [], {}, []
     for s in cfg["seeds"]:
-        seeds.append(s if isinstance(s, str) else s["qid"])
+        item = {"qid": s} if isinstance(s, str) and s[:1] == "Q" and s[1:].isdigit() else \
+               {"name": s} if isinstance(s, str) else dict(s)
+        if not item.get("qid"):
+            humans, rents = resolve_name(item["name"], item.get("hint"))
+            item["qid"] = humans[0]
+            matched.append((item["name"], humans[0], humans[1:5], rents))
+        if item["qid"] not in seeds:
+            seeds.append(item["qid"])
+        if item.get("expect"):
+            expects[item["qid"]] = item["expect"]
     ents, included, expanded, capped = collect(seeds, depth, max_people)
 
-    for s in cfg["seeds"]:
-        if isinstance(s, dict) and s.get("expect"):
-            e = ents[s["qid"]]
-            names = [label(e)] + aliases(e, label(e))
-            if not any(s["expect"].lower() in n.lower() for n in names):
-                raise SystemExit("种子 %s 的名字是「%s」，与预期的「%s」不符，请检查 Q 号" % (s["qid"], label(e), s["expect"]))
+    for q, ex in expects.items():
+        e = ents[q]
+        names = [label(e)] + aliases(e, label(e))
+        if not any(ex.lower() in n.lower() for n in names):
+            raise SystemExit("种子 %s 的名字是「%s」，与预期的「%s」不符，请检查 Q 号" % (q, label(e), ex))
 
     people = people_list(ents, included)
     relations = build(ents, included, expanded)
@@ -324,12 +374,27 @@ def main():
         lines.append("- ⚠️ 已达人数上限 %d，部分关系人未收录（可调大 collect/seeds.json 的 max_people）" % max_people)
     lines += ["", "### 合并前请检查", "- 请抽查几条关系，点开来源链接核对。",
               "- 本文件只含 Wikidata 已有的亲属、配偶、伴侣；感情传闻、合作关系等仍需手写数据。"]
+    if matched:
+        lines += ["", "### ⚠️ 以下人物是按名字自动匹配的，请核对是不是你要的人"]
+        for name, q, others, rents in matched:
+            d = description(rents[q]) if q in rents else ""
+            lines.append("- 「%s」→ **%s**（%s）%s" % (name, label(rents[q]) if q in rents else q, q, "：" + d if d else ""))
+            for o in others:
+                od = description(rents[o])
+                lines.append("  - 其他同名候选：%s（%s）%s" % (label(rents[o]), o, "：" + od if od else ""))
+        lines.append("- 确认无误后，把 `collect/seeds.json` 里对应的写法改成 `{ \"qid\": \"Q号\" }` 固定下来；匹配错了就写上 `hint` 或直接写 Q 号。")
+        lines.append("- 含有按名字匹配的人物时，即使打开了 auto_merge 也不会自动合并。")
     if dups:
         lines += ["", "### 可能与手写数据重复的人物", "名字相同但 id 不同，页面上会显示成两个人。若确认是同一人，请在对应手写数据里补上 `wikidata` 字段，页面会自动合并："]
         for p, f, h in dups:
             lines.append("- `data/%s` 里的 `%s`（%s）≈ %s（%s）→ 加上 `\"wikidata\": \"%s\"`" % (f, h["id"], h["name"], p["name"], p["wikidata"], p["wikidata"]))
     report = "\n".join(lines) + "\n"
     print(report)
+    flag = os.path.join(root, "collect_review.flag")
+    if matched:
+        open(flag, "w", encoding="utf-8").write("name-matched seeds\n")
+    elif os.path.exists(flag):
+        os.remove(flag)
     rp = os.environ.get("REPORT")
     if rp:
         open(rp, "w", encoding="utf-8").write(report)
@@ -337,4 +402,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
