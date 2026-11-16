@@ -4,7 +4,8 @@
   "generated_by": "scripts/collect_wikidata.py",
   "seeds": [
    "Q16766",
-   "Q9701"
+   "Q9701",
+   "Q180852"
   ],
   "depth": 1,
   "src": {
@@ -74,6 +75,17 @@
     "Andy Lau Tak-wah"
    ],
    "note": "香港演员及歌手"
+  },
+  {
+   "id": "Q180852",
+   "name": "章子怡",
+   "wikidata": "Q180852",
+   "alias": [
+    "Zhang Ziyi",
+    "Ziyi Zhang",
+    "Zhang Zi Yi"
+   ],
+   "note": "中国电影女演员"
   },
   {
    "id": "Q699639",
@@ -504,6 +516,15 @@
     "Princess Hengshan"
    ],
    "note": "princess of tang dynasty, born 634"
+  },
+  {
+   "id": "Q7967432",
+   "name": "汪峰",
+   "wikidata": "Q7967432",
+   "alias": [
+    "Wang Feng"
+   ],
+   "note": "中国歌手"
   },
   {
    "id": "Q8251352",
@@ -1482,6 +1503,29 @@
      "src": {
       "title": "Wikidata：刘德华 · 配偶（P26）",
       "url": "https://www.wikidata.org/wiki/Q16766#P26"
+     }
+    }
+   ]
+  },
+  {
+   "a": "Q180852",
+   "b": "Q7967432",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：章子怡 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q180852#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2015",
+     "src": {
+      "title": "Wikidata：章子怡 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q180852#P26"
      }
     }
    ]
