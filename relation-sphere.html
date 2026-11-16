@@ -7,6 +7,10 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>人物关系球</title>
+<link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="theme-color" content="#0b1020">
 <style>
 :root{--bg:#0b1020;--fg:#e8ecf5;--dim:#8d96ad}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
@@ -221,8 +225,8 @@ function mulberry32(a) {
 }
 
 /* ───────── 布局：以主角为中心，亲友随机均匀撒在球面 ───────── */
-// 主角不在球的正中，而放在偏向右上的位置（HOME），这样连向亲友的线是沿球面弯的弧线
-const HOME_ANG = 40*Math.PI/180, HOME_AZ = Math.PI/4;
+// 主角不在球的正中，而放在略偏右上的位置（HOME），这样连向亲友的线是沿球面弯的弧线；偏离不大，只为看出是球体
+const HOME_ANG = 18*Math.PI/180, HOME_AZ = Math.PI/4;
 const HOME = [Math.sin(HOME_ANG)*Math.cos(HOME_AZ), Math.sin(HOME_ANG)*Math.sin(HOME_AZ), Math.cos(HOME_ANG)];
 function layout(centerId, ids) {
   // 每人约占 0.2 球面度：人少时只用一块球冠，人多了球冠逐渐扩大直到铺满整球。
