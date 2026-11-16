@@ -55,5 +55,16 @@ jobs:
           # 日后想恢复保险（按名字匹配时必须人工审核），把下一行改成：
           #   if [ "$AUTO" = "true" ] && [ ! -f collect_review.flag ]; then
           if [ "$AUTO" = "true" ]; then
-            gh pr merge "$BR" --squash --delete-branch
+            # 刚建好的 PR 有时还在计算可合并状态，所以失败后等几秒重试
+            OK=0
+            for i in 1 2 3 4 5; do
+              if gh pr merge "$BR" --squash; then OK=1; break; fi
+              echo "第 $i 次合并失败，10 秒后重试…"
+              sleep 10
+            done
+            # 不用 --delete-branch（在 Actions 里会因本地分支正被使用而报错），改为单独删远程分支
+            git push origin --delete "$BR" || true
+            if [ "$OK" != "1" ]; then
+              echo "::warning::自动合并没有成功，PR 已建好，请到 Pull requests 手动合并。"
+            fi
           fi
