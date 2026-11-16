@@ -25,6 +25,11 @@ button,input{font:inherit;color:inherit}
 #q{flex:1;min-width:0;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:999px;padding:7px 14px;font-size:16px;outline:none}
 #q::placeholder{color:var(--dim)}
 .chips{flex-wrap:wrap;gap:6px}
+.fpanel{display:flex;flex-wrap:wrap;gap:6px;align-items:center;max-height:30vh;overflow:auto;padding:8px;background:rgba(14,20,40,.94);border:1px solid rgba(255,255,255,.16);border-radius:14px}
+.fpanel[hidden]{display:none}
+.fpanel .chip{cursor:pointer;color:inherit;font:inherit;font-size:13px}
+.fpanel .chip small{opacity:.7}
+.fpanel .ctl{font-size:12px;padding:3px 10px;border-radius:999px;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.08);color:inherit}
 .chip{display:inline-flex;align-items:center;gap:5px;font-size:13px;padding:4px 10px;border-radius:999px;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.04);opacity:.42}
 .chip.on{opacity:1;background:rgba(255,255,255,.12)}
 .chip i{width:8px;height:8px;border-radius:50%;display:inline-block}
@@ -69,9 +74,11 @@ button,input{font:inherit;color:inherit}
       <button class="btn" id="back" disabled>‹ 返回</button>
       <input id="q" type="search" placeholder="搜索人物（姓名或别名）" autocomplete="off" enterkeyhint="search">
       <button class="btn" id="recenter" title="把主角转回正中">⌖ 回正</button>
+      <button class="btn" id="fbtn" title="只显示某些关系人">筛选</button>
     </div>
     <div class="res" id="res" hidden></div>
   </div>
+  <div class="fpanel" id="fpanel" hidden></div>
 </div>
 <div class="card" id="card"></div>
 <div class="pop" id="pop" hidden></div>
@@ -143,13 +150,18 @@ function ingest(docs) {
   }
 }
 const activeTypes = new Set(['kin','spouse','love','inlaw','servant','other','work']);
-function neighborsOf(id) {
+const roleOff = new Set();   // 被筛掉的称谓（只对当前主角生效，切换主角时清空）
+function neighborsAll(id) {
   const seen = new Set(), out = [];
   for (const x of (adj.get(id) || [])) {
     if (!activeTypes.has(x.type) || seen.has(x.id) || !people.has(x.id)) continue;
     seen.add(x.id); out.push(x);
   }
   return out;
+}
+function neighborsOf(id) {
+  const all = neighborsAll(id);
+  return (id === centerId && roleOff.size) ? all.filter(x => !roleOff.has(x.role || '其他')) : all;
 }
 
 /* ───────── 数学工具 ───────── */
@@ -328,6 +340,7 @@ function goTo(id, push = true) {
   if (!people.has(id)) return;
   finishAnims();
   if (id === centerId) { bringToFront(id); return; }
+  roleOff.clear();
   if (push && centerId) { hist.push(centerId); updateBack(); }
   if (nodes.has(id)) bringToFront(id, () => relayout(id));
   else relayout(id);
@@ -514,11 +527,12 @@ function updateCard() {
   list.forEach(x => cnt[x.type] = (cnt[x.type]||0)+1);
   const parts = Object.keys(TYPES).filter(t => cnt[t]).map(t => '<b style="color:' + hex(t) + '">' + TYPES[t].name + ' ' + cnt[t] + '</b>');
   elCard.innerHTML = '<div class="nm">' + esc(p.name) + '</div><div class="nt">' + esc(p.note) + '</div>' + fict +
-    '<div class="ct"><span>共 ' + list.length + ' 位亲友</span>' + parts.join('') +
+    '<div class="ct"><span>' + (roleOff.size ? '显示 ' + list.length + ' / 共 ' + neighborsAll(centerId).length : '共 ' + list.length) + ' 位亲友</span>' + parts.join('') +
     '<button class="mini" id="stress">' + (stressIds.length ? '清除测试' : '＋80人压力测试') + '</button></div>' +
     '<div class="ct">拖动旋转 · 点人物切换主角 · 点关系线或文字看详情 · 双指缩放</div>';
   document.getElementById('stress').onclick = () => stressIds.length ? clearStress() : addStress(80);
   const ga = document.getElementById('goauthor'); if (ga) ga.onclick = ev => { ev.preventDefault(); goTo(p.author); };
+  buildFilter();
   requestAnimationFrame(() => resize(false));
 }
 function addStress(n) {
@@ -545,6 +559,26 @@ const backBtn = document.getElementById('back');
 function updateBack() { backBtn.disabled = hist.length === 0; }
 backBtn.onclick = () => { if (!hist.length) return; finishAnims(); goTo(hist.pop(), false); updateBack(); };
 document.getElementById('recenter').onclick = () => { finishAnims(); bringToFront(centerId); };
+
+/* ───────── 筛选：只显示某些称谓的关系人 ───────── */
+const elF = document.getElementById('fpanel'), elFB = document.getElementById('fbtn');
+function refilter() { finishAnims(); relayout(centerId); }
+function toggleRole(r) { if (roleOff.has(r)) roleOff.delete(r); else roleOff.add(r); refilter(); }
+function buildFilter() {
+  elFB.textContent = roleOff.size ? '筛选 ●' : '筛选';
+  if (elF.hidden) return;
+  const cnt = new Map();
+  for (const x of neighborsAll(centerId)) { const r = x.role || '其他'; cnt.set(r, (cnt.get(r) || 0) + 1); }
+  elF.innerHTML = '';
+  const mk = (txt, cls, fn) => { const b = document.createElement('button'); b.className = cls; b.textContent = txt; b.onclick = fn; elF.appendChild(b); return b; };
+  mk('全部', 'ctl', () => { roleOff.clear(); refilter(); });
+  mk('清空', 'ctl', () => { cnt.forEach((_, r) => roleOff.add(r)); refilter(); });
+  [...cnt.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'zh')).forEach(([r, n]) => {
+    const b = mk(r + ' ', 'chip' + (roleOff.has(r) ? '' : ' on'), () => toggleRole(r));
+    const s = document.createElement('small'); s.textContent = n; b.appendChild(s);
+  });
+}
+elFB.onclick = () => { elF.hidden = !elF.hidden; buildFilter(); requestAnimationFrame(() => resize(false)); };
 
 const qEl = document.getElementById('q'), resEl = document.getElementById('res');
 function showResults() {
@@ -784,7 +818,7 @@ loadAll().then(({index, docs}) => {
     '<br>请通过网址（如 GitHub Pages）打开本页；直接用本地文件打开时，浏览器不允许读取 data 文件夹。</div>';
   resize(true);
 });
-window.relSphere = {people, goTo, relayout, addStress, clearStress, openPop, closePop, hitEdge, labels: () => lastLabels, edges: () => edges,
+window.relSphere = {people, toggleRole, roleOff, goTo, relayout, addStress, clearStress, openPop, closePop, hitEdge, labels: () => lastLabels, edges: () => edges,
   pos: () => [...nodes.values()].filter(n => n.aTo !== 0).map(n => [n.id, n.to]),
   state: () => ({centerId, nodes: nodes.size, edges: edges.length, zoom})};
 })();
