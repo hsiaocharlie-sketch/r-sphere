@@ -138,39 +138,51 @@ function ingest(docs) {
   const into = new Map();
   const fin = id => { while (into.has(id)) id = into.get(id); return id; };
   const keysOf = p => [p.name, ...(p.alias || [])].filter(Boolean).map(x => String(x).trim().toLowerCase());
-  for (let round = 0; round < 12; round++) {
+  const order = new Map([...people.keys()].map((k, i) => [k, i]));
+  for (let round = 0; round < 40; round++) {
     const nb = new Map();
+    const link = (a, b) => { if (!nb.has(a)) nb.set(a, new Set()); nb.get(a).add(b); };
     docs.forEach((doc, di) => {
       for (const r of (doc.relations || [])) {
         const a = fin(remaps[di].get(r.a) || r.a), b = fin(remaps[di].get(r.b) || r.b);
-        if (a === b) continue;
-        if (!nb.has(a)) nb.set(a, new Set()); if (!nb.has(b)) nb.set(b, new Set());
-        nb.get(a).add(b); nb.get(b).add(a);
+        if (a !== b) { link(a, b); link(b, a); }
       }
     });
-    const byKey = new Map(), order = new Map([...people.keys()].map((k, i) => [k, i]));
+    const byKey = new Map();
     for (const [id, pp] of people) for (const k of new Set(keysOf(pp))) { if (!byKey.has(k)) byKey.set(k, []); byKey.get(k).push(id); }
-    let pair = null;
-    outer: for (const ids of byKey.values()) {
+    let merged = 0;
+    const doMerge = (win, lose) => {
+      const w = people.get(win), l = people.get(lose);
+      const al = new Set([...(w.alias || []), ...(l.alias || [])]);
+      if (l.name && l.name !== w.name) al.add(l.name);
+      w.alias = [...al];
+      for (const k of ['note', 'fictional', 'work', 'author', 'wikidata']) if (w[k] == null && l[k] != null) w[k] = l[k];
+      origin.set(win, new Set([...(origin.get(win) || []), ...(origin.get(lose) || [])]));
+      for (const z of (nb.get(lose) || [])) {          // 邻居表同步：lose 的关系人改成 win 的关系人
+        if (z === win) continue;
+        link(win, z); link(z, win); if (nb.get(z)) nb.get(z).delete(lose);
+      }
+      if (nb.get(win)) nb.get(win).delete(lose);
+      nb.delete(lose);
+      people.delete(lose); adj.delete(lose); into.set(lose, win);
+      mergedLog.push([lose, win, w.name]); merged++;
+    };
+    for (const ids of byKey.values()) {
       for (let i = 0; i < ids.length; i++) for (let j = i + 1; j < ids.length; j++) {
-        const x = ids[i], y = ids[j], px = people.get(x), py = people.get(y);
-        if (x === y || (px.wikidata && py.wikidata && px.wikidata !== py.wikidata)) continue;
+        let x = ids[i], y = ids[j];
+        if (!people.has(x) || !people.has(y) || x === y) continue;
+        const px = people.get(x), py = people.get(y);
+        if (px.wikidata && py.wikidata && px.wikidata !== py.wikidata) continue;
         const ox = origin.get(x) || new Set(), oy = origin.get(y) || new Set();
         if ([...ox].some(d => oy.has(d))) continue;                       // 同一个文件里的不同 id，视为本来就是两个人
         const nx = nb.get(x), ny = nb.get(y);
-        if (!nx || !ny || ![...nx].some(z => ny.has(z) && z !== x && z !== y)) continue;
-        pair = order.get(x) < order.get(y) ? [x, y] : [y, x]; break outer;
+        // 有共同关系人，或者双方的关系人之间本身就有关系（如：一方是章亚若之子、另一方是蒋经国之子，而章亚若与蒋经国有关系）
+        if (!nx || !ny || ![...nx].some(z => z !== x && z !== y && (ny.has(z) || [...ny].some(u => u !== x && u !== y && nb.get(z) && nb.get(z).has(u))))) continue;
+        if (order.get(x) > order.get(y)) [x, y] = [y, x];
+        doMerge(x, y);
       }
     }
-    if (!pair) break;
-    const [win, lose] = pair, w = people.get(win), l = people.get(lose);
-    const al = new Set([...(w.alias || []), ...(l.alias || [])]);
-    if (l.name && l.name !== w.name) al.add(l.name);
-    w.alias = [...al];
-    for (const k of ['note', 'fictional', 'work', 'author', 'wikidata']) if (w[k] == null && l[k] != null) w[k] = l[k];
-    origin.set(win, new Set([...(origin.get(win) || []), ...(origin.get(lose) || [])]));
-    people.delete(lose); adj.delete(lose); into.set(lose, win);
-    mergedLog.push([lose, win, w.name]);
+    if (!merged) break;
   }
   const seen = new Map(), rels = [];
   docs.forEach((doc, di) => {
