@@ -219,6 +219,200 @@
    "id": "longyingtai",
    "name": "龙应台",
    "note": "作家"
+  },
+  {
+   "id": "jiang_jingguo",
+   "name": "蒋经国",
+   "alias": [
+    "Chiang Ching-kuo"
+   ],
+   "wikidata": "Q313598",
+   "note": "台湾政治人物"
+  },
+  {
+   "id": "soong_meiling",
+   "name": "宋美龄",
+   "alias": [
+    "Soong Mei-ling",
+    "Madame Chiang"
+   ],
+   "wikidata": "Q17135",
+   "note": "蒋介石之妻"
+  },
+  {
+   "id": "jiangjieshi",
+   "name": "蒋介石",
+   "alias": [
+    "Chiang Kai-shek"
+   ],
+   "note": "中华民国政治与军事领袖"
+  },
+  {
+   "id": "maofumei",
+   "name": "毛福梅",
+   "note": "蒋介石的第一任妻子、蒋经国之母"
+  },
+  {
+   "id": "jiangfangliang",
+   "name": "蒋方良",
+   "alias": [
+    "Faina Vakhreva",
+    "Chiang Fang-liang"
+   ],
+   "note": "蒋经国之妻"
+  },
+  {
+   "id": "jiangxiaowen",
+   "name": "蒋孝文",
+   "note": "蒋经国之子"
+  },
+  {
+   "id": "jiangxiaozhang",
+   "name": "蒋孝章",
+   "note": "蒋经国之女"
+  },
+  {
+   "id": "jiangxiaowu",
+   "name": "蒋孝武",
+   "note": "蒋经国之子"
+  },
+  {
+   "id": "jiangxiaoyong",
+   "name": "蒋孝勇",
+   "note": "蒋经国之子"
+  },
+  {
+   "id": "zhangyaruo",
+   "name": "章亚若",
+   "alias": [
+    "Chang Ya-juo"
+   ],
+   "note": "蒋经国在赣南时期的相识者"
+  },
+  {
+   "id": "zhangxiaoyan",
+   "name": "章孝严",
+   "alias": [
+    "Chang Hsiao-yen"
+   ],
+   "note": "章亚若之子"
+  },
+  {
+   "id": "zhangxiaoci",
+   "name": "章孝慈",
+   "alias": [
+    "Chang Hsiao-tzu"
+   ],
+   "note": "章亚若之子"
+  },
+  {
+   "id": "dengxiaoping",
+   "name": "邓小平",
+   "alias": [
+    "Deng Xiaoping"
+   ],
+   "note": "中国共产党领导人"
+  },
+  {
+   "id": "lidenghui",
+   "name": "李登辉",
+   "alias": [
+    "Lee Teng-hui"
+   ],
+   "note": "继任蒋经国的台湾领导人"
+  },
+  {
+   "id": "yenchiakan",
+   "name": "严家淦",
+   "alias": [
+    "Yen Chia-kan"
+   ],
+   "note": "蒋经国的前任（行政院长、总统）"
+  },
+  {
+   "id": "sunyunsuan",
+   "name": "孙运璿",
+   "alias": [
+    "Sun Yun-suan"
+   ],
+   "note": "蒋经国之后的行政院长"
+  },
+  {
+   "id": "songjiashu",
+   "name": "宋嘉树",
+   "alias": [
+    "Charlie Soong"
+   ],
+   "note": "宋美龄之父"
+  },
+  {
+   "id": "niguizhen",
+   "name": "倪桂珍",
+   "alias": [
+    "Ni Kwei-tseng"
+   ],
+   "note": "宋美龄之母"
+  },
+  {
+   "id": "songailing",
+   "name": "宋霭龄",
+   "alias": [
+    "Soong Ai-ling"
+   ],
+   "note": "宋美龄的大姐"
+  },
+  {
+   "id": "songqingling",
+   "name": "宋庆龄",
+   "alias": [
+    "Soong Ching-ling"
+   ],
+   "note": "宋美龄的二姐，孙中山之妻"
+  },
+  {
+   "id": "songziwen",
+   "name": "宋子文",
+   "alias": [
+    "T. V. Soong"
+   ],
+   "note": "宋美龄之兄，曾任财政部长"
+  },
+  {
+   "id": "sunyatsen",
+   "name": "孙中山",
+   "alias": [
+    "Sun Yat-sen"
+   ],
+   "note": "中国近代革命家"
+  },
+  {
+   "id": "jiangweiguo",
+   "name": "蒋纬国",
+   "alias": [
+    "Chiang Wei-kuo"
+   ],
+   "note": "蒋介石之子"
+  },
+  {
+   "id": "yuriyizhang",
+   "name": "余日章",
+   "note": "蒋宋婚礼的证婚人"
+  },
+  {
+   "id": "eleanor",
+   "name": "埃莉诺·罗斯福",
+   "alias": [
+    "Eleanor Roosevelt"
+   ],
+   "note": "美国前第一夫人"
+  },
+  {
+   "id": "willkie",
+   "name": "温德尔·威尔基",
+   "alias": [
+    "Wendell Willkie"
+   ],
+   "note": "美国政治人物"
   }
  ],
  "relations": [
@@ -1454,6 +1648,881 @@
     {
      "title": "爱思想：李昕《“大江大海”的文人记忆》（写于2015年6月，原刊香港《橙新闻》）",
      "url": "https://www.aisixiang.com/data/93405.html"
+    }
+   ]
+  },
+  {
+   "a": "jiangjieshi",
+   "b": "jiang_jingguo",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "赴莫斯科中山大学学习",
+     "date": "1925-11",
+     "place": "莫斯科",
+     "note": "英文维基百科称他1925年11月下旬抵达莫斯科，时年15岁，1927年毕业；蒋介石在日记中指定他去苏联学习",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "maofumei",
+   "type": "kin",
+   "aIs": "儿子",
+   "bIs": "母亲",
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiangjieshi",
+   "b": "maofumei",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "events": [
+    {
+     "label": "毛福梅是蒋介石的第一任妻子",
+     "note": "来源只写了这一点，没有结婚、分开的日期",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "jiangfangliang",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "from": "1935",
+   "to": "1988-01-13",
+   "events": [
+    {
+     "label": "相识",
+     "date": "1933",
+     "place": "乌拉尔重型机械厂（斯维尔德洛夫斯克）",
+     "note": "蒋经国在苏联工作期间认识当时在厂里工作的方良",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    },
+    {
+     "label": "结婚",
+     "date": "1935-03-15",
+     "place": "苏联",
+     "note": "英文维基百科“Chiang Fang-liang”记为1935年3月15日；澎湃文章只写1935年3月，称在苏联当局批准下结为夫妻。回国后，又在浙江奉化溪口的蒋家老宅补办了一次婚礼",
+     "src": [
+      {
+       "title": "维基百科：Chiang Fang-liang",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+      },
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      },
+      {
+       "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+      }
+     ]
+    },
+    {
+     "label": "一同回到中国",
+     "date": "1937",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    },
+    {
+     "label": "蒋经国去世",
+     "date": "1988-01-13",
+     "place": "台北荣民总医院",
+     "note": "时年77岁",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    },
+    {
+     "label": "蒋方良去世",
+     "date": "2004-12-15",
+     "place": "台北荣民总医院",
+     "src": [
+      {
+       "title": "维基百科：Chiang Fang-liang",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    },
+    {
+     "title": "维基百科：Chiang Fang-liang",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+    },
+    {
+     "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "jiangxiaowen",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "出生",
+     "date": "1935",
+     "note": "澎湃文章称出生于1935年底，语境为苏联",
+     "src": [
+      {
+       "title": "维基百科：Chiang Fang-liang",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    },
+    {
+     "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "jiangxiaozhang",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "events": [
+    {
+     "label": "出生",
+     "date": "1938",
+     "place": "南昌",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "jiangxiaowu",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "出生",
+     "date": "1945",
+     "place": "重庆",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "jiangxiaoyong",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "出生",
+     "date": "1948",
+     "place": "上海",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiangfangliang",
+   "b": "jiangxiaowen",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "维基百科：Chiang Fang-liang",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+    }
+   ]
+  },
+  {
+   "a": "jiangfangliang",
+   "b": "jiangxiaozhang",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "维基百科：Chiang Fang-liang",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+    }
+   ]
+  },
+  {
+   "a": "jiangfangliang",
+   "b": "jiangxiaowu",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "维基百科：Chiang Fang-liang",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+    }
+   ]
+  },
+  {
+   "a": "jiangfangliang",
+   "b": "jiangxiaoyong",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "维基百科：Chiang Fang-liang",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Fang-liang"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "zhangyaruo",
+   "type": "love",
+   "aIs": "相识者",
+   "bIs": "相识者",
+   "from": "1941",
+   "events": [
+    {
+     "label": "在赣南时期的感情关系",
+     "date": "1941",
+     "place": "赣南",
+     "note": "英文维基百科称蒋经国任赣南负责人时，她在训练营工作，二人有过一段关系；澎湃文章称她1941年夏怀孕。孩子的生父有争议：英文维基百科称蒋经国1954年日记里否认，但相关的1942年8月前后日记页缺失",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      },
+      {
+       "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+      }
+     ]
+    },
+    {
+     "label": "章亚若生下一对双胞胎儿子，同年8月去世",
+     "date": "1942",
+     "place": "桂林",
+     "note": "英文维基百科称她同年8月在桂林去世；澎湃文章称她在医院暴病身亡，没有给出日期",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      },
+      {
+       "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    },
+    {
+     "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+    }
+   ]
+  },
+  {
+   "a": "zhangyaruo",
+   "b": "zhangxiaoyan",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "出生（双胞胎之一）",
+     "date": "1942",
+     "place": "桂林",
+     "note": "澎湃文章称两人随母姓，按家谱辈分取名",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      },
+      {
+       "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    },
+    {
+     "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+    }
+   ]
+  },
+  {
+   "a": "zhangyaruo",
+   "b": "zhangxiaoci",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "出生（双胞胎之一）",
+     "date": "1942",
+     "place": "桂林",
+     "note": "英文维基百科写作 Chang Hsiao-tzu；澎湃文章写作章孝慈",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      },
+      {
+       "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    },
+    {
+     "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "dengxiaoping",
+   "type": "other",
+   "aIs": "同学",
+   "bIs": "同学",
+   "from": "1925",
+   "to": "1927",
+   "events": [
+    {
+     "label": "在莫斯科中山大学被编入同一个学习小组",
+     "date": "1925",
+     "place": "莫斯科",
+     "note": "蒋经国1927年毕业",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "lidenghui",
+   "type": "work",
+   "aIs": "提携者",
+   "bIs": "继任者",
+   "events": [
+    {
+     "label": "延揽李登辉出任不管部会的政务委员",
+     "note": "来源没有写年份",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    },
+    {
+     "label": "李登辉任副总统",
+     "date": "1984",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    },
+    {
+     "label": "李登辉继任总统与国民党主席",
+     "date": "1988",
+     "note": "来源写他接任，没写具体日期；蒋经国于1988年1月13日去世",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "yenchiakan",
+   "b": "jiang_jingguo",
+   "type": "work",
+   "aIs": "前任",
+   "bIs": "继任者",
+   "events": [
+    {
+     "label": "严家淦是蒋经国担任行政院长、总统的前任",
+     "note": "来源没有写年份",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "jiang_jingguo",
+   "b": "sunyunsuan",
+   "type": "work",
+   "aIs": "前任",
+   "bIs": "继任者",
+   "from": "1978",
+   "events": [
+    {
+     "label": "孙运璿接任行政院长",
+     "date": "1978",
+     "src": [
+      {
+       "title": "维基百科：Chiang Ching-kuo",
+       "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Chiang Ching-kuo",
+     "url": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo"
+    }
+   ]
+  },
+  {
+   "a": "soong_meiling",
+   "b": "jiang_jingguo",
+   "type": "kin",
+   "aIs": "继母",
+   "bIs": "继子",
+   "events": [
+    {
+     "label": "二人关系",
+     "note": "英文维基百科称蒋经国与她“关系不顺”（rocky）",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      }
+     ]
+    },
+    {
+     "label": "蒋方良与蒋经国一同受洗，此后与宋美龄关系更和谐",
+     "date": "1943",
+     "note": "澎湃文章称宋美龄是蒋方良的婆婆；迁台后每逢过年和蒋介石、宋美龄的生日，蒋家在士林官邸举行家宴",
+     "src": [
+      {
+       "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    },
+    {
+     "title": "澎湃新闻：蒋方良诞辰100周年：蒋家最神秘的“第一夫人”（肖如平，2016-05-15）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_1469374"
+    }
+   ]
+  },
+  {
+   "a": "soong_meiling",
+   "b": "jiangjieshi",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "from": "1927",
+   "events": [
+    {
+     "label": "相识",
+     "date": "1920",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      }
+     ]
+    },
+    {
+     "label": "结婚",
+     "date": "1927-12-01",
+     "place": "上海",
+     "note": "先在宋宅会客厅举行基督教式婚礼，再在大华饭店礼堂举行中式婚礼。原定主持人江长川拒绝主持，改由非牧师的余日章证婚；宋子文挽着新娘入场。英文维基百科称婚姻维持48年，没有子女",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      },
+      {
+       "title": "凤凰网历史：1927年12月1日 蒋介石与宋美龄结婚（2011-12-01）",
+       "url": "https://news.ifeng.com/a/20111201/11028686_0.shtml"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    },
+    {
+     "title": "凤凰网历史：1927年12月1日 蒋介石与宋美龄结婚（2011-12-01）",
+     "url": "https://news.ifeng.com/a/20111201/11028686_0.shtml"
+    }
+   ]
+  },
+  {
+   "a": "yuriyizhang",
+   "b": "soong_meiling",
+   "type": "other",
+   "aIs": "证婚人",
+   "bIs": "新娘",
+   "events": [
+    {
+     "label": "担任蒋宋婚礼证婚人",
+     "date": "1927-12-01",
+     "place": "上海",
+     "src": [
+      {
+       "title": "凤凰网历史：1927年12月1日 蒋介石与宋美龄结婚（2011-12-01）",
+       "url": "https://news.ifeng.com/a/20111201/11028686_0.shtml"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "凤凰网历史：1927年12月1日 蒋介石与宋美龄结婚（2011-12-01）",
+     "url": "https://news.ifeng.com/a/20111201/11028686_0.shtml"
+    }
+   ]
+  },
+  {
+   "a": "songjiashu",
+   "b": "soong_meiling",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "events": [
+    {
+     "label": "宋美龄出生",
+     "date": "1898-03-04",
+     "place": "上海浦东",
+     "note": "英文维基百科称宋嘉树是海南籍商人、曾任卫理公会传教士",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    }
+   ]
+  },
+  {
+   "a": "niguizhen",
+   "b": "soong_meiling",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    }
+   ]
+  },
+  {
+   "a": "songailing",
+   "b": "soong_meiling",
+   "type": "kin",
+   "aIs": "姐姐",
+   "bIs": "妹妹",
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    }
+   ]
+  },
+  {
+   "a": "songqingling",
+   "b": "soong_meiling",
+   "type": "kin",
+   "aIs": "姐姐",
+   "bIs": "妹妹",
+   "events": [
+    {
+     "label": "宋庆龄留在大陆，倾向共产党",
+     "date": "1949",
+     "note": "来源写的是1949年之后",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    }
+   ]
+  },
+  {
+   "a": "songziwen",
+   "b": "soong_meiling",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "妹妹",
+   "events": [
+    {
+     "label": "在婚礼上挽着宋美龄入场",
+     "date": "1927-12-01",
+     "place": "上海",
+     "src": [
+      {
+       "title": "凤凰网历史：1927年12月1日 蒋介石与宋美龄结婚（2011-12-01）",
+       "url": "https://news.ifeng.com/a/20111201/11028686_0.shtml"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    },
+    {
+     "title": "凤凰网历史：1927年12月1日 蒋介石与宋美龄结婚（2011-12-01）",
+     "url": "https://news.ifeng.com/a/20111201/11028686_0.shtml"
+    }
+   ]
+  },
+  {
+   "a": "songqingling",
+   "b": "sunyatsen",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    }
+   ]
+  },
+  {
+   "a": "soong_meiling",
+   "b": "jiangweiguo",
+   "type": "kin",
+   "aIs": "养母",
+   "bIs": "养子",
+   "events": [
+    {
+     "label": "蒋纬国被列为养子",
+     "note": "英文维基百科只在信息框里写了“adopted”，没有说明年份和细节",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    }
+   ]
+  },
+  {
+   "a": "soong_meiling",
+   "b": "eleanor",
+   "type": "other",
+   "aIs": "访客",
+   "bIs": "接待者",
+   "events": [
+    {
+     "label": "埃莉诺·罗斯福对宋美龄访问白宫时的奢华排场感到震惊",
+     "note": "条目没有写这件事的日期；同一条目称她1943年访美，2月18日成为首位在美国国会两院发表演说的中国人、第二位女性",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+    }
+   ]
+  },
+  {
+   "a": "soong_meiling",
+   "b": "willkie",
+   "type": "love",
+   "aIs": "被传有感情者",
+   "bIs": "被传有感情者",
+   "status": "rumor",
+   "events": [
+    {
+     "label": "1942年在重庆的传闻",
+     "date": "1942",
+     "place": "重庆",
+     "note": "英文维基百科称此类传闻存在，但学者认为来源薄弱、不可信",
+     "src": [
+      {
+       "title": "维基百科：Soong Mei-ling",
+       "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Soong Mei-ling",
+     "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling"
     }
    ]
   }
