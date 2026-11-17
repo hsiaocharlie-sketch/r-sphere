@@ -13,7 +13,8 @@
    "Q8573",
    "Q270681",
    "Q9957",
-   "Q313598"
+   "Q313598",
+   "Q17135"
   ],
   "depth": 2,
   "src": {
@@ -409,6 +410,16 @@
     "Shirley"
    ],
    "note": "中国女歌手"
+  },
+  {
+   "id": "Q631416",
+   "name": "孔祥熙",
+   "wikidata": "Q631416",
+   "alias": [
+    "H. H. Kung",
+    "Kung Hsiang-hsi"
+   ],
+   "note": "中华民国政治人物"
   },
   {
    "id": "Q699378",
@@ -2529,6 +2540,15 @@
    "note": "中华民国空军飞行员"
   },
   {
+   "id": "Q10888399",
+   "name": "倪韫山",
+   "wikidata": "Q10888399",
+   "alias": [
+    "Ni Yunshan"
+   ],
+   "note": "清朝传教士"
+  },
+  {
    "id": "Q10905008",
    "name": "千金公主 (唐高祖)",
    "wikidata": "Q10905008",
@@ -2624,6 +2644,60 @@
     "Daming"
    ],
    "note": "daughter of Hongwu Emperor and Consort Guo Ningfei"
+  },
+  {
+   "id": "Q10944212",
+   "name": "孔令侃",
+   "wikidata": "Q10944212",
+   "alias": [
+    "Kung Ling-kan",
+    "Kǒng Língkǎn",
+    "Kong Lingkan",
+    "David Kung Ling-kan"
+   ],
+   "note": "孔祥熙长子"
+  },
+  {
+   "id": "Q10944213",
+   "name": "孔令俊",
+   "wikidata": "Q10944213",
+   "alias": [
+    "Kung Ling-chun",
+    "孔令伟",
+    "孔令偉",
+    "Kung Lin-wei",
+    "Kǒng Língjùn",
+    "Kǒng Língwěi",
+    "Kong Lingwei",
+    "Kong Lingjun"
+   ],
+   "note": "宋美龄的外甥女"
+  },
+  {
+   "id": "Q10944214",
+   "name": "孔令杰",
+   "wikidata": "Q10944214",
+   "alias": [
+    "孔令傑",
+    "Kung Ling-chie",
+    "Louis. C. Kung",
+    "Louis Kung",
+    "Kǒng Língjié",
+    "Kong LIngjie"
+   ],
+   "note": "孔祥熙之子"
+  },
+  {
+   "id": "Q10944216",
+   "name": "孔令仪",
+   "wikidata": "Q10944216",
+   "alias": [
+    "孔令儀",
+    "Kung Ling-i",
+    "Kǒng Língyí",
+    "Kong Lingyi"
+   ],
+   "note": "孔祥熙长女"
   },
   {
    "id": "Q10945586",
@@ -5934,6 +6008,16 @@
    "note": "person, CBDB = 149100"
   },
   {
+   "id": "Q46239115",
+   "name": "倪桂金",
+   "wikidata": "Q46239115",
+   "alias": [
+    "Ni Guijin",
+    "倪桂清",
+    "Ni Guiqing"
+   ]
+  },
+  {
    "id": "Q48890506",
    "name": "賀蘭僧伽",
    "wikidata": "Q48890506"
@@ -5955,6 +6039,17 @@
     "Mao Dinghe"
    ],
    "note": "蒋介石原配夫人之父"
+  },
+  {
+   "id": "Q63251744",
+   "name": "倪桂姝",
+   "wikidata": "Q63251744",
+   "alias": [
+    "Ni Guishu",
+    "倪秀珍",
+    "Ni Xiuzhen"
+   ],
+   "note": "1882"
   },
   {
    "id": "Q65046325",
@@ -9358,6 +9453,19 @@
    ],
    "to": "2010-05-19",
    "status": "past"
+  },
+  {
+   "a": "Q10888399",
+   "b": "Q4195655",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：倪桂珍 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P22"
+    }
+   ]
   },
   {
    "a": "Q10905008",
@@ -35036,6 +35144,10 @@
     {
      "title": "Wikidata：蒋介石 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+    },
+    {
+     "title": "Wikidata：宋美龄 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P26"
     }
    ],
    "events": [
@@ -36215,6 +36327,10 @@
     {
      "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    },
+    {
+     "title": "Wikidata：宋美龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P3373"
     }
    ]
   },
@@ -36228,6 +36344,10 @@
     {
      "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    },
+    {
+     "title": "Wikidata：宋霭龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P3373"
     }
    ]
   },
@@ -36241,6 +36361,10 @@
     {
      "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    },
+    {
+     "title": "Wikidata：宋子良 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195778#P3373"
     }
    ]
   },
@@ -36254,6 +36378,10 @@
     {
      "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    },
+    {
+     "title": "Wikidata：宋子安 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195955#P3373"
     }
    ]
   },
@@ -36267,6 +36395,10 @@
     {
      "title": "Wikidata：宋庆龄 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q17132#P3373"
+    },
+    {
+     "title": "Wikidata：宋子文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q716051#P3373"
     }
    ]
   },
@@ -36306,6 +36438,74 @@
    ],
    "to": "1925-03-12",
    "status": "past"
+  },
+  {
+   "a": "Q17135",
+   "b": "Q256411",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：宋美龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P3373"
+    },
+    {
+     "title": "Wikidata：宋霭龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17135",
+   "b": "Q4195778",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋美龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P3373"
+    },
+    {
+     "title": "Wikidata：宋子良 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195778#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17135",
+   "b": "Q4195955",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋美龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P3373"
+    },
+    {
+     "title": "Wikidata：宋子安 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195955#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q17135",
+   "b": "Q716051",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋美龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P3373"
+    },
+    {
+     "title": "Wikidata：宋子文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q716051#P3373"
+    }
+   ]
   },
   {
    "a": "Q17362670",
@@ -36487,6 +36687,142 @@
     {
      "title": "Wikidata：杨贵妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8262893#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q256411",
+   "b": "Q10944212",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q256411",
+   "b": "Q10944213",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q256411",
+   "b": "Q10944214",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q256411",
+   "b": "Q10944216",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q256411",
+   "b": "Q4195778",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P3373"
+    },
+    {
+     "title": "Wikidata：宋子良 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195778#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q256411",
+   "b": "Q4195955",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P3373"
+    },
+    {
+     "title": "Wikidata：宋子安 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195955#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q256411",
+   "b": "Q631416",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1914",
+     "src": {
+      "title": "Wikidata：宋霭龄 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q256411#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1967-08-16",
+     "src": {
+      "title": "Wikidata：宋霭龄 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q256411#P26"
+     }
+    }
+   ],
+   "to": "1967-08-16",
+   "status": "past"
+  },
+  {
+   "a": "Q256411",
+   "b": "Q716051",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P3373"
+    },
+    {
+     "title": "Wikidata：宋子文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q716051#P3373"
     }
    ]
   },
@@ -38029,6 +38365,189 @@
     {
      "title": "Wikidata：宋庆龄 · 母亲（P25）",
      "url": "https://www.wikidata.org/wiki/Q17132#P25"
+    },
+    {
+     "title": "Wikidata：倪桂珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q17135",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋美龄 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P25"
+    },
+    {
+     "title": "Wikidata：倪桂珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q256411",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P25"
+    },
+    {
+     "title": "Wikidata：倪桂珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q4195778",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：倪桂珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P40"
+    },
+    {
+     "title": "Wikidata：宋子良 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4195778#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q4195955",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：倪桂珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P40"
+    },
+    {
+     "title": "Wikidata：宋子安 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4195955#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q46239115",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：倪桂珍 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q63251744",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：倪桂珍 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q702111",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：倪桂珍 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P26"
+    },
+    {
+     "title": "Wikidata：宋嘉澍 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q702111#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q4195655",
+   "b": "Q716051",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：倪桂珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4195655#P40"
+    },
+    {
+     "title": "Wikidata：宋子文 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q716051#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q4195778",
+   "b": "Q4195955",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋子良 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195778#P3373"
+    },
+    {
+     "title": "Wikidata：宋子安 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195955#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4195778",
+   "b": "Q716051",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋子良 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195778#P3373"
+    },
+    {
+     "title": "Wikidata：宋子文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q716051#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4195955",
+   "b": "Q716051",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：宋子安 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4195955#P3373"
+    },
+    {
+     "title": "Wikidata：宋子文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q716051#P3373"
     }
    ]
   },
@@ -50318,6 +50837,95 @@
     {
      "title": "Wikidata：宋庆龄 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q17132#P22"
+    },
+    {
+     "title": "Wikidata：宋嘉澍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q702111#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q702111",
+   "b": "Q17135",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋美龄 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q17135#P22"
+    },
+    {
+     "title": "Wikidata：宋嘉澍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q702111#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q702111",
+   "b": "Q256411",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：宋霭龄 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q256411#P22"
+    },
+    {
+     "title": "Wikidata：宋嘉澍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q702111#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q702111",
+   "b": "Q4195778",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：宋子良 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4195778#P22"
+    },
+    {
+     "title": "Wikidata：宋嘉澍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q702111#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q702111",
+   "b": "Q4195955",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：宋子安 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4195955#P22"
+    },
+    {
+     "title": "Wikidata：宋嘉澍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q702111#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q702111",
+   "b": "Q716051",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：宋嘉澍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q702111#P40"
+    },
+    {
+     "title": "Wikidata：宋子文 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q716051#P22"
     }
    ]
   },
