@@ -12,7 +12,8 @@
    "Q313596",
    "Q8573",
    "Q270681",
-   "Q9957"
+   "Q9957",
+   "Q313598"
   ],
   "depth": 2,
   "src": {
@@ -214,6 +215,22 @@
    "note": "明朝第四位皇帝"
   },
   {
+   "id": "Q16574",
+   "name": "蒋介石",
+   "wikidata": "Q16574",
+   "alias": [
+    "Chiang Kai-shek",
+    "蔣中正",
+    "蔣介石",
+    "蒋中正",
+    "蒋周泰",
+    "蒋志清",
+    "蒋委员长",
+    "蒋总裁"
+   ],
+   "note": "（1887—1975）中华民国政治人物、军事家，中国国民党总裁，中华民国第1—5任总统"
+  },
+  {
    "id": "Q16766",
    "name": "刘德华",
    "wikidata": "Q16766",
@@ -321,6 +338,19 @@
    "note": "香港女演员"
   },
   {
+   "id": "Q274363",
+   "name": "蒋方良",
+   "wikidata": "Q274363",
+   "alias": [
+    "蔣方良",
+    "Chiang Fang-liang",
+    "Faina Ipatievna Vakhreva",
+    "Jiang Fangliang",
+    "Faina Chiang Fang-liang"
+   ],
+   "note": "蒋经国之妻"
+  },
+  {
    "id": "Q313596",
    "name": "张国荣",
    "wikidata": "Q313596",
@@ -335,6 +365,22 @@
     "Zhang Guorong"
    ],
    "note": "香港创作歌手及演员 (1956-2003)"
+  },
+  {
+   "id": "Q313598",
+   "name": "蒋经国",
+   "wikidata": "Q313598",
+   "alias": [
+    "蔣經國",
+    "Chiang Ching-kuo",
+    "尼古拉·维拉迪米洛维奇·伊利扎洛夫",
+    "尼古拉·伊利扎洛夫",
+    "蔣経国",
+    "蒋建丰",
+    "蔣建豐",
+    "小蔣"
+   ],
+   "note": "中华民国第6、7任总统"
   },
   {
    "id": "Q380579",
@@ -365,6 +411,17 @@
    "note": "中国女歌手"
   },
   {
+   "id": "Q699378",
+   "name": "陈洁如",
+   "wikidata": "Q699378",
+   "alias": [
+    "陳潔如",
+    "Chen Jieru",
+    "Ch'en Chieh-ju"
+   ],
+   "note": "蒋介石侧室夫人"
+  },
+  {
    "id": "Q699639",
    "name": "李元吉",
    "wikidata": "Q699639",
@@ -393,6 +450,16 @@
     "承乾"
    ],
    "note": "唐太宗李世民长子"
+  },
+  {
+   "id": "Q701020",
+   "name": "蒋纬国",
+   "wikidata": "Q701020",
+   "alias": [
+    "蔣緯國",
+    "Chiang Wei-kuo"
+   ],
+   "note": "中华民国将领"
   },
   {
    "id": "Q701556",
@@ -457,6 +524,20 @@
    "note": "武则天之女，唐代女政治家"
   },
   {
+   "id": "Q707363",
+   "name": "蒋友柏",
+   "wikidata": "Q707363",
+   "alias": [
+    "蔣友柏",
+    "Demos Chiang",
+    "橙果設計公司",
+    "Jiang Youbo",
+    "Jiang Youbai",
+    "Demos Yu-bou Chiang"
+   ],
+   "note": "台湾企业家"
+  },
+  {
    "id": "Q708310",
    "name": "李忠",
    "wikidata": "Q708310",
@@ -503,6 +584,15 @@
     "Lu Muzhen"
    ],
    "note": "孙中山的元配夫人"
+  },
+  {
+   "id": "Q710811",
+   "name": "毛福梅",
+   "wikidata": "Q710811",
+   "alias": [
+    "Máo Fúméi"
+   ],
+   "note": "蒋介石原配夫人"
   },
   {
    "id": "Q711427",
@@ -1496,6 +1586,17 @@
    "note": "台湾电视主持人"
   },
   {
+   "id": "Q5071688",
+   "name": "章亚若",
+   "wikidata": "Q5071688",
+   "alias": [
+    "Chang Ya-juo",
+    "章亞若",
+    "Zhang Yaruo"
+   ],
+   "note": "蒋经国情妇"
+  },
+  {
    "id": "Q5090737",
    "name": "陈粹芬",
    "wikidata": "Q5090737",
@@ -1504,6 +1605,67 @@
     "陳粹芬"
    ],
    "note": "孫中山侧室"
+  },
+  {
+   "id": "Q5095183",
+   "name": "蒋孝章",
+   "wikidata": "Q5095183",
+   "alias": [
+    "Chiang Hsiao-chang",
+    "蔣孝章",
+    "Jiang Xiaozhang"
+   ],
+   "note": "蒋经国之女"
+  },
+  {
+   "id": "Q5095185",
+   "name": "蒋孝文",
+   "wikidata": "Q5095185",
+   "alias": [
+    "Chiang Hsiao-wen",
+    "蔣孝文",
+    "Alan Chiang",
+    "Jiang Xiaowen"
+   ],
+   "note": "蒋经国长子"
+  },
+  {
+   "id": "Q5095186",
+   "name": "蒋孝武",
+   "wikidata": "Q5095186",
+   "alias": [
+    "Chiang Hsiao-wu",
+    "蔣孝武",
+    "Alex Chiang"
+   ],
+   "note": "蒋经国次子"
+  },
+  {
+   "id": "Q5095188",
+   "name": "蒋孝勇",
+   "wikidata": "Q5095188",
+   "alias": [
+    "Chiang Hsiao-yung",
+    "蔣孝勇",
+    "Eddie Chiang",
+    "Hsiao-yung Chiang"
+   ],
+   "note": "蒋经国之子"
+  },
+  {
+   "id": "Q5371883",
+   "name": "蒋孝严",
+   "wikidata": "Q5371883",
+   "alias": [
+    "蔣孝嚴",
+    "Chiang Hsiao-yen",
+    "章孝严",
+    "章孝嚴",
+    "John Chiang",
+    "Jiang Xiaoyan",
+    "Zhang Xiaoyan"
+   ],
+   "note": "台湾政治人物"
   },
   {
    "id": "Q5675539",
@@ -1824,6 +1986,28 @@
    "note": "中国歌手"
   },
   {
+   "id": "Q8026049",
+   "name": "章孝慈",
+   "wikidata": "Q8026049",
+   "alias": [
+    "Winston Chang",
+    "Zhāng Xiàocí",
+    "Winston Hsiao-tzu Chang",
+    "Zhang Xiaoci"
+   ],
+   "note": "台湾法律学者"
+  },
+  {
+   "id": "Q8049047",
+   "name": "姚冶诚",
+   "wikidata": "Q8049047",
+   "alias": [
+    "Yao Yecheng",
+    "姚冶誠"
+   ],
+   "note": "蒋介石侧室夫人"
+  },
+  {
    "id": "Q8249771",
    "name": "劉宮人 (唐高宗)",
    "wikidata": "Q8249771",
@@ -2013,6 +2197,22 @@
    "note": "唐太宗的妃嫔"
   },
   {
+   "id": "Q8274122",
+   "name": "蒋方智怡",
+   "wikidata": "Q8274122",
+   "alias": [
+    "蔣方智怡",
+    "Chiang Fang Chih-yi",
+    "方智怡",
+    "Fang Chih-yi",
+    "Chiang Fang Jhih-yi",
+    "Chiang Fang Chi-yi",
+    "Jiang Fang Zhiyi",
+    "Fang Zhiyi"
+   ],
+   "note": "蒋孝勇之妻"
+  },
+  {
    "id": "Q8276415",
    "name": "孙治平",
    "wikidata": "Q8276415",
@@ -2036,6 +2236,18 @@
     "Tsai Pei-jan"
    ],
    "note": "马唯中之夫"
+  },
+  {
+   "id": "Q8976004",
+   "name": "蒋友常",
+   "wikidata": "Q8976004",
+   "alias": [
+    "蔣友常",
+    "Edward Chiang",
+    "Chiang Yu-Chang",
+    "Jiang Youchang"
+   ],
+   "note": "台湾设计师"
   },
   {
    "id": "Q9039973",
@@ -2114,6 +2326,17 @@
     "Carol Chu Lai-chien"
    ],
    "note": "中國演員劉德華之妻"
+  },
+  {
+   "id": "Q9337279",
+   "name": "蔡惠媚",
+   "wikidata": "Q9337279",
+   "alias": [
+    "Tsai Hui-mei",
+    "Michelle Chiang Tsai Hui-mei",
+    "Cai Huimei"
+   ],
+   "note": "蒋孝武第二任妻子"
   },
   {
    "id": "Q9450939",
@@ -2210,6 +2433,22 @@
    ]
   },
   {
+   "id": "Q10513842",
+   "name": "蒋徐乃锦",
+   "wikidata": "Q10513842",
+   "alias": [
+    "蔣徐乃錦",
+    "Syu Nai-jin",
+    "徐乃锦",
+    "徐乃錦",
+    "Chiang Syu Nai-jin",
+    "Nancy Syu",
+    "Nancy Xu",
+    "Xu Naijin"
+   ],
+   "note": "蒋经国长媳"
+  },
+  {
    "id": "Q10513986",
    "name": "薛瓘",
    "wikidata": "Q10513986",
@@ -2276,6 +2515,18 @@
     "Jiǔjiāng gōngzhǔ"
    ],
    "note": "daughter of emperor Gaozu"
+  },
+  {
+   "id": "Q10887828",
+   "name": "俞扬和",
+   "wikidata": "Q10887828",
+   "alias": [
+    "俞揚和",
+    "Yu Yang-ho",
+    "俞启德",
+    "Yu Yanghe"
+   ],
+   "note": "中华民国空军飞行员"
   },
   {
    "id": "Q10905008",
@@ -3528,6 +3779,15 @@
    "note": "Tang dynasty person CBDB = 162035"
   },
   {
+   "id": "Q11127070",
+   "name": "毛懋卿",
+   "wikidata": "Q11127070",
+   "alias": [
+    "Mao Maoqing"
+   ],
+   "note": "中国政治人物"
+  },
+  {
    "id": "Q11131382",
    "name": "永嘉贞懿公主",
    "wikidata": "Q11131382",
@@ -3623,6 +3883,27 @@
    "note": "中国农学家"
   },
   {
+   "id": "Q14368694",
+   "name": "蒋肇聪",
+   "wikidata": "Q14368694",
+   "alias": [
+    "Chiang Chao-tsung",
+    "蔣肇聰",
+    "Jiang Zhaocong",
+    "Chiang Zhao-Cong"
+   ],
+   "note": "蒋介石之父"
+  },
+  {
+   "id": "Q14368700",
+   "name": "王采玉",
+   "wikidata": "Q14368700",
+   "alias": [
+    "Wang Caiyu"
+   ],
+   "note": "蒋介石生母"
+  },
+  {
    "id": "Q15900203",
    "name": "杨王",
    "wikidata": "Q15900203",
@@ -3654,6 +3935,82 @@
     "Ma Yinan"
    ],
    "note": "馬英九的大姐"
+  },
+  {
+   "id": "Q15909741",
+   "name": "蒋友梅",
+   "wikidata": "Q15909741",
+   "alias": [
+    "蔣友梅",
+    "Chiang Yu-mei",
+    "Jiang Youmei"
+   ],
+   "note": "台湾历史学者"
+  },
+  {
+   "id": "Q15912560",
+   "name": "蒋友松",
+   "wikidata": "Q15912560",
+   "alias": [
+    "蔣友松",
+    "Chiang Yo-sung",
+    "Johnathan Chiang Yo-sung",
+    "Jiang Yousong"
+   ],
+   "note": "蒋经国之孙，蒋孝武之子"
+  },
+  {
+   "id": "Q15912667",
+   "name": "蒋友青",
+   "wikidata": "Q15912667",
+   "alias": [
+    "蔣友青",
+    "Andrew Chiang",
+    "Jiang Youqing"
+   ],
+   "note": "蒋孝勇之子"
+  },
+  {
+   "id": "Q15914742",
+   "name": "蒋介卿",
+   "wikidata": "Q15914742",
+   "alias": [
+    "Chiang Kai-ching",
+    "蔣介卿",
+    "Jiang Jieqing"
+   ],
+   "note": "蒋介石之兄"
+  },
+  {
+   "id": "Q15915513",
+   "name": "蒋蕙兰",
+   "wikidata": "Q15915513",
+   "alias": [
+    "蔣蕙蘭",
+    "Vivian Chang",
+    "章蕙兰",
+    "章蕙蘭",
+    "Chiang Hui-lan",
+    "Jiang Huilan",
+    "Zhang Huilan"
+   ],
+   "note": "台湾导演"
+  },
+  {
+   "id": "Q15920021",
+   "name": "蒋万安",
+   "wikidata": "Q15920021",
+   "alias": [
+    "蔣萬安",
+    "Chiang Wan-an",
+    "章万安",
+    "章萬安",
+    "Wayne Chiang",
+    "Chang Wan-an",
+    "Wayne Wan-an Chiang",
+    "Wayne Wan-an Chang"
+   ],
+   "note": "中华民国政治人物、台北市市长"
   },
   {
    "id": "Q15921481",
@@ -4011,6 +4368,18 @@
     "Yanding"
    ],
    "note": "Ming dynasty person CBDB = 130205"
+  },
+  {
+   "id": "Q19825202",
+   "name": "章劲松",
+   "wikidata": "Q19825202",
+   "alias": [
+    "章勁松",
+    "Chang Chin-sung",
+    "Zhang Jingsong",
+    "Zhang Jinsong"
+   ],
+   "note": "台湾法律界人士"
   },
   {
    "id": "Q19825763",
@@ -5579,6 +5948,15 @@
    "note": "香港前交通事务处处长"
   },
   {
+   "id": "Q56260442",
+   "name": "毛鼎和",
+   "wikidata": "Q56260442",
+   "alias": [
+    "Mao Dinghe"
+   ],
+   "note": "蒋介石原配夫人之父"
+  },
+  {
    "id": "Q65046325",
    "name": "孙达成",
    "wikidata": "Q65046325",
@@ -5663,6 +6041,16 @@
    "note": "Faye Wong's daughter"
   },
   {
+   "id": "Q85884061",
+   "name": "蒋瑞青",
+   "wikidata": "Q85884061",
+   "alias": [
+    "蔣瑞青",
+    "Jiang Ruiqing"
+   ],
+   "note": "蒋介石幼弟"
+  },
+  {
    "id": "Q95062803",
    "name": "王氏",
    "wikidata": "Q95062803",
@@ -5708,6 +6096,14 @@
     "Daffy Tong",
     "Tong Hok Tak",
     "Daffy Tong Hok Tak"
+   ]
+  },
+  {
+   "id": "Q100998732",
+   "name": "蔣瑞蓮",
+   "wikidata": "Q100998732",
+   "alias": [
+    "Chiang Jui-lien"
    ]
   },
   {
@@ -5790,6 +6186,19 @@
   }
  ],
  "relations": [
+  {
+   "a": "Q100998732",
+   "b": "Q16574",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P3373"
+    }
+   ]
+  },
   {
    "a": "Q10330541",
    "b": "Q10907833",
@@ -7342,6 +7751,39 @@
    ]
   },
   {
+   "a": "Q10513842",
+   "b": "Q5095185",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝文 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1960",
+     "src": {
+      "title": "Wikidata：蒋孝文 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095185#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1989-04-14",
+     "src": {
+      "title": "Wikidata：蒋孝文 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095185#P26"
+     }
+    }
+   ],
+   "to": "1989-04-14",
+   "status": "past"
+  },
+  {
    "a": "Q10513986",
    "b": "Q4310073",
    "type": "spouse",
@@ -8883,6 +9325,39 @@
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
     }
    ]
+  },
+  {
+   "a": "Q10887828",
+   "b": "Q5095183",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝章 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1960",
+     "src": {
+      "title": "Wikidata：蒋孝章 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095183#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2010-05-19",
+     "src": {
+      "title": "Wikidata：蒋孝章 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095183#P26"
+     }
+    }
+   ],
+   "to": "2010-05-19",
+   "status": "past"
   },
   {
    "a": "Q10905008",
@@ -31649,6 +32124,19 @@
    ]
   },
   {
+   "a": "Q11127070",
+   "b": "Q710811",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：毛福梅 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q710811#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q11131382",
    "b": "Q11133581",
    "type": "kin",
@@ -33654,6 +34142,32 @@
    ]
   },
   {
+   "a": "Q14368694",
+   "b": "Q16574",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q14368700",
+   "b": "Q16574",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P25"
+    }
+   ]
+  },
+  {
    "a": "Q15900203",
    "b": "Q7312687",
    "type": "kin",
@@ -33757,6 +34271,19 @@
     {
      "title": "Wikidata：马英九 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q19216#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q15914742",
+   "b": "Q16574",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P3373"
     }
    ]
   },
@@ -34496,6 +35023,185 @@
     {
      "title": "Wikidata：襄城公主 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q4309207#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q16574",
+   "b": "Q17135",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1927",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1975-04-05",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    }
+   ],
+   "to": "1975-04-05",
+   "status": "past"
+  },
+  {
+   "a": "Q16574",
+   "b": "Q313598",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P40"
+    },
+    {
+     "title": "Wikidata：蒋经国 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q16574",
+   "b": "Q699378",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1921",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1927",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    }
+   ],
+   "to": "1927",
+   "status": "past"
+  },
+  {
+   "a": "Q16574",
+   "b": "Q701020",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q16574",
+   "b": "Q710811",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P26"
+    },
+    {
+     "title": "Wikidata：毛福梅 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q710811#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1901",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1927",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    }
+   ],
+   "to": "1927",
+   "status": "past"
+  },
+  {
+   "a": "Q16574",
+   "b": "Q8049047",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1911",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1927",
+     "src": {
+      "title": "Wikidata：蒋介石 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16574#P26"
+     }
+    }
+   ],
+   "to": "1927",
+   "status": "past"
+  },
+  {
+   "a": "Q16574",
+   "b": "Q85884061",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋介石 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q16574#P3373"
     }
    ]
   },
@@ -35878,6 +36584,111 @@
    ]
   },
   {
+   "a": "Q274363",
+   "b": "Q313598",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：蒋方良 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q274363#P26"
+    },
+    {
+     "title": "Wikidata：蒋经国 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1935",
+     "src": {
+      "title": "Wikidata：蒋方良 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q274363#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1988-01-13",
+     "src": {
+      "title": "Wikidata：蒋方良 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q274363#P26"
+     }
+    }
+   ],
+   "to": "1988-01-13",
+   "status": "past"
+  },
+  {
+   "a": "Q274363",
+   "b": "Q5095183",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：蒋方良 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q274363#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝章 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q274363",
+   "b": "Q5095185",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋方良 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q274363#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝文 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q274363",
+   "b": "Q5095186",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋方良 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q274363#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝武 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q274363",
+   "b": "Q5095188",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋方良 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q274363#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝勇 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P25"
+    }
+   ]
+  },
+  {
    "a": "Q27673396",
    "b": "Q701897",
    "type": "love",
@@ -36310,6 +37121,108 @@
     {
      "title": "Wikidata：唐鶴德 · 伴侣（P451）",
      "url": "https://www.wikidata.org/wiki/Q97352352#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q313598",
+   "b": "Q5095183",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：蒋经国 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝章 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q313598",
+   "b": "Q5095185",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋经国 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝文 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q313598",
+   "b": "Q5095186",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋经国 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝武 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q313598",
+   "b": "Q5095188",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋经国 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝勇 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q313598",
+   "b": "Q5371883",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋经国 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P40"
+    },
+    {
+     "title": "Wikidata：蒋孝严 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q313598",
+   "b": "Q8026049",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋经国 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P40"
+    },
+    {
+     "title": "Wikidata：章孝慈 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P22"
     }
    ]
   },
@@ -48290,6 +49203,32 @@
    ]
   },
   {
+   "a": "Q5071688",
+   "b": "Q5371883",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝严 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q5071688",
+   "b": "Q8026049",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：章孝慈 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P25"
+    }
+   ]
+  },
+  {
    "a": "Q5090737",
    "b": "Q8573",
    "type": "spouse",
@@ -48327,6 +49266,418 @@
    "status": "past"
   },
   {
+   "a": "Q5095183",
+   "b": "Q5095185",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝章 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095183",
+   "b": "Q5095186",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝章 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝武 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095183",
+   "b": "Q5095188",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝章 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝勇 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095183",
+   "b": "Q5371883",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝章 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝严 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095183",
+   "b": "Q8026049",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝章 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095183#P3373"
+    },
+    {
+     "title": "Wikidata：章孝慈 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095185",
+   "b": "Q15909741",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝文 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5095185",
+   "b": "Q5095186",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝武 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095185",
+   "b": "Q5095188",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝勇 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095185",
+   "b": "Q5371883",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝严 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095185",
+   "b": "Q8026049",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095185#P3373"
+    },
+    {
+     "title": "Wikidata：章孝慈 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095186",
+   "b": "Q15912560",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝武 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5095186",
+   "b": "Q5095188",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝武 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝勇 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095186",
+   "b": "Q5371883",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝武 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝严 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095186",
+   "b": "Q8026049",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝武 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P3373"
+    },
+    {
+     "title": "Wikidata：章孝慈 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095186",
+   "b": "Q9337279",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝武 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q5095186#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1986",
+     "src": {
+      "title": "Wikidata：蒋孝武 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095186#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1991-07-01",
+     "src": {
+      "title": "Wikidata：蒋孝武 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095186#P26"
+     }
+    }
+   ],
+   "to": "1991-07-01",
+   "status": "past"
+  },
+  {
+   "a": "Q5095188",
+   "b": "Q15912667",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝勇 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5095188",
+   "b": "Q5371883",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝勇 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P3373"
+    },
+    {
+     "title": "Wikidata：蒋孝严 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095188",
+   "b": "Q707363",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝勇 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5095188",
+   "b": "Q8026049",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝勇 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P3373"
+    },
+    {
+     "title": "Wikidata：章孝慈 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5095188",
+   "b": "Q8274122",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝勇 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1973",
+     "src": {
+      "title": "Wikidata：蒋孝勇 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095188#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1996-12-22",
+     "src": {
+      "title": "Wikidata：蒋孝勇 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q5095188#P26"
+     }
+    }
+   ],
+   "to": "1996-12-22",
+   "status": "past"
+  },
+  {
+   "a": "Q5095188",
+   "b": "Q8976004",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝勇 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5095188#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5371883",
+   "b": "Q15915513",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝严 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5371883",
+   "b": "Q15920021",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝严 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5371883",
+   "b": "Q8026049",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：蒋孝严 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5371883#P3373"
+    },
+    {
+     "title": "Wikidata：章孝慈 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q55003809",
    "b": "Q7717548",
    "type": "spouse",
@@ -48336,6 +49687,19 @@
     {
      "title": "Wikidata：张绿萍 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q7717548#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q56260442",
+   "b": "Q710811",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：毛福梅 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q710811#P22"
     }
    ]
   },
@@ -49104,6 +50468,23 @@
    ],
    "to": "1915",
    "status": "past"
+  },
+  {
+   "a": "Q710811",
+   "b": "Q313598",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：蒋经国 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q313598#P25"
+    },
+    {
+     "title": "Wikidata：毛福梅 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q710811#P40"
+    }
+   ]
   },
   {
    "a": "Q711427",
@@ -49957,6 +51338,19 @@
     {
      "title": "Wikidata：张绿萍 · 子女（P40）",
      "url": "https://www.wikidata.org/wiki/Q7717548#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q8026049",
+   "b": "Q19825202",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：章孝慈 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8026049#P40"
     }
    ]
   },
