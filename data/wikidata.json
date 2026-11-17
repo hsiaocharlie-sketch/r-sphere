@@ -16,7 +16,8 @@
    "Q313598",
    "Q17135",
    "Q557551",
-   "Q71874"
+   "Q71874",
+   "Q70986"
   ],
   "depth": 2,
   "src": {
@@ -299,6 +300,18 @@
     "竇唯"
    ],
    "note": "中国歌手"
+  },
+  {
+   "id": "Q70986",
+   "name": "李敖",
+   "wikidata": "Q70986",
+   "alias": [
+    "Li Ao",
+    "李傲",
+    "李敖之",
+    "Lee Ao"
+   ],
+   "note": "台湾作家、政治评论家"
   },
   {
    "id": "Q71874",
@@ -2348,6 +2361,15 @@
    "note": "孙科之子"
   },
   {
+   "id": "Q8460927",
+   "name": "李鼎彝",
+   "wikidata": "Q8460927",
+   "alias": [
+    "Li Dingyi"
+   ],
+   "note": "中国教师"
+  },
+  {
    "id": "Q8930368",
    "name": "蔡沛然",
    "wikidata": "Q8930368",
@@ -2358,6 +2380,17 @@
     "Tsai Pei-jan"
    ],
    "note": "马唯中之夫"
+  },
+  {
+   "id": "Q8965713",
+   "name": "胡茵梦",
+   "wikidata": "Q8965713",
+   "alias": [
+    "Terry Hu",
+    "胡茵夢",
+    "Hu Yinmeng"
+   ],
+   "note": "台湾电影演员"
   },
   {
    "id": "Q8976004",
@@ -2467,6 +2500,17 @@
     "Carol Chu Lai-chien"
    ],
    "note": "中國演員劉德華之妻"
+  },
+  {
+   "id": "Q9314509",
+   "name": "王志慧",
+   "wikidata": "Q9314509",
+   "alias": [
+    "Wang Zhihui",
+    "王小屯",
+    "Wang Xiaotun"
+   ],
+   "note": "李敖之妻"
   },
   {
    "id": "Q9337279",
@@ -3853,6 +3897,16 @@
    "note": "Tang dynasty person CBDB = 142513"
   },
   {
+   "id": "Q11096610",
+   "name": "李戡",
+   "wikidata": "Q11096610",
+   "alias": [
+    "Li Kan",
+    "Kan Lee"
+   ],
+   "note": "台湾作家"
+  },
+  {
    "id": "Q11096905",
    "name": "李智雲",
    "wikidata": "Q11096905",
@@ -4163,6 +4217,16 @@
    "note": "蒋介石生母"
   },
   {
+   "id": "Q15267268",
+   "name": "李文",
+   "wikidata": "Q15267268",
+   "alias": [
+    "Hedy W. Lee",
+    "Li Wen"
+   ],
+   "note": "美籍华人作家"
+  },
+  {
    "id": "Q15900203",
    "name": "杨王",
    "wikidata": "Q15900203",
@@ -4306,6 +4370,16 @@
     "Wan"
    ],
    "note": "Tang dynasty person CBDB = 142893"
+  },
+  {
+   "id": "Q15930887",
+   "name": "胡赓年",
+   "wikidata": "Q15930887",
+   "alias": [
+    "Hu Gengnian",
+    "胡賡年"
+   ],
+   "note": "中国政治人物"
   },
   {
    "id": "Q15938639",
@@ -31222,6 +31296,23 @@
    ]
   },
   {
+   "a": "Q11096610",
+   "b": "Q15267268",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：李戡 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q11096610#P3373"
+    },
+    {
+     "title": "Wikidata：李文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q15267268#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q11096905",
    "b": "Q11098320",
    "type": "kin",
@@ -35010,6 +35101,19 @@
     {
      "title": "Wikidata：李泰 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q703328#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q15930887",
+   "b": "Q8965713",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：胡茵梦 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q8965713#P22"
     }
    ]
   },
@@ -51982,6 +52086,114 @@
    "status": "past"
   },
   {
+   "a": "Q70986",
+   "b": "Q11096610",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李戡 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q11096610#P22"
+    },
+    {
+     "title": "Wikidata：李敖 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q70986#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q70986",
+   "b": "Q15267268",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李文 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q15267268#P22"
+    },
+    {
+     "title": "Wikidata：李敖 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q70986#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q70986",
+   "b": "Q8965713",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：李敖 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q70986#P26"
+    },
+    {
+     "title": "Wikidata：胡茵梦 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8965713#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1980-05-06",
+     "src": {
+      "title": "Wikidata：李敖 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q70986#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1980-08-28",
+     "src": {
+      "title": "Wikidata：李敖 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q70986#P26"
+     }
+    }
+   ],
+   "to": "1980-08-28",
+   "status": "past"
+  },
+  {
+   "a": "Q70986",
+   "b": "Q9314509",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：李敖 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q70986#P26"
+    },
+    {
+     "title": "Wikidata：王志慧 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9314509#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1992",
+     "src": {
+      "title": "Wikidata：李敖 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q70986#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2018-03-18",
+     "src": {
+      "title": "Wikidata：李敖 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q70986#P26"
+     }
+    }
+   ],
+   "to": "2018-03-18",
+   "status": "past"
+  },
+  {
    "a": "Q710811",
    "b": "Q313598",
    "type": "kin",
@@ -53605,6 +53817,23 @@
    ]
   },
   {
+   "a": "Q8460927",
+   "b": "Q70986",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李敖 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q70986#P22"
+    },
+    {
+     "title": "Wikidata：李鼎彝 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8460927#P40"
+    }
+   ]
+  },
+  {
    "a": "Q855999",
    "b": "Q9701",
    "type": "spouse",
@@ -53686,6 +53915,23 @@
     {
      "title": "Wikidata：孙中山 · 子女（P40）",
      "url": "https://www.wikidata.org/wiki/Q8573#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9314509",
+   "b": "Q11096610",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李戡 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q11096610#P25"
+    },
+    {
+     "title": "Wikidata：王志慧 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9314509#P40"
     }
    ]
   },
