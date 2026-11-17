@@ -50,7 +50,8 @@ button,input{font:inherit;color:inherit}
 .card .ct{font-size:12px;color:var(--dim);margin-top:5px;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center}
 .card .ct b{font-weight:500}
 .card a{color:#8ec5ff;text-decoration:none}
-.mini{margin-left:auto;font-size:11px;padding:3px 9px;border-radius:999px;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.05);color:var(--dim)}
+.ownk{margin-left:auto;display:inline-flex;align-items:center;gap:5px;font-size:11px;color:var(--dim)}
+.ownk i{display:inline-block;width:6px;height:6px;border-radius:50%;background:#aab;box-shadow:0 0 0 1.5px rgba(11,16,32,1),0 0 0 2.7px rgba(255,255,255,.8)}
 .pop{position:fixed;left:0;right:0;bottom:0;z-index:7;pointer-events:none}
 .pop[hidden]{display:none}
 .pop .box{pointer-events:auto;max-height:44vh;overflow:auto;background:rgba(14,20,40,.98);border-top:1px solid rgba(255,255,255,.16);border-radius:18px 18px 0 0;padding:14px 16px calc(env(safe-area-inset-bottom) + 14px);box-shadow:0 -8px 30px rgba(0,0,0,.4)}
@@ -155,6 +156,7 @@ function ingest(docs) {
 }
 const activeTypes = new Set(['kin','spouse','love','inlaw','servant','other','work']);
 const roleOff = new Set();   // 被筛掉的称谓（只对当前主角生效，切换主角时清空）
+let onlyOwn = false;         // 只显示带白圈（有自己关系网）的人，同样切换主角时清除
 function neighborsAll(id) {
   const seen = new Set(), out = [];
   for (const x of (adj.get(id) || [])) {
@@ -163,9 +165,16 @@ function neighborsAll(id) {
   }
   return out;
 }
+// 有自己的关系网：除了与当前主角的这条线，还有别的关系记录（来自 data/ 里的手写数据或自动采集）
+function hasOwn(id) {
+  for (const x of (adj.get(id) || []))
+    if (x.id !== centerId && activeTypes.has(x.type) && people.has(x.id)) return true;
+  return false;
+}
 function neighborsOf(id) {
   const all = neighborsAll(id);
-  return (id === centerId && roleOff.size) ? all.filter(x => !roleOff.has(x.role || '其他')) : all;
+  if (id !== centerId || !(roleOff.size || onlyOwn)) return all;
+  return all.filter(x => !roleOff.has(x.role || '其他') && (!onlyOwn || hasOwn(x.id)));
 }
 
 /* ───────── 数学工具 ───────── */
@@ -359,7 +368,7 @@ function goTo(id, push = true) {
   if (!people.has(id)) return;
   finishAnims();
   if (id === centerId) { bringToFront(id); return; }
-  roleOff.clear();
+  roleOff.clear(); onlyOwn = false;
   if (push && centerId) { hist.push(centerId); updateBack(); }
   if (nodes.has(id)) bringToFront(id, () => relayout(id));
   else relayout(id);
@@ -420,7 +429,7 @@ function draw() {
   const info = [], imap = new Map();
   for (const n of nodes.values()) {
     const v = qrot(Q, n.pos), p = proj(v);
-    const it = {n, v, p, front: v[2] > thr, r: (n.type === 'center' ? 9 : 4.6) * sz * p[2]};
+    const it = {n, v, p, front: v[2] > thr, own: n.type !== 'center' && hasOwn(n.id), r: (n.type === 'center' ? 9 : 4.6) * sz * p[2]};
     info.push(it); imap.set(n.id, it);
   }
   const arcs = [];
@@ -455,6 +464,10 @@ function draw() {
     ctx.beginPath(); ctx.arc(it.p[0], it.p[1], r, 0, 7);
     ctx.fillStyle = 'rgba(' + col + ',' + a + ')'; ctx.fill();
     if (!small) { ctx.lineWidth = n.type === 'center' ? 2 : 1; ctx.strokeStyle = 'rgba(11,16,32,' + (0.85*a) + ')'; ctx.stroke(); }
+    if (it.own && !small) {   // 白色外圈：这个人有自己的关系网，点进去能看到更多人
+      ctx.beginPath(); ctx.arc(it.p[0], it.p[1], r + 2.8, 0, 7);
+      ctx.lineWidth = 1.2; ctx.strokeStyle = 'rgba(255,255,255,' + (0.8*a) + ')'; ctx.stroke();
+    }
   }
 
   // ── 后半球层（透过球体隐约可见）
@@ -482,7 +495,7 @@ function draw() {
   const rects = [];
   const tryRect = b => { for (const r of rects) if (b[0] < r[2] && b[2] > r[0] && b[1] < r[3] && b[3] > r[1]) return false; rects.push(b); return true; };
   const desc = frontIt.slice().reverse();
-  for (const it of desc) rects.push([it.p[0]-it.r-1, it.p[1]-it.r-1, it.p[0]+it.r+1, it.p[1]+it.r+1]);
+  for (const it of desc) { const m = it.r + (it.own ? 4 : 1); rects.push([it.p[0]-m, it.p[1]-m, it.p[0]+m, it.p[1]+m]); }
   ctx.textBaseline = 'middle'; ctx.textAlign = 'left'; ctx.lineJoin = 'round';
   const drawText = (txt, x, y, font, rgb, a, outline) => {
     ctx.font = font;
@@ -499,7 +512,7 @@ function draw() {
     let x, y;
     if (isC) { x = it.p[0]-w/2; y = it.p[1]+it.r+fs*0.9; rects.push([x, y-fs/2, x+w, y+fs/2]); }
     else {
-      x = it.p[0]+it.r+4; y = it.p[1];
+      x = it.p[0]+it.r+(it.own ? 7 : 4); y = it.p[1];
       let box = [x, y-fs/2-1, x+w, y+fs/2+1];
       if (n.id === hoverId) rects.push(box);
       else if (!tryRect(box)) {
@@ -538,41 +551,20 @@ function draw() {
 
 /* ───────── 界面：信息卡、筛选、搜索 ───────── */
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let stressIds = [], zc = 0;
 function updateCard() {
   const p = people.get(centerId), list = neighborsOf(centerId), cnt = {};
+  const nOwn = list.filter(x => hasOwn(x.id)).length;
   const au = p.author && people.get(p.author);
   const fict = p.fictional ? '<div class="ct"><span>虚构人物' + (p.work ? ' · 出自' + esc(p.work) : '') + '</span>' + (au ? '<span>作者：<a href="#" id="goauthor">' + esc(au.name) + '</a></span>' : '') + '</div>' : '';
   list.forEach(x => cnt[x.type] = (cnt[x.type]||0)+1);
   const parts = Object.keys(TYPES).filter(t => cnt[t]).map(t => '<b style="color:' + hex(t) + '">' + TYPES[t].name + ' ' + cnt[t] + '</b>');
   elCard.innerHTML = '<div class="nm">' + esc(p.name) + '</div><div class="nt">' + esc(p.note) + '</div>' + fict +
-    '<div class="ct"><span>' + (roleOff.size ? '显示 ' + list.length + ' / 共 ' + neighborsAll(centerId).length : '共 ' + list.length) + ' 位亲友</span>' + parts.join('') +
-    '<button class="mini" id="stress">' + (stressIds.length ? '清除测试' : '＋80人压力测试') + '</button></div>' +
+    '<div class="ct"><span>' + ((roleOff.size || onlyOwn) ? '显示 ' + list.length + ' / 共 ' + neighborsAll(centerId).length : '共 ' + list.length) + ' 位亲友</span>' + parts.join('') +
+    (nOwn ? '<span class="ownk"><i></i>有自己的关系网 ' + nOwn + '</span>' : '') + '</div>' +
     '<div class="ct">拖动旋转 · 点人物切换主角 · 点关系线或文字看详情 · 双指缩放</div>';
-  document.getElementById('stress').onclick = () => stressIds.length ? clearStress() : addStress(80);
   const ga = document.getElementById('goauthor'); if (ga) ga.onclick = ev => { ev.preventDefault(); goTo(p.author); };
   buildFilter();
   requestAnimationFrame(() => resize(false));
-}
-function addStress(n) {
-  const sn = '张王李赵周吴郑孙钱冯陈褚卫蒋沈韩杨朱秦许何吕施孔曹严华金魏陶姜', gn = '明华建国秀英玉兰志强伟芳敏静丽军洋勇艳杰娟涛超霞平刚桂';
-  const ts = ['kin','kin','kin','spouse','inlaw','inlaw','servant','other','other'];
-  const roles = {kin:['堂兄','表姐','叔叔','侄子','舅舅','外甥'], spouse:['妾'], inlaw:['姻伯','连襟','亲家'], servant:['仆人','管事'], other:['同窗','故交','门生']};
-  for (let i = 0; i < n; i++) {
-    const id = 'z' + (++zc), t = ts[Math.floor(Math.random()*ts.length)], rl = roles[t];
-    people.set(id, {id, name: sn[Math.floor(Math.random()*sn.length)] + gn[Math.floor(Math.random()*gn.length)] + gn[Math.floor(Math.random()*gn.length)], note: '压力测试数据'});
-    const role = rl[Math.floor(Math.random()*rl.length)];
-    adj.get(centerId).push({id, type: t, role, rel: {}});
-    adj.set(id, [{id: centerId, type: t, role: '主角', rel: {}}]);
-    stressIds.push(id);
-  }
-  finishAnims(); relayout(centerId);
-}
-function clearStress() {
-  const s = new Set(stressIds);
-  stressIds.forEach(id => { people.delete(id); adj.delete(id); });
-  for (const [k, v] of adj) adj.set(k, v.filter(x => !s.has(x.id)));
-  stressIds = []; finishAnims(); relayout(centerId);
 }
 const backBtn = document.getElementById('back');
 function updateBack() { backBtn.disabled = hist.length === 0; }
@@ -584,14 +576,17 @@ const elF = document.getElementById('fpanel'), elFB = document.getElementById('f
 function refilter() { finishAnims(); relayout(centerId); }
 function toggleRole(r) { if (roleOff.has(r)) roleOff.delete(r); else roleOff.add(r); refilter(); }
 function buildFilter() {
-  elFB.textContent = roleOff.size ? '筛选 ●' : '筛选';
+  elFB.textContent = (roleOff.size || onlyOwn) ? '筛选 ●' : '筛选';
   if (elF.hidden) return;
   const cnt = new Map();
-  for (const x of neighborsAll(centerId)) { const r = x.role || '其他'; cnt.set(r, (cnt.get(r) || 0) + 1); }
+  for (const x of neighborsAll(centerId)) { if (onlyOwn && !hasOwn(x.id)) continue; const r = x.role || '其他'; cnt.set(r, (cnt.get(r) || 0) + 1); }
   elF.innerHTML = '';
   const mk = (txt, cls, fn) => { const b = document.createElement('button'); b.className = cls; b.textContent = txt; b.onclick = fn; elF.appendChild(b); return b; };
-  mk('全部', 'ctl', () => { roleOff.clear(); refilter(); });
+  mk('全部', 'ctl', () => { roleOff.clear(); onlyOwn = false; refilter(); });
   mk('清空', 'ctl', () => { cnt.forEach((_, r) => roleOff.add(r)); refilter(); });
+  const nOwn = neighborsAll(centerId).filter(x => hasOwn(x.id)).length;
+  const ob = mk('◎ 只看有白圈的 ', 'chip' + (onlyOwn ? ' on' : ''), () => { onlyOwn = !onlyOwn; refilter(); });
+  const os = document.createElement('small'); os.textContent = nOwn; ob.appendChild(os);
   [...cnt.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'zh')).forEach(([r, n]) => {
     const b = mk(r + ' ', 'chip' + (roleOff.has(r) ? '' : ' on'), () => toggleRole(r));
     const s = document.createElement('small'); s.textContent = n; b.appendChild(s);
@@ -606,7 +601,6 @@ function showResults() {
   if (!q) { resEl.hidden = true; return; }
   const hits = [];
   for (const p of people.values()) {
-    if (p.id[0] === 'z' && /^z\d+$/.test(p.id)) continue;
     const names = [p.name, ...(p.alias || [])].map(s => s.toLowerCase());
     const i = names.findIndex(s => s.includes(q));
     if (i >= 0) hits.push({p, score: (names[i].startsWith(q) ? 0 : 1) + (i ? 0.5 : 0)});
@@ -837,7 +831,7 @@ loadAll().then(({index, docs}) => {
     '<br>请通过网址（如 GitHub Pages）打开本页；直接用本地文件打开时，浏览器不允许读取 data 文件夹。</div>';
   resize(true);
 });
-window.relSphere = {people, toggleRole, roleOff, goTo, relayout, addStress, clearStress, openPop, closePop, hitEdge, labels: () => lastLabels, edges: () => edges,
+window.relSphere = {people, toggleRole, roleOff, setOnlyOwn: v => { onlyOwn = v; refilter(); }, goTo, relayout, hasOwn, openPop, closePop, hitEdge, labels: () => lastLabels, edges: () => edges,
   pos: () => [...nodes.values()].filter(n => n.aTo !== 0).map(n => [n.id, n.to]),
   state: () => ({centerId, nodes: nodes.size, edges: edges.length, zoom})};
 })();
