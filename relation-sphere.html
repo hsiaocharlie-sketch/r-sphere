@@ -264,7 +264,35 @@ function layout(centerId, ids) {
     const q = rest[i];
     out.set(pid, norm([q[0]+(rnd()-.5)*2*j, q[1]+(rnd()-.5)*2*j, q[2]+(rnd()-.5)*2*j]));
   });
+  spreadBearings(out, ids);
   return out;
+}
+
+// 避免两条线重合：从主角出发，每条线都是一段大圆弧，方向（方位角）几乎相同的两个人，
+// 近的那条会整条压在远的那条上。这里把方位角太近的人绕主角轻轻转开，距离主角的远近不变。
+function spreadBearings(out, ids) {
+  const n = ids.length; if (n < 2) return;
+  const e1 = norm(cross(HOME, [0, 0, 1])), e2 = cross(HOME, e1);
+  const bearing = p => { const d = dot(p, HOME), t = [p[0]-HOME[0]*d, p[1]-HOME[1]*d, p[2]-HOME[2]*d]; return Math.atan2(dot(t, e2), dot(t, e1)); };
+  const TAU = Math.PI*2, g = Math.min(9*Math.PI/180, 0.7*TAU/n);
+  const mod = a => ((a % TAU) + TAU) % TAU;
+  const items = ids.map(id => { const p = out.get(id), th = mod(bearing(p)); return {id, p, th0: th, th}; });
+  for (let it = 0; it < 80; it++) {
+    items.sort((a, b) => a.th - b.th);
+    let moved = false;
+    for (let i = 0; i < n; i++) {
+      const a = items[i], c = items[(i+1) % n];
+      const gap = i === n-1 ? c.th + TAU - a.th : c.th - a.th;
+      if (gap < g - 1e-6) { const d = (g - gap)/2; a.th = mod(a.th - d); c.th = mod(c.th + d); moved = true; }
+    }
+    if (!moved) break;
+  }
+  for (const x of items) {            // 绕 HOME 轴转过的角度 = 新旧方位角之差（罗德里格斯旋转公式）
+    let d = x.th - x.th0; if (d > Math.PI) d -= TAU; if (d < -Math.PI) d += TAU;
+    if (Math.abs(d) < 1e-9) continue;
+    const c = Math.cos(d), s = Math.sin(d), k = HOME, v = x.p, kv = cross(k, v), kd = dot(k, v);
+    out.set(x.id, norm([v[0]*c + kv[0]*s + k[0]*kd*(1-c), v[1]*c + kv[1]*s + k[1]*kd*(1-c), v[2]*c + kv[2]*s + k[2]*kd*(1-c)]));
+  }
 }
 
 /* ───────── 状态 ───────── */
