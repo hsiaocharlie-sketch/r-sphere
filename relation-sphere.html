@@ -113,14 +113,18 @@ const adj = new Map();
 //  · 同 id、或同 wikidata 编号的人合并成一个（别名取并集，先出现的简介优先）
 //  · 同一对人、同类型的关系合并事件和来源
 const wdIndex = new Map();
+const mergedLog = [];   // 调试用：按“同名 + 有共同关系人”自动合并的记录
 function ingest(docs) {
   const pk = (a, b, t) => (a < b ? a + '|' + b : b + '|' + a) + '|' + t;
   const remaps = docs.map(() => new Map());
+  const origin = new Map();   // 人物 id -> 出现在哪些数据文件里
   docs.forEach((doc, di) => {
     for (const p of (doc.people || [])) {
       let id = p.id;
       if (p.wikidata) { if (wdIndex.has(p.wikidata)) id = wdIndex.get(p.wikidata); else wdIndex.set(p.wikidata, p.id); }
       if (id !== p.id) remaps[di].set(p.id, id);
+      if (!origin.has(id)) origin.set(id, new Set());
+      origin.get(id).add(di);
       const old = people.get(id);
       if (!old) { people.set(id, Object.assign({}, p, {id})); adj.set(id, []); continue; }
       const al = new Set([...(old.alias || []), ...(p.alias || [])]);
@@ -129,9 +133,48 @@ function ingest(docs) {
       for (const k of ['note', 'fictional', 'work', 'author', 'wikidata']) if (old[k] == null && p[k] != null) old[k] = p[k];
     }
   });
+  // 同一个人在不同文件里编号不同（比如手写数据没填 wikidata 编号，自动采集文件里是 Q 号），页面上会出现两次。
+  // 这里再合并一轮：名字（或别名）相同、分属不同数据文件、并且有至少一个共同关系人，就当作同一个人。
+  const into = new Map();
+  const fin = id => { while (into.has(id)) id = into.get(id); return id; };
+  const keysOf = p => [p.name, ...(p.alias || [])].filter(Boolean).map(x => String(x).trim().toLowerCase());
+  for (let round = 0; round < 12; round++) {
+    const nb = new Map();
+    docs.forEach((doc, di) => {
+      for (const r of (doc.relations || [])) {
+        const a = fin(remaps[di].get(r.a) || r.a), b = fin(remaps[di].get(r.b) || r.b);
+        if (a === b) continue;
+        if (!nb.has(a)) nb.set(a, new Set()); if (!nb.has(b)) nb.set(b, new Set());
+        nb.get(a).add(b); nb.get(b).add(a);
+      }
+    });
+    const byKey = new Map(), order = new Map([...people.keys()].map((k, i) => [k, i]));
+    for (const [id, pp] of people) for (const k of new Set(keysOf(pp))) { if (!byKey.has(k)) byKey.set(k, []); byKey.get(k).push(id); }
+    let pair = null;
+    outer: for (const ids of byKey.values()) {
+      for (let i = 0; i < ids.length; i++) for (let j = i + 1; j < ids.length; j++) {
+        const x = ids[i], y = ids[j], px = people.get(x), py = people.get(y);
+        if (x === y || (px.wikidata && py.wikidata && px.wikidata !== py.wikidata)) continue;
+        const ox = origin.get(x) || new Set(), oy = origin.get(y) || new Set();
+        if ([...ox].some(d => oy.has(d))) continue;                       // 同一个文件里的不同 id，视为本来就是两个人
+        const nx = nb.get(x), ny = nb.get(y);
+        if (!nx || !ny || ![...nx].some(z => ny.has(z) && z !== x && z !== y)) continue;
+        pair = order.get(x) < order.get(y) ? [x, y] : [y, x]; break outer;
+      }
+    }
+    if (!pair) break;
+    const [win, lose] = pair, w = people.get(win), l = people.get(lose);
+    const al = new Set([...(w.alias || []), ...(l.alias || [])]);
+    if (l.name && l.name !== w.name) al.add(l.name);
+    w.alias = [...al];
+    for (const k of ['note', 'fictional', 'work', 'author', 'wikidata']) if (w[k] == null && l[k] != null) w[k] = l[k];
+    origin.set(win, new Set([...(origin.get(win) || []), ...(origin.get(lose) || [])]));
+    people.delete(lose); adj.delete(lose); into.set(lose, win);
+    mergedLog.push([lose, win, w.name]);
+  }
   const seen = new Map(), rels = [];
   docs.forEach((doc, di) => {
-    const R = id => remaps[di].get(id) || id;
+    const R = id => fin(remaps[di].get(id) || id);
     for (const r0 of (doc.relations || [])) {
       const r = Object.assign({}, r0, {a: R(r0.a), b: R(r0.b)});
       if (!people.has(r.a) || !people.has(r.b) || !TYPES[r.type] || r.a === r.b) { console.warn('数据有误，已跳过', r0); continue; }
@@ -861,7 +904,7 @@ loadAll().then(({index, docs}) => {
     '<br>请通过网址（如 GitHub Pages）打开本页；直接用本地文件打开时，浏览器不允许读取 data 文件夹。</div>';
   resize(true);
 });
-window.relSphere = {people, toggleRole, roleOff, setOnlyOwn: v => { onlyOwn = v; refilter(); }, goTo, relayout, hasOwn, openPop, closePop, hitEdge, labels: () => lastLabels, edges: () => edges,
+window.relSphere = {people, mergedLog, toggleRole, roleOff, setOnlyOwn: v => { onlyOwn = v; refilter(); }, goTo, relayout, hasOwn, openPop, closePop, hitEdge, labels: () => lastLabels, edges: () => edges,
   pos: () => [...nodes.values()].filter(n => n.aTo !== 0).map(n => [n.id, n.to]),
   state: () => ({centerId, nodes: nodes.size, edges: edges.length, zoom})};
 })();
