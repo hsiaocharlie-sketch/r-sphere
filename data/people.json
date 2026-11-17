@@ -1,7 +1,886 @@
 {
-  "meta": {
-    "name": "手写人物与关系（Claude 整理，每条都附来源）"
+ "meta": {
+  "name": "手写人物与关系（Claude 整理，每条都附来源）"
+ },
+ "people": [
+  {
+   "id": "xuzhimo",
+   "name": "徐志摩",
+   "alias": [
+    "Xu Zhimo"
+   ],
+   "wikidata": "Q557551",
+   "note": "中国诗人"
   },
-  "people": [],
-  "relations": []
+  {
+   "id": "liangsicheng",
+   "name": "梁思成",
+   "alias": [
+    "Liang Sicheng"
+   ],
+   "wikidata": "Q71874",
+   "note": "中国建筑学家"
+  },
+  {
+   "id": "li_ao",
+   "name": "李敖",
+   "alias": [
+    "Li Ao"
+   ],
+   "wikidata": "Q70986",
+   "note": "台湾作家、政治评论家"
+  },
+  {
+   "id": "zhangyouyi",
+   "name": "张幼仪",
+   "note": "徐志摩的原配妻子"
+  },
+  {
+   "id": "xujikai",
+   "name": "徐积锴",
+   "alias": [
+    "阿欢"
+   ],
+   "note": "徐志摩与张幼仪的长子"
+  },
+  {
+   "id": "xupeter",
+   "name": "彼得",
+   "note": "徐志摩与张幼仪的次子"
+  },
+  {
+   "id": "luxiaoman",
+   "name": "陆小曼",
+   "note": "徐志摩的第二任妻子"
+  },
+  {
+   "id": "linhuiyin",
+   "name": "林徽因",
+   "alias": [
+    "Lin Huiyin"
+   ],
+   "note": "中国建筑学家、诗人"
+  },
+  {
+   "id": "liangqichao",
+   "name": "梁启超",
+   "note": "近代思想家、学者；梁思成之父"
+  },
+  {
+   "id": "tagore",
+   "name": "泰戈尔",
+   "alias": [
+    "Rabindranath Tagore"
+   ],
+   "note": "印度诗人；1924年访华"
+  },
+  {
+   "id": "linchangmin",
+   "name": "林长民",
+   "note": "林徽因之父"
+  },
+  {
+   "id": "jinyuelin",
+   "name": "金岳霖",
+   "note": "哲学家"
+  },
+  {
+   "id": "liangcongjie",
+   "name": "梁从诫",
+   "note": "梁思成与林徽因之子"
+  },
+  {
+   "id": "liangzaibing",
+   "name": "梁再冰",
+   "note": "梁思成与林徽因之女"
+  },
+  {
+   "id": "linzhu",
+   "name": "林洙",
+   "note": "梁思成的第二任妻子"
+  },
+  {
+   "id": "liangsiyong",
+   "name": "梁思永",
+   "note": "梁思成之弟；考古学家"
+  },
+  {
+   "id": "huyinmeng",
+   "name": "胡因梦",
+   "alias": [
+    "胡茵梦",
+    "Terry Hu"
+   ],
+   "note": "台湾演员"
+  },
+  {
+   "id": "wangzhihui",
+   "name": "王志慧",
+   "note": "李敖的妻子"
+  },
+  {
+   "id": "likan",
+   "name": "李戡",
+   "note": "李敖之子"
+  },
+  {
+   "id": "lichen",
+   "name": "李諶",
+   "note": "李敖之女"
+  },
+  {
+   "id": "liwen",
+   "name": "李文",
+   "note": "李敖的长女"
+  }
+ ],
+ "relations": [
+  {
+   "a": "zhangyouyi",
+   "b": "xuzhimo",
+   "type": "spouse",
+   "aIs": "前妻",
+   "bIs": "前夫",
+   "status": "past",
+   "from": "1915",
+   "to": "1922",
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1915",
+     "note": "具体日期来源不一：澎湃节选（《百年风雅》）记为1915年12月5日；英文维基百科记为1915年10月10日。两处均称为父母安排的婚姻",
+     "src": [
+      {
+       "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+       "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+      },
+      {
+       "title": "维基百科：Xu Zhimo（经镜像页读取）",
+       "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+      }
+     ]
+    },
+    {
+     "label": "徐志摩提出离婚",
+     "date": "1922",
+     "place": "德国",
+     "note": "澎湃节选称1922年2月24日离婚书信送达，当时张幼仪刚生下次子；界面节选称生下儿子一个月后徐志摩带着离婚协议找到她，她签了字。二者在时间上略有出入",
+     "src": [
+      {
+       "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+       "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+      },
+      {
+       "title": "界面新闻：中国第一桩西式离婚案：徐志摩的西服和张幼仪的“小脚”（2017-05-15，节选自张邦梅《小脚与西服》）",
+       "url": "https://www.jiemian.com/article/1319847.html"
+      }
+     ]
+    },
+    {
+     "label": "离婚（办理）",
+     "date": "1922",
+     "place": "柏林",
+     "note": "澎湃节选称在柏林办理，并称这是依据《民法》的第一桩西式文明离婚案；英文维基百科记为1922年3月",
+     "src": [
+      {
+       "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+       "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+      },
+      {
+       "title": "维基百科：Xu Zhimo（经镜像页读取）",
+       "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+     "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+    },
+    {
+     "title": "维基百科：Xu Zhimo（经镜像页读取）",
+     "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "luxiaoman",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "from": "1926",
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1926-10-03",
+     "place": "北京",
+     "note": "爱思想所载《爱眉小札》页面注释称1926年10月3日在北京结婚；网易号自媒体文章称地点为北海公园，仅作参考。英文维基百科只记为1926年",
+     "src": [
+      {
+       "title": "爱思想：徐志摩《爱眉小札·日记》（页面注释称二人于1926年10月3日在北京结婚）",
+       "url": "https://www.aisixiang.com/data/85454.html"
+      },
+      {
+       "title": "网易号：张幼仪抱子登船送别，徐志摩头也不回追林徽因，陆小曼进门她签字（2026-08-17，自媒体文章，仅作参考）",
+       "url": "https://c.m.163.com/news/a/L44CUSEL0552M4Y3.html"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "爱思想：徐志摩《爱眉小札·日记》（页面注释称二人于1926年10月3日在北京结婚）",
+     "url": "https://www.aisixiang.com/data/85454.html"
+    },
+    {
+     "title": "维基百科：Xu Zhimo（经镜像页读取）",
+     "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "linhuiyin",
+   "type": "love",
+   "aIs": "爱慕者",
+   "bIs": "被爱慕者",
+   "status": "rumor",
+   "events": [
+    {
+     "label": "相识",
+     "date": "1920",
+     "place": "英国",
+     "note": "英文维基百科“Lin Huiyin”及网易号文章记为1920年秋季随林长民赴英时相识；英文维基百科“Xu Zhimo”记为1921年在伦敦相识并爱上她，当时她已由父亲安排与梁思成订婚。林徽因一方的感情如何，来源并无定论，《方圆之间》一文只称“徽因是否真爱过志摩”曾引发两岸论战，所以这里标为传闻",
+     "src": [
+      {
+       "title": "维基百科：Lin Huiyin",
+       "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+      },
+      {
+       "title": "网易号：张幼仪抱子登船送别，徐志摩头也不回追林徽因，陆小曼进门她签字（2026-08-17，自媒体文章，仅作参考）",
+       "url": "https://c.m.163.com/news/a/L44CUSEL0552M4Y3.html"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Xu Zhimo（经镜像页读取）",
+     "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+    },
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    },
+    {
+     "title": "The News Lens：方圆之间——历史证明了，坚决反对拆除老北京城的梁思成和林徽因是对的（李俊融）",
+     "url": "https://www.thenewslens.com/article/147537"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "tagore",
+   "type": "work",
+   "aIs": "翻译",
+   "bIs": "来访者",
+   "from": "1924",
+   "events": [
+    {
+     "label": "为泰戈尔访华担任口头翻译之一",
+     "date": "1924",
+     "note": "英文维基百科“Xu Zhimo”称徐志摩是泰戈尔访华时的口译之一但没写年份；“Lin Huiyin”条目称1924年徐志摩与林徽因共同为泰戈尔担任翻译",
+     "src": [
+      {
+       "title": "维基百科：Xu Zhimo（经镜像页读取）",
+       "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+      },
+      {
+       "title": "维基百科：Lin Huiyin",
+       "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Xu Zhimo（经镜像页读取）",
+     "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+    },
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    }
+   ]
+  },
+  {
+   "a": "liangqichao",
+   "b": "xuzhimo",
+   "type": "other",
+   "aIs": "老师",
+   "bIs": "学生",
+   "events": [
+    {
+     "label": "担任徐志摩与陆小曼婚礼的证婚人",
+     "date": "1926-10-03",
+     "place": "北京",
+     "note": "澎湃《书城》文章称梁启超在婚礼上严厉训斥二人；网易号文章称他是徐志摩的老师并担任证婚人",
+     "src": [
+      {
+       "title": "网易号：张幼仪抱子登船送别，徐志摩头也不回追林徽因，陆小曼进门她签字（2026-08-17，自媒体文章，仅作参考）",
+       "url": "https://c.m.163.com/news/a/L44CUSEL0552M4Y3.html"
+      },
+      {
+       "title": "澎湃新闻·书城：陆小曼、徐志摩、翁瑞午沪上合演《玉堂春》（陈建华，2017-03-15）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_1639333"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "网易号：张幼仪抱子登船送别，徐志摩头也不回追林徽因，陆小曼进门她签字（2026-08-17，自媒体文章，仅作参考）",
+     "url": "https://c.m.163.com/news/a/L44CUSEL0552M4Y3.html"
+    },
+    {
+     "title": "澎湃新闻·书城：陆小曼、徐志摩、翁瑞午沪上合演《玉堂春》（陈建华，2017-03-15）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_1639333"
+    }
+   ]
+  },
+  {
+   "a": "linchangmin",
+   "b": "xuzhimo",
+   "type": "other",
+   "aIs": "师长",
+   "bIs": "门生",
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "xujikai",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "徐积锴出生",
+     "date": "1918",
+     "note": "文中只给出年份",
+     "src": [
+      {
+       "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+       "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+     "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+    }
+   ]
+  },
+  {
+   "a": "zhangyouyi",
+   "b": "xujikai",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+     "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "xupeter",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "彼得出生",
+     "date": "1922",
+     "note": "澎湃节选称生于1922年2月24日，地点为德国，没写明城市；界面节选称生于柏林",
+     "src": [
+      {
+       "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+       "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+      }
+     ]
+    },
+    {
+     "label": "彼得夭折",
+     "date": "1925-03-19",
+     "place": "柏林",
+     "note": "澎湃节选称因腹膜炎去世，年仅三岁左右",
+     "src": [
+      {
+       "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+       "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+     "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+    },
+    {
+     "title": "界面新闻：中国第一桩西式离婚案：徐志摩的西服和张幼仪的“小脚”（2017-05-15，节选自张邦梅《小脚与西服》）",
+     "url": "https://www.jiemian.com/article/1319847.html"
+    }
+   ]
+  },
+  {
+   "a": "zhangyouyi",
+   "b": "xupeter",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "澎湃新闻·湃客：朝雾里的小花｜徐志摩原配夫人张幼仪的悲欢（一）（2018-07-20，节选自《百年风雅》）",
+     "url": "https://m.thepaper.cn/newsDetail_forward_2275352"
+    }
+   ]
+  },
+  {
+   "a": "liangsicheng",
+   "b": "linhuiyin",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "from": "1928",
+   "to": "1955-04-01",
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1928-03-21",
+     "note": "英文维基百科“Lin Huiyin”信息框记为1928年3月21日，没有写明地点；英文维基百科“Liang Sicheng”只写1928年；《方圆之间》一文称1928年结婚后二人回国任教",
+     "src": [
+      {
+       "title": "维基百科：Lin Huiyin",
+       "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+      },
+      {
+       "title": "The News Lens：方圆之间——历史证明了，坚决反对拆除老北京城的梁思成和林徽因是对的（李俊融）",
+       "url": "https://www.thenewslens.com/article/147537"
+      }
+     ]
+    },
+    {
+     "label": "林徽因去世",
+     "date": "1955-04-01",
+     "place": "北京同仁医院",
+     "note": "英文维基百科称死因为肺结核；中国新闻网文章也写明1955年4月1日去世，时年51岁（维基百科信息框则写50岁）",
+     "src": [
+      {
+       "title": "维基百科：Lin Huiyin",
+       "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+      },
+      {
+       "title": "中国新闻网（2017-04-01，林徽因逝世纪念文章）",
+       "url": "https://www.chinanews.com.cn/cul/2017/04-01/8189743.shtml"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    },
+    {
+     "title": "The News Lens：方圆之间——历史证明了，坚决反对拆除老北京城的梁思成和林徽因是对的（李俊融）",
+     "url": "https://www.thenewslens.com/article/147537"
+    },
+    {
+     "title": "中国新闻网（2017-04-01，林徽因逝世纪念文章）",
+     "url": "https://www.chinanews.com.cn/cul/2017/04-01/8189743.shtml"
+    }
+   ]
+  },
+  {
+   "a": "liangqichao",
+   "b": "liangsicheng",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "events": [
+    {
+     "label": "梁启超早早认定林徽因为儿媳并鼓励梁思成追求她，后来送二人同赴美国学建筑",
+     "src": [
+      {
+       "title": "The News Lens：方圆之间——历史证明了，坚决反对拆除老北京城的梁思成和林徽因是对的（李俊融）",
+       "url": "https://www.thenewslens.com/article/147537"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "The News Lens：方圆之间——历史证明了，坚决反对拆除老北京城的梁思成和林徽因是对的（李俊融）",
+     "url": "https://www.thenewslens.com/article/147537"
+    },
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "liangsicheng",
+   "b": "linzhu",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "from": "1962",
+   "to": "1972",
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1962",
+     "note": "英文维基百科正文只写1962年，没有注明具体日期和来源",
+     "src": [
+      {
+       "title": "维基百科：Liang Sicheng",
+       "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+      }
+     ]
+    },
+    {
+     "label": "梁思成去世",
+     "date": "1972-01-09",
+     "place": "北京",
+     "note": "日期取自英文维基百科信息框；正文只写“1972年在北京去世”，并引用Chou, Wang & Wang (1999)，但引用未标明具体日期",
+     "src": [
+      {
+       "title": "维基百科：Liang Sicheng",
+       "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "liangsicheng",
+   "b": "liangsiyong",
+   "type": "kin",
+   "aIs": "哥哥",
+   "bIs": "弟弟",
+   "src": [
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "liangsicheng",
+   "b": "liangcongjie",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    },
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "liangsicheng",
+   "b": "liangzaibing",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    },
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "linhuiyin",
+   "b": "liangcongjie",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    }
+   ]
+  },
+  {
+   "a": "linhuiyin",
+   "b": "liangzaibing",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    }
+   ]
+  },
+  {
+   "a": "linchangmin",
+   "b": "linhuiyin",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "events": [
+    {
+     "label": "林徽因随父亲林长民赴欧洲",
+     "date": "1920",
+     "note": "英文维基百科称林长民生于1876年9月16日，1925年12月24日在闽侯去世",
+     "src": [
+      {
+       "title": "维基百科：Lin Huiyin",
+       "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    }
+   ]
+  },
+  {
+   "a": "jinyuelin",
+   "b": "linhuiyin",
+   "type": "other",
+   "aIs": "友人",
+   "bIs": "友人",
+   "events": [
+    {
+     "label": "列名林徽因治丧委员会13名成员之一",
+     "date": "1955",
+     "note": "另据英文维基百科，金岳霖曾评价梁思成与林徽因“从来不是在消磨时光，日子总是不够用”",
+     "src": [
+      {
+       "title": "维基百科：Lin Huiyin",
+       "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Lin Huiyin",
+     "url": "https://en.wikipedia.org/wiki/Lin_Huiyin"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "huyinmeng",
+   "type": "spouse",
+   "aIs": "前夫",
+   "bIs": "前妻",
+   "status": "past",
+   "from": "1980-05-06",
+   "to": "1980-08-28",
+   "events": [
+    {
+     "label": "恋情公开",
+     "date": "1979",
+     "note": "联合新闻网文章称1979年底胡茵梦公开承认与李敖交往，并引用联合报1979年11月8日报道她透露明春结婚",
+     "src": [
+      {
+       "title": "联合新闻网·报时光：「第一美人」胡茵梦与李敖恋情轰动一时 婚姻却仅维持3个月（2025-01-31，引用联合报1979-11-08、1980-08-27报道）",
+       "url": "https://udn.com/news/story/120910/8458934"
+      }
+     ]
+    },
+    {
+     "label": "结婚",
+     "date": "1980-05-06",
+     "place": "李敖家中",
+     "note": "英文维基百科“Terry Hu”记为1980年5月6日；联合新闻网文章记为1980年5月，仅少数朋友到场",
+     "src": [
+      {
+       "title": "维基百科：Terry Hu",
+       "url": "https://en.wikipedia.org/wiki/Terry_Hu"
+      },
+      {
+       "title": "联合新闻网·报时光：「第一美人」胡茵梦与李敖恋情轰动一时 婚姻却仅维持3个月（2025-01-31，引用联合报1979-11-08、1980-08-27报道）",
+       "url": "https://udn.com/news/story/120910/8458934"
+      }
+     ]
+    },
+    {
+     "label": "离婚",
+     "date": "1980-08-28",
+     "note": "英文维基百科记为婚姻维持115天后于8月28日离婚；联合新闻网文章引用联合报1980年8月27日报道，称胡茵梦表示已决定离婚、双方已分居",
+     "src": [
+      {
+       "title": "维基百科：Terry Hu",
+       "url": "https://en.wikipedia.org/wiki/Terry_Hu"
+      },
+      {
+       "title": "联合新闻网·报时光：「第一美人」胡茵梦与李敖恋情轰动一时 婚姻却仅维持3个月（2025-01-31，引用联合报1979-11-08、1980-08-27报道）",
+       "url": "https://udn.com/news/story/120910/8458934"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Terry Hu",
+     "url": "https://en.wikipedia.org/wiki/Terry_Hu"
+    },
+    {
+     "title": "联合新闻网·报时光：「第一美人」胡茵梦与李敖恋情轰动一时 婚姻却仅维持3个月（2025-01-31，引用联合报1979-11-08、1980-08-27报道）",
+     "url": "https://udn.com/news/story/120910/8458934"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "wangzhihui",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "from": "1992",
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1992-03-08",
+     "note": "来自英文维基百科“Li Ao”条目",
+     "src": [
+      {
+       "title": "维基百科：Li Ao",
+       "url": "https://en.wikipedia.org/wiki/Li_Ao"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Li Ao",
+     "url": "https://en.wikipedia.org/wiki/Li_Ao"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "likan",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "镜周刊：【一镜到底】不做统战机器人 李戡（陈昌远，2020-12-12）",
+     "url": "https://www.mirrormedia.mg/story/20201203pol002"
+    },
+    {
+     "title": "维基百科：Li Ao",
+     "url": "https://en.wikipedia.org/wiki/Li_Ao"
+    }
+   ]
+  },
+  {
+   "a": "wangzhihui",
+   "b": "likan",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "镜周刊：【一镜到底】不做统战机器人 李戡（陈昌远，2020-12-12）",
+     "url": "https://www.mirrormedia.mg/story/20201203pol002"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "lichen",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "镜周刊：【一镜到底】不做统战机器人 李戡（陈昌远，2020-12-12）",
+     "url": "https://www.mirrormedia.mg/story/20201203pol002"
+    },
+    {
+     "title": "维基百科：Li Ao",
+     "url": "https://en.wikipedia.org/wiki/Li_Ao"
+    }
+   ]
+  },
+  {
+   "a": "wangzhihui",
+   "b": "lichen",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "镜周刊：【一镜到底】不做统战机器人 李戡（陈昌远，2020-12-12）",
+     "url": "https://www.mirrormedia.mg/story/20201203pol002"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "liwen",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "长女",
+   "events": [
+    {
+     "label": "李文出生",
+     "note": "镜周刊文章称她是李敖与其第一位情人所生的长女，文中没有写出生年份",
+     "src": [
+      {
+       "title": "镜周刊：【一镜到底】不做统战机器人 李戡（陈昌远，2020-12-12）",
+       "url": "https://www.mirrormedia.mg/story/20201203pol002"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "镜周刊：【一镜到底】不做统战机器人 李戡（陈昌远，2020-12-12）",
+     "url": "https://www.mirrormedia.mg/story/20201203pol002"
+    }
+   ]
+  }
+ ]
 }
