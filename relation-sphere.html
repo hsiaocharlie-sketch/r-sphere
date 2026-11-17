@@ -650,7 +650,9 @@ function openPop(e) {
   if (!A || !B) return;
   selEdge = e; elPop.innerHTML = '';
   const box = h('div', 'box'), hd = h('div', 'hd');
-  hd.appendChild(h('div', 'ttl', A.name + ' ⇄ ' + B.name));
+  // 标题里写明各自的具体称谓，如“刘礼（父亲） ⇄ 刘德华（儿子）”；括号里是这个人相对另一方是什么
+  const same = rel.a === e.a, rA = same ? rel.aIs : rel.bIs, rB = same ? rel.bIs : rel.aIs;
+  hd.appendChild(h('div', 'ttl', A.name + (rA ? '（' + rA + '）' : '') + ' ⇄ ' + B.name + (rB ? '（' + rB + '）' : '')));
   const tag = h('span', 'tag', TYPES[e.type].name); tag.style.color = hex(e.type); hd.appendChild(tag);
   const SM = {past: '已结束', rumor: '传闻 · 未经证实', denied: '传闻 · 当事人否认'};
   if (SM[rel.status]) { const t2 = h('span', 'tag', SM[rel.status]); t2.style.color = '#e0a458'; hd.appendChild(t2); }
