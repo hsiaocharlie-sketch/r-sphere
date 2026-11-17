@@ -132,6 +132,93 @@
    "id": "liwen",
    "name": "李文",
    "note": "李敖的长女"
+  },
+  {
+   "id": "russell",
+   "name": "罗素",
+   "alias": [
+    "Bertrand Russell"
+   ],
+   "note": "英国哲学家"
+  },
+  {
+   "id": "dickinson",
+   "name": "狄更生",
+   "alias": [
+    "G. Lowes Dickinson",
+    "狄老"
+   ],
+   "note": "剑桥大学国王学院学者"
+  },
+  {
+   "id": "hushi",
+   "name": "胡适",
+   "note": "中国学者、作家"
+  },
+  {
+   "id": "pearlbuck",
+   "name": "赛珍珠",
+   "alias": [
+    "Pearl S. Buck"
+   ],
+   "note": "美国作家"
+  },
+  {
+   "id": "ogden",
+   "name": "奥格顿",
+   "alias": [
+    "C. K. Ogden"
+   ],
+   "note": "英国学者、出版“国际文库”丛书"
+  },
+  {
+   "id": "cret",
+   "name": "保罗·克雷",
+   "alias": [
+    "Paul Cret"
+   ],
+   "note": "宾夕法尼亚大学建筑教授"
+  },
+  {
+   "id": "zhuqiqin",
+   "name": "朱启钤",
+   "note": "中国营造学社创办人、社长"
+  },
+  {
+   "id": "liudunzhen",
+   "name": "刘敦桢",
+   "note": "中国营造学社文献部主任"
+  },
+  {
+   "id": "chenzhanxiang",
+   "name": "陈占祥",
+   "note": "城市规划师；与梁思成共同提出“梁陈方案”"
+  },
+  {
+   "id": "wilmafairbank",
+   "name": "费慰梅",
+   "alias": [
+    "Wilma Fairbank"
+   ],
+   "note": "美国学者，整理出版梁思成英文遗稿"
+  },
+  {
+   "id": "pengmingmin",
+   "name": "彭明敏",
+   "alias": [
+    "Peng Ming-min"
+   ],
+   "note": "台湾政治人物"
+  },
+  {
+   "id": "xiaomengneng",
+   "name": "萧孟能",
+   "note": "文星书店与《文星》杂志负责人"
+  },
+  {
+   "id": "longyingtai",
+   "name": "龙应台",
+   "note": "作家"
   }
  ],
  "relations": [
@@ -347,6 +434,10 @@
     {
      "title": "澎湃新闻·书城：陆小曼、徐志摩、翁瑞午沪上合演《玉堂春》（陈建华，2017-03-15）",
      "url": "https://www.thepaper.cn/newsDetail_forward_1639333"
+    },
+    {
+     "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+     "url": "https://www.aisixiang.com/data/94025.html"
     }
    ]
   },
@@ -879,6 +970,490 @@
     {
      "title": "镜周刊：【一镜到底】不做统战机器人 李戡（陈昌远，2020-12-12）",
      "url": "https://www.mirrormedia.mg/story/20201203pol002"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "russell",
+   "type": "other",
+   "aIs": "友人",
+   "bIs": "友人",
+   "from": "1921",
+   "events": [
+    {
+     "label": "主动写信自荐，成为罗素夫妇的朋友",
+     "date": "1921-10-18",
+     "place": "伦敦/剑桥",
+     "note": "他从剑桥的朋友奥格顿处得到罗素在伦敦的地址后写信，此后常往返剑桥与伦敦听罗素演讲",
+     "src": [
+      {
+       "title": "China und der Westen（苏黎世大学）：徐志摩词条与年表（引 Leung, “Hsu Chih-mo and Bertrand Russell”, Renditions 14, 1980）",
+       "url": "https://www.e-aoi.uzh.ch/apps/china-west/entities/5192"
+      }
+     ]
+    },
+    {
+     "label": "致信罗素，推荐梁启超撰写介绍中国思想的书",
+     "date": "1921-11-07",
+     "note": "信中讨论奥格顿策划的“国际文库”中国哲学卷的作者人选，徐志摩认为不宜译胡适的《中国哲学史大纲》，并推荐梁启超；刘洪涛文章称罗素与奥格顿接受了这个建议",
+     "src": [
+      {
+       "title": "China und der Westen（苏黎世大学）：徐志摩词条与年表（引 Leung, “Hsu Chih-mo and Bertrand Russell”, Renditions 14, 1980）",
+       "url": "https://www.e-aoi.uzh.ch/apps/china-west/entities/5192"
+      },
+      {
+       "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+       "url": "https://www.aisixiang.com/data/94025.html"
+      }
+     ]
+    },
+    {
+     "label": "发表《罗素与中国》，称赞罗素的《中国问题》",
+     "date": "1922-12-03",
+     "place": "中国",
+     "src": [
+      {
+       "title": "China und der Westen（苏黎世大学）：徐志摩词条与年表（引 Leung, “Hsu Chih-mo and Bertrand Russell”, Renditions 14, 1980）",
+       "url": "https://www.e-aoi.uzh.ch/apps/china-west/entities/5192"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "China und der Westen（苏黎世大学）：徐志摩词条与年表（引 Leung, “Hsu Chih-mo and Bertrand Russell”, Renditions 14, 1980）",
+     "url": "https://www.e-aoi.uzh.ch/apps/china-west/entities/5192"
+    },
+    {
+     "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+     "url": "https://www.aisixiang.com/data/94025.html"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "dickinson",
+   "type": "other",
+   "aIs": "友人",
+   "bIs": "友人",
+   "events": [
+    {
+     "label": "致信罗素，提议约狄更生一同喝茶",
+     "date": "1922-03-02",
+     "place": "剑桥",
+     "note": "来自苏黎世大学数据库对徐志摩致罗素信件的摘记",
+     "src": [
+      {
+       "title": "China und der Westen（苏黎世大学）：徐志摩词条与年表（引 Leung, “Hsu Chih-mo and Bertrand Russell”, Renditions 14, 1980）",
+       "url": "https://www.e-aoi.uzh.ch/apps/china-west/entities/5192"
+      }
+     ]
+    },
+    {
+     "label": "致信奥格顿，提到“狄老”来信令他振奋",
+     "date": "1924-02-11",
+     "note": "刘洪涛文章称徐志摩与狄更生有深厚的友谊",
+     "src": [
+      {
+       "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+       "url": "https://www.aisixiang.com/data/94025.html"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "China und der Westen（苏黎世大学）：徐志摩词条与年表（引 Leung, “Hsu Chih-mo and Bertrand Russell”, Renditions 14, 1980）",
+     "url": "https://www.e-aoi.uzh.ch/apps/china-west/entities/5192"
+    },
+    {
+     "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+     "url": "https://www.aisixiang.com/data/94025.html"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "hushi",
+   "type": "other",
+   "aIs": "友人",
+   "bIs": "友人",
+   "events": [
+    {
+     "label": "认为胡适的《中国哲学史大纲》不适合译成英文",
+     "date": "1921-11",
+     "note": "见徐志摩致奥格顿书信；刘洪涛文章说两人建立深厚友谊是在这之后，没有给出具体日期",
+     "src": [
+      {
+       "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+       "url": "https://www.aisixiang.com/data/94025.html"
+      }
+     ]
+    },
+    {
+     "label": "致信称胡适同意在英国出版其著作",
+     "date": "1924-02-11",
+     "note": "胡适的改定稿最终没有寄出，出版也没有完成",
+     "src": [
+      {
+       "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+       "url": "https://www.aisixiang.com/data/94025.html"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+     "url": "https://www.aisixiang.com/data/94025.html"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "pearlbuck",
+   "type": "love",
+   "aIs": "被传有感情者",
+   "bIs": "被传有感情者",
+   "status": "rumor",
+   "events": [
+    {
+     "label": "被传有感情关联",
+     "note": "英文维基百科称徐志摩与赛珍珠曾有感情牵连，引用 Peter Conn《赛珍珠传》第103页、第397页；来源没有给出日期和地点，也没有说明是否被当事人证实，所以这里标为传闻",
+     "src": [
+      {
+       "title": "维基百科：Xu Zhimo（经镜像页读取）",
+       "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Xu Zhimo（经镜像页读取）",
+     "url": "https://en.wikipedia.org/wiki/Xu_Zhimo"
+    }
+   ]
+  },
+  {
+   "a": "xuzhimo",
+   "b": "ogden",
+   "type": "work",
+   "aIs": "翻译者",
+   "bIs": "丛书策划者",
+   "events": [
+    {
+     "label": "与奥格顿相识",
+     "date": "1921-07",
+     "place": "剑桥",
+     "note": "文章称1921年7月前后相识，徐志摩当时住在剑桥以南的沙士顿",
+     "src": [
+      {
+       "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+       "url": "https://www.aisixiang.com/data/94025.html"
+      }
+     ]
+    },
+    {
+     "label": "开始翻译梁启超《先秦政治思想史》的导言",
+     "date": "1923-05-10",
+     "note": "1923年11月15日前后放弃，由L. T. Chen接手；英译本1930年由科根出版社出版",
+     "src": [
+      {
+       "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+       "url": "https://www.aisixiang.com/data/94025.html"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "爱思想：刘洪涛《徐志摩致奥格顿英文书信的发现及其价值》（原刊《齐鲁学刊》2006年第3期）",
+     "url": "https://www.aisixiang.com/data/94025.html"
+    }
+   ]
+  },
+  {
+   "a": "cret",
+   "b": "liangsicheng",
+   "type": "other",
+   "aIs": "老师",
+   "bIs": "学生",
+   "from": "1924",
+   "events": [
+    {
+     "label": "入宾夕法尼亚大学，师从克雷学建筑",
+     "date": "1924",
+     "place": "美国宾夕法尼亚大学",
+     "note": "靠庚子赔款奖学金；约三年后获建筑学硕士",
+     "src": [
+      {
+       "title": "维基百科：Liang Sicheng",
+       "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "zhuqiqin",
+   "b": "liangsicheng",
+   "type": "work",
+   "aIs": "社长",
+   "bIs": "法式部主任",
+   "from": "1931",
+   "events": [
+    {
+     "label": "受朱启钤邀请加入中国营造学社，任法式部主任",
+     "date": "1931",
+     "note": "朱启钤1925年倡议成立“营造学会”，1930年2月更名为中国营造学社并任社长",
+     "src": [
+      {
+       "title": "澎湃新闻·古代艺术：纪念｜营造学社九十周年：并不仅仅是梁思成林徽因伉俪（清源文化遗产，2020-02-23）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_6040839"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "澎湃新闻·古代艺术：纪念｜营造学社九十周年：并不仅仅是梁思成林徽因伉俪（清源文化遗产，2020-02-23）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_6040839"
+    }
+   ]
+  },
+  {
+   "a": "liangsicheng",
+   "b": "liudunzhen",
+   "type": "work",
+   "aIs": "学社同仁",
+   "bIs": "学社同仁",
+   "from": "1931",
+   "events": [
+    {
+     "label": "同年受朱启钤邀请加入营造学社，任文献部主任",
+     "date": "1931",
+     "src": [
+      {
+       "title": "澎湃新闻·古代艺术：纪念｜营造学社九十周年：并不仅仅是梁思成林徽因伉俪（清源文化遗产，2020-02-23）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_6040839"
+      }
+     ]
+    },
+    {
+     "label": "与梁思成、林徽因带领学社调查古建筑",
+     "date": "1930至1937",
+     "note": "1930至1937年间调查了中国北方100多个县城的2000多处古建筑",
+     "src": [
+      {
+       "title": "澎湃新闻·古代艺术：纪念｜营造学社九十周年：并不仅仅是梁思成林徽因伉俪（清源文化遗产，2020-02-23）",
+       "url": "https://www.thepaper.cn/newsDetail_forward_6040839"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "澎湃新闻·古代艺术：纪念｜营造学社九十周年：并不仅仅是梁思成林徽因伉俪（清源文化遗产，2020-02-23）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_6040839"
+    }
+   ]
+  },
+  {
+   "a": "liangsicheng",
+   "b": "chenzhanxiang",
+   "type": "work",
+   "aIs": "合作者",
+   "bIs": "合作者",
+   "from": "1950",
+   "events": [
+    {
+     "label": "共同提出《关于中央人民政府行政中心区位置的建议》（梁陈方案）",
+     "date": "1950",
+     "place": "北京",
+     "note": "主张在故宫以西建新的行政中心以保护旧城，经过数月讨论后被否决；来源引用 Liang & Chen (1950)；Lin (2004) p.205",
+     "src": [
+      {
+       "title": "维基百科：Liang Sicheng",
+       "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "wilmafairbank",
+   "b": "liangsicheng",
+   "type": "work",
+   "aIs": "遗稿编辑者",
+   "bIs": "作者",
+   "events": [
+    {
+     "label": "编辑梁思成的英文遗稿《图像中国建筑史》，由麻省理工学院出版社出版",
+     "date": "1984",
+     "src": [
+      {
+       "title": "维基百科：Liang Sicheng",
+       "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+      }
+     ]
+    },
+    {
+     "label": "出版《梁与林：探索中国建筑过去的伙伴》",
+     "date": "1994",
+     "note": "费慰梅著，来源引用 Fairbank (1994)；维基百科条目没有描述两家的私人关系",
+     "src": [
+      {
+       "title": "维基百科：Liang Sicheng",
+       "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Liang Sicheng",
+     "url": "https://en.wikipedia.org/wiki/Liang_Sicheng"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "hushi",
+   "type": "other",
+   "aIs": "撰文评述者",
+   "bIs": "被评述者",
+   "from": "1961",
+   "events": [
+    {
+     "label": "受托与徐高阮翻译胡适的演讲稿《科学发展所需要的社会改革》",
+     "date": "1961-12-01",
+     "note": "刊于《文星》第9卷第2期",
+     "src": [
+      {
+       "title": "爱思想：黄克武《一位“保守的自由主义者”：胡适与〈文星〉杂志》",
+       "url": "https://www.aisixiang.com/data/102625.html"
+      }
+     ]
+    },
+    {
+     "label": "在《文星》专号发表《播种者胡适》",
+     "date": "1962-01",
+     "note": "称胡适为“保守的自由主义者”，刊于《文星》第51期。文章称没有两人见面的记载；胡适生前有一封未寄出的信，指出文中有事实错误，该信1998年由陶英惠影印送给李敖。英文维基百科称李敖1960年代初在《文星》撰文为胡适辩护而成名",
+     "src": [
+      {
+       "title": "爱思想：黄克武《一位“保守的自由主义者”：胡适与〈文星〉杂志》",
+       "url": "https://www.aisixiang.com/data/102625.html"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "爱思想：黄克武《一位“保守的自由主义者”：胡适与〈文星〉杂志》",
+     "url": "https://www.aisixiang.com/data/102625.html"
+    },
+    {
+     "title": "维基百科：Li Ao",
+     "url": "https://en.wikipedia.org/wiki/Li_Ao"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "pengmingmin",
+   "type": "other",
+   "aIs": "协助者",
+   "bIs": "被协助者",
+   "from": "1970",
+   "events": [
+    {
+     "label": "因协助彭明敏逃往日本被当局关押",
+     "date": "1971",
+     "place": "台湾",
+     "note": "英文维基百科称李敖因协助彭明敏1970年出逃，于1971至1976年入狱；国际特赦组织1974年称他为台湾三大重要政治犯之一",
+     "src": [
+      {
+       "title": "维基百科：Li Ao",
+       "url": "https://en.wikipedia.org/wiki/Li_Ao"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "维基百科：Li Ao",
+     "url": "https://en.wikipedia.org/wiki/Li_Ao"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "xiaomengneng",
+   "type": "work",
+   "aIs": "编辑",
+   "bIs": "出版人",
+   "events": [
+    {
+     "label": "在《文星》杂志担任编辑",
+     "date": "1963",
+     "note": "英文维基百科称他1963年取得硕士学位时已是《文星》执行编辑，1960年代曾任总编辑；黄克武文章称萧孟能是文星书店与杂志社负责人（书店创办于1952年、杂志创办于1957年11月）。两处来源都没有直接描述两人的个人关系",
+     "src": [
+      {
+       "title": "维基百科：Li Ao",
+       "url": "https://en.wikipedia.org/wiki/Li_Ao"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "爱思想：黄克武《一位“保守的自由主义者”：胡适与〈文星〉杂志》",
+     "url": "https://www.aisixiang.com/data/102625.html"
+    },
+    {
+     "title": "维基百科：Li Ao",
+     "url": "https://en.wikipedia.org/wiki/Li_Ao"
+    }
+   ]
+  },
+  {
+   "a": "li_ao",
+   "b": "longyingtai",
+   "type": "other",
+   "aIs": "论战对象",
+   "bIs": "论战对象",
+   "from": "2011",
+   "events": [
+    {
+     "label": "李敖出版《大江大海骗了你》，与龙应台《大江大海一九四九》展开公开论战",
+     "date": "2011",
+     "note": "李昕文章称在2011年初，副题为《李敖秘密谈话录》",
+     "src": [
+      {
+       "title": "爱思想：李昕《“大江大海”的文人记忆》（写于2015年6月，原刊香港《橙新闻》）",
+       "url": "https://www.aisixiang.com/data/93405.html"
+      }
+     ]
+    }
+   ],
+   "src": [
+    {
+     "title": "爱思想：李昕《“大江大海”的文人记忆》（写于2015年6月，原刊香港《橙新闻》）",
+     "url": "https://www.aisixiang.com/data/93405.html"
     }
    ]
   }
