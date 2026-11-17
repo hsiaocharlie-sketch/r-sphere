@@ -352,14 +352,24 @@ def main():
         print("本次新增种子：" + "、".join(added))
     depth = int(cfg.get("depth", 1))
     max_people = int(cfg.get("max_people", 150))
-    seeds, expects, matched = [], {}, []
-    for s in cfg["seeds"]:
+    seeds, expects, matched, pinned = [], {}, [], {}
+    for i, s in enumerate(cfg["seeds"]):
         item = {"qid": s} if isinstance(s, str) and s[:1] == "Q" and s[1:].isdigit() else \
                {"name": s} if isinstance(s, str) else dict(s)
         if not item.get("qid"):
             humans, rents = resolve_name(item["name"], item.get("hint"))
             item["qid"] = humans[0]
             matched.append((item["name"], humans[0], humans[1:5], rents))
+            # 把查到的 Q 号固定写回 seeds.json：以后不再按名字搜索，也不会换成别人
+            e0 = rents[humans[0]]
+            new = {"name": item["name"]}
+            if item.get("hint"):
+                new["hint"] = item["hint"]
+            new.update({"qid": humans[0], "expect": label(e0),
+                        "note": (description(e0) or label(e0)) + "（自动写入，如果不是你要的人，请改成正确的 Q 号和 expect）"})
+            for k, v in item.items():
+                new.setdefault(k, v)
+            pinned[i] = new
         if item["qid"] not in seeds:
             seeds.append(item["qid"])
         if item.get("expect"):
@@ -371,6 +381,14 @@ def main():
         names = [label(e)] + aliases(e, label(e))
         if not any(ex.lower() in n.lower() for n in names):
             raise SystemExit("种子 %s 的名字是「%s」，与预期的「%s」不符，请检查 Q 号" % (q, label(e), ex))
+
+    if pinned:
+        for i, new in pinned.items():
+            cfg["seeds"][i] = new
+        with open(seeds_path, "w", encoding="utf-8") as f:
+            json.dump(cfg, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+        print("已把 %d 个按名字匹配的人物的 Q 号写回 collect/seeds.json" % len(pinned))
 
     people = people_list(ents, included)
     relations = build(ents, included, expanded)
@@ -408,7 +426,8 @@ def main():
             for o in others:
                 od = description(rents[o])
                 lines.append("  - 其他同名候选：%s（%s）%s" % (label(rents[o]), o, "：" + od if od else ""))
-        lines.append("- 确认无误后，把 `collect/seeds.json` 里对应的写法改成 `{ \"qid\": \"Q号\" }` 固定下来；匹配错了就写上 `hint` 或直接写 Q 号。")
+        lines.append("- 以上人物的 Q 号已自动写回 `collect/seeds.json`（连同 `expect`），以后不会再按名字搜索。")
+        lines.append("- 如果匹配错了：在 `collect/seeds.json` 里把这个人的 `qid` 和 `expect` 改成正确的（上面「其他同名候选」里有 Q 号），或者加 `hint` 并删掉 `qid`、`expect`、`note` 让它重新搜索。")
         lines.append("- 若已打开 auto_merge，本次会自动合并；匹配错了请在 `collect/seeds.json` 里改成带 `hint` 或 Q 号的写法后重新采集，并修正 `data/wikidata.json`。")
     if dups:
         lines += ["", "### 可能与手写数据重复的人物", "名字相同但 id 不同，页面上会显示成两个人。若确认是同一人，请在对应手写数据里补上 `wikidata` 字段，页面会自动合并："]
