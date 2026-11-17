@@ -1,6 +1,6 @@
 {
   "depth": 2,
-  "max_people": 15000,
+  "max_people": 1500,
   "auto_merge": true,
   "seeds": [
     {
