@@ -142,6 +142,30 @@
       "qid": "Q8966024",
       "expect": "馮定國",
       "note": "Taiwanese politician（自动写入，如果不是你要的人，请改成正确的 Q 号和 expect）"
+    },
+    {
+      "name": "宋楚瑜",
+      "qid": "Q706723",
+      "expect": "宋楚瑜",
+      "note": "中华民国政治人物，亲民党主席，原台湾省省长（自动写入，如果不是你要的人，请改成正确的 Q 号和 expect）"
+    },
+    {
+      "name": "George Washington",
+      "qid": "Q23",
+      "expect": "乔治·华盛顿",
+      "note": "第1任美国总统（自动写入，如果不是你要的人，请改成正确的 Q 号和 expect）"
+    },
+    {
+      "name": "John Kennedy",
+      "qid": "Q9696",
+      "expect": "约翰·肯尼迪",
+      "note": "1961年至1963年美国总统（自动写入，如果不是你要的人，请改成正确的 Q 号和 expect）"
+    },
+    {
+      "name": "Bill Clinton",
+      "qid": "Q1124",
+      "expect": "比尔·克林顿",
+      "note": "美国政治人物（自动写入，如果不是你要的人，请改成正确的 Q 号和 expect）"
     }
   ]
 }

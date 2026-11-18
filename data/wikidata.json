@@ -26,7 +26,11 @@
    "Q450317",
    "Q315528",
    "Q22368",
-   "Q8966024"
+   "Q8966024",
+   "Q706723",
+   "Q23",
+   "Q9696",
+   "Q1124"
   ],
   "depth": 2,
   "src": {
@@ -35,6 +39,99 @@
   }
  },
  "people": [
+  {
+   "id": "Q23",
+   "name": "乔治·华盛顿",
+   "wikidata": "Q23",
+   "alias": [
+    "George Washington",
+    "华盛顿",
+    "喬治·華盛頓",
+    "華盛頓",
+    "兀兴腾",
+    "瓦乘敦",
+    "兀興騰",
+    "佐治·華盛頓"
+   ],
+   "note": "第1任美国总统"
+  },
+  {
+   "id": "Q1124",
+   "name": "比尔·克林顿",
+   "wikidata": "Q1124",
+   "alias": [
+    "Bill Clinton",
+    "比爾·克林頓",
+    "比爾·柯林頓",
+    "克林頓",
+    "威廉·杰斐逊·克林顿",
+    "William Jefferson \"Bill\" Clinton",
+    "William Jefferson Blythe",
+    "William J. Clinton"
+   ],
+   "note": "美国政治人物"
+  },
+  {
+   "id": "Q1744",
+   "name": "麦当娜",
+   "wikidata": "Q1744",
+   "alias": [
+    "Madonna",
+    "麥當娜",
+    "瑪丹娜",
+    "Madonna L. Ciccone",
+    "Madonna Ciccone",
+    "Madge"
+   ],
+   "note": "美国歌手、词曲作者和演员（生于 1958 年）"
+  },
+  {
+   "id": "Q4612",
+   "name": "玛莲娜·迪特里茜",
+   "wikidata": "Q4612",
+   "alias": [
+    "Marlene Dietrich",
+    "瑪蓮·德烈治",
+    "玛琳·黛德丽",
+    "瑪琳·黛德麗",
+    "黛德丽",
+    "马琳·迪特里希",
+    "Dietrich"
+   ],
+   "note": "德裔美国演员兼歌手"
+  },
+  {
+   "id": "Q4616",
+   "name": "玛丽莲·梦露",
+   "wikidata": "Q4616",
+   "alias": [
+    "瑪麗蓮·夢露",
+    "Marilyn Monroe",
+    "梦露",
+    "诺玛·简·贝克",
+    "瑪莉蓮·夢露",
+    "梦露，M.",
+    "诺尔玛·琼·贝克",
+    "瑪麗蓮·門羅"
+   ],
+   "note": "美国女演员"
+  },
+  {
+   "id": "Q6294",
+   "name": "希拉里·克林顿",
+   "wikidata": "Q6294",
+   "alias": [
+    "希拉莉克林頓",
+    "希拉里·克林頓",
+    "希拉莉·克林顿",
+    "希拉蕊·柯林頓",
+    "希拉莉",
+    "希拉里·罗德姆·克林顿",
+    "希拉莉·克林頓",
+    "希拉蕊·羅登·柯林頓"
+   ],
+   "note": "美国政治人物"
+  },
   {
    "id": "Q7419",
    "name": "隋炀帝",
@@ -66,6 +163,22 @@
     "孙载之"
    ],
    "note": "近代中国政治人物、革命家，中国国民党总理，中华民国国父（1866—1925）"
+  },
+  {
+   "id": "Q9696",
+   "name": "约翰·肯尼迪",
+   "wikidata": "Q9696",
+   "alias": [
+    "John F. Kennedy",
+    "約翰甘迺迪",
+    "肯尼迪总统",
+    "約翰·簡尼迪",
+    "肯尼迪",
+    "甘迺迪",
+    "約翰·甘迺迪",
+    "Kennedy"
+   ],
+   "note": "1961年至1963年美国总统"
   },
   {
    "id": "Q9700",
@@ -228,6 +341,18 @@
    "note": "明朝第四位皇帝"
   },
   {
+   "id": "Q11239",
+   "name": "大卫·洛克菲勒",
+   "wikidata": "Q11239",
+   "alias": [
+    "David Rockefeller",
+    "大衛·洛克菲勒",
+    "David Rockefeller, Sr.",
+    "David Rockefeller Sr."
+   ],
+   "note": "American banker and philanthropist (1915–2017)"
+  },
+  {
    "id": "Q16574",
    "name": "蒋介石",
    "wikidata": "Q16574",
@@ -329,6 +454,63 @@
    "note": "中华民国第10、11任总统"
   },
   {
+   "id": "Q23842",
+   "name": "让·迦本",
+   "wikidata": "Q23842",
+   "alias": [
+    "Jean Gabin",
+    "尚·嘉賓",
+    "尚·蓋賓",
+    "尚·嘉宾",
+    "尚·加賓",
+    "約翰．傑潘",
+    "Jean Gabin Alexis Moncorgé"
+   ],
+   "note": "法國演員"
+  },
+  {
+   "id": "Q25310",
+   "name": "羅伯特·弗朗西斯·甘迺迪",
+   "wikidata": "Q25310",
+   "alias": [
+    "Robert F. Kennedy",
+    "羅伯特·法蘭西斯·甘迺迪",
+    "RFK",
+    "Robert Kennedy",
+    "Robert Francis Kennedy",
+    "Bobby Kennedy"
+   ],
+   "note": "美国政治家。 第 64 任美国司法部长（1925－1968）"
+  },
+  {
+   "id": "Q40912",
+   "name": "弗兰克·辛纳特拉",
+   "wikidata": "Q40912",
+   "alias": [
+    "法蘭·仙納杜拉",
+    "Frank Sinatra",
+    "法蘭克·辛納屈",
+    "法兰克·辛纳屈",
+    "弗兰克·西纳特拉",
+    "法兰克·西纳特拉",
+    "弗兰克·辛纳屈",
+    "辛纳屈"
+   ],
+   "note": "美國歌手和演員 (1915–1998)"
+  },
+  {
+   "id": "Q47293",
+   "name": "埃里希·玛利亚·雷马克",
+   "wikidata": "Q47293",
+   "alias": [
+    "Erich Maria Remarque",
+    "埃里希·瑪利亞·雷馬克",
+    "雷马克",
+    "Erich Maria Remark"
+   ],
+   "note": "美籍德裔作家（1898－1970）"
+  },
+  {
    "id": "Q47667",
    "name": "胡适",
    "wikidata": "Q47667",
@@ -381,6 +563,118 @@
    "note": "中国建筑学家"
   },
   {
+   "id": "Q80596",
+   "name": "亞瑟·米勒",
+   "wikidata": "Q80596",
+   "alias": [
+    "Arthur Miller",
+    "亞瑟·艾許·米勒",
+    "阿瑟·米勒",
+    "Arthur Asher Miller"
+   ],
+   "note": "美国剧作家（1915—2005）"
+  },
+  {
+   "id": "Q102813",
+   "name": "尤尔·伯连纳",
+   "wikidata": "Q102813",
+   "alias": [
+    "Yul Brynner",
+    "尤·伯連納",
+    "尤·伯连纳",
+    "尤伯連納",
+    "Taidje Khan",
+    "Youl Bryner",
+    "Yuliy Borisovich Bryner",
+    "Yuliy Borisovich Briner"
+   ],
+   "note": "Russian-born American actor (1920–1985)"
+  },
+  {
+   "id": "Q134549",
+   "name": "爱德华·肯尼迪",
+   "wikidata": "Q134549",
+   "alias": [
+    "愛德華·甘迺迪",
+    "泰德·甘迺迪",
+    "Ted Kennedy",
+    "泰德·肯尼迪",
+    "特迪·肯尼迪",
+    "愛德華·摩爾·肯尼迪",
+    "爱·肯尼迪",
+    "特德·肯尼迪"
+   ],
+   "note": "美國參議員"
+  },
+  {
+   "id": "Q153120",
+   "name": "Rudolf Sieber",
+   "wikidata": "Q153120",
+   "note": "American film producer and farmer (1897–1976)"
+  },
+  {
+   "id": "Q165421",
+   "name": "杰奎琳·肯尼迪",
+   "wikidata": "Q165421",
+   "alias": [
+    "積琪蓮·甘迺迪",
+    "賈桂琳·甘迺迪",
+    "Jacqueline Kennedy Onassis",
+    "賈姬·甘迺迪",
+    "杰奎琳·肯尼迪·奥纳西斯",
+    "杰基·肯尼迪",
+    "賈桂琳·甘迺迪·歐納西斯",
+    "賈桂林·甘迺迪·歐納西斯"
+   ],
+   "note": "美國第35任總統約翰·肯尼迪的夫人"
+  },
+  {
+   "id": "Q166436",
+   "name": "布什罗德·华盛顿",
+   "wikidata": "Q166436",
+   "alias": [
+    "Bushrod Washington"
+   ],
+   "note": "美国律师、政治人物（1762—1829）"
+  },
+  {
+   "id": "Q170530",
+   "name": "莎拉·洁西卡·帕克",
+   "wikidata": "Q170530",
+   "alias": [
+    "莎拉·謝茜嘉·柏加",
+    "莎拉·杰西卡·派克",
+    "莎拉·潔西卡·帕克",
+    "Sarah Jessica Parker"
+   ],
+   "note": "American actress (born 1965)"
+  },
+  {
+   "id": "Q179393",
+   "name": "William Campbell（演員）",
+   "wikidata": "Q179393",
+   "alias": [
+    "William Campbell"
+   ],
+   "note": "American actor (1926–2011)"
+  },
+  {
+   "id": "Q180455",
+   "name": "亚里士多德·奥纳西斯",
+   "wikidata": "Q180455",
+   "alias": [
+    "亞里士多德·歐納西斯",
+    "Aristotle Onassis",
+    "希腊船王",
+    "歐那西斯",
+    "歐納西斯",
+    "Aristotélis Onásis",
+    "Aristotle S. Onassis",
+    "Aristotle Socrates Onassis"
+   ],
+   "note": "希腊船王（1906—1975）"
+  },
+  {
    "id": "Q180852",
    "name": "章子怡",
    "wikidata": "Q180852",
@@ -390,6 +684,124 @@
     "Zhang Zi Yi"
    ],
    "note": "中国电影女演员"
+  },
+  {
+   "id": "Q191789",
+   "name": "马莎·华盛顿",
+   "wikidata": "Q191789",
+   "alias": [
+    "Martha Washington",
+    "馬莎·華盛頓",
+    "玛莎·丹德瑞其·克丝提斯",
+    "马莎·丹德里奇·卡斯蒂斯",
+    "Martha Dandridge",
+    "Martha Custis"
+   ],
+   "note": "第一届美国第一夫人"
+  },
+  {
+   "id": "Q207596",
+   "name": "达丽尔·汉纳",
+   "wikidata": "Q207596",
+   "alias": [
+    "Daryl Hannah",
+    "戴露·漢娜",
+    "戴露漢娜",
+    "黛瑞·汉娜",
+    "黛瑞·漢娜",
+    "戴露汉娜",
+    "Daryl Christine Hannah",
+    "dhlovelife"
+   ],
+   "note": "美国女演员、环保人士"
+  },
+  {
+   "id": "Q212762",
+   "name": "伯特·巴卡拉克",
+   "wikidata": "Q212762",
+   "alias": [
+    "Burt Bacharach",
+    "伯特·巴克瑞克",
+    "巴特·巴卡拉克",
+    "Burt F. Bacharach",
+    "Burt Freeman Bacharach"
+   ],
+   "note": "美国音乐人（1928－2023）"
+  },
+  {
+   "id": "Q229671",
+   "name": "切尔西·克林顿",
+   "wikidata": "Q229671",
+   "alias": [
+    "Chelsea Clinton",
+    "切爾西",
+    "雀兒喜",
+    "Chelsea Victoria Clinton"
+   ],
+   "note": "美国总统克林顿之女（Chelsea Clinton）"
+  },
+  {
+   "id": "Q230303",
+   "name": "卡罗琳·肯尼迪",
+   "wikidata": "Q230303",
+   "alias": [
+    "Caroline Kennedy",
+    "卡羅琳·肯尼迪",
+    "卡羅琳·甘迺迪",
+    "卡罗琳·肯尼迪·施罗斯伯格",
+    "Caroline Kennedy Schlossberg"
+   ],
+   "note": "美国律师、外交官"
+  },
+  {
+   "id": "Q230555",
+   "name": "姬恩·蒂尔尼",
+   "wikidata": "Q230555",
+   "alias": [
+    "Gene Tierney",
+    "珍·泰妮",
+    "吉恩·蒂尔尼",
+    "吉恩·蒂爾尼",
+    "Gene Eliza Tierney"
+   ],
+   "note": "American actress (1920–1991)"
+  },
+  {
+   "id": "Q230654",
+   "name": "玛丽娅·施瑞弗尔",
+   "wikidata": "Q230654",
+   "alias": [
+    "Maria Shriver",
+    "瑪麗婭·施瑞弗爾",
+    "Maria Owings Shriver",
+    "Maria Shriver Schwarzenegger"
+   ],
+   "note": "First Lady of California from 2003 to 2011"
+  },
+  {
+   "id": "Q235989",
+   "name": "安吉·迪金森",
+   "wikidata": "Q235989",
+   "alias": [
+    "Angie Dickinson",
+    "颜芝·狄坚逊",
+    "顏芝·迪堅遜"
+   ],
+   "note": "American actress (born 1931)"
+  },
+  {
+   "id": "Q236540",
+   "name": "罗斯·菲茨杰拉德·肯尼迪",
+   "wikidata": "Q236540",
+   "alias": [
+    "Rose Kennedy",
+    "露絲·肯尼迪",
+    "罗丝·肯尼迪",
+    "露絲·伊麗莎白·肯尼迪",
+    "Rose Fitzgerald Kennedy",
+    "Rose Elizabeth Fitzgerald Kennedy"
+   ],
+   "note": "American philanthropist and Kennedy family matriarch (1890–1995)"
   },
   {
    "id": "Q256411",
@@ -403,6 +815,56 @@
     "Eling Soong"
    ],
    "note": "孔祥熙之妻 (1889-1973"
+  },
+  {
+   "id": "Q258661",
+   "name": "艾赛尔·肯尼迪",
+   "wikidata": "Q258661",
+   "alias": [
+    "埃塞尔·肯尼迪",
+    "艾瑟·甘迺迪",
+    "Ethel Kennedy",
+    "Ethel Skakel"
+   ],
+   "note": "American human-rights campaigner and spouse of US Senator Robert F. Kennedy"
+  },
+  {
+   "id": "Q265595",
+   "name": "罗斯玛丽·肯尼迪",
+   "wikidata": "Q265595",
+   "alias": [
+    "Rosemary Kennedy",
+    "露絲瑪麗·肯尼迪",
+    "露丝玛丽·肯尼迪",
+    "Rose Marie Kennedy"
+   ],
+   "note": "罗斯玛丽•肯尼迪"
+  },
+  {
+   "id": "Q268799",
+   "name": "凯瑟琳·卡文迪什",
+   "wikidata": "Q268799",
+   "alias": [
+    "Kathleen Cavendish",
+    "哈廷顿侯爵夫人凯瑟琳·卡文迪许",
+    "凱瑟琳·卡文迪什",
+    "凯瑟琳·卡文迪什，哈廷顿侯爵夫人",
+    "凯瑟琳·肯尼迪-卡文迪什",
+    "凯瑟琳·阿格尼丝·肯尼迪",
+    "Kathleen Agnes Kennedy",
+    "Kathleen \"Kick\" Kennedy"
+   ],
+   "note": "American socialite, sister of John F. Kennedy (1920–1948)"
+  },
+  {
+   "id": "Q270643",
+   "name": "梅塞德斯·德·阿考斯塔",
+   "wikidata": "Q270643",
+   "alias": [
+    "Mercedes de Acosta",
+    "Mercedes d'Acosta"
+   ],
+   "note": "American poet, playwright, and novelist (1893-1968)"
   },
   {
    "id": "Q270681",
@@ -421,6 +883,48 @@
    "note": "香港女演员"
   },
   {
+   "id": "Q272401",
+   "name": "珍妮·肯尼迪·史密斯",
+   "wikidata": "Q272401",
+   "alias": [
+    "Jean Kennedy Smith",
+    "Jean Ann Kennedy Smith",
+    "Jean Ann Kennedy",
+    "Jean Kennedy",
+    "Jean Smith",
+    "Jean Ann Smith",
+    "Kennedy, Jean Ann, 1928-2020"
+   ],
+   "note": "American diplomat (1928-2020)"
+  },
+  {
+   "id": "Q272908",
+   "name": "尤妮丝·肯尼迪·史瑞佛",
+   "wikidata": "Q272908",
+   "alias": [
+    "Eunice Kennedy Shriver",
+    "尤尼斯·肯尼迪",
+    "尤尼斯·肯尼迪·施莱佛",
+    "尤尼斯·肯尼迪·施萊弗",
+    "尤尼斯·肯尼迪·施莱弗",
+    "Eunice Mary Kennedy",
+    "Eunice Kennedy",
+    "Eunice Shriver"
+   ],
+   "note": "美国慈善家、肯尼迪家族成员"
+  },
+  {
+   "id": "Q273833",
+   "name": "羅伊·甘迺迪",
+   "wikidata": "Q273833",
+   "alias": [
+    "Rory Kennedy",
+    "罗里·伊丽莎白·凯瑟琳·肯尼迪",
+    "Rory Elizabeth Katherine Kennedy"
+   ],
+   "note": "American filmmaker (born 1968)"
+  },
+  {
    "id": "Q274363",
    "name": "蒋方良",
    "wikidata": "Q274363",
@@ -432,6 +936,22 @@
     "Faina Chiang Fang-liang"
    ],
    "note": "蒋经国之妻"
+  },
+  {
+   "id": "Q297142",
+   "name": "乔·狄马乔",
+   "wikidata": "Q297142",
+   "alias": [
+    "Joe DiMaggio",
+    "喬·狄馬喬",
+    "迪馬喬",
+    "喬·迪馬喬",
+    "The Yankee Clipper",
+    "Joltin' Joe",
+    "The 56-game hitting streak",
+    "Giuseppe Paolo DiMaggio"
+   ],
+   "note": "美国棒球运动员"
   },
   {
    "id": "Q311179",
@@ -482,6 +1002,22 @@
    "note": "中华民国第6、7任总统"
   },
   {
+   "id": "Q313696",
+   "name": "老约瑟夫·P·肯尼迪",
+   "wikidata": "Q313696",
+   "alias": [
+    "Joseph P. Kennedy Sr.",
+    "老約瑟夫·P·甘迺迪",
+    "约瑟夫·肯尼迪",
+    "老约瑟夫·帕特里克·肯尼迪",
+    "Joseph P. Kennedy",
+    "Joseph Patrick Kennedy, Sr.",
+    "Joseph Patrick \"Joe\" Kennedy, Sr.",
+    "Joseph Patrick Kennedy"
+   ],
+   "note": "美国商人和大使（1888-1969）"
+  },
+  {
    "id": "Q315528",
    "name": "李登辉",
    "wikidata": "Q315528",
@@ -495,6 +1031,53 @@
     "Masao Iwasato"
    ],
    "note": "中华民国第7－9任总统、第7任副总统，农业经济学家"
+  },
+  {
+   "id": "Q316064",
+   "name": "小约翰·肯尼迪",
+   "wikidata": "Q316064",
+   "alias": [
+    "John F. Kennedy Jr.",
+    "小甘乃迪",
+    "John-John",
+    "JFK Jr.",
+    "John Fitzgerald Kennedy Jr.",
+    "John F. Kennedy, Jr.",
+    "John Kennedy Jr."
+   ],
+   "note": "美国前总统约翰·肯尼迪之子"
+  },
+  {
+   "id": "Q317248",
+   "name": "萨金特·施赖弗",
+   "wikidata": "Q317248",
+   "alias": [
+    "Sargent Shriver",
+    "萨金特·施莱弗",
+    "薩金特·施里弗",
+    "Robert Sargent Shriver, Jr.",
+    "R. Sargent Shriver",
+    "Robert Sargent Shriver",
+    "Robert Shriver",
+    "Robert Sargent Shriver Jr."
+   ],
+   "note": "American diplomat, politician and activist (1915–2011)"
+  },
+  {
+   "id": "Q345517",
+   "name": "彼得·劳福德",
+   "wikidata": "Q345517",
+   "alias": [
+    "Peter Lawford",
+    "彼得·勞福德",
+    "彼得·羅福",
+    "彼得·罗福",
+    "彼得·勞福",
+    "彼得·羅福特",
+    "Peter Sydney Ernest Aylen",
+    "Peter Sydney Ernest Lawford"
+   ],
+   "note": "British actor (1923–1984)"
   },
   {
    "id": "Q379836",
@@ -525,6 +1108,72 @@
    "note": "香港歌手及演员"
   },
   {
+   "id": "Q428191",
+   "name": "Peter Wentworth-Fitzwilliam, 8th Earl Fitzwilliam",
+   "wikidata": "Q428191",
+   "alias": [
+    "Viscount Milton",
+    "William Henry Lawrence Peter Wentworth-Fitzwilliam",
+    "Lord Fitzwilliam",
+    "William Henry Lawrence Peter Wentworth-Fitzwilliam, 8th Earl Fitzwilliam"
+   ],
+   "note": "British Army officer (1910-1948)"
+  },
+  {
+   "id": "Q432694",
+   "name": "帕特·肯尼迪·罗福特",
+   "wikidata": "Q432694",
+   "alias": [
+    "Patricia Kennedy Lawford",
+    "帕特里夏·肯尼迪",
+    "帕特里夏·海倫·肯尼迪",
+    "帕特里夏·肯尼迪·勞福德",
+    "Patricia Kennedy",
+    "Patricia Helen Kennedy",
+    "Patricia Helen Kennedy Lawford",
+    "Patricia Helen Lawford"
+   ],
+   "note": "American socialite (1924-2006); younger sister of John F. Kennedy"
+  },
+  {
+   "id": "Q441424",
+   "name": "Joan Bennett Kennedy",
+   "wikidata": "Q441424",
+   "alias": [
+    "Virginia Joan Bennett",
+    "Virginia Joan Kennedy"
+   ],
+   "note": "First wife of Ted Kennedy"
+  },
+  {
+   "id": "Q449173",
+   "name": "卡羅琳·貝塞特·肯尼迪",
+   "wikidata": "Q449173",
+   "alias": [
+    "Carolyn Bessette-Kennedy",
+    "卡罗琳·贝赛特-甘乃迪",
+    "Carolyn Jeanne Bessette",
+    "Carolyn Bessette",
+    "Caroline Bessette",
+    "Carolyn Jeanne Bessette-Kennedy",
+    "Carolyn Bessette Kennedy"
+   ],
+   "note": "美國社會名流"
+  },
+  {
+   "id": "Q449649",
+   "name": "玛丽亚·里瓦",
+   "wikidata": "Q449649",
+   "alias": [
+    "Maria Riva",
+    "瑪麗亞·里瓦",
+    "Maria Elisabeth Riva",
+    "Maria Manton",
+    "Maria Elisabeth Sieber"
+   ],
+   "note": "American actress (1924–2025)"
+  },
+  {
    "id": "Q450317",
    "name": "吴健雄",
    "wikidata": "Q450317",
@@ -536,6 +1185,16 @@
     "Wu Jianxiong"
    ],
    "note": "美籍华人物理学家"
+  },
+  {
+   "id": "Q458119",
+   "name": "瑪麗·鮑爾·華盛頓",
+   "wikidata": "Q458119",
+   "alias": [
+    "Mary Ball Washington",
+    "Mary Washington"
+   ],
+   "note": "mother of George Washington"
   },
   {
    "id": "Q464650",
@@ -567,6 +1226,76 @@
     "Hui-yin Lin"
    ],
    "note": "中国建筑学家、女作家（1904～1955）"
+  },
+  {
+   "id": "Q467861",
+   "name": "凯瑟琳·肯尼迪·汤森德",
+   "wikidata": "Q467861",
+   "alias": [
+    "Kathleen Kennedy Townsend",
+    "凯瑟琳·哈廷顿·肯尼迪",
+    "Kathleen Hartington Kennedy Townsend",
+    "Kathleen Kennedy"
+   ],
+   "note": "Lieutenant Governor of Maryland from 1995 to 2003"
+  },
+  {
+   "id": "Q467912",
+   "name": "凯莉·肯尼迪",
+   "wikidata": "Q467912",
+   "alias": [
+    "Kerry Kennedy",
+    "玛丽·凯瑞·肯尼迪"
+   ],
+   "note": "American human rights activist (born 1959)"
+  },
+  {
+   "id": "Q505178",
+   "name": "小约瑟夫·P·肯尼迪",
+   "wikidata": "Q505178",
+   "alias": [
+    "小約瑟夫·P·甘迺迪",
+    "Joseph P. Kennedy Jr.",
+    "小约瑟夫·帕特里克·肯尼迪",
+    "小约瑟夫·肯尼迪",
+    "Joseph Patrick Kennedy",
+    "Joseph Patrick \"Joe\" Kennedy Jr.",
+    "Joseph Patrick Kennedy Jr.",
+    "Lt. Joseph Patrick Kennedy"
+   ],
+   "note": "junior officer in the United States Navy and elder brother of John F. Kennedy"
+  },
+  {
+   "id": "Q508114",
+   "name": "Kay Stammers",
+   "wikidata": "Q508114",
+   "alias": [
+    "Katharine \"Kay\" Esther Stammers",
+    "Kartharine Stammers Bullitt"
+   ],
+   "note": "English tennis player (1914–2005)"
+  },
+  {
+   "id": "Q511736",
+   "name": "Judith Exner",
+   "wikidata": "Q511736",
+   "alias": [
+    "Judith Campbell"
+   ],
+   "note": "alleged mistress (1934–1999)"
+  },
+  {
+   "id": "Q535812",
+   "name": "约翰·赫赛",
+   "wikidata": "Q535812",
+   "alias": [
+    "John Hersey",
+    "約翰·赫西",
+    "约翰·哈尔赛",
+    "约翰·赫西",
+    "John Richard Hersey"
+   ],
+   "note": "American journalist, novelist, professor (1914-1993)"
   },
   {
    "id": "Q557551",
@@ -722,6 +1451,17 @@
     "李令月"
    ],
    "note": "武则天之女，唐代女政治家"
+  },
+  {
+   "id": "Q706723",
+   "name": "宋楚瑜",
+   "wikidata": "Q706723",
+   "alias": [
+    "James Soong",
+    "Song Chuyu",
+    "James Soong Chu-yu"
+   ],
+   "note": "中华民国政治人物，亲民党主席，原台湾省省长"
   },
   {
    "id": "Q707363",
@@ -903,6 +1643,32 @@
    "note": "中国演员"
   },
   {
+   "id": "Q717540",
+   "name": "威廉·卡文迪什",
+   "wikidata": "Q717540",
+   "alias": [
+    "William Cavendish, Marquess of Hartington",
+    "哈廷頓侯爵威廉·卡文迪許",
+    "哈廷顿侯爵威廉·卡文迪什",
+    "William Cavendish",
+    "Maj. William John Robert Cavendish",
+    "William John Robert Cavendish, Marquess of Hartington",
+    "Billy Hartington",
+    "Billy Cavendish"
+   ],
+   "note": "English politician and soldier (1917-1944)"
+  },
+  {
+   "id": "Q768342",
+   "name": "奧古斯汀·華盛頓",
+   "wikidata": "Q768342",
+   "alias": [
+    "Augustine Washington",
+    "Augustine Washington Sr."
+   ],
+   "note": "(1694-1743) British-American planter, slave owner, and the father of George Washington"
+  },
+  {
    "id": "Q838433",
    "name": "朱橚",
    "wikidata": "Q838433",
@@ -919,6 +1685,16 @@
    "note": "明朝藩王"
   },
   {
+   "id": "Q850421",
+   "name": "Betty Washington Lewis",
+   "wikidata": "Q850421",
+   "alias": [
+    "Elizabeth Washington Lewis",
+    "Elizabeth \"Betty\" Washington Lewis"
+   ],
+   "note": "(1733-1797); sister of George Washington"
+  },
+  {
    "id": "Q855999",
    "name": "徐惠",
    "wikidata": "Q855999",
@@ -931,6 +1707,75 @@
     "Chui Wai"
    ],
    "note": "徐惠(627-650)﹐女﹐又名徐贤妃﹐长城人(今浙江长兴)。历朝名媛诗词，古今女史﹐兰闺宝录﹐名媛汇诗﹐名媛诗归有著录。"
+  },
+  {
+   "id": "Q945576",
+   "name": "塞尔瓦托·吉阿卡纳",
+   "wikidata": "Q945576",
+   "alias": [
+    "Sam Giancana",
+    "山姆·詹卡納",
+    "塞爾瓦托·吉阿卡納",
+    "山姆·吉阿卡納",
+    "Momo Giancana",
+    "Sam Flood",
+    "Samuel Mooney Giancana",
+    "Salvatore Mooney Giancana"
+   ],
+   "note": "American mobster (1908–1975)"
+  },
+  {
+   "id": "Q946783",
+   "name": "詹姆士·多爾蒂",
+   "wikidata": "Q946783",
+   "alias": [
+    "James Dougherty",
+    "詹姆斯·多爾蒂"
+   ],
+   "note": "American police officer and husband of Marilyn Monroe (1921–2005)"
+  },
+  {
+   "id": "Q948920",
+   "name": "派翠克·J·肯尼迪",
+   "wikidata": "Q948920",
+   "alias": [
+    "Patrick J. Kennedy",
+    "Patrick Joseph Kennedy II",
+    "Patrick Joseph Kennedy"
+   ],
+   "note": "American politician, Rhode Island"
+  },
+  {
+   "id": "Q955405",
+   "name": "帕特里克·J·肯尼迪",
+   "wikidata": "Q955405",
+   "alias": [
+    "Patrick Joseph Kennedy",
+    "帕特里克·J·甘迺迪",
+    "派屈克·J·甘迺迪",
+    "Patrick J. Kennedy",
+    "P. J. Kennedy",
+    "Patrick Kennedy"
+   ],
+   "note": "American businessman and Massachusetts politician (1858–1929)"
+  },
+  {
+   "id": "Q966182",
+   "name": "約翰·菲茨傑拉德",
+   "wikidata": "Q966182",
+   "alias": [
+    "John Francis Fitzgerald",
+    "John Fitzgerald",
+    "John F. Fitzgerald",
+    "J. F. Fitzgerald"
+   ],
+   "note": "Irish-American politician, Massachusetts (1863-1950)"
+  },
+  {
+   "id": "Q969817",
+   "name": "Lawrence Washington",
+   "wikidata": "Q969817",
+   "note": "American soldier, planter, politician, and prominent landowner in colonial Virginia; half-brother of George Washington"
   },
   {
    "id": "Q985448",
@@ -1031,6 +1876,30 @@
    "note": "明太祖朱元璋皇后; 明人﹐女﹐宿州人(今安徽宿州)。蘭閨寶錄有著錄。"
   },
   {
+   "id": "Q1081523",
+   "name": "李·拉齐维尔",
+   "wikidata": "Q1081523",
+   "alias": [
+    "Lee Radziwill",
+    "卡羅琳·李·拉齊維爾",
+    "Caroline Lee Bouvier"
+   ],
+   "note": "American socialite (1933–2019)"
+  },
+  {
+   "id": "Q1086823",
+   "name": "克里斯托弗·勞福德",
+   "wikidata": "Q1086823",
+   "alias": [
+    "Christopher Lawford",
+    "克里斯多福.甘迺迪.勞福德",
+    "克里斯多福·勞福德",
+    "克里斯多福·甘迺迪·勞福德",
+    "Christopher Kennedy Lawford"
+   ],
+   "note": "American actor, author, activist (1955-2018)"
+  },
+  {
    "id": "Q1135688",
    "name": "仁孝文皇后",
    "wikidata": "Q1135688",
@@ -1061,6 +1930,17 @@
     "Zhangsun Shi"
    ],
    "note": "唐太宗李世民的皇后"
+  },
+  {
+   "id": "Q1162023",
+   "name": "丹尼尔·帕克凯斯",
+   "wikidata": "Q1162023",
+   "alias": [
+    "Daniel Parke Custis",
+    "丹尼爾·帕克·卡斯蒂斯",
+    "丹尼尔·帕克·卡斯蒂斯"
+   ],
+   "note": "American planter and politician"
   },
   {
    "id": "Q1192341",
@@ -1094,6 +1974,50 @@
    "note": "明朝皇太子"
   },
   {
+   "id": "Q1343117",
+   "name": "奥列格·卡西尼",
+   "wikidata": "Q1343117",
+   "alias": [
+    "Oleg Cassini",
+    "Oleg Loiewski"
+   ],
+   "note": "American fashion designer (1913–2006)"
+  },
+  {
+   "id": "Q1352872",
+   "name": "小罗伯特·肯尼迪",
+   "wikidata": "Q1352872",
+   "alias": [
+    "Robert F. Kennedy Jr.",
+    "小罗伯特·F·肯尼迪",
+    "小罗伯特·弗朗西斯·肯尼迪",
+    "罗伯特·弗朗西斯·肯尼迪",
+    "小羅伯特·甘迺迪",
+    "Robert Francis Kennedy Jr.",
+    "Robert Francis Kennedy",
+    "RFK Jr."
+   ],
+   "note": "美國衛生及公共服務部長"
+  },
+  {
+   "id": "Q1386420",
+   "name": "约瑟夫·P·肯尼迪二世",
+   "wikidata": "Q1386420",
+   "alias": [
+    "Joseph P. Kennedy II"
+   ],
+   "note": "American businessman and politician, Massachusetts"
+  },
+  {
+   "id": "Q1396324",
+   "name": "Jeanne Carmen",
+   "wikidata": "Q1396324",
+   "alias": [
+    "Jeanne Laverne Carmen"
+   ],
+   "note": "American model, actress and trick golfer (1930–2007)"
+  },
+  {
    "id": "Q1564628",
    "name": "杨师道",
    "wikidata": "Q1564628",
@@ -1106,6 +2030,62 @@
     "Jingyou"
    ],
    "note": "Sui Dynasty Chancellor"
+  },
+  {
+   "id": "Q1571497",
+   "name": "提姆·麥考伊",
+   "wikidata": "Q1571497",
+   "alias": [
+    "Tim McCoy",
+    "添麥該",
+    "Timothy John Fitzgerald McCoy"
+   ],
+   "note": "American actor and television host (1891–1978)"
+  },
+  {
+   "id": "Q1701323",
+   "name": "约翰·帕克凯斯",
+   "wikidata": "Q1701323",
+   "alias": [
+    "John Parke Custis",
+    "約翰·帕克·卡斯蒂斯",
+    "\"Jacky\""
+   ],
+   "note": "American politician (1754-1781)"
+  },
+  {
+   "id": "Q1776544",
+   "name": "John Vernou Bouvier III",
+   "wikidata": "Q1776544",
+   "alias": [
+    "John Vernou",
+    "Black Jack",
+    "Black Jack Bouvier",
+    "John Vernou \"Black Jack\" Bouvier III"
+   ],
+   "note": "American socialite and Wall Street stockbroker (1891–1957)"
+  },
+  {
+   "id": "Q1804720",
+   "name": "迈克尔·勒莫恩·肯尼迪",
+   "wikidata": "Q1804720",
+   "alias": [
+    "Michael LeMoyne Kennedy",
+    "邁克爾·利莫伊尼·甘迺迪"
+   ],
+   "note": "American lawyer and businessman (1958–1997)"
+  },
+  {
+   "id": "Q1975383",
+   "name": "戴维·肯尼迪",
+   "wikidata": "Q1975383",
+   "alias": [
+    "David A. Kennedy",
+    "大衛·甘迺迪",
+    "David Anthony Kennedy",
+    "David Kennedy"
+   ],
+   "note": "美国记者"
   },
   {
    "id": "Q2146157",
@@ -1123,6 +2103,17 @@
    "note": "香港男演员（1936-2026）"
   },
   {
+   "id": "Q2161657",
+   "name": "Roger Clinton Jr.",
+   "wikidata": "Q2161657",
+   "alias": [
+    "Roger Cassidy Clinton",
+    "Roger Cassidy Clinton Jr.",
+    "Roger Clinton"
+   ],
+   "note": "American actor and musician, half brother of former President Bill Clinton"
+  },
+  {
    "id": "Q2357659",
    "name": "罗大佑",
    "wikidata": "Q2357659",
@@ -1135,6 +2126,19 @@
     "Luo Dayou"
    ],
    "note": "台湾歌手"
+  },
+  {
+   "id": "Q2383370",
+   "name": "卡拉·甘迺迪",
+   "wikidata": "Q2383370",
+   "alias": [
+    "Kara Kennedy",
+    "Kara Ann Kennedy",
+    "Kara Anne Kennedy",
+    "Kara Kennedy Allen",
+    "Kara Allen"
+   ],
+   "note": "American filmmaker and television news producer (1960–2011)"
   },
   {
    "id": "Q2782947",
@@ -1153,6 +2157,85 @@
    "note": "中国政治家"
   },
   {
+   "id": "Q3048622",
+   "name": "Edward M. Kennedy Jr.",
+   "wikidata": "Q3048622",
+   "alias": [
+    "Edward Kennedy",
+    "Edward Moore Kennedy, Jr.",
+    "Edward Moore Kennedy",
+    "Edward M. Kennedy, Jr.",
+    "Edward Moore Kennedy Jr.",
+    "Ted Kennedy, Jr.",
+    "Ted Kennedy Jr."
+   ],
+   "note": "American lawyer"
+  },
+  {
+   "id": "Q3048809",
+   "name": "艾德溫·史洛斯柏格",
+   "wikidata": "Q3048809",
+   "alias": [
+    "Edwin Schlossberg",
+    "埃德温·施罗斯伯格",
+    "埃德温·施羅斯伯格",
+    "Edwin Arthur Schlossberg"
+   ],
+   "note": "American designer, artist, and author (born 1945)"
+  },
+  {
+   "id": "Q3097958",
+   "name": "Janet Lee Bouvier",
+   "wikidata": "Q3097958",
+   "alias": [
+    "Auchincloss, Hugh D., Mrs.",
+    "Janet Norton Lee",
+    "Janet Morris",
+    "Janet Auchincloss",
+    "Janet Norton Lee Bouvier Auchincloss Morris",
+    "Janet Lee Bouvier Auchincloss Morris",
+    "Janet Lee Bouvier Auchincloss",
+    "Janet Bouvier Auchincloss"
+   ],
+   "note": "American socialite (1907-1989); mother of the former First Lady Jacqueline Kennedy and Princess Lee Radziwill"
+  },
+  {
+   "id": "Q3120857",
+   "name": "Gunilla von Post",
+   "wikidata": "Q3120857",
+   "alias": [
+    "Karin Adele Gunilla von Post Miller"
+   ],
+   "note": "Swedish noble"
+  },
+  {
+   "id": "Q3150911",
+   "name": "因加·阿尔瓦德",
+   "wikidata": "Q3150911",
+   "alias": [
+    "Inga Arvad",
+    "英加·阿瓦德",
+    "櫻佳·阿瓦德",
+    "Inga Marie Arvad"
+   ],
+   "note": "Danish newspaper reporter and gossip columnist (1913–1973)"
+  },
+  {
+   "id": "Q3219928",
+   "name": "Lawrence Washington",
+   "wikidata": "Q3219928",
+   "note": "colonial-era American lawyer, planter, soldier, politician, and the grandfather of George Washington"
+  },
+  {
+   "id": "Q3290402",
+   "name": "帕特里克·布维尔·肯尼迪",
+   "wikidata": "Q3290402",
+   "alias": [
+    "Patrick Bouvier Kennedy"
+   ],
+   "note": "son of President John F. Kennedy (1963–1963)"
+  },
+  {
    "id": "Q3307106",
    "name": "谢婷婷",
    "wikidata": "Q3307106",
@@ -1165,6 +2248,28 @@
    "note": "香港女演員、模特兒"
   },
   {
+   "id": "Q3314035",
+   "name": "Mildred Warner",
+   "wikidata": "Q3314035",
+   "alias": [
+    "Mildred Warner Washington",
+    "Mildred Warner Washington Gale",
+    "Mildred Washington",
+    "Mildred Gale"
+   ],
+   "note": "Grandmother of George Washington"
+  },
+  {
+   "id": "Q3371203",
+   "name": "保罗·费霍斯",
+   "wikidata": "Q3371203",
+   "alias": [
+    "Paul Fejos",
+    "Pál Fejős"
+   ],
+   "note": "Hungarian-American filmmaker and anthropologist (1897–1963)"
+  },
+  {
    "id": "Q3382199",
    "name": "萧淑妃",
    "wikidata": "Q3382199",
@@ -1173,6 +2278,19 @@
     "Consort Xiao"
    ],
    "note": "Tang Dynasty imperial consort"
+  },
+  {
+   "id": "Q3436301",
+   "name": "博比·施赖弗",
+   "wikidata": "Q3436301",
+   "alias": [
+    "Bobby Shriver",
+    "罗伯特·施赖弗",
+    "Robert Shriver",
+    "Robert Sargent Shriver",
+    "Robert Sargent Shriver III"
+   ],
+   "note": "American activist and attorney"
   },
   {
    "id": "Q3492951",
@@ -1236,12 +2354,103 @@
    "note": "明朝第一任秦王，谥号“愍”"
   },
   {
+   "id": "Q3529079",
+   "name": "蒂莫西·施赖弗",
+   "wikidata": "Q3529079",
+   "alias": [
+    "Timothy Shriver",
+    "Timothy Perry SHRIVER",
+    "Timothy Perry Shriver"
+   ],
+   "note": "American non-profit executive"
+  },
+  {
+   "id": "Q3568759",
+   "name": "威廉·肯尼迪·史密斯",
+   "wikidata": "Q3568759",
+   "alias": [
+    "William Kennedy Smith",
+    "William Smith"
+   ],
+   "note": "American physician; younger son of Jean Kennedy Smith and Stephen Edward Smith"
+  },
+  {
+   "id": "Q3638839",
+   "name": "Berniece Baker Miracle",
+   "wikidata": "Q3638839",
+   "alias": [
+    "Berniece Inez Gladys Miracle"
+   ],
+   "note": "American writer (1919–2014)"
+  },
+  {
+   "id": "Q3973180",
+   "name": "史蒂芬·爱德华·史密斯",
+   "wikidata": "Q3973180",
+   "alias": [
+    "Stephen Edward Smith",
+    "Stephen E. Smith",
+    "Steve Smith",
+    "Stephen Smith",
+    "Stephen Edward Smith Sr.",
+    "Stephen Edward Smith, Sr."
+   ],
+   "note": "American businessman (1927-1990)"
+  },
+  {
    "id": "Q4022409",
    "name": "阴世师",
    "wikidata": "Q4022409",
    "alias": [
     "陰世師"
    ]
+  },
+  {
+   "id": "Q4112334",
+   "name": "Virginia Clinton Kelley",
+   "wikidata": "Q4112334",
+   "alias": [
+    "Virginia Dell Cassidy",
+    "Virginia Kelley",
+    "Virginia Clinton",
+    "Virginia Cassidy",
+    "Virginia Dell Blythe Clinton Dwire Kelley",
+    "Virginia Blythe",
+    "Virginia Dell Cassidy Blythe Clinton Dwire Kelley",
+    "Virginia Dell Clinton Kelley"
+   ],
+   "note": "mother of U.S. president Bill Clinton (1923–1994)"
+  },
+  {
+   "id": "Q4112404",
+   "name": "William Jefferson Blythe Jr.",
+   "wikidata": "Q4112404",
+   "alias": [
+    "William Jefferson Blythe",
+    "Bill Blythe"
+   ],
+   "note": "birth father of 42nd U.S. President Bill Clinton (1918–1946)"
+  },
+  {
+   "id": "Q4112506",
+   "name": "Roger Clinton Sr.",
+   "wikidata": "Q4112506",
+   "alias": [
+    "Roger Clinton",
+    "Roger Miles Wister Clinton"
+   ],
+   "note": "first stepfather of 42nd U.S. President Bill Clinton (1909–1967)"
+  },
+  {
+   "id": "Q4112619",
+   "name": "Jeff Dwire",
+   "wikidata": "Q4112619",
+   "alias": [
+    "George Jefferson Dwire",
+    "George Dwire",
+    "George Jefferson \"Jeff\" Dwire"
+   ],
+   "note": "second stepfather of 42nd U.S. President Bill Clinton, 1926-1974"
   },
   {
    "id": "Q4121049",
@@ -1843,6 +3052,44 @@
    "note": "professor"
   },
   {
+   "id": "Q4747937",
+   "name": "Amos Pinchot",
+   "wikidata": "Q4747937",
+   "alias": [
+    "Amos Richards Eno Pinchot"
+   ],
+   "note": "American lawyer and reformist"
+  },
+  {
+   "id": "Q4773467",
+   "name": "安东尼·施莱佛",
+   "wikidata": "Q4773467",
+   "alias": [
+    "Anthony Shriver",
+    "Anthony Paul Kennedy Shriver"
+   ],
+   "note": "American activist"
+  },
+  {
+   "id": "Q4821226",
+   "name": "Augustine Washington Jr.",
+   "wikidata": "Q4821226",
+   "alias": [
+    "Augustine Washington",
+    "Augustine Washington, Jr."
+   ],
+   "note": "American soldier, planter, and politician; half-brother of George Washington"
+  },
+  {
+   "id": "Q4865239",
+   "name": "Bartholomew Dandridge",
+   "wikidata": "Q4865239",
+   "alias": [
+    "Bartholomew Dandridge II"
+   ],
+   "note": "美國政治人物"
+  },
+  {
    "id": "Q5067754",
    "name": "柴绍",
    "wikidata": "Q5067754",
@@ -1888,6 +3135,12 @@
     "Zhao Jianming"
    ],
    "note": "台湾医师"
+  },
+  {
+   "id": "Q5083373",
+   "name": "Charles Washington",
+   "wikidata": "Q5083373",
+   "note": "youngest brother of George Washington"
   },
   {
    "id": "Q5090737",
@@ -1946,6 +3199,62 @@
    "note": "蒋经国之子"
   },
   {
+   "id": "Q5112377",
+   "name": "克里斯托弗·G·肯尼迪",
+   "wikidata": "Q5112377",
+   "alias": [
+    "Christopher G. Kennedy",
+    "克里斯托弗·乔治·肯尼迪",
+    "Christopher George Kennedy"
+   ],
+   "note": "美国商人"
+  },
+  {
+   "id": "Q5169872",
+   "name": "寇德·邁耶爾",
+   "wikidata": "Q5169872",
+   "alias": [
+    "Cord Meyer IV",
+    "Cord Meyer",
+    "Cord Meyer Jr."
+   ],
+   "note": "American veteran, federalist, CIA official & writer (1920–2001)"
+  },
+  {
+   "id": "Q5178632",
+   "name": "考特尼·肯尼迪·希尔",
+   "wikidata": "Q5178632",
+   "alias": [
+    "Courtney Kennedy Hill",
+    "玛丽·考特尼·肯尼迪",
+    "Mary Courtney Kennedy"
+   ],
+   "note": "美國政治人物"
+  },
+  {
+   "id": "Q5298463",
+   "name": "多萝西·豪厄尔·罗德姆",
+   "wikidata": "Q5298463",
+   "alias": [
+    "Dorothy Howell Rodham",
+    "Dorothy Emma Howell Rodham",
+    "Dorothy Emma Howell",
+    "Dorothy Howell",
+    "Dorothy Emma Rodham",
+    "Dorothy Rodham"
+   ],
+   "note": "American homemaker (1919–2011)"
+  },
+  {
+   "id": "Q5301573",
+   "name": "道格拉斯·哈里曼·肯尼迪",
+   "wikidata": "Q5301573",
+   "alias": [
+    "Douglas Harriman Kennedy"
+   ],
+   "note": "美国记者"
+  },
+  {
    "id": "Q5353614",
    "name": "罗美薇",
    "wikidata": "Q5353614",
@@ -1975,6 +3284,34 @@
    "note": "台湾政治人物"
   },
   {
+   "id": "Q5447176",
+   "name": "Fielding Lewis",
+   "wikidata": "Q5447176",
+   "alias": [
+    "Col. Fielding Fielding Lewis"
+   ],
+   "note": "Brother in law of George Washington"
+  },
+  {
+   "id": "Q5478762",
+   "name": "Frances Jones",
+   "wikidata": "Q5478762",
+   "alias": [
+    "Frances Orlando Jones",
+    "Frances Jones Dandridge"
+   ],
+   "note": "American colonial (1710-1785)"
+  },
+  {
+   "id": "Q5544830",
+   "name": "George Steptoe Washington",
+   "wikidata": "Q5544830",
+   "alias": [
+    "Maj. George Steptoe Washington"
+   ],
+   "note": "Nephew of George Washington (1771-1809)"
+  },
+  {
    "id": "Q5675539",
    "name": "浅田春",
    "wikidata": "Q5675539",
@@ -1983,6 +3320,26 @@
     "淺田春"
    ],
    "note": "孙中山侧室"
+  },
+  {
+   "id": "Q5932520",
+   "name": "休·罗德姆",
+   "wikidata": "Q5932520",
+   "alias": [
+    "Hugh Rodham",
+    "休·羅德姆",
+    "休伊·羅德姆",
+    "休伊·罗德姆",
+    "休伊·埃德溫·羅德姆",
+    "Hugh Edwin Rodham"
+   ],
+   "note": "American lawyer"
+  },
+  {
+   "id": "Q6106774",
+   "name": "J. Peter Grace",
+   "wikidata": "Q6106774",
+   "note": "American businessman (1913-1995)"
   },
   {
    "id": "Q6121440",
@@ -1997,6 +3354,21 @@
     "Zhu Wusi"
    ],
    "note": "明太祖朱元璋的父亲"
+  },
+  {
+   "id": "Q6219733",
+   "name": "John Augustine Washington",
+   "wikidata": "Q6219733",
+   "note": "member of the fifth Virginia Convention and founding member of the Mississippi Land Company; brother of George Washington"
+  },
+  {
+   "id": "Q6228508",
+   "name": "约翰·丹特利奇",
+   "wikidata": "Q6228508",
+   "alias": [
+    "John Dandridge"
+   ],
+   "note": "美国政治人物"
   },
   {
    "id": "Q6311201",
@@ -2019,6 +3391,18 @@
     "Chen Xingyu"
    ],
    "note": "台湾牙医师，陈水扁之女"
+  },
+  {
+   "id": "Q6503819",
+   "name": "Lawrence Augustine Washington",
+   "wikidata": "Q6503819",
+   "note": "Nephew of George Washington"
+  },
+  {
+   "id": "Q6504330",
+   "name": "Lawrence Lewis",
+   "wikidata": "Q6504330",
+   "note": "Nephew of George Washington (1767-1839)"
   },
   {
    "id": "Q6538693",
@@ -2051,12 +3435,60 @@
    "note": "中国物理学家"
   },
   {
+   "id": "Q6769708",
+   "name": "马克·施莱佛",
+   "wikidata": "Q6769708",
+   "alias": [
+    "Mark Shriver",
+    "Mark Kennedy Shriver"
+   ],
+   "note": "美國政治人物"
+  },
+  {
+   "id": "Q6780521",
+   "name": "Mary Pinchot Meyer",
+   "wikidata": "Q6780521",
+   "alias": [
+    "Mary Meyer",
+    "Mary Eno Pinchot",
+    "Mary Pinchot",
+    "Mary Eno Pinchot Meyer"
+   ],
+   "note": "American socialite and painter (1920–1964)"
+  },
+  {
    "id": "Q6784988",
    "name": "朱盤烒",
    "wikidata": "Q6784988",
    "alias": [
     "Zhu Panshi"
    ]
+  },
+  {
+   "id": "Q6793497",
+   "name": "Maurice Tempelsman",
+   "wikidata": "Q6793497",
+   "note": "Belgian-American businessman and diamond merchant (1929–2025)"
+  },
+  {
+   "id": "Q6794923",
+   "name": "马克斯·肯尼迪",
+   "wikidata": "Q6794923",
+   "alias": [
+    "Max Kennedy",
+    "马修·麦克斯韦·泰勒·肯尼迪",
+    "Matthew Maxwell Taylor Kennedy"
+   ],
+   "note": "American lawyer"
+  },
+  {
+   "id": "Q6862109",
+   "name": "Mimi Alford",
+   "wikidata": "Q6862109",
+   "alias": [
+    "Marion Beardsley, Marion Fahnestock"
+   ],
+   "note": "American author"
   },
   {
    "id": "Q7050162",
@@ -2294,6 +3726,12 @@
    "note": "mother of the Ming dynasty Jianwen Emperor"
   },
   {
+   "id": "Q7412891",
+   "name": "Samuel Washington",
+   "wikidata": "Q7412891",
+   "note": "colonial American officer and politician; brother of George Washington (1734-1781)"
+  },
+  {
    "id": "Q7717438",
    "name": "张活海",
    "wikidata": "Q7717438",
@@ -2325,6 +3763,32 @@
     "Ayesha Macpherson"
    ],
    "note": "Hong Kong accountant"
+  },
+  {
+   "id": "Q7823289",
+   "name": "托尼·罗德姆",
+   "wikidata": "Q7823289",
+   "alias": [
+    "Anthony (Tony) Dean Rodham",
+    "Anthony Rodham"
+   ],
+   "note": "American consultant and businessman (1954–2019)"
+  },
+  {
+   "id": "Q7926996",
+   "name": "维多利亚·雷吉·肯尼迪",
+   "wikidata": "Q7926996",
+   "alias": [
+    "Victoria Reggie Kennedy",
+    "Victoria Reggie",
+    "Vicki Reggie",
+    "Vicki Kennedy",
+    "Victoria Kennedy",
+    "Victoria Anne Kennedy",
+    "Vicki Raclin",
+    "Victoria Raclin"
+   ],
+   "note": "American attorney and diplomat (born 1954)"
   },
   {
    "id": "Q7967432",
@@ -2585,6 +4049,17 @@
    "note": "李登辉夫人"
   },
   {
+   "id": "Q8272170",
+   "name": "陈万水",
+   "wikidata": "Q8272170",
+   "alias": [
+    "陳萬水",
+    "Viola Chen",
+    "Chen Wanshui"
+   ],
+   "note": "宋楚瑜夫人"
+  },
+  {
    "id": "Q8274122",
    "name": "蒋方智怡",
    "wikidata": "Q8274122",
@@ -2599,6 +4074,16 @@
     "Fang Zhiyi"
    ],
    "note": "蒋孝勇之妻"
+  },
+  {
+   "id": "Q8276055",
+   "name": "宋达",
+   "wikidata": "Q8276055",
+   "alias": [
+    "宋達",
+    "Song Da"
+   ],
+   "note": "中华民国军官"
   },
   {
    "id": "Q8276415",
@@ -2847,6 +4332,16 @@
     "Shi Renbiao"
    ],
    "note": "7th-century Tang army general"
+  },
+  {
+   "id": "Q10305226",
+   "name": "珍妮·欧勤克劳斯",
+   "wikidata": "Q10305226",
+   "alias": [
+    "Janet Auchincloss Rutherfurd",
+    "Janet Jennings Auchincloss Rutherfurd"
+   ],
+   "note": "American socialite"
   },
   {
    "id": "Q10330541",
@@ -4471,6 +5966,12 @@
    "note": "daughter of emperor Gaozu"
   },
   {
+   "id": "Q11219852",
+   "name": "Rosamond Pinchot",
+   "wikidata": "Q11219852",
+   "note": "American socialite and actress (1904-1938)"
+  },
+  {
    "id": "Q11496708",
    "name": "房陵公主",
    "wikidata": "Q11496708",
@@ -4560,6 +6061,28 @@
     "Li Dengqin"
    ],
    "note": "李登輝之兄"
+  },
+  {
+   "id": "Q15142858",
+   "name": "马克·梅兹文斯基",
+   "wikidata": "Q15142858",
+   "alias": [
+    "Marc Mezvinsky"
+   ],
+   "note": "比尔·克林顿的女婿"
+  },
+  {
+   "id": "Q15149340",
+   "name": "约翰·施罗斯伯格",
+   "wikidata": "Q15149340",
+   "alias": [
+    "Jack Schlossberg",
+    "傑克·施洛斯伯格",
+    "John Bouvier Kennedy Schlossberg",
+    "John Schlossberg",
+    "Jack Kennedy Schlossberg"
+   ],
+   "note": "美国作家"
   },
   {
    "id": "Q15267268",
@@ -4796,6 +6319,19 @@
    "note": "daughter of emperor Gaozu"
   },
   {
+   "id": "Q16013081",
+   "name": "休·E·罗德姆",
+   "wikidata": "Q16013081",
+   "alias": [
+    "Hugh E. Rodham",
+    "休伊·E·羅德姆",
+    "休伊·罗德姆",
+    "休伊·埃爾斯沃思·羅德姆",
+    "Hugh Ellsworth Rodham"
+   ],
+   "note": "father of Hillary Rodham Clinton"
+  },
+  {
    "id": "Q16075506",
    "name": "李承宗",
    "wikidata": "Q16075506",
@@ -4959,6 +6495,12 @@
    "note": "daughter of emperor Gaozu"
   },
   {
+   "id": "Q16738459",
+   "name": "Joseph Ball",
+   "wikidata": "Q16738459",
+   "note": "(1649-1711)"
+  },
+  {
    "id": "Q16743739",
    "name": "秦厚修",
    "wikidata": "Q16743739",
@@ -5088,6 +6630,12 @@
    "note": "Republic of China person CBDB = 80762"
   },
   {
+   "id": "Q19302079",
+   "name": "Mary Montague",
+   "wikidata": "Q19302079",
+   "note": "(died 1720)"
+  },
+  {
    "id": "Q19825202",
    "name": "章劲松",
    "wikidata": "Q19825202",
@@ -5117,6 +6665,78 @@
     "Yu Ching-Po"
    ],
    "note": "Hong Kong businessman"
+  },
+  {
+   "id": "Q20931381",
+   "name": "George Washington Lewis",
+   "wikidata": "Q20931381",
+   "alias": [
+    "Capt. George Washington Lewis",
+    "Major George Washington Lewis"
+   ],
+   "note": "son of Fielding Lewis and Betty Washington"
+  },
+  {
+   "id": "Q21004271",
+   "name": "Daniel Parke Custis, Jr.",
+   "wikidata": "Q21004271",
+   "alias": [
+    "Daniel Parke Custis"
+   ],
+   "note": "(1751-1754)"
+  },
+  {
+   "id": "Q21004272",
+   "name": "Frances Custis",
+   "wikidata": "Q21004272",
+   "note": "(1753-1757)"
+  },
+  {
+   "id": "Q21004273",
+   "name": "瑪莎·帕克·卡斯蒂斯",
+   "wikidata": "Q21004273",
+   "alias": [
+    "Martha Parke Custis",
+    "Martha \"Patsy\" Custis",
+    "Patsy Custis"
+   ],
+   "note": "daughter of Martha Washington (1755-1773)"
+  },
+  {
+   "id": "Q21012764",
+   "name": "罗斯·施羅斯伯格",
+   "wikidata": "Q21012764",
+   "alias": [
+    "Rose Schlossberg",
+    "Rose Kennedy Schlossberg"
+   ],
+   "note": "American artist and filmmaker (born 1988)"
+  },
+  {
+   "id": "Q21012765",
+   "name": "塔蒂亚娜·施羅斯伯格",
+   "wikidata": "Q21012765",
+   "alias": [
+    "Tatiana Schlossberg"
+   ],
+   "note": "American journalist and author (1990–2025)"
+  },
+  {
+   "id": "Q21149248",
+   "name": "Louis Erich Otto Dietrich",
+   "wikidata": "Q21149248",
+   "note": "Prussian officer (1868-1908)"
+  },
+  {
+   "id": "Q21149249",
+   "name": "Wilhelmina Elisabeth Joséphine Felsing",
+   "wikidata": "Q21149249",
+   "alias": [
+    "Josefine von Losch",
+    "Wilhelmina Elisabeth Joséphine von Losch",
+    "Wilhelmina Elisabeth Joséphine Dietrich"
+   ],
+   "note": "mother of Marlene Dietrich (1876-1945)"
   },
   {
    "id": "Q22100096",
@@ -5198,6 +6818,17 @@
    "id": "Q22829299",
    "name": "朱秩炵",
    "wikidata": "Q22829299"
+  },
+  {
+   "id": "Q23705690",
+   "name": "Ruth Pickering Pinchot",
+   "wikidata": "Q23705690",
+   "alias": [
+    "Ruth Pickering",
+    "Ruth P. Pinchot",
+    "Ruth Pinchot"
+   ],
+   "note": "美国作家"
   },
   {
    "id": "Q24836638",
@@ -5342,6 +6973,15 @@
     "Lan Yezhen"
    ],
    "note": "中国名媛"
+  },
+  {
+   "id": "Q27700490",
+   "name": "Leon Ritzenthaler",
+   "wikidata": "Q27700490",
+   "alias": [
+    "Henry Leon Ritzenthaler"
+   ],
+   "note": "(1938-2009)"
   },
   {
    "id": "Q28355212",
@@ -6734,6 +8374,12 @@
    "note": "研究者"
   },
   {
+   "id": "Q62473143",
+   "name": "Pamela Turnure",
+   "wikidata": "Q62473143",
+   "note": "Press Secretary to the First Lady of the United States from 1961 to 1963"
+  },
+  {
    "id": "Q63251744",
    "name": "倪桂姝",
    "wikidata": "Q63251744",
@@ -6743,6 +8389,16 @@
     "Ni Xiuzhen"
    ],
    "note": "1882"
+  },
+  {
+   "id": "Q63726171",
+   "name": "Florence Pritchett",
+   "wikidata": "Q63726171",
+   "alias": [
+    "Flo Pritchett",
+    "Florence Pritchett Smith"
+   ],
+   "note": "American fashion editor, journalist and radio and TV personality (1920–1965)"
   },
   {
    "id": "Q63965196",
@@ -6836,6 +8492,212 @@
    ]
   },
   {
+   "id": "Q75326753",
+   "name": "Arabella Kennedy",
+   "wikidata": "Q75326753",
+   "alias": [
+    "Arabella Bouvier Kennedy",
+    "Arabelle Kennedy"
+   ],
+   "note": "stillborn daughter of United States President John Kennedy and First Lady Jacqueline Kennedy"
+  },
+  {
+   "id": "Q75326777",
+   "name": "Victoria Lawford",
+   "wikidata": "Q75326777",
+   "alias": [
+    "Victoria Francis Lawford"
+   ],
+   "note": "born 1958; daughter of Patricia Kennedy Lawford and Peter Lawford"
+  },
+  {
+   "id": "Q75326779",
+   "name": "Sydney Lawford",
+   "wikidata": "Q75326779",
+   "alias": [
+    "Sydney Maleia Lawford",
+    "Sydney McKelvey",
+    "Sydney Maleia McKelvey"
+   ],
+   "note": "born 1956; daughter of Patricia Kennedy Lawford and Peter Lawford"
+  },
+  {
+   "id": "Q75326780",
+   "name": "Robin Lawford",
+   "wikidata": "Q75326780",
+   "alias": [
+    "Robin Elizabeth Lawford"
+   ],
+   "note": "born 1961; youngest child of Patricia Kennedy Lawford and Peter Lawford"
+  },
+  {
+   "id": "Q75326792",
+   "name": "小史蒂芬·爱德华·史密斯",
+   "wikidata": "Q75326792",
+   "alias": [
+    "Stephen Edward Smith III.",
+    "Stephen Smith",
+    "Stephen Edward Smith",
+    "Stephen Edward Smith, Jr.",
+    "Stephen Smith Jr."
+   ],
+   "note": "American attorney; elder son of Jean Kennedy Smith and Stephen Edward Smith"
+  },
+  {
+   "id": "Q75326795",
+   "name": "阿曼达·玛丽·史密斯",
+   "wikidata": "Q75326795",
+   "alias": [
+    "Amanda Smith",
+    "Amanda Mary Smith"
+   ],
+   "note": "born 1967; elder daughter of Jean Kennedy Smith and Stephen Edward Smith"
+  },
+  {
+   "id": "Q75326840",
+   "name": "凯姆·玛丽·史密斯",
+   "wikidata": "Q75326840",
+   "alias": [
+    "Kym Smith",
+    "Kym Marie Smith"
+   ],
+   "note": "born 1972; younger daughter of Jean Kennedy Smith and Stephen Edward Smith"
+  },
+  {
+   "id": "Q75326857",
+   "name": "Mary Augusta Hickey",
+   "wikidata": "Q75326857",
+   "note": "(1857-1923)"
+  },
+  {
+   "id": "Q75326953",
+   "name": "Mary Josephine Hannon",
+   "wikidata": "Q75326953",
+   "note": "(1865-1964)"
+  },
+  {
+   "id": "Q75327206",
+   "name": "James Lee Auchincloss",
+   "wikidata": "Q75327206",
+   "note": "(born 1947)"
+  },
+  {
+   "id": "Q75762966",
+   "name": "Richard Kelley",
+   "wikidata": "Q75762966",
+   "alias": [
+    "Dick Kelley",
+    "Richard W. Kelley",
+    "Richard William Kelley"
+   ],
+   "note": "(1915-2007)"
+  },
+  {
+   "id": "Q75762969",
+   "name": "William Jefferson Blythe",
+   "wikidata": "Q75762969",
+   "note": "(1884-1935)"
+  },
+  {
+   "id": "Q75762971",
+   "name": "Lou Birchie Ayers",
+   "wikidata": "Q75762971",
+   "alias": [
+    "Lou Ayers",
+    "Lou Blythe"
+   ],
+   "note": "(1893-1946)"
+  },
+  {
+   "id": "Q75762972",
+   "name": "James Eldridge Cassidy",
+   "wikidata": "Q75762972",
+   "note": "(1898-1957)"
+  },
+  {
+   "id": "Q75762975",
+   "name": "Edith Vallie Grisham",
+   "wikidata": "Q75762975",
+   "alias": [
+    "Edith Grisham",
+    "Edith Cassidy"
+   ],
+   "note": "(1901-1968)"
+  },
+  {
+   "id": "Q75764188",
+   "name": "Mildred Washington",
+   "wikidata": "Q75764188",
+   "note": "(1739-1740); sister of George Washington"
+  },
+  {
+   "id": "Q75764191",
+   "name": "Jane Butler",
+   "wikidata": "Q75764191",
+   "alias": [
+    "Jane Washington",
+    "Jane Butler Washington"
+   ],
+   "note": "first wife of Augustine Washington Sr."
+  },
+  {
+   "id": "Q75764192",
+   "name": "Butler Washington",
+   "wikidata": "Q75764192",
+   "note": "(1715/16-1716); half-brother of George Washington"
+  },
+  {
+   "id": "Q75764198",
+   "name": "Jane Washington",
+   "wikidata": "Q75764198",
+   "note": "(1721-1734); half-sister of George Washington"
+  },
+  {
+   "id": "Q75764491",
+   "name": "Mildred Thornton",
+   "wikidata": "Q75764491",
+   "alias": [
+    "Mildred Washington",
+    "Mildred Thornton Washington"
+   ],
+   "note": "(c. 1741–c. 1762); second wife of Samuel Washington"
+  },
+  {
+   "id": "Q75764512",
+   "name": "Thornton Washington",
+   "wikidata": "Q75764512",
+   "note": "Nephew of President George Washington"
+  },
+  {
+   "id": "Q75764514",
+   "name": "Anne Fairfax",
+   "wikidata": "Q75764514",
+   "alias": [
+    "Anne Washington",
+    "Anne Fairfax Washington",
+    "Anne Lee",
+    "Anne Fairfax Lee"
+   ],
+   "note": "(1728-1761); daughter of Colonel William Fairfax and wife of Lawrence Washington"
+  },
+  {
+   "id": "Q75767077",
+   "name": "Anne Steptoe",
+   "wikidata": "Q75767077",
+   "note": "Peerage person ID=323650"
+  },
+  {
+   "id": "Q75966117",
+   "name": "John Washington III",
+   "wikidata": "Q75966117",
+   "alias": [
+    "Major John Washington",
+    "Maj. John Washington",
+    "John Washington"
+   ],
+   "note": "(1692-1746)"
+  },
+  {
    "id": "Q78502330",
    "name": "李嫣",
    "wikidata": "Q78502330",
@@ -6855,6 +8717,21 @@
    "note": "Chinese-American potter, dean of Fine Arts at Ohio University"
   },
   {
+   "id": "Q83424268",
+   "name": "William Augustine Washington",
+   "wikidata": "Q83424268",
+   "alias": [
+    "William Augustine Washington III"
+   ],
+   "note": "Virginia planter and politician"
+  },
+  {
+   "id": "Q83437732",
+   "name": "Corbin Washington",
+   "wikidata": "Q83437732",
+   "note": "nephew of George Washington 1764 - 1799"
+  },
+  {
    "id": "Q85884061",
    "name": "蒋瑞青",
    "wikidata": "Q85884061",
@@ -6863,6 +8740,28 @@
     "Jiang Ruiqing"
    ],
    "note": "蒋介石幼弟"
+  },
+  {
+   "id": "Q89162489",
+   "name": "Charles Stanley Gifford",
+   "wikidata": "Q89162489",
+   "note": "father of Marilyn Monroe (1898–1965)"
+  },
+  {
+   "id": "Q93122028",
+   "name": "Betty Lewis",
+   "wikidata": "Q93122028",
+   "note": "niece of George Washington (1765-1830)"
+  },
+  {
+   "id": "Q94833902",
+   "name": "W. Howard Lee",
+   "wikidata": "Q94833902",
+   "alias": [
+    "Howard Lee",
+    "William Howard Lee"
+   ],
+   "note": "(1908-1981)"
   },
   {
    "id": "Q95062803",
@@ -6903,6 +8802,36 @@
    "note": "孙中山的母亲"
   },
   {
+   "id": "Q96083076",
+   "name": "Hannah Bushrod",
+   "wikidata": "Q96083076",
+   "alias": [
+    "Hannah Bushrod Washington"
+   ],
+   "note": "(1738-1801)"
+  },
+  {
+   "id": "Q96200519",
+   "name": "格蘭戴絲·皮爾·貝克",
+   "wikidata": "Q96200519",
+   "alias": [
+    "Gladys Monroe",
+    "Gladys Pearl Baker",
+    "Gladys Pearl Baker Mortensen Eley",
+    "Gladys Pearl Monroe"
+   ],
+   "note": "Mother of Marilyn Monroe (1902–1984)"
+  },
+  {
+   "id": "Q96243305",
+   "name": "Fielding Lewis",
+   "wikidata": "Q96243305",
+   "alias": [
+    "Fielding Lewis II"
+   ],
+   "note": "1750 - 1803"
+  },
+  {
    "id": "Q96475323",
    "name": "于文凤",
    "wikidata": "Q96475323",
@@ -6939,6 +8868,18 @@
    ]
   },
   {
+   "id": "Q99102428",
+   "name": "Robert Lewis",
+   "wikidata": "Q99102428",
+   "note": "25 Jun 1769 Fredericksburg, Virginia - 16 Jan 1829 Fredericksburg"
+  },
+  {
+   "id": "Q100163503",
+   "name": "Nikki Bacharach",
+   "wikidata": "Q100163503",
+   "note": "daughter of Angie Dickinson and Burt Bacharach"
+  },
+  {
    "id": "Q100998732",
    "name": "蔣瑞蓮",
    "wikidata": "Q100998732",
@@ -6957,9 +8898,111 @@
    "note": "中華民國總統陳水扁母親"
   },
   {
+   "id": "Q105140335",
+   "name": "Charlotte Mezvinsky",
+   "wikidata": "Q105140335",
+   "note": "granddaughter of U.S. president Bill Clinton"
+  },
+  {
+   "id": "Q105140357",
+   "name": "Aidan Mezvinsky",
+   "wikidata": "Q105140357",
+   "note": "grandson of U.S. president Bill Clinton"
+  },
+  {
+   "id": "Q105140359",
+   "name": "Jasper Mezvinsky",
+   "wikidata": "Q105140359",
+   "note": "grandson of U.S. president Bill Clinton"
+  },
+  {
+   "id": "Q105470718",
+   "name": "Antoinette Pinchot Bradlee",
+   "wikidata": "Q105470718",
+   "alias": [
+    "Antoinette Bradlee",
+    "Antoinette Pinchot Pittman",
+    "Tony Bradlee",
+    "Antoinette Pinchot",
+    "Antoinette Eno Pinchot"
+   ],
+   "note": "American socialite, artist"
+  },
+  {
+   "id": "Q105961124",
+   "name": "Jane Champe",
+   "wikidata": "Q105961124",
+   "note": "(1724–1755); first wife of Samuel Washington"
+  },
+  {
+   "id": "Q105961136",
+   "name": "Lucy Chapman",
+   "wikidata": "Q105961136",
+   "alias": [
+    "Lucy Washington",
+    "Lucy Chapman Washington",
+    "Louisa Chapman"
+   ],
+   "note": "(1743–1763); third wife of Samuel Washington"
+  },
+  {
+   "id": "Q105961247",
+   "name": "Susannah Perrin",
+   "wikidata": "Q105961247",
+   "note": "(1753–1783); fifth wife of Samuel Washington"
+  },
+  {
+   "id": "Q107722272",
+   "name": "Jane “Jenny” Washington",
+   "wikidata": "Q107722272",
+   "alias": [
+    "Jane Washington"
+   ],
+   "note": "Niece of George Washington (1759-1791)"
+  },
+  {
+   "id": "Q107741919",
+   "name": "George Augustine Washington",
+   "wikidata": "Q107741919",
+   "note": "1763-1793"
+  },
+  {
+   "id": "Q107742106",
+   "name": "Anna Maria Dandridge Bassett",
+   "wikidata": "Q107742106",
+   "note": "(1739-1777)"
+  },
+  {
    "id": "Q108107816",
    "name": "Q108107816",
    "wikidata": "Q108107816"
+  },
+  {
+   "id": "Q108116732",
+   "name": "Frances Ann Cannon",
+   "wikidata": "Q108116732",
+   "note": "21 Nov 1919 - 25 Apr 2001"
+  },
+  {
+   "id": "Q108806838",
+   "name": "Virginia Gash",
+   "wikidata": "Q108806838",
+   "alias": [
+    "Virginia Adele Gash",
+    "Virginia Blythe",
+    "Virginia Ritzenthaler",
+    "Virginia Coffelt"
+   ],
+   "note": "(1918-2005)"
+  },
+  {
+   "id": "Q108807666",
+   "name": "Minnie Gash",
+   "wikidata": "Q108807666",
+   "alias": [
+    "Minnie Faye Gash",
+    "Minnie Blythe"
+   ]
   },
   {
    "id": "Q109016468",
@@ -6979,6 +9022,26 @@
    ]
   },
   {
+   "id": "Q110628909",
+   "name": "Elizabeth Dandridge Aylett Henley",
+   "wikidata": "Q110628909",
+   "note": "sister of Martha Washington"
+  },
+  {
+   "id": "Q111767367",
+   "name": "Frances Thornton Washington",
+   "wikidata": "Q111767367",
+   "alias": [
+    "Frances Thornton Washington Ball Peyton",
+    "Frances Ann Thornton Washington",
+    "Frances Washington",
+    "Frances Washington Ball",
+    "Frances Ball",
+    "Frances Peyton"
+   ],
+   "note": "(1763-1815)"
+  },
+  {
    "id": "Q113508195",
    "name": "彭鎧立",
    "wikidata": "Q113508195",
@@ -6993,6 +9056,12 @@
    "name": "Jada Yuan",
    "wikidata": "Q114239458",
    "note": "American journalist and author"
+  },
+  {
+   "id": "Q115347643",
+   "name": "Charles Stanley Gifford Jr.",
+   "wikidata": "Q115347643",
+   "note": "Son of Charles Stanley Gifford (1922–2015)"
   },
   {
    "id": "Q121813414",
@@ -7083,6 +9152,17 @@
    "note": "李安娜長女"
   },
   {
+   "id": "Q123158807",
+   "name": "Wilhelm Michel",
+   "wikidata": "Q123158807",
+   "alias": [
+    "Willy Michel",
+    "Michel, Wilhelm",
+    "Michel, Willy"
+   ],
+   "note": "1901-1988, 1901-1988, German baker and confectioner, local politician, military economic leader and lover of the actress Marlene Dietrich"
+  },
+  {
    "id": "Q124655546",
    "name": "王佑林",
    "wikidata": "Q124655546",
@@ -7135,6 +9215,15 @@
    "note": "明朝駙馬都尉"
   },
   {
+   "id": "Q132861681",
+   "name": "William Howell Lewis, Sr",
+   "wikidata": "Q132861681",
+   "alias": [
+    "Howell Lewis"
+   ],
+   "note": "Nephew of George Washington (1771-1822)"
+  },
+  {
    "id": "Q133323587",
    "name": "李惠仙",
    "wikidata": "Q133323587"
@@ -7153,6 +9242,16 @@
    "id": "Q134079944",
    "name": "楊氏",
    "wikidata": "Q134079944"
+  },
+  {
+   "id": "Q136668759",
+   "name": "Q136668759",
+   "wikidata": "Q136668759"
+  },
+  {
+   "id": "Q139199390",
+   "name": "Q139199390",
+   "wikidata": "Q139199390"
   },
   {
    "id": "Q141638282",
@@ -7181,6 +9280,32 @@
     {
      "title": "Wikidata：蒋介石 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q16574#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q102813",
+   "b": "Q4612",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q10305226",
+   "b": "Q165421",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P3373"
     }
    ]
   },
@@ -8799,6 +10924,19 @@
    ]
   },
   {
+   "a": "Q105470718",
+   "b": "Q6780521",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Mary Pinchot Meyer · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6780521#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q10564930",
    "b": "Q15955551",
    "type": "spouse",
@@ -8856,6 +10994,105 @@
      "url": "https://www.wikidata.org/wiki/Q4309944#P26"
     }
    ]
+  },
+  {
+   "a": "Q105961124",
+   "b": "Q7412891",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1754",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1755",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    }
+   ],
+   "to": "1755",
+   "status": "past"
+  },
+  {
+   "a": "Q105961136",
+   "b": "Q7412891",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1762",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1763",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    }
+   ],
+   "to": "1763",
+   "status": "past"
+  },
+  {
+   "a": "Q105961247",
+   "b": "Q7412891",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1778",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1781-09-26",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    }
+   ],
+   "to": "1781-09-26",
+   "status": "past"
   },
   {
    "a": "Q1062868",
@@ -9007,6 +11244,19 @@
    ]
   },
   {
+   "a": "Q107742106",
+   "b": "Q191789",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q108107816",
    "b": "Q7317391",
    "type": "kin",
@@ -9016,6 +11266,69 @@
     {
      "title": "Wikidata：郭宁妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q7317391#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q108116732",
+   "b": "Q535812",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Frances Ann Cannon · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q108116732#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1940",
+     "src": {
+      "title": "Wikidata：Frances Ann Cannon · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q108116732#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1958",
+     "src": {
+      "title": "Wikidata：Frances Ann Cannon · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q108116732#P26"
+     }
+    }
+   ],
+   "to": "1958",
+   "status": "past"
+  },
+  {
+   "a": "Q108116732",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Frances Ann Cannon · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q108116732#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q1081523",
+   "b": "Q165421",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P3373"
     }
    ]
   },
@@ -10340,6 +12653,85 @@
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
     }
    ]
+  },
+  {
+   "a": "Q108806838",
+   "b": "Q27700490",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Leon Ritzenthaler · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q27700490#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q108806838",
+   "b": "Q4112404",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1935-12",
+     "src": {
+      "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1936",
+     "src": {
+      "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+     }
+    }
+   ],
+   "to": "1936",
+   "status": "past"
+  },
+  {
+   "a": "Q108807666",
+   "b": "Q4112404",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1940-12",
+     "src": {
+      "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1941-04",
+     "src": {
+      "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+     }
+    }
+   ],
+   "to": "1941-04",
+   "status": "past"
   },
   {
    "a": "Q10887828",
@@ -17843,6 +20235,19 @@
     {
      "title": "Wikidata：唐太宗 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q9701#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q110628909",
+   "b": "Q191789",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P3373"
     }
    ]
   },
@@ -34222,6 +36627,110 @@
    ]
   },
   {
+   "a": "Q11219852",
+   "b": "Q6780521",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Mary Pinchot Meyer · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6780521#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q11239",
+   "b": "Q268799",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q1124",
+   "b": "Q2161657",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：比尔·克林顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q1124#P3373"
+    },
+    {
+     "title": "Wikidata：Roger Clinton Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q2161657#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q1124",
+   "b": "Q229671",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：比尔·克林顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q1124#P40"
+    },
+    {
+     "title": "Wikidata：切尔西·克林顿 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q229671#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q1124",
+   "b": "Q27700490",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：比尔·克林顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q1124#P3373"
+    },
+    {
+     "title": "Wikidata：Leon Ritzenthaler · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q27700490#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q1124",
+   "b": "Q6294",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：比尔·克林顿 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q1124#P26"
+    },
+    {
+     "title": "Wikidata：希拉里·克林顿 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q6294#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1975-10-11",
+     "src": {
+      "title": "Wikidata：比尔·克林顿 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q1124#P26"
+     }
+    }
+   ]
+  },
+  {
    "a": "Q113508195",
    "b": "Q716700",
    "type": "spouse",
@@ -34745,6 +37254,52 @@
      "url": "https://www.wikidata.org/wiki/Q9703#P25"
     }
    ]
+  },
+  {
+   "a": "Q115347643",
+   "b": "Q4616",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q1162023",
+   "b": "Q191789",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1750",
+     "src": {
+      "title": "Wikidata：马莎·华盛顿 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q191789#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1757-07-08",
+     "src": {
+      "title": "Wikidata：马莎·华盛顿 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q191789#P26"
+     }
+    }
+   ],
+   "to": "1757-07-08",
+   "status": "past"
   },
   {
    "a": "Q11669188",
@@ -35500,6 +38055,19 @@
    ]
   },
   {
+   "a": "Q123158807",
+   "b": "Q4612",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P451"
+    }
+   ]
+  },
+  {
    "a": "Q124655546",
    "b": "Q124655718",
    "type": "spouse",
@@ -35688,6 +38256,280 @@
    ]
   },
   {
+   "a": "Q1343117",
+   "b": "Q230555",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：姬恩·蒂尔尼 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q230555#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1941",
+     "src": {
+      "title": "Wikidata：姬恩·蒂尔尼 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q230555#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1952",
+     "src": {
+      "title": "Wikidata：姬恩·蒂尔尼 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q230555#P26"
+     }
+    }
+   ],
+   "to": "1952",
+   "status": "past"
+  },
+  {
+   "a": "Q134549",
+   "b": "Q2383370",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q25310",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q265595",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q268799",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q272401",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q272908",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q3048622",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q441424",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1958-11-30",
+     "src": {
+      "title": "Wikidata：爱德华·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q134549#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1982",
+     "src": {
+      "title": "Wikidata：爱德华·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q134549#P26"
+     }
+    }
+   ],
+   "to": "1982",
+   "status": "past"
+  },
+  {
+   "a": "Q134549",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q7926996",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1992-07-03",
+     "src": {
+      "title": "Wikidata：爱德华·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q134549#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2009-08-25",
+     "src": {
+      "title": "Wikidata：爱德华·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q134549#P26"
+     }
+    }
+   ],
+   "to": "2009-08-25",
+   "status": "past"
+  },
+  {
+   "a": "Q134549",
+   "b": "Q948920",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q134549",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q13677904",
    "b": "Q16743739",
    "type": "kin",
@@ -35697,6 +38539,36 @@
     {
      "title": "Wikidata：秦厚修 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q16743739#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q139199390",
+   "b": "Q4612",
+   "type": "kin",
+   "aIs": "兄弟姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q1396324",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Jeanne Carmen · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q1396324#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
     }
    ]
   },
@@ -35858,6 +38730,95 @@
      "url": "https://www.wikidata.org/wiki/Q315528#P3373"
     }
    ]
+  },
+  {
+   "a": "Q15142858",
+   "b": "Q229671",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：切尔西·克林顿 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q229671#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2010-07-31",
+     "src": {
+      "title": "Wikidata：切尔西·克林顿 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q229671#P26"
+     }
+    }
+   ]
+  },
+  {
+   "a": "Q153120",
+   "b": "Q4612",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1923-05-17",
+     "src": {
+      "title": "Wikidata：玛莲娜·迪特里茜 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4612#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1976-06-24",
+     "src": {
+      "title": "Wikidata：玛莲娜·迪特里茜 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4612#P26"
+     }
+    }
+   ],
+   "to": "1976-06-24",
+   "status": "past"
+  },
+  {
+   "a": "Q1571497",
+   "b": "Q3150911",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：因加·阿尔瓦德 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q3150911#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1946",
+     "src": {
+      "title": "Wikidata：因加·阿尔瓦德 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q3150911#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1973",
+     "src": {
+      "title": "Wikidata：因加·阿尔瓦德 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q3150911#P26"
+     }
+    }
+   ],
+   "to": "1973",
+   "status": "past"
   },
   {
    "a": "Q15900203",
@@ -36684,6 +39645,19 @@
    ]
   },
   {
+   "a": "Q16013081",
+   "b": "Q6294",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：希拉里·克林顿 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q6294#P22"
+    }
+   ]
+  },
+  {
    "a": "Q16076737",
    "b": "Q11095423",
    "type": "kin",
@@ -36747,6 +39721,190 @@
      "url": "https://www.wikidata.org/wiki/Q4309207#P26"
     }
    ]
+  },
+  {
+   "a": "Q165421",
+   "b": "Q180455",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1968-10-20",
+     "src": {
+      "title": "Wikidata：杰奎琳·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q165421#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1975-03-15",
+     "src": {
+      "title": "Wikidata：杰奎琳·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q165421#P26"
+     }
+    }
+   ],
+   "to": "1975-03-15",
+   "status": "past"
+  },
+  {
+   "a": "Q165421",
+   "b": "Q230303",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P40"
+    },
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q165421",
+   "b": "Q316064",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P40"
+    },
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q165421",
+   "b": "Q3290402",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P40"
+    },
+    {
+     "title": "Wikidata：帕特里克·布维尔·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q3290402#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q165421",
+   "b": "Q6793497",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "1980",
+     "src": {
+      "title": "Wikidata：杰奎琳·肯尼迪 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q165421#P451"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1994-05-19",
+     "src": {
+      "title": "Wikidata：杰奎琳·肯尼迪 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q165421#P451"
+     }
+    }
+   ],
+   "to": "1994-05-19",
+   "status": "past"
+  },
+  {
+   "a": "Q165421",
+   "b": "Q75326753",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P40"
+    },
+    {
+     "title": "Wikidata：Arabella Kennedy · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q75326753#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q165421",
+   "b": "Q75327206",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q165421",
+   "b": "Q9696",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P26"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1953-09-12",
+     "src": {
+      "title": "Wikidata：杰奎琳·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q165421#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1963-11-22",
+     "src": {
+      "title": "Wikidata：杰奎琳·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q165421#P26"
+     }
+    }
+   ],
+   "to": "1963-11-22",
+   "status": "past"
   },
   {
    "a": "Q16574",
@@ -37655,6 +40813,19 @@
    ]
   },
   {
+   "a": "Q16738459",
+   "b": "Q458119",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P22"
+    }
+   ]
+  },
+  {
    "a": "Q16743739",
    "b": "Q15903627",
    "type": "kin",
@@ -37959,6 +41130,19 @@
    ]
   },
   {
+   "a": "Q170530",
+   "b": "Q316064",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P451"
+    }
+   ]
+  },
+  {
    "a": "Q17132",
    "b": "Q17135",
    "type": "kin",
@@ -38162,6 +41346,85 @@
    ]
   },
   {
+   "a": "Q1744",
+   "b": "Q316064",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "1988",
+     "src": {
+      "title": "Wikidata：小约翰·肯尼迪 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q316064#P451"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1988",
+     "src": {
+      "title": "Wikidata：小约翰·肯尼迪 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q316064#P451"
+     }
+    }
+   ],
+   "to": "1988",
+   "status": "past"
+  },
+  {
+   "a": "Q1776544",
+   "b": "Q165421",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q179393",
+   "b": "Q511736",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：Judith Exner · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q511736#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1952",
+     "src": {
+      "title": "Wikidata：Judith Exner · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q511736#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1958",
+     "src": {
+      "title": "Wikidata：Judith Exner · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q511736#P26"
+     }
+    }
+   ],
+   "to": "1958",
+   "status": "past"
+  },
+  {
    "a": "Q180852",
    "b": "Q7967432",
    "type": "spouse",
@@ -38211,6 +41474,108 @@
     {
      "title": "Wikidata：林徽因 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q467140#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q191789",
+   "b": "Q1701323",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q191789",
+   "b": "Q21004271",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q191789",
+   "b": "Q21004272",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q191789",
+   "b": "Q21004273",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q191789",
+   "b": "Q23",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P26"
+    },
+    {
+     "title": "Wikidata：乔治·华盛顿 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q23#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1759-01-06",
+     "src": {
+      "title": "Wikidata：马莎·华盛顿 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q191789#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1799-12-14",
+     "src": {
+      "title": "Wikidata：马莎·华盛顿 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q191789#P26"
+     }
+    }
+   ],
+   "to": "1799-12-14",
+   "status": "past"
+  },
+  {
+   "a": "Q191789",
+   "b": "Q4865239",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P3373"
     }
    ]
   },
@@ -38289,6 +41654,19 @@
    ]
   },
   {
+   "a": "Q19302079",
+   "b": "Q458119",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P25"
+    }
+   ]
+  },
+  {
    "a": "Q19825763",
    "b": "Q11094253",
    "type": "kin",
@@ -38315,6 +41693,19 @@
    ]
   },
   {
+   "a": "Q207596",
+   "b": "Q316064",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P451"
+    }
+   ]
+  },
+  {
    "a": "Q20828335",
    "b": "Q96475323",
    "type": "kin",
@@ -38326,6 +41717,65 @@
      "url": "https://www.wikidata.org/wiki/Q96475323#P22"
     }
    ]
+  },
+  {
+   "a": "Q21149248",
+   "b": "Q4612",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q21149249",
+   "b": "Q4612",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q212762",
+   "b": "Q235989",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：安吉·迪金森 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q235989#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1965",
+     "src": {
+      "title": "Wikidata：安吉·迪金森 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q235989#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1981",
+     "src": {
+      "title": "Wikidata：安吉·迪金森 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q235989#P26"
+     }
+    }
+   ],
+   "to": "1981",
+   "status": "past"
   },
   {
    "a": "Q2146157",
@@ -38419,6 +41869,379 @@
    ]
   },
   {
+   "a": "Q229671",
+   "b": "Q105140335",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：切尔西·克林顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q229671#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q229671",
+   "b": "Q105140357",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：切尔西·克林顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q229671#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q229671",
+   "b": "Q105140359",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：切尔西·克林顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q229671#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q4821226",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q5083373",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q6219733",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q7412891",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q75764188",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q23",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q23#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q230303",
+   "b": "Q15149340",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q230303",
+   "b": "Q21012764",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q230303",
+   "b": "Q21012765",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q230303",
+   "b": "Q3048809",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1986-07-19",
+     "src": {
+      "title": "Wikidata：卡罗琳·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q230303#P26"
+     }
+    }
+   ]
+  },
+  {
+   "a": "Q230303",
+   "b": "Q316064",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P3373"
+    },
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q230303",
+   "b": "Q3290402",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P3373"
+    },
+    {
+     "title": "Wikidata：帕特里克·布维尔·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q3290402#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q230303",
+   "b": "Q75326753",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P3373"
+    },
+    {
+     "title": "Wikidata：Arabella Kennedy · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75326753#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q230555",
+   "b": "Q94833902",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：姬恩·蒂尔尼 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q230555#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1960-07-11",
+     "src": {
+      "title": "Wikidata：姬恩·蒂尔尼 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q230555#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1981-02-16",
+     "src": {
+      "title": "Wikidata：姬恩·蒂尔尼 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q230555#P26"
+     }
+    }
+   ],
+   "to": "1981-02-16",
+   "status": "past"
+  },
+  {
+   "a": "Q230555",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：姬恩·蒂尔尼 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q230555#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "1946",
+     "src": {
+      "title": "Wikidata：姬恩·蒂尔尼 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q230555#P451"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1947",
+     "src": {
+      "title": "Wikidata：姬恩·蒂尔尼 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q230555#P451"
+     }
+    }
+   ]
+  },
+  {
    "a": "Q2357659",
    "b": "Q8995734",
    "type": "spouse",
@@ -38456,6 +42279,261 @@
    "status": "past"
   },
   {
+   "a": "Q235989",
+   "b": "Q100163503",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：安吉·迪金森 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q235989#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q235989",
+   "b": "Q40912",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：安吉·迪金森 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q235989#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q235989",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q134549",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P25"
+    },
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q25310",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q265595",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q268799",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q272401",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q272908",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q313696",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P26"
+    },
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1914-10-07",
+     "src": {
+      "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q236540#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1969-11-18",
+     "src": {
+      "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q236540#P26"
+     }
+    }
+   ],
+   "to": "1969-11-18",
+   "status": "past"
+  },
+  {
+   "a": "Q236540",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q236540",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P40"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q23705690",
+   "b": "Q6780521",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Mary Pinchot Meyer · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q6780521#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q23842",
+   "b": "Q4612",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P451"
+    }
+   ]
+  },
+  {
    "a": "Q24839066",
    "b": "Q8262893",
    "type": "kin",
@@ -38465,6 +42543,301 @@
     {
      "title": "Wikidata：杨贵妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8262893#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q1352872",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q1386420",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q1804720",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q1975383",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q258661",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1950-06-17",
+     "src": {
+      "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q25310#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1968-06-06",
+     "src": {
+      "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q25310#P26"
+     }
+    }
+   ],
+   "to": "1968-06-06",
+   "status": "past"
+  },
+  {
+   "a": "Q25310",
+   "b": "Q265595",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    },
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q268799",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    },
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q272401",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    },
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q272908",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    },
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q273833",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q467861",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q467912",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q5112377",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q5178632",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q5301573",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q6794923",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q25310",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
     }
    ]
   },
@@ -38644,6 +43017,265 @@
    ]
   },
   {
+   "a": "Q265595",
+   "b": "Q268799",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    },
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q265595",
+   "b": "Q272401",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    },
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q265595",
+   "b": "Q272908",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    },
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q265595",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q265595",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q265595",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q268799",
+   "b": "Q272401",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    },
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q268799",
+   "b": "Q272908",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    },
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q268799",
+   "b": "Q428191",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q268799",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q268799",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q268799",
+   "b": "Q6106774",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q268799",
+   "b": "Q717540",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1944-05-06",
+     "src": {
+      "title": "Wikidata：凯瑟琳·卡文迪什 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q268799#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1944-09-09",
+     "src": {
+      "title": "Wikidata：凯瑟琳·卡文迪什 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q268799#P26"
+     }
+    }
+   ],
+   "to": "1944-09-09",
+   "status": "past"
+  },
+  {
+   "a": "Q268799",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q270643",
+   "b": "Q4612",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P451"
+    }
+   ]
+  },
+  {
    "a": "Q270681",
    "b": "Q380579",
    "type": "spouse",
@@ -38694,6 +43326,308 @@
     {
      "title": "Wikidata：陈晓东 · 伴侣（P451）",
      "url": "https://www.wikidata.org/wiki/Q713937#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q272908",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    },
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q3568759",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q3973180",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1956-05-19",
+     "src": {
+      "title": "Wikidata：珍妮·肯尼迪·史密斯 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q272401#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1990-08-19",
+     "src": {
+      "title": "Wikidata：珍妮·肯尼迪·史密斯 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q272401#P26"
+     }
+    }
+   ],
+   "to": "1990-08-19",
+   "status": "past"
+  },
+  {
+   "a": "Q272401",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q75326792",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q75326795",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q75326840",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272401",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q230654",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q317248",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1953-05-23",
+     "src": {
+      "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q272908#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2009-08-11",
+     "src": {
+      "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q272908#P26"
+     }
+    }
+   ],
+   "to": "2009-08-11",
+   "status": "past"
+  },
+  {
+   "a": "Q272908",
+   "b": "Q3436301",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q3529079",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q4773467",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q6769708",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q272908",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
     }
    ]
   },
@@ -38940,6 +43874,39 @@
      "url": "https://www.wikidata.org/wiki/Q7313466#P26"
     }
    ]
+  },
+  {
+   "a": "Q297142",
+   "b": "Q4616",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1954-01-14",
+     "src": {
+      "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4616#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1955-10-31",
+     "src": {
+      "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4616#P26"
+     }
+    }
+   ],
+   "to": "1955-10-31",
+   "status": "past"
   },
   {
    "a": "Q30919632",
@@ -39252,6 +44219,19 @@
    ]
   },
   {
+   "a": "Q3097958",
+   "b": "Q165421",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：杰奎琳·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q165421#P25"
+    }
+   ]
+  },
+  {
    "a": "Q311179",
    "b": "Q716027",
    "type": "love",
@@ -39310,6 +44290,23 @@
    ],
    "to": "2010",
    "status": "past"
+  },
+  {
+   "a": "Q3120857",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Gunilla von Post · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q3120857#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
   },
   {
    "a": "Q313596",
@@ -39448,6 +44445,189 @@
    ]
   },
   {
+   "a": "Q313696",
+   "b": "Q134549",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：爱德华·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q134549#P22"
+    },
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q25310",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：羅伯特·弗朗西斯·甘迺迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q25310#P22"
+    },
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q265595",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯玛丽·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q265595#P22"
+    },
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q268799",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：凯瑟琳·卡文迪什 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q268799#P22"
+    },
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q272401",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：珍妮·肯尼迪·史密斯 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q272401#P22"
+    },
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q272908",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：尤妮丝·肯尼迪·史瑞佛 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q272908#P22"
+    },
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q432694",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    },
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q313696",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P40"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q3150911",
+   "b": "Q3371203",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：因加·阿尔瓦德 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q3150911#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q3150911",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：因加·阿尔瓦德 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q3150911#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
    "a": "Q315528",
    "b": "Q121814324",
    "type": "kin",
@@ -39536,6 +44716,103 @@
    ]
   },
   {
+   "a": "Q316064",
+   "b": "Q3290402",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P3373"
+    },
+    {
+     "title": "Wikidata：帕特里克·布维尔·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q3290402#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q316064",
+   "b": "Q449173",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1996-09-21",
+     "src": {
+      "title": "Wikidata：小约翰·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q316064#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1999-07-16",
+     "src": {
+      "title": "Wikidata：小约翰·肯尼迪 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q316064#P26"
+     }
+    }
+   ],
+   "to": "1999-07-16",
+   "status": "past"
+  },
+  {
+   "a": "Q316064",
+   "b": "Q75326753",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P3373"
+    },
+    {
+     "title": "Wikidata：Arabella Kennedy · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75326753#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q3219928",
+   "b": "Q768342",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q3290402",
+   "b": "Q75326753",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：帕特里克·布维尔·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q3290402#P3373"
+    },
+    {
+     "title": "Wikidata：Arabella Kennedy · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75326753#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q3307106",
    "b": "Q380579",
    "type": "kin",
@@ -39545,6 +44822,19 @@
     {
      "title": "Wikidata：谢霆锋 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q380579#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q3314035",
+   "b": "Q768342",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P25"
     }
    ]
   },
@@ -39560,6 +44850,39 @@
      "url": "https://www.wikidata.org/wiki/Q9703#P26"
     }
    ]
+  },
+  {
+   "a": "Q345517",
+   "b": "Q432694",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1954-04-24",
+     "src": {
+      "title": "Wikidata：帕特·肯尼迪·罗福特 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q432694#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1966-02",
+     "src": {
+      "title": "Wikidata：帕特·肯尼迪·罗福特 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q432694#P26"
+     }
+    }
+   ],
+   "to": "1966-02",
+   "status": "past"
   },
   {
    "a": "Q3492951",
@@ -39974,6 +45297,19 @@
    ]
   },
   {
+   "a": "Q3638839",
+   "b": "Q4616",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q379836",
    "b": "Q109174986",
    "type": "kin",
@@ -40121,6 +45457,260 @@
     {
      "title": "Wikidata：阴妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8251514#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q40912",
+   "b": "Q511736",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Judith Exner · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q511736#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q4112334",
+   "b": "Q1124",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：比尔·克林顿 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q1124#P25"
+    },
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4112334",
+   "b": "Q2161657",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Roger Clinton Jr. · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q2161657#P25"
+    },
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4112334",
+   "b": "Q4112404",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+    },
+    {
+     "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1943-09-03",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1946-05-17",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    },
+    {
+     "label": "结婚",
+     "date": "1943-09-04",
+     "src": {
+      "title": "Wikidata：William Jefferson Blythe Jr. · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112404#P26"
+     }
+    }
+   ],
+   "to": "1946-05-17",
+   "status": "past"
+  },
+  {
+   "a": "Q4112334",
+   "b": "Q4112506",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1950",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1962",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    },
+    {
+     "label": "结婚",
+     "date": "1962-08",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1967-11-08",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    }
+   ],
+   "to": "1967-11-08",
+   "status": "past"
+  },
+  {
+   "a": "Q4112334",
+   "b": "Q4112619",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1969",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1974-08-12",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    }
+   ],
+   "to": "1974-08-12",
+   "status": "past"
+  },
+  {
+   "a": "Q4112334",
+   "b": "Q75762966",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1982-01-17",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1994-01-06",
+     "src": {
+      "title": "Wikidata：Virginia Clinton Kelley · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4112334#P26"
+     }
+    }
+   ],
+   "to": "1994-01-06",
+   "status": "past"
+  },
+  {
+   "a": "Q4112404",
+   "b": "Q1124",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：比尔·克林顿 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q1124#P22"
+    },
+    {
+     "title": "Wikidata：William Jefferson Blythe Jr. · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4112404#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4112404",
+   "b": "Q27700490",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Leon Ritzenthaler · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q27700490#P22"
+    },
+    {
+     "title": "Wikidata：William Jefferson Blythe Jr. · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4112404#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4112506",
+   "b": "Q2161657",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Roger Clinton Jr. · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q2161657#P22"
     }
    ]
   },
@@ -51603,6 +57193,92 @@
    ]
   },
   {
+   "a": "Q432694",
+   "b": "Q1086823",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q432694",
+   "b": "Q505178",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    },
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q432694",
+   "b": "Q75326777",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q432694",
+   "b": "Q75326779",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q432694",
+   "b": "Q75326780",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q432694",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：帕特·肯尼迪·罗福特 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q432694#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q450317",
    "b": "Q59822263",
    "type": "kin",
@@ -51692,6 +57368,271 @@
     {
      "title": "Wikidata：燕德妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8251489#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q458119",
+   "b": "Q23",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q23#P25"
+    },
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q458119",
+   "b": "Q5083373",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P40"
+    },
+    {
+     "title": "Wikidata：Charles Washington · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q458119",
+   "b": "Q6219733",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P40"
+    },
+    {
+     "title": "Wikidata：John Augustine Washington · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q458119",
+   "b": "Q7412891",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P40"
+    },
+    {
+     "title": "Wikidata：Samuel Washington · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q458119",
+   "b": "Q75764188",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P40"
+    },
+    {
+     "title": "Wikidata：Mildred Washington · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q458119",
+   "b": "Q768342",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P26"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1731-03-06",
+     "src": {
+      "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q458119#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1743-04-12",
+     "src": {
+      "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q458119#P26"
+     }
+    }
+   ],
+   "to": "1743-04-12",
+   "status": "past"
+  },
+  {
+   "a": "Q458119",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：瑪麗·鮑爾·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q458119#P40"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q4612",
+   "b": "Q449649",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4612",
+   "b": "Q47293",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q4612",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：玛莲娜·迪特里茜 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q4612#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q4616",
+   "b": "Q80596",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1956-06-29",
+     "src": {
+      "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4616#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1961-01-24",
+     "src": {
+      "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4616#P26"
+     }
+    }
+   ],
+   "to": "1961-01-24",
+   "status": "past"
+  },
+  {
+   "a": "Q4616",
+   "b": "Q946783",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1942-06-19",
+     "src": {
+      "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4616#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1946-09-13",
+     "src": {
+      "title": "Wikidata：玛丽莲·梦露 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q4616#P26"
+     }
+    }
+   ],
+   "to": "1946-09-13",
+   "status": "past"
+  },
+  {
+   "a": "Q4616",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
     }
    ]
   },
@@ -51901,6 +57842,19 @@
    ]
   },
   {
+   "a": "Q4747937",
+   "b": "Q6780521",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Mary Pinchot Meyer · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q6780521#P22"
+    }
+   ]
+  },
+  {
    "a": "Q47667",
    "b": "Q56271321",
    "type": "kin",
@@ -51914,6 +57868,185 @@
     {
      "title": "Wikidata：胡思杜 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q56271321#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q136668759",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q5083373",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q6219733",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q7412891",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q75764188",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q83424268",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4821226",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q505178",
+   "b": "Q9696",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：小约瑟夫·P·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q505178#P3373"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P3373"
     }
    ]
   },
@@ -52035,6 +58168,168 @@
    ],
    "to": "2025",
    "status": "past"
+  },
+  {
+   "a": "Q508114",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Kay Stammers · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q508114#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q107741919",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q111767367",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q6219733",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    },
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q7412891",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    },
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q75764188",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    },
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    },
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    },
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5083373",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
   },
   {
    "a": "Q5090737",
@@ -52443,6 +58738,82 @@
    ]
   },
   {
+   "a": "Q511736",
+   "b": "Q945576",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Judith Exner · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q511736#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q511736",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Judith Exner · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q511736#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q5169872",
+   "b": "Q6780521",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：Mary Pinchot Meyer · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q6780521#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1945",
+     "src": {
+      "title": "Wikidata：Mary Pinchot Meyer · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q6780521#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1958",
+     "src": {
+      "title": "Wikidata：Mary Pinchot Meyer · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q6780521#P26"
+     }
+    }
+   ],
+   "to": "1958",
+   "status": "past"
+  },
+  {
+   "a": "Q5298463",
+   "b": "Q6294",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：希拉里·克林顿 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q6294#P25"
+    }
+   ]
+  },
+  {
    "a": "Q5371883",
    "b": "Q15915513",
    "type": "kin",
@@ -52482,6 +58853,52 @@
     {
      "title": "Wikidata：章孝慈 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q8026049#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q5447176",
+   "b": "Q850421",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1750-05-07",
+     "src": {
+      "title": "Wikidata：Betty Washington Lewis · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q850421#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1781-12-07",
+     "src": {
+      "title": "Wikidata：Betty Washington Lewis · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q850421#P26"
+     }
+    }
+   ],
+   "to": "1781-12-07",
+   "status": "past"
+  },
+  {
+   "a": "Q5478762",
+   "b": "Q191789",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P25"
     }
    ]
   },
@@ -52584,6 +59001,19 @@
    ],
    "to": "1902",
    "status": "past"
+  },
+  {
+   "a": "Q5932520",
+   "b": "Q6294",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：希拉里·克林顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6294#P3373"
+    }
+   ]
   },
   {
    "a": "Q59822263",
@@ -52718,6 +59148,220 @@
    ]
   },
   {
+   "a": "Q6219733",
+   "b": "Q107722272",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q166436",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q7412891",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    },
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q75764188",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    },
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    },
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    },
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q83437732",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q96083076",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q6219733",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q6228508",
+   "b": "Q191789",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：马莎·华盛顿 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q191789#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q62473143",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Pamela Turnure · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q62473143#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q6294",
+   "b": "Q229671",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：切尔西·克林顿 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q229671#P25"
+    },
+    {
+     "title": "Wikidata：希拉里·克林顿 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q6294#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q6294",
+   "b": "Q7823289",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：希拉里·克林顿 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6294#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q6311201",
    "b": "Q6311263",
    "type": "kin",
@@ -52754,6 +59398,23 @@
       "title": "Wikidata：陈致中 · 配偶（P26）",
       "url": "https://www.wikidata.org/wiki/Q6311201#P26"
      }
+    }
+   ]
+  },
+  {
+   "a": "Q63726171",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Florence Pritchett · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q63726171#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
     }
    ]
   },
@@ -52915,6 +59576,58 @@
     {
      "title": "Wikidata：长孙皇后 · 母亲（P25）",
      "url": "https://www.wikidata.org/wiki/Q1152149#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q6780521",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Mary Pinchot Meyer · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q6780521#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q6862109",
+   "b": "Q9696",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：Mimi Alford · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q6862109#P451"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "1962",
+     "src": {
+      "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q9696#P451"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1963",
+     "src": {
+      "title": "Wikidata：约翰·肯尼迪 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q9696#P451"
+     }
     }
    ]
   },
@@ -53468,6 +60181,43 @@
      "url": "https://www.wikidata.org/wiki/Q9703#P3373"
     }
    ]
+  },
+  {
+   "a": "Q706723",
+   "b": "Q8272170",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：宋楚瑜 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q706723#P26"
+    },
+    {
+     "title": "Wikidata：陈万水 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8272170#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1968",
+     "src": {
+      "title": "Wikidata：宋楚瑜 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q706723#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2012-07-27",
+     "src": {
+      "title": "Wikidata：宋楚瑜 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q706723#P26"
+     }
+    }
+   ],
+   "to": "2012-07-27",
+   "status": "past"
   },
   {
    "a": "Q708621",
@@ -54572,6 +61322,196 @@
    ]
   },
   {
+   "a": "Q7412891",
+   "b": "Q5544830",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q6503819",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q75764188",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    },
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    },
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    },
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q75764491",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1756",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1762",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    }
+   ],
+   "to": "1762",
+   "status": "past"
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q75764512",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q75767077",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1764",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1777",
+     "src": {
+      "title": "Wikidata：Samuel Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q7412891#P26"
+     }
+    }
+   ],
+   "to": "1777",
+   "status": "past"
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q7412891",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q7419",
    "b": "Q8251464",
    "type": "kin",
@@ -54581,6 +61521,538 @@
     {
      "title": "Wikidata：杨妃 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8251464#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q75326857",
+   "b": "Q313696",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75326953",
+   "b": "Q236540",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75762969",
+   "b": "Q4112404",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：William Jefferson Blythe Jr. · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4112404#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q75762971",
+   "b": "Q4112404",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：William Jefferson Blythe Jr. · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4112404#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75762972",
+   "b": "Q4112334",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q75762975",
+   "b": "Q4112334",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Virginia Clinton Kelley · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4112334#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75764188",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    },
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764188",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    },
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764188",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764188",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Mildred Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764191",
+   "b": "Q4821226",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75764191",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Butler Washington · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75764191",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Jane Washington · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75764191",
+   "b": "Q768342",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1715",
+     "src": {
+      "title": "Wikidata：奧古斯汀·華盛頓 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q768342#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1728-11",
+     "src": {
+      "title": "Wikidata：奧古斯汀·華盛頓 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q768342#P26"
+     }
+    }
+   ],
+   "to": "1728-11",
+   "status": "past"
+  },
+  {
+   "a": "Q75764191",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Lawrence Washington · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q75764192",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    },
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764192",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764192",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Butler Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764198",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764198",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Jane Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q75764514",
+   "b": "Q969817",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：Lawrence Washington · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1743-07-19",
+     "src": {
+      "title": "Wikidata：Lawrence Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q969817#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1752-07",
+     "src": {
+      "title": "Wikidata：Lawrence Washington · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q969817#P26"
+     }
+    }
+   ],
+   "to": "1752-07",
+   "status": "past"
+  },
+  {
+   "a": "Q75966117",
+   "b": "Q768342",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q23",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：乔治·华盛顿 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q23#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q4821226",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Augustine Washington Jr. · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4821226#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q5083373",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Charles Washington · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q5083373#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q6219733",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：John Augustine Washington · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q6219733#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q7412891",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Samuel Washington · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q7412891#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q75764188",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Mildred Washington · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q75764188#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q75764192",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Butler Washington · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q75764192#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q75764198",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Jane Washington · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q75764198#P22"
+    },
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q850421",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    },
+    {
+     "title": "Wikidata：Betty Washington Lewis · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q768342",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：奧古斯汀·華盛頓 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q768342#P40"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P22"
     }
    ]
   },
@@ -55232,6 +62704,23 @@
    ]
   },
   {
+   "a": "Q8276055",
+   "b": "Q706723",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：宋楚瑜 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q706723#P22"
+    },
+    {
+     "title": "Wikidata：宋达 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8276055#P40"
+    }
+   ]
+  },
+  {
    "a": "Q838433",
    "b": "Q11094213",
    "type": "kin",
@@ -55387,6 +62876,101 @@
    ]
   },
   {
+   "a": "Q850421",
+   "b": "Q132861681",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q850421",
+   "b": "Q20931381",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q850421",
+   "b": "Q6504330",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q850421",
+   "b": "Q93122028",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q850421",
+   "b": "Q96243305",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q850421",
+   "b": "Q969817",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P3373"
+    },
+    {
+     "title": "Wikidata：Lawrence Washington · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q969817#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q850421",
+   "b": "Q99102428",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Betty Washington Lewis · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q850421#P40"
+    }
+   ]
+  },
+  {
    "a": "Q855999",
    "b": "Q9701",
    "type": "spouse",
@@ -55472,6 +63056,19 @@
    ]
   },
   {
+   "a": "Q89162489",
+   "b": "Q4616",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P22"
+    }
+   ]
+  },
+  {
    "a": "Q9314509",
    "b": "Q11096610",
    "type": "kin",
@@ -55536,6 +63133,32 @@
    ]
   },
   {
+   "a": "Q955405",
+   "b": "Q313696",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：老约瑟夫·P·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q313696#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q96200519",
+   "b": "Q4616",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：玛丽莲·梦露 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q4616#P25"
+    }
+   ]
+  },
+  {
    "a": "Q96475323",
    "b": "Q96480094",
    "type": "love",
@@ -55545,6 +63168,87 @@
     {
      "title": "Wikidata：于文凤 · 伴侣（P451）",
      "url": "https://www.wikidata.org/wiki/Q96475323#P451"
+    }
+   ]
+  },
+  {
+   "a": "Q966182",
+   "b": "Q236540",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：罗斯·菲茨杰拉德·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q236540#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q9696",
+   "b": "Q230303",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：卡罗琳·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q230303#P22"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9696",
+   "b": "Q316064",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：小约翰·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q316064#P22"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9696",
+   "b": "Q3290402",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：帕特里克·布维尔·肯尼迪 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q3290402#P22"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q9696",
+   "b": "Q75326753",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Arabella Kennedy · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q75326753#P22"
+    },
+    {
+     "title": "Wikidata：约翰·肯尼迪 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q9696#P40"
     }
    ]
   },
