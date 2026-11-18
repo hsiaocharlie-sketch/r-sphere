@@ -21,7 +21,11 @@
    "Q2357659",
    "Q698735",
    "Q16781",
-   "Q311179"
+   "Q311179",
+   "Q47667",
+   "Q450317",
+   "Q315528",
+   "Q22368"
   ],
   "depth": 2,
   "src": {
@@ -310,6 +314,36 @@
    "note": "中华民国第12、13任总统"
   },
   {
+   "id": "Q22368",
+   "name": "陈水扁",
+   "wikidata": "Q22368",
+   "alias": [
+    "Chen Shui-bian",
+    "陳水扁",
+    "阿扁",
+    "Chen Shuibian",
+    "Abian",
+    "A-Bian"
+   ],
+   "note": "中华民国第10、11任总统"
+  },
+  {
+   "id": "Q47667",
+   "name": "胡适",
+   "wikidata": "Q47667",
+   "alias": [
+    "Hu Shih",
+    "胡適",
+    "胡适之",
+    "胡洪骍",
+    "胡嗣糜",
+    "胡適之",
+    "適之",
+    "胡洪騂"
+   ],
+   "note": "中国学者，新文化运动的领袖之一"
+  },
+  {
    "id": "Q64814",
    "name": "窦唯",
    "wikidata": "Q64814",
@@ -447,6 +481,21 @@
    "note": "中华民国第6、7任总统"
   },
   {
+   "id": "Q315528",
+   "name": "李登辉",
+   "wikidata": "Q315528",
+   "alias": [
+    "李登輝",
+    "Lee Teng-hui",
+    "岩里政男",
+    "民主先生",
+    "阿輝伯",
+    "Li Denghui",
+    "Masao Iwasato"
+   ],
+   "note": "中华民国第7－9任总统、第7任副总统，农业经济学家"
+  },
+  {
    "id": "Q379836",
    "name": "梁启超",
    "wikidata": "Q379836",
@@ -473,6 +522,19 @@
     "Nicholas Tse Ting-fung"
    ],
    "note": "香港歌手及演员"
+  },
+  {
+   "id": "Q450317",
+   "name": "吴健雄",
+   "wikidata": "Q450317",
+   "alias": [
+    "吳健雄",
+    "Chien-Shiung Wu",
+    "Chieng-Shiung Wu",
+    "Wu Chien Shiung",
+    "Wu Jianxiong"
+   ],
+   "note": "美籍华人物理学家"
   },
   {
    "id": "Q464650",
@@ -524,6 +586,19 @@
     "Kung Hsiang-hsi"
    ],
    "note": "中华民国政治人物"
+  },
+  {
+   "id": "Q698512",
+   "name": "吴淑珍",
+   "wikidata": "Q698512",
+   "alias": [
+    "吳淑珍",
+    "Wu Shu-chen",
+    "Wu Shu-jen",
+    "Shu-Chen Wu",
+    "Wu Shuzhen"
+   ],
+   "note": "陈水扁之妻，前任中华民国台湾第一夫人、立法委员"
   },
   {
    "id": "Q698735",
@@ -1260,6 +1335,22 @@
    "note": "孙中山之兄长"
   },
   {
+   "id": "Q4193768",
+   "name": "胡传",
+   "wikidata": "Q4193768",
+   "alias": [
+    "胡傳",
+    "Hu Chuan",
+    "鈍夫",
+    "鐵花",
+    "守三",
+    "Tiehua",
+    "Dunfu",
+    "Shousan"
+   ],
+   "note": "清朝官员、胡适之父"
+  },
+  {
    "id": "Q4195655",
    "name": "倪桂珍",
    "wikidata": "Q4195655",
@@ -1787,6 +1878,17 @@
    "note": "蒋经国情妇"
   },
   {
+   "id": "Q5072726",
+   "name": "赵建铭",
+   "wikidata": "Q5072726",
+   "alias": [
+    "Chao Chien-ming",
+    "趙建銘",
+    "Zhao Jianming"
+   ],
+   "note": "台湾医师"
+  },
+  {
    "id": "Q5090737",
    "name": "陈粹芬",
    "wikidata": "Q5090737",
@@ -1896,6 +1998,28 @@
    "note": "明太祖朱元璋的父亲"
   },
   {
+   "id": "Q6311201",
+   "name": "陈致中",
+   "wikidata": "Q6311201",
+   "alias": [
+    "Chen Chih-chung",
+    "陳致中",
+    "Chen Zhizhong"
+   ],
+   "note": "台湾政治人物"
+  },
+  {
+   "id": "Q6311263",
+   "name": "陈幸妤",
+   "wikidata": "Q6311263",
+   "alias": [
+    "Chen Hsing-yu",
+    "陳幸妤",
+    "Chen Xingyu"
+   ],
+   "note": "台湾牙医师，陈水扁之女"
+  },
+  {
    "id": "Q6538693",
    "name": "李冲",
    "wikidata": "Q6538693",
@@ -1913,6 +2037,17 @@
     "梁從誡"
    ],
    "note": "中国环保人士"
+  },
+  {
+   "id": "Q6701881",
+   "name": "袁家骝",
+   "wikidata": "Q6701881",
+   "alias": [
+    "Luke Chia-Liu Yuan",
+    "袁家騮",
+    "Yuan Jialiu"
+   ],
+   "note": "中国物理学家"
   },
   {
    "id": "Q6784988",
@@ -2439,6 +2574,16 @@
    "note": "唐太宗的妃嫔"
   },
   {
+   "id": "Q8264155",
+   "name": "曾文惠",
+   "wikidata": "Q8264155",
+   "alias": [
+    "Tseng Wen-hui",
+    "Zeng Wenhui"
+   ],
+   "note": "李登辉夫人"
+  },
+  {
    "id": "Q8274122",
    "name": "蒋方智怡",
    "wikidata": "Q8274122",
@@ -2500,6 +2645,18 @@
    "note": "台湾电影演员"
   },
   {
+   "id": "Q8968242",
+   "name": "黄睿靓",
+   "wikidata": "Q8968242",
+   "alias": [
+    "黃睿靚",
+    "Huang Jui-ching",
+    "Huang Ruiliang",
+    "Huang Ruijing"
+   ],
+   "note": "陈致中之妻"
+  },
+  {
    "id": "Q8976004",
    "name": "蒋友常",
    "wikidata": "Q8976004",
@@ -2510,6 +2667,16 @@
     "Jiang Youchang"
    ],
    "note": "台湾设计师"
+  },
+  {
+   "id": "Q8981918",
+   "name": "李安妮",
+   "wikidata": "Q8981918",
+   "alias": [
+    "Annie Lee",
+    "Li Anni"
+   ],
+   "note": "台湾政治人物"
   },
   {
    "id": "Q8995734",
@@ -4346,6 +4513,45 @@
    "note": "蒋介石生母"
   },
   {
+   "id": "Q14481223",
+   "name": "袁克文",
+   "wikidata": "Q14481223",
+   "alias": [
+    "Yuan Ko-wen",
+    "寒雲",
+    "豹岑",
+    "抱存",
+    "Hanyun",
+    "Baocun",
+    "Baocen",
+    "Yuan Kewen"
+   ],
+   "note": "袁世凯之子"
+  },
+  {
+   "id": "Q14606858",
+   "name": "李金龙",
+   "wikidata": "Q14606858",
+   "alias": [
+    "Lee Ching-long",
+    "李金龍"
+   ],
+   "note": "中华民国前总统李登辉之父"
+  },
+  {
+   "id": "Q14606946",
+   "name": "李登钦",
+   "wikidata": "Q14606946",
+   "alias": [
+    "Lee Teng-ching",
+    "李登欽",
+    "岩里武則",
+    "岩里武则",
+    "Li Dengqin"
+   ],
+   "note": "李登輝之兄"
+  },
+  {
    "id": "Q15267268",
    "name": "李文",
    "wikidata": "Q15267268",
@@ -4509,6 +4715,15 @@
     "胡賡年"
    ],
    "note": "中国政治人物"
+  },
+  {
+   "id": "Q15934564",
+   "name": "陳文狩",
+   "wikidata": "Q15934564",
+   "alias": [
+    "Chen Wen-shou"
+   ],
+   "note": "陈水扁的弟弟"
   },
   {
    "id": "Q15938639",
@@ -6491,6 +6706,24 @@
    "note": "蒋介石原配夫人之父"
   },
   {
+   "id": "Q56271321",
+   "name": "胡思杜",
+   "wikidata": "Q56271321",
+   "alias": [
+    "Hu Sidu"
+   ],
+   "note": "中华民国学者、作家、政治人物胡适的次子"
+  },
+  {
+   "id": "Q59822263",
+   "name": "Vincent Yuan",
+   "wikidata": "Q59822263",
+   "alias": [
+    "V. Yuan"
+   ],
+   "note": "研究者"
+  },
+  {
    "id": "Q63251744",
    "name": "倪桂姝",
    "wikidata": "Q63251744",
@@ -6704,6 +6937,16 @@
    ]
   },
   {
+   "id": "Q104837480",
+   "name": "李慎",
+   "wikidata": "Q104837480",
+   "alias": [
+    "Li Shen",
+    "陳李慎"
+   ],
+   "note": "中華民國總統陳水扁母親"
+  },
+  {
    "id": "Q108107816",
    "name": "Q108107816",
    "wikidata": "Q108107816"
@@ -6734,6 +6977,100 @@
     "Kai-Li Peng",
     "Péng Kǎilì"
    ]
+  },
+  {
+   "id": "Q114239458",
+   "name": "Jada Yuan",
+   "wikidata": "Q114239458",
+   "note": "American journalist and author"
+  },
+  {
+   "id": "Q121813414",
+   "name": "李財生",
+   "wikidata": "Q121813414",
+   "note": "李登輝的祖父"
+  },
+  {
+   "id": "Q121813972",
+   "name": "李炳楠",
+   "wikidata": "Q121813972",
+   "note": "李金龍三子"
+  },
+  {
+   "id": "Q121814306",
+   "name": "李憲昌",
+   "wikidata": "Q121814306",
+   "note": "李登欽長子"
+  },
+  {
+   "id": "Q121814314",
+   "name": "李憲明",
+   "wikidata": "Q121814314",
+   "note": "李登欽次子"
+  },
+  {
+   "id": "Q121814324",
+   "name": "李憲文",
+   "wikidata": "Q121814324",
+   "alias": [
+    "Li Xianwen",
+    "李宪文"
+   ],
+   "note": "李登輝長子"
+  },
+  {
+   "id": "Q121814337",
+   "name": "李安娜",
+   "wikidata": "Q121814337",
+   "alias": [
+    "Anna Lee"
+   ],
+   "note": "李登輝長女"
+  },
+  {
+   "id": "Q121814353",
+   "name": "張月雲",
+   "wikidata": "Q121814353",
+   "note": "李憲文妻子"
+  },
+  {
+   "id": "Q121814361",
+   "name": "李坤儀",
+   "wikidata": "Q121814361",
+   "note": "李憲文長女"
+  },
+  {
+   "id": "Q121814403",
+   "name": "江錦",
+   "wikidata": "Q121814403",
+   "alias": [
+    "Jiang Jin"
+   ],
+   "note": "李金龍妻子"
+  },
+  {
+   "id": "Q121814421",
+   "name": "陳伴",
+   "wikidata": "Q121814421",
+   "note": "李金龍妻子"
+  },
+  {
+   "id": "Q121814548",
+   "name": "黃循武",
+   "wikidata": "Q121814548",
+   "note": "李安娜丈夫"
+  },
+  {
+   "id": "Q121814554",
+   "name": "曾慶餘",
+   "wikidata": "Q121814554",
+   "note": "曾文惠父親"
+  },
+  {
+   "id": "Q121814564",
+   "name": "黃怡寧",
+   "wikidata": "Q121814564",
+   "note": "李安娜長女"
   },
   {
    "id": "Q124655546",
@@ -8385,6 +8722,23 @@
     {
      "title": "Wikidata：李敬 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q4309969#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q104837480",
+   "b": "Q22368",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李慎 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q104837480#P40"
+    },
+    {
+     "title": "Wikidata：陈水扁 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q22368#P25"
     }
    ]
   },
@@ -34896,6 +35250,246 @@
    ]
   },
   {
+   "a": "Q121813414",
+   "b": "Q14606858",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李金龙 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q14606858#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q121813972",
+   "b": "Q14606946",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：李炳楠 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q121813972#P3373"
+    },
+    {
+     "title": "Wikidata：李登钦 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q14606946#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q121813972",
+   "b": "Q315528",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：李炳楠 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q121813972#P3373"
+    },
+    {
+     "title": "Wikidata：李登辉 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q121814324",
+   "b": "Q121814337",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：李憲文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q121814324#P3373"
+    },
+    {
+     "title": "Wikidata：李安娜 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q121814337#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q121814324",
+   "b": "Q121814353",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：李憲文 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q121814324#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q121814324",
+   "b": "Q121814361",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李憲文 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q121814324#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q121814324",
+   "b": "Q8981918",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：李憲文 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q121814324#P3373"
+    },
+    {
+     "title": "Wikidata：李安妮 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8981918#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q121814337",
+   "b": "Q121814548",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李安娜 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q121814337#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q121814337",
+   "b": "Q121814564",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李安娜 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q121814337#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q121814337",
+   "b": "Q8981918",
+   "type": "kin",
+   "aIs": "姐妹",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：李安娜 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q121814337#P3373"
+    },
+    {
+     "title": "Wikidata：李安妮 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q8981918#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q121814403",
+   "b": "Q14606858",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：江錦 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q121814403#P26"
+    },
+    {
+     "title": "Wikidata：李金龙 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q14606858#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q121814403",
+   "b": "Q14606946",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：江錦 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q121814403#P40"
+    },
+    {
+     "title": "Wikidata：李登钦 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q14606946#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q121814403",
+   "b": "Q315528",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：江錦 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q121814403#P40"
+    },
+    {
+     "title": "Wikidata：李登辉 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q121814421",
+   "b": "Q121813972",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李炳楠 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q121813972#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q121814421",
+   "b": "Q14606858",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：李金龙 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q14606858#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q121814554",
+   "b": "Q8264155",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：曾文惠 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q8264155#P22"
+    }
+   ]
+  },
+  {
    "a": "Q124655546",
    "b": "Q124655718",
    "type": "spouse",
@@ -35149,6 +35743,113 @@
    ]
   },
   {
+   "a": "Q14481223",
+   "b": "Q6701881",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：袁家骝 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q6701881#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q14606858",
+   "b": "Q121813972",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李炳楠 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q121813972#P22"
+    },
+    {
+     "title": "Wikidata：李金龙 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q14606858#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q14606858",
+   "b": "Q14606946",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李金龙 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q14606858#P40"
+    },
+    {
+     "title": "Wikidata：李登钦 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q14606946#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q14606858",
+   "b": "Q315528",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李金龙 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q14606858#P40"
+    },
+    {
+     "title": "Wikidata：李登辉 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q14606946",
+   "b": "Q121814306",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李登钦 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q14606946#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q14606946",
+   "b": "Q121814314",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李登钦 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q14606946#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q14606946",
+   "b": "Q315528",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：李登钦 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q14606946#P3373"
+    },
+    {
+     "title": "Wikidata：李登辉 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P3373"
+    }
+   ]
+  },
+  {
    "a": "Q15900203",
    "b": "Q7312687",
    "type": "kin",
@@ -35327,6 +36028,23 @@
     {
      "title": "Wikidata：胡茵梦 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q8965713#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q15934564",
+   "b": "Q22368",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "兄弟",
+   "src": [
+    {
+     "title": "Wikidata：陳文狩 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q15934564#P3373"
+    },
+    {
+     "title": "Wikidata：陈水扁 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q22368#P3373"
     }
    ]
   },
@@ -37630,6 +38348,67 @@
    ]
   },
   {
+   "a": "Q22368",
+   "b": "Q6311201",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：陈水扁 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q22368#P40"
+    },
+    {
+     "title": "Wikidata：陈致中 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q6311201#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q22368",
+   "b": "Q6311263",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：陈水扁 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q22368#P40"
+    },
+    {
+     "title": "Wikidata：陈幸妤 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q6311263#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q22368",
+   "b": "Q698512",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：陈水扁 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q22368#P26"
+    },
+    {
+     "title": "Wikidata：吴淑珍 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q698512#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1975-02",
+     "src": {
+      "title": "Wikidata：陈水扁 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q22368#P26"
+     }
+    }
+   ]
+  },
+  {
    "a": "Q2357659",
    "b": "Q8995734",
    "type": "spouse",
@@ -38659,6 +39438,94 @@
    ]
   },
   {
+   "a": "Q315528",
+   "b": "Q121814324",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李憲文 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q121814324#P22"
+    },
+    {
+     "title": "Wikidata：李登辉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q315528",
+   "b": "Q121814337",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李安娜 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q121814337#P22"
+    },
+    {
+     "title": "Wikidata：李登辉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q315528",
+   "b": "Q8264155",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：李登辉 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P26"
+    },
+    {
+     "title": "Wikidata：曾文惠 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8264155#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1949",
+     "src": {
+      "title": "Wikidata：李登辉 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q315528#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2020-07-30",
+     "src": {
+      "title": "Wikidata：李登辉 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q315528#P26"
+     }
+    }
+   ],
+   "to": "2020-07-30",
+   "status": "past"
+  },
+  {
+   "a": "Q315528",
+   "b": "Q8981918",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李登辉 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q315528#P40"
+    },
+    {
+     "title": "Wikidata：李安妮 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q8981918#P22"
+    }
+   ]
+  },
+  {
    "a": "Q3307106",
    "b": "Q380579",
    "type": "kin",
@@ -39559,6 +40426,23 @@
     {
      "title": "Wikidata：孙中山 · 兄弟姐妹（P3373）",
      "url": "https://www.wikidata.org/wiki/Q8573#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q4193768",
+   "b": "Q47667",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：胡传 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q4193768#P40"
+    },
+    {
+     "title": "Wikidata：胡适 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q47667#P22"
     }
    ]
   },
@@ -50709,6 +51593,60 @@
    ]
   },
   {
+   "a": "Q450317",
+   "b": "Q59822263",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：吴健雄 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q450317#P40"
+    },
+    {
+     "title": "Wikidata：Vincent Yuan · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q59822263#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q450317",
+   "b": "Q6701881",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：吴健雄 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q450317#P26"
+    },
+    {
+     "title": "Wikidata：袁家骝 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q6701881#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1942",
+     "src": {
+      "title": "Wikidata：吴健雄 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q450317#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1997-02-16",
+     "src": {
+      "title": "Wikidata：吴健雄 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q450317#P26"
+     }
+    }
+   ],
+   "to": "1997-02-16",
+   "status": "past"
+  },
+  {
    "a": "Q45417800",
    "b": "Q855999",
    "type": "kin",
@@ -50953,6 +51891,23 @@
    ]
   },
   {
+   "a": "Q47667",
+   "b": "Q56271321",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：胡适 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q47667#P40"
+    },
+    {
+     "title": "Wikidata：胡思杜 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q56271321#P22"
+    }
+   ]
+  },
+  {
    "a": "Q5067754",
    "b": "Q711427",
    "type": "spouse",
@@ -51037,6 +51992,39 @@
      "url": "https://www.wikidata.org/wiki/Q8026049#P25"
     }
    ]
+  },
+  {
+   "a": "Q5072726",
+   "b": "Q6311263",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：陈幸妤 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q6311263#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2001-09-27",
+     "src": {
+      "title": "Wikidata：陈幸妤 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q6311263#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2025",
+     "src": {
+      "title": "Wikidata：陈幸妤 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q6311263#P26"
+     }
+    }
+   ],
+   "to": "2025",
+   "status": "past"
   },
   {
    "a": "Q5090737",
@@ -51588,6 +52576,19 @@
    "status": "past"
   },
   {
+   "a": "Q59822263",
+   "b": "Q114239458",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：Vincent Yuan · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q59822263#P40"
+    }
+   ]
+  },
+  {
    "a": "Q6121440",
    "b": "Q7312687",
    "type": "spouse",
@@ -51703,6 +52704,46 @@
     {
      "title": "Wikidata：朱元璋 · 父亲（P22）",
      "url": "https://www.wikidata.org/wiki/Q9957#P22"
+    }
+   ]
+  },
+  {
+   "a": "Q6311201",
+   "b": "Q6311263",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：陈致中 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6311201#P3373"
+    },
+    {
+     "title": "Wikidata：陈幸妤 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q6311263#P3373"
+    }
+   ]
+  },
+  {
+   "a": "Q6311201",
+   "b": "Q8968242",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：陈致中 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q6311201#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "2005",
+     "src": {
+      "title": "Wikidata：陈致中 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q6311201#P26"
+     }
     }
    ]
   },
@@ -51838,6 +52879,23 @@
    ]
   },
   {
+   "a": "Q6701881",
+   "b": "Q59822263",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：Vincent Yuan · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q59822263#P22"
+    },
+    {
+     "title": "Wikidata：袁家骝 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q6701881#P40"
+    }
+   ]
+  },
+  {
    "a": "Q67444172",
    "b": "Q1152149",
    "type": "kin",
@@ -51847,6 +52905,40 @@
     {
      "title": "Wikidata：长孙皇后 · 母亲（P25）",
      "url": "https://www.wikidata.org/wiki/Q1152149#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q698512",
+   "b": "Q6311201",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：陈致中 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q6311201#P25"
+    },
+    {
+     "title": "Wikidata：吴淑珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q698512#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q698512",
+   "b": "Q6311263",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：陈幸妤 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q6311263#P25"
+    },
+    {
+     "title": "Wikidata：吴淑珍 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q698512#P40"
     }
    ]
   },
@@ -54075,6 +55167,57 @@
     {
      "title": "Wikidata：唐太宗 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q9701#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q8264155",
+   "b": "Q121814324",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "儿子",
+   "src": [
+    {
+     "title": "Wikidata：李憲文 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q121814324#P25"
+    },
+    {
+     "title": "Wikidata：曾文惠 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8264155#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q8264155",
+   "b": "Q121814337",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：李安娜 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q121814337#P25"
+    },
+    {
+     "title": "Wikidata：曾文惠 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8264155#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q8264155",
+   "b": "Q8981918",
+   "type": "kin",
+   "aIs": "母亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：曾文惠 · 子女（P40）",
+     "url": "https://www.wikidata.org/wiki/Q8264155#P40"
+    },
+    {
+     "title": "Wikidata：李安妮 · 母亲（P25）",
+     "url": "https://www.wikidata.org/wiki/Q8981918#P25"
     }
    ]
   },
