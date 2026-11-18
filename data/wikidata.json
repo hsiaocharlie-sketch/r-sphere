@@ -17,7 +17,11 @@
    "Q17135",
    "Q557551",
    "Q71874",
-   "Q70986"
+   "Q70986",
+   "Q2357659",
+   "Q698735",
+   "Q16781",
+   "Q311179"
   ],
   "depth": 2,
   "src": {
@@ -249,6 +253,20 @@
    "note": "香港演员及歌手"
   },
   {
+   "id": "Q16781",
+   "name": "张学友",
+   "wikidata": "Q16781",
+   "alias": [
+    "Jacky Cheung",
+    "張學友",
+    "Zhang Xueyou",
+    "Jacky Cheung Hok Yau",
+    "Cheung Hok-yau",
+    "Jacky Cheung Hok-yau"
+   ],
+   "note": "歌手、演员"
+  },
+  {
    "id": "Q17132",
    "name": "宋庆龄",
    "wikidata": "Q17132",
@@ -381,6 +399,22 @@
    "note": "蒋经国之妻"
   },
   {
+   "id": "Q311179",
+   "name": "周星驰",
+   "wikidata": "Q311179",
+   "alias": [
+    "周星馳",
+    "Stephen Chow",
+    "周星祖",
+    "星爺",
+    "Stephen Chow Sing Chi",
+    "Chow Sing Chi",
+    "Zhou Xingchi",
+    "Stephen Chiau"
+   ],
+   "note": "香港男演员、导演"
+  },
+  {
    "id": "Q313596",
    "name": "张国荣",
    "wikidata": "Q313596",
@@ -490,6 +524,15 @@
     "Kung Hsiang-hsi"
    ],
    "note": "中华民国政治人物"
+  },
+  {
+   "id": "Q698735",
+   "name": "蔡琴",
+   "wikidata": "Q698735",
+   "alias": [
+    "Tsai Chin"
+   ],
+   "note": "台灣歌手"
   },
   {
    "id": "Q699378",
@@ -740,6 +783,16 @@
    "note": "香港歌手及演員"
   },
   {
+   "id": "Q716027",
+   "name": "莫文蔚",
+   "wikidata": "Q716027",
+   "alias": [
+    "Karen Mok",
+    "Karen Joy Morris"
+   ],
+   "note": "香港女演員、歌手、設計師"
+  },
+  {
    "id": "Q716051",
    "name": "宋子文",
    "wikidata": "Q716051",
@@ -752,6 +805,16 @@
     "Soong Tse-vung"
    ],
    "note": "中華民國政治人物"
+  },
+  {
+   "id": "Q716700",
+   "name": "杨德昌",
+   "wikidata": "Q716700",
+   "alias": [
+    "楊德昌",
+    "Edward Yang"
+   ],
+   "note": "台湾电影导演、编剧"
   },
   {
    "id": "Q717397",
@@ -828,6 +891,22 @@
     "Yang Gao"
    ],
    "note": "Chinese prince (607-618)"
+  },
+  {
+   "id": "Q996607",
+   "name": "冯德伦",
+   "wikidata": "Q996607",
+   "alias": [
+    "馮德倫",
+    "Stephen Fung",
+    "冯进财",
+    "馮進財",
+    "Stephen Fung Tak Lun",
+    "Fung Tak Lun",
+    "Fung Tak-lun",
+    "Fung Chun-choi"
+   ],
+   "note": "香港演员、导演、歌手"
   },
   {
    "id": "Q1044371",
@@ -966,6 +1045,20 @@
     "Tse Yin"
    ],
    "note": "香港男演员（1936-2026）"
+  },
+  {
+   "id": "Q2357659",
+   "name": "罗大佑",
+   "wikidata": "Q2357659",
+   "alias": [
+    "羅大佑",
+    "Lo Ta-yu",
+    "Lo Tayou",
+    "Ta-yu Lo",
+    "Luo Da-You",
+    "Luo Dayou"
+   ],
+   "note": "台湾歌手"
   },
   {
    "id": "Q2782947",
@@ -1750,6 +1843,20 @@
    "note": "蒋经国之子"
   },
   {
+   "id": "Q5353614",
+   "name": "罗美薇",
+   "wikidata": "Q5353614",
+   "alias": [
+    "羅美薇",
+    "May Lo",
+    "張羅美薇",
+    "Luo Meiwei",
+    "May Lo Mei Mei",
+    "May Lo Mei Wei"
+   ],
+   "note": "香港女演员"
+  },
+  {
    "id": "Q5371883",
    "name": "蒋孝严",
    "wikidata": "Q5371883",
@@ -2405,6 +2512,18 @@
    "note": "台湾设计师"
   },
   {
+   "id": "Q8995734",
+   "name": "李烈",
+   "wikidata": "Q8995734",
+   "alias": [
+    "Lee Lieh",
+    "Li Lie",
+    "Lie Li",
+    "Lieh Lee"
+   ],
+   "note": "台湾女演员"
+  },
+  {
    "id": "Q8999015",
    "name": "梁再冰",
    "wikidata": "Q8999015",
@@ -2511,6 +2630,16 @@
     "Wang Xiaotun"
    ],
    "note": "李敖之妻"
+  },
+  {
+   "id": "Q9333315",
+   "name": "莫天賜",
+   "wikidata": "Q9333315",
+   "alias": [
+    "Alan Morris",
+    "莫天赐"
+   ],
+   "note": "香港作家"
   },
   {
    "id": "Q9337279",
@@ -4756,6 +4885,15 @@
    "wikidata": "Q19854647"
   },
   {
+   "id": "Q20828335",
+   "name": "于镜波",
+   "wikidata": "Q20828335",
+   "alias": [
+    "Yu Ching-Po"
+   ],
+   "note": "Hong Kong businessman"
+  },
+  {
    "id": "Q22100096",
    "name": "孙娫",
    "wikidata": "Q22100096",
@@ -6522,6 +6660,24 @@
    "note": "孙中山的母亲"
   },
   {
+   "id": "Q96475323",
+   "name": "于文凤",
+   "wikidata": "Q96475323",
+   "alias": [
+    "Yu Wenfeng"
+   ]
+  },
+  {
+   "id": "Q96480094",
+   "name": "廖堯城",
+   "wikidata": "Q96480094",
+   "alias": [
+    "Liu Hiu-sing",
+    "廖駿倫",
+    "廖骏伦"
+   ]
+  },
+  {
    "id": "Q97352352",
    "name": "唐鶴德",
    "wikidata": "Q97352352",
@@ -6570,6 +6726,16 @@
    ]
   },
   {
+   "id": "Q113508195",
+   "name": "彭鎧立",
+   "wikidata": "Q113508195",
+   "alias": [
+    "Kaili Peng",
+    "Kai-Li Peng",
+    "Péng Kǎilì"
+   ]
+  },
+  {
    "id": "Q124655546",
    "name": "王佑林",
    "wikidata": "Q124655546",
@@ -6605,6 +6771,15 @@
     "Wang Yuxiang"
    ],
    "note": "王菲祖母"
+  },
+  {
+   "id": "Q131225947",
+   "name": "莫理斯",
+   "wikidata": "Q131225947",
+   "alias": [
+    "Trevor Morris"
+   ],
+   "note": "香港小說家"
   },
   {
    "id": "Q132153583",
@@ -33683,6 +33858,31 @@
    ]
   },
   {
+   "a": "Q113508195",
+   "b": "Q716700",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：杨德昌 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q716700#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "关系结束",
+     "date": "2007-06-29",
+     "src": {
+      "title": "Wikidata：杨德昌 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q716700#P26"
+     }
+    }
+   ],
+   "to": "2007-06-29",
+   "status": "past"
+  },
+  {
    "a": "Q1135688",
    "b": "Q9965",
    "type": "spouse",
@@ -34807,6 +35007,19 @@
     {
      "title": "Wikidata：王佑林 · 母亲（P25）",
      "url": "https://www.wikidata.org/wiki/Q124655546#P25"
+    }
+   ]
+  },
+  {
+   "a": "Q131225947",
+   "b": "Q716027",
+   "type": "kin",
+   "aIs": "兄弟",
+   "bIs": "姐妹",
+   "src": [
+    {
+     "title": "Wikidata：莫文蔚 · 兄弟姐妹（P3373）",
+     "url": "https://www.wikidata.org/wiki/Q716027#P3373"
     }
    ]
   },
@@ -36863,6 +37076,33 @@
    ]
   },
   {
+   "a": "Q16781",
+   "b": "Q5353614",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：张学友 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q16781#P26"
+    },
+    {
+     "title": "Wikidata：罗美薇 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q5353614#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1996",
+     "src": {
+      "title": "Wikidata：张学友 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q16781#P26"
+     }
+    }
+   ]
+  },
+  {
    "a": "Q16926393",
    "b": "Q16926396",
    "type": "kin",
@@ -37347,6 +37587,19 @@
    ]
   },
   {
+   "a": "Q20828335",
+   "b": "Q96475323",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：于文凤 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q96475323#P22"
+    }
+   ]
+  },
+  {
    "a": "Q2146157",
    "b": "Q380579",
    "type": "kin",
@@ -37375,6 +37628,43 @@
      "url": "https://www.wikidata.org/wiki/Q78502330#P3373"
     }
    ]
+  },
+  {
+   "a": "Q2357659",
+   "b": "Q8995734",
+   "type": "spouse",
+   "aIs": "丈夫",
+   "bIs": "妻子",
+   "src": [
+    {
+     "title": "Wikidata：罗大佑 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q2357659#P26"
+    },
+    {
+     "title": "Wikidata：李烈 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q8995734#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1999",
+     "src": {
+      "title": "Wikidata：罗大佑 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q2357659#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2001",
+     "src": {
+      "title": "Wikidata：罗大佑 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q2357659#P26"
+     }
+    }
+   ],
+   "to": "2001",
+   "status": "past"
   },
   {
    "a": "Q24839066",
@@ -38171,6 +38461,66 @@
      "url": "https://www.wikidata.org/wiki/Q9965#P26"
     }
    ]
+  },
+  {
+   "a": "Q311179",
+   "b": "Q716027",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：周星驰 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q311179#P451"
+    },
+    {
+     "title": "Wikidata：莫文蔚 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q716027#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "关系结束",
+     "date": "1998",
+     "src": {
+      "title": "Wikidata：莫文蔚 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q716027#P451"
+     }
+    }
+   ]
+  },
+  {
+   "a": "Q311179",
+   "b": "Q96475323",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：周星驰 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q311179#P451"
+    }
+   ],
+   "events": [
+    {
+     "label": "伴侣关系开始",
+     "date": "1999",
+     "src": {
+      "title": "Wikidata：周星驰 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q311179#P451"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "2010",
+     "src": {
+      "title": "Wikidata：周星驰 · 伴侣（P451）",
+      "url": "https://www.wikidata.org/wiki/Q311179#P451"
+     }
+    }
+   ],
+   "to": "2010",
+   "status": "past"
   },
   {
    "a": "Q313596",
@@ -51501,6 +51851,43 @@
    ]
   },
   {
+   "a": "Q698735",
+   "b": "Q716700",
+   "type": "spouse",
+   "aIs": "妻子",
+   "bIs": "丈夫",
+   "src": [
+    {
+     "title": "Wikidata：蔡琴 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q698735#P26"
+    },
+    {
+     "title": "Wikidata：杨德昌 · 配偶（P26）",
+     "url": "https://www.wikidata.org/wiki/Q716700#P26"
+    }
+   ],
+   "events": [
+    {
+     "label": "结婚",
+     "date": "1985-05",
+     "src": {
+      "title": "Wikidata：蔡琴 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q698735#P26"
+     }
+    },
+    {
+     "label": "关系结束",
+     "date": "1995-08-05",
+     "src": {
+      "title": "Wikidata：蔡琴 · 配偶（P26）",
+      "url": "https://www.wikidata.org/wiki/Q698735#P26"
+     }
+    }
+   ],
+   "to": "1995-08-05",
+   "status": "past"
+  },
+  {
    "a": "Q699639",
    "b": "Q65802743",
    "type": "kin",
@@ -52336,6 +52723,19 @@
     {
      "title": "Wikidata：唐高宗 · 配偶（P26）",
      "url": "https://www.wikidata.org/wiki/Q9703#P26"
+    }
+   ]
+  },
+  {
+   "a": "Q716027",
+   "b": "Q996607",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：莫文蔚 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q716027#P451"
     }
    ]
   },
@@ -53936,6 +54336,19 @@
    ]
   },
   {
+   "a": "Q9333315",
+   "b": "Q716027",
+   "type": "kin",
+   "aIs": "父亲",
+   "bIs": "女儿",
+   "src": [
+    {
+     "title": "Wikidata：莫文蔚 · 父亲（P22）",
+     "url": "https://www.wikidata.org/wiki/Q716027#P22"
+    }
+   ]
+  },
+  {
    "a": "Q95476008",
    "b": "Q4164342",
    "type": "kin",
@@ -53966,6 +54379,19 @@
     {
      "title": "Wikidata：杨氏 · 子女（P40）",
      "url": "https://www.wikidata.org/wiki/Q95476008#P40"
+    }
+   ]
+  },
+  {
+   "a": "Q96475323",
+   "b": "Q96480094",
+   "type": "love",
+   "aIs": "伴侣",
+   "bIs": "伴侣",
+   "src": [
+    {
+     "title": "Wikidata：于文凤 · 伴侣（P451）",
+     "url": "https://www.wikidata.org/wiki/Q96475323#P451"
     }
    ]
   },
