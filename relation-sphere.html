@@ -107,6 +107,12 @@ const TYPES = {
 const hex = t => 'rgb(' + TYPES[t].rgb + ')';
 const FONT = '-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif';
 
+/* ───────── 繁简 ───────── */
+// 繁体 → 简体（常见于人名的字，不求完整）。Wikidata 里很多人物是繁体名，用简体搜索时靠它对上。
+const T2S = (() => { const m = new Map(), p = '劉刘張张陳陈楊杨趙赵錢钱孫孙鄭郑馮冯蔣蒋衛卫韓韩許许呂吕嚴严華华謝谢鄒邹竇窦蘇苏範范魯鲁韋韦鄧邓鮑鲍費费賀贺湯汤羅罗畢毕鄔邬樂乐於于時时齊齐餘余顧顾黃黄蕭萧貝贝計计談谈龐庞紀纪項项藍蓝閔闵強强賈贾婁娄顏颜鍾钟駱骆萬万盧卢經经繆缪幹干應应賁贲單单諸诸鈕钮龔龚陸陆榮荣麴曲儲储烏乌車车厲厉葉叶薊蓟懷怀從从賴赖藺蔺喬乔陰阴鬱郁蒼苍雙双聞闻黨党譚谭貢贡勞劳酈郦卻却邊边農农溫温別别莊庄閻阎連连習习魚鱼終终滿满廣广祿禄闕阙東东歐欧師师鞏巩聶聂簡简饒饶養养須须豐丰關关後后荊荆紅红權权蓋盖偉伟麗丽靜静傑杰軍军輝辉鵬鹏雲云飛飞豔艳濤涛蘭兰鳳凤慶庆國国愛爱學学賢贤臺台灣湾歷历曆历書书畫画臨临紹绍興兴義义禮礼聖圣鑒鉴昇升勝胜勵励鷹鹰鸞鸾鶴鹤龜龟鳴鸣龍龙馬马風风體体號号觀观長长門门開开間间問问閱阅閣阁隊队陽阳陝陕隨随隱隐難难雜杂靈灵電电領领頭头願愿顯显飲饮飯饭館馆駐驻驗验騎骑騰腾驚惊驕骄髮发鬥斗鳥鸟鹽盐麥麦麵面點点齡龄與与專专業业絲丝兩两個个們们倫伦偽伪傳传傷伤傾倾價价儀仪儘尽優优償偿兒儿兇凶內内凍冻凱凯劃划劇剧劍剑劑剂動动務务協协賣卖厭厌參参發发變变敘叙嘆叹響响團团園园圍围圖图場场塊块塗涂墳坟墮堕壓压壯壮壽寿夢梦夾夹奪夺奮奋婦妇媽妈嫵妩嬌娇寧宁寶宝實实審审寫写對对導导屆届屬属岡冈島岛崙仑嶺岭嶽岳巖岩帶带帥帅幣币幫帮廳厅廬庐彌弥彎弯當当錄录彥彦復复徵征憂忧懸悬戰战戲戏戶户擔担據据擇择擊击擁拥擴扩擾扰攝摄數数斷断晉晋暉晖暫暂會会條条極极構构槍枪樓楼標标樣样橋桥機机檢检歡欢歲岁殘残殺杀殼壳毀毁氣气決决況况淺浅淨净渦涡湧涌滅灭滬沪漢汉潔洁澤泽濟济濱滨瀋沈為为無无煙烟熱热爭争爾尔牆墙狀状猶犹獄狱獎奖獨独獲获獸兽現现環环瑪玛瑤瑶璽玺甌瓯產产畝亩異异癥症皚皑盤盘監监眾众稱称種种穩稳窮穷競竞筆笔節节築筑簽签籌筹籤签糧粮約约紋纹純纯紙纸級级紛纷紡纺細细紳绅組组結结絕绝絡络給给統统綜综維维綱纲網网綠绿緒绪線线緣缘編编縣县縱纵總总績绩織织繼继續续罷罢聯联聰聪職职肅肃脅胁腦脑膽胆臟脏舉举舊旧艦舰藝艺薩萨藥药虛虚蘋苹處处蠻蛮補补裝装親亲訂订訊讯討讨訓训託托記记設设訪访訴诉診诊註注評评詞词詩诗話话該该詳详誅诛語语誠诚說说誰谁課课誼谊調调請请諾诺謀谋謂谓謠谣證证識识譯译議议護护讀读讚赞貓猫負负財财貧贫貨货販贩責责貴贵買买資资賓宾賜赐賞赏賽赛贈赠趨趋跡迹躍跃軟软軸轴較较載载輔辅輕轻輩辈輪轮轉转辦办辭辞運运過过達达遞递遠远適适遷迁選选遺遗郵邮鄉乡醫医釋释針针鈔钞鋼钢錦锦鍵键鐵铁鑑鉴鑼锣閉闭閒闲闊阔闖闯陣阵階阶險险雖虽頁页順顺預预頓顿頒颁頗颇題题額额類类颱台飄飘餅饼馳驰駕驾驅驱骯肮髒脏鬆松鬧闹鮮鲜鵝鹅鷗鸥鹹咸麼么齋斋齒齿詠咏蓮莲譽誉瀾澜騫骞驊骅錚铮鋒锋鈞钧銘铭勳勋悅悦愷恺憲宪曉晓棟栋楓枫檸柠櫻樱瑋玮禎祯穎颖絢绚綺绮緯纬繡绣翹翘詮诠誌志軒轩邁迈錫锡鎮镇閎闳韻韵頤颐驍骁鷺鹭璿璇啟启來来這这還还裡里裏里認认見见覺觉讓让鴻鸿瑩莹鑾銮鐸铎鏡镜鑄铸錯错鋪铺鎖锁鐘钟銀银銅铜鉅巨鑽钻隸隶雞鸡雛雏離离霧雾韜韬韌韧頸颈顆颗顫颤顰颦颯飒颳刮馭驭騙骗鬚须鯨鲸鰲鳌鶯莺黿鼋'; for (let i = 0; i + 1 < p.length; i += 2) m.set(p[i], p[i+1]); return m; })();
+const simp = str => { let o = ''; for (const c of String(str == null ? '' : str)) o += T2S.get(c) || c; return o; };
+const normName = str => simp(str).trim().toLowerCase();
+
 const people = new Map();
 const adj = new Map();
 // 合并多个数据文件：
@@ -119,7 +125,10 @@ function ingest(docs) {
   const remaps = docs.map(() => new Map());
   const origin = new Map();   // 人物 id -> 出现在哪些数据文件里
   docs.forEach((doc, di) => {
-    for (const p of (doc.people || [])) {
+    const machine = !!(doc.meta && doc.meta.generated_by);   // 自动采集的文件：名字转成简体显示，原写法留作别名
+    for (const p0 of (doc.people || [])) {
+      let p = p0;
+      if (machine && p0.name && simp(p0.name) !== p0.name) p = Object.assign({}, p0, {name: simp(p0.name), alias: [...new Set([p0.name, ...(p0.alias || [])])]});
       let id = p.id;
       if (p.wikidata) { if (wdIndex.has(p.wikidata)) id = wdIndex.get(p.wikidata); else wdIndex.set(p.wikidata, p.id); }
       if (id !== p.id) remaps[di].set(p.id, id);
@@ -137,7 +146,7 @@ function ingest(docs) {
   // 这里再合并一轮：名字（或别名）相同、分属不同数据文件、并且有至少一个共同关系人，就当作同一个人。
   const into = new Map();
   const fin = id => { while (into.has(id)) id = into.get(id); return id; };
-  const keysOf = p => [p.name, ...(p.alias || [])].filter(Boolean).map(x => String(x).trim().toLowerCase());
+  const keysOf = p => [p.name, ...(p.alias || [])].filter(Boolean).map(normName);
   const order = new Map([...people.keys()].map((k, i) => [k, i]));
   // 在 seeds.json 里主动添加的人（采集文件 meta.seeds）：只要手写数据里恰好有一个同名、没填 wikidata 的人，就直接认作同一个人，
   // 不要求有共同关系人（手写数据里的“非亲属关系”不会出现在 Wikidata 里，所以常常没有共同关系人）
@@ -684,12 +693,12 @@ elFB.onclick = () => { elF.hidden = !elF.hidden; buildFilter(); requestAnimation
 
 const qEl = document.getElementById('q'), resEl = document.getElementById('res');
 function showResults() {
-  const q = qEl.value.trim().toLowerCase();
+  const q = normName(qEl.value);
   resEl.innerHTML = '';
   if (!q) { resEl.hidden = true; return; }
   const hits = [];
   for (const p of people.values()) {
-    const names = [p.name, ...(p.alias || [])].map(s => s.toLowerCase());
+    const names = [p.name, ...(p.alias || [])].map(normName);
     const i = names.findIndex(s => s.includes(q));
     if (i >= 0) hits.push({p, score: (names[i].startsWith(q) ? 0 : 1) + (i ? 0.5 : 0)});
   }
