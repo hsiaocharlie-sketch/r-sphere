@@ -25,7 +25,8 @@
    "Q47667",
    "Q450317",
    "Q315528",
-   "Q22368"
+   "Q22368",
+   "Q8966024"
   ],
   "depth": 2,
   "src": {
@@ -2643,6 +2644,15 @@
     "Hu Yinmeng"
    ],
    "note": "台湾电影演员"
+  },
+  {
+   "id": "Q8966024",
+   "name": "馮定國",
+   "wikidata": "Q8966024",
+   "alias": [
+    "Feng Ting-kuo"
+   ],
+   "note": "Taiwanese politician"
   },
   {
    "id": "Q8968242",
