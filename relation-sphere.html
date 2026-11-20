@@ -742,19 +742,7 @@ function srcLine(list) {
   });
   return d;
 }
-function openPop(e) {
-  const rel = e.rel || {}, A = people.get(e.a), B = people.get(e.b);
-  if (!A || !B) return;
-  selEdge = e; elPop.innerHTML = '';
-  const box = h('div', 'box'), hd = h('div', 'hd');
-  // 标题里写明各自的具体称谓，如“刘礼（父亲） ⇄ 刘德华（儿子）”；括号里是这个人相对另一方是什么
-  const same = rel.a === e.a, rA = same ? rel.aIs : rel.bIs, rB = same ? rel.bIs : rel.aIs;
-  hd.appendChild(h('div', 'ttl', A.name + (rA ? '（' + rA + '）' : '') + ' ⇄ ' + B.name + (rB ? '（' + rB + '）' : '')));
-  const tag = h('span', 'tag', TYPES[e.type].name); tag.style.color = hex(e.type); hd.appendChild(tag);
-  const SM = {past: '已结束', rumor: '传闻 · 未经证实', denied: '传闻 · 当事人否认'};
-  if (SM[rel.status]) { const t2 = h('span', 'tag', SM[rel.status]); t2.style.color = '#e0a458'; hd.appendChild(t2); }
-  const x = h('button', 'x', '×'); x.onclick = closePop; hd.appendChild(x);
-  box.appendChild(hd);
+function relBody(box, rel) {
   const evs = Array.isArray(rel.events) ? rel.events : [];
   if (!evs.length && (rel.from || rel.to)) {   // 有事件时时间已在事件里，不重复
     const t = rel.from && rel.to ? fmtDate(rel.from) + ' — ' + fmtDate(rel.to) : rel.from ? '自 ' + fmtDate(rel.from) : '至 ' + fmtDate(rel.to);
@@ -775,6 +763,31 @@ function openPop(e) {
   const rs = normSrc(rel.src);
   if (rs.length) box.appendChild(srcLine(rs));
   if (!evs.length && !rs.length && !(rel.from || rel.to)) box.appendChild(h('div', 'empty', '暂无详细信息。日期、地点、事件可补充在数据里，每条信息都要附上来源。'));
+}
+function openPop(e) {
+  const rel = e.rel || {}, A = people.get(e.a), B = people.get(e.b);
+  if (!A || !B) return;
+  selEdge = e; elPop.innerHTML = '';
+  const box = h('div', 'box'), hd = h('div', 'hd');
+  // 标题里写明各自的具体称谓，如“刘礼（父亲） ⇄ 刘德华（儿子）”；括号里是这个人相对另一方是什么
+  const same = rel.a === e.a, rA = same ? rel.aIs : rel.bIs, rB = same ? rel.bIs : rel.aIs;
+  hd.appendChild(h('div', 'ttl', A.name + (rA ? '（' + rA + '）' : '') + ' ⇄ ' + B.name + (rB ? '（' + rB + '）' : '')));
+  const tag = h('span', 'tag', TYPES[e.type].name); tag.style.color = hex(e.type); hd.appendChild(tag);
+  const SM = {past: '已结束', rumor: '传闻 · 未经证实', denied: '传闻 · 当事人否认'};
+  if (SM[rel.status]) { const t2 = h('span', 'tag', SM[rel.status]); t2.style.color = '#e0a458'; hd.appendChild(t2); }
+  const x = h('button', 'x', '×'); x.onclick = closePop; hd.appendChild(x);
+  box.appendChild(hd);
+  relBody(box, rel);
+  // 同一对人的其他关系（如宝玉与黛玉：既是表兄妹，又是恋人）：连线只画一条，弹窗里全部列出
+  const others = (adj.get(e.a) || []).filter(x => x.id === e.b && x.rel !== rel && activeTypes.has(x.type));
+  others.forEach(x => {
+    const r2 = x.rel, same2 = r2.a === e.a;
+    const rA2 = same2 ? r2.aIs : r2.bIs, rB2 = same2 ? r2.bIs : r2.aIs;
+    const t = h('div', 'sec', '同时也是 · ' + TYPES[x.type].name + (rA2 || rB2 ? '：' + A.name + (rA2 ? '（' + rA2 + '）' : '') + ' ⇄ ' + B.name + (rB2 ? '（' + rB2 + '）' : '') : ''));
+    t.style.color = hex(x.type); box.appendChild(t);
+    if (r2.status === 'rumor' || r2.status === 'denied') box.appendChild(h('div', 'ln', SM[r2.status]));
+    relBody(box, r2);
+  });
   elPop.appendChild(box); elPop.hidden = false;
   needsDraw = true; requestAnimationFrame(() => resize(false));
 }
